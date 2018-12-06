@@ -1,6 +1,12 @@
 **Table of Contents**
 
-[TOC]
+- [December 2018](#december-2018)
+    + [12/05/2018](#12-05-2018)
+      - [Topics discussed](#topics-discussed)
+      - [Things to Do](#things-to-do)
+      - [Plans for next meeting.](#plans-for-next-meeting)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
