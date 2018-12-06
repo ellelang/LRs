@@ -23,3 +23,9 @@
 
   adjective (sassier, sassiest) informal, chiefly N. Amer. lively, bold, and full of spirit; cheeky
 
+- iffy
+
+​        Doubtful; uncertain
+
+​        e.g. the results are iffy
+
