@@ -33,22 +33,19 @@
 
 
 $$
-  U(vp) = \alpha_0 + \alpha_1X + \alpha_2pay \\
+U(vp) = \alpha_0 + \alpha_1X + \alpha_2pay \\
   
   U(current) = 0 \\
   
   U(vp) = U(current) \Rightarrow \\
+  \alpha_0 + \alpha_1X + \alpha_2pay = 0 \Rightarrow \\
   pay = \frac{-(\alpha_0 + \alpha_1X)}{\alpha_2}
 $$
 
 
 
 
-  4) The effects from individual characteristics are all going to the numerator. So add the coefficients into the coefficients of wetlands, as the mean of the exponential distribution for wetlands. 
-
-
-
-
+  4) The effects from individual characteristics are all going to the numerator. 
 
 - The "Standard  Error", "95% CI" for the estimated coefficients itself, same as the variance-covariance matrix. So theoretically, from  Multivariate normal distribution, we should be able to do the simulation for all estimated coefficients.  --> the uncertainty from the sample :smiling_imp:
 - By drawing the coefficients for each individual, we are catching the heterogeneity in the sample.  :alien:(should make a decision between the two.)
@@ -114,7 +111,21 @@ $$
 
   - Note the coefficients of Wetland and Payment are "random distributions"
 
+  - The expected WTA of wetland for land owner i at county j 
+    $$
+    E(WTA_{ij})_{wetland} = E[\frac{\beta_{asc}\cdot 1 + \beta_{wetland}\cdot \text{RandomDraws} + \beta_{cc}\cdot 0 + \beta_{nm}\cdot 0 + \beta_{dem18}\cdot dem18_j + \beta_{tax} \cdot tax_j + \sum^6_{k=1}\beta_{income} \cdot income_{ij} + \sum^4_{k=1}\beta_{area} \cdot areaf_{i}}{\beta_{pay}\cdot \text{RandomDraws}}]\\
+    
+     
+    \text{The random draws are from exponential distribution based on the assumptions about the random parameters}\\ \beta_{wetland}, \beta_{pay},\beta_{cc},\beta_{nm} \sim rexp(n, rate = 1)
+    $$
+    How to apply the WTA got from survey sample to the candidate sites of WCMO?
+
+    - farm size can be got from the cluster area information in  .shapefile
+    - farm income: can use the average income of specific farm size as an indicator (see the size/income table  <https://finbin.umn.edu/FmSummOpts/Index>)
+
 ##### Things To Do
+
+- 
 
 ##### Plans for next meeting
 

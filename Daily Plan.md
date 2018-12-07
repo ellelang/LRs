@@ -38,5 +38,16 @@ Thursday Sunny
   - WTP/WTA CI estimation
   - **Swimming workout** (leave home early and go to the IMA )
   - Write the documentation about WTA estimation
+
     - write up skeleton of the document 
-  - 
+
+
+### 12/08/2017
+
+Friday, sunny
+
+- To Do
+
+  - Recode the cover crop data
+  - Entering the new respondent info
+  - Read the paper Sergey mentioned  yesterday
