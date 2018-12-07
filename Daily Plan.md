@@ -21,4 +21,22 @@ Wednesday, Sunny
 
 - Review List 
 
-​      
+  - Commit the changes before leaving the office 
+
+  - Git pull the daily documents to the laptop and start the review, and night routine.
+
+  - meal prep for next day breakfast and lunch --> make smoothie/boiled eggs / coffee powder at night
+
+
+
+
+### 12/07/2018
+
+Thursday Sunny
+
+- To Do
+  - WTP/WTA CI estimation
+  - **Swimming workout** (leave home early and go to the IMA )
+  - Write the documentation about WTA estimation
+    - write up skeleton of the document 
+  - 

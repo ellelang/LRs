@@ -122,5 +122,39 @@
 
 
 
+### 12/06/2018
 
 
+
+There are three sources of randomness or variation in a willingness to pay measure: 
+
+- randomness of preferences, 
+- randomness of estimated parameters and 
+- variation across individuals in the sample.
+
+Methods to build WTP CI
+
+- Approximation 
+
+  - Delta Method : produces symmetric CIs around WTP point estimates.  
+
+- Bootstrap (simulation): Bootstrap methods use the simulated distribution of parameter estimates in place of their analytical one. These methods are computationally intensive and affected by Monte Carlo error
+
+  -   Different sampling strategies, either parametric or non-parametric, can be used to produce a bootstrap sample and, thus, a simulated WTP distribution
+
+
+
+- Non-parametric resampling: 
+
+  a). 1.  resample the observations w with replacement to generate a new sample; let this sample  have the same number of observations as the original one;
+
+  b). fit the logit model to the bootstrap sample to obtain $\hat{\beta^*_b} and \hat{WTP^*}$
+$$
+\hat{\beta^*_b} = (\hat{X}'\hat{X})^{-1}\hat{X}\hat{Y}
+$$
+
+- Krinsky and Robb resampling 
+
+​                      a). draw a vector \hat{\beta^*_b} 
+
+​                      b) Use the vector  \hat{\beta^*_b}  to calculate \hat{WTP^*}

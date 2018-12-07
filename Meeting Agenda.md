@@ -99,3 +99,22 @@ $$
 - Simulation of WTA in R
 - Uncertainty of WTA (discuss about the literature)
 - EA epistasis 
+
+
+
+#### 12/06/2018
+
+##### Topics discussed
+
+- Simulate WTA
+
+  ```
+  wta_largefarm_repubs <- -(-1.32104 - 0.0006*483 - 1.75395 * rexp(10000,1))/(0.00758*rexp(10000,1))
+  ```
+
+  - Note the coefficients of Wetland and Payment are "random distributions"
+
+##### Things To Do
+
+##### Plans for next meeting
+
