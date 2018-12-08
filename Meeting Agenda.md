@@ -1,12 +1,8 @@
 **Table of Contents**
 
-- [December 2018](#december-2018)
-    + [12/05/2018](#12-05-2018)
-      - [Topics discussed](#topics-discussed)
-      - [Things to Do](#things-to-do)
-      - [Plans for next meeting.](#plans-for-next-meeting)
+[TOC]
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 
@@ -116,8 +112,15 @@ $$
     E(WTA_{ij})_{wetland} = E[\frac{\beta_{asc}\cdot 1 + \beta_{wetland}\cdot \text{RandomDraws} + \beta_{cc}\cdot 0 + \beta_{nm}\cdot 0 + \beta_{dem18}\cdot dem18_j + \beta_{tax} \cdot tax_j + \sum^6_{k=1}\beta_{income} \cdot income_{ij} + \sum^4_{k=1}\beta_{area} \cdot areaf_{i}}{\beta_{pay}\cdot \text{RandomDraws}}]\\
     
      
-    \text{The random draws are from exponential distribution based on the assumptions about the random parameters}\\ \beta_{wetland}, \beta_{pay},\beta_{cc},\beta_{nm} \sim rexp(n, rate = 1)
     $$
+
+
+    The random draws are from exponential distribution based on the assumptions about the random parameters
+    $$
+    \beta_{wetland}, \beta_{pay},\beta_{cc},\beta_{nm} \sim rexp(n, rate = 1)
+    $$
+
+
     How to apply the WTA got from survey sample to the candidate sites of WCMO?
 
     - farm size can be got from the cluster area information in  .shapefile

@@ -1,6 +1,6 @@
 **Table of Contents**
 
-
+[TOC]
 
 
 
@@ -29,6 +29,8 @@
   $$
   \hat{U}^*_{int(b)} = X_{int}\hat{\beta} + e^*_{int(b)} \Rightarrow
   $$
+
+
 
 
 $$
