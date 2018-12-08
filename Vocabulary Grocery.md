@@ -87,9 +87,9 @@
 >
 > HOW TO SOLVE THIS PROBLEM?
 >
-> - Learning PIRF, recording my speaking
+> - Study PIRF lesson everyday, and keep recording my speaking
 > - Build up the vocabulary
-> - Lesson English more often, instead of Chinese.
+> - Listen to English more often, instead of Chinese.
 
 
 
