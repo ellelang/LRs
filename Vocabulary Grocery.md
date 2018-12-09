@@ -83,11 +83,11 @@
 
   Use the designated smoking room to smoke on the plane/in the airport. 
 
-> The plateau of my English is caused by my limited speaking skills. I can't use the correct word to express my thoughts. 
+> The plateau of my English is caused by my limited speaking skills. I can't use the correct words to express my thoughts. 
 >
 > HOW TO SOLVE THIS PROBLEM?
 >
-> - Study PIRF lesson everyday, and keep recording my speaking
+> - Study PIRF lesson everyday, and keep recording (& comparing)
 > - Build up the vocabulary
 > - Listen to English more often, instead of Chinese.
 
