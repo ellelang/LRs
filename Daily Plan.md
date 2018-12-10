@@ -76,18 +76,18 @@ Friday Sunny
 Saturday, cloudy
 
 - **To Do**
-  - [ ] Build up the county level land size and income dataset 
+  - [x] Build up the county level land size and income dataset 
   - [ ] Write down the R code for WTA simulation and the Expected (WTA) --> take the mean
   - [ ] Vocabulary building
   - [ ] PIRF P and recording
   - [ ] Vocabulary building
-  - [ ] Enter the new Survey Monkey data
+  - [x] Enter the new Survey Monkey data
   - [ ] EA paper reading
   - [ ] EA github page set up
 
 - **Miscellaneous**
-  - [ ] Swimming workout
-  - [ ] write the daily plan in the morning, **review** the daily plan in the evening
+  - [x] Swimming workout
+  - [x] write the daily plan in the morning, **review** the daily plan in the evening
   - [ ] The photography course (watch the video)
   - [ ]  Laudary
   - [ ] DDM course 
@@ -99,10 +99,12 @@ Saturday, cloudy
 - 5:45 - 6: 35 Play cellphone
 - 6:50 - 7:55 breakfast, bathroom, watch Youtube "小高姐的魔法料理"
 - 8:00 - 8:35 wrote up the Daily Plan and Review
+- 10 :00 - 11:00 swimming
+- 11:30 head to office from IMA
 
+​    :heavy_dollar_sign: Morning is not efficient
 
-
-
+- Left office at 4:30
 
 
 

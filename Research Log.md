@@ -33,6 +33,8 @@
 
 
 
+
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -67,7 +69,6 @@ $$
 
 2. How to draw estimates based on variance covariance matrix? https://stats.stackexchange.com/questions/91682/how-to-draw-estimates-based-on-variance-covariance-matrix
 
-   ​    a) 
 
 ```
 p = 3 # number of parameters
@@ -89,4 +90,19 @@ OR.  b) Use the R function  rmvnorm(#,  mean=, sigma=)
 cat(paste(shQuote(var_names, type="cmd"), collapse=", "))
 cat(paste(var_names, collapse=", "))
 ```
+
+
+
+### 12/07/2018  
+
+- County level income ~ farm size info
+
+ https://finbin.umn.edu/FmSummOpts/Index
+
+- New respondent data entry 
+
+  - enter data in Survey Moneky
+
+  - ENTER data to dataset by hand
+
 
