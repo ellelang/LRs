@@ -61,6 +61,26 @@ Please let me know if you have any question.
 
 
 
+Hi Jay, 
+
+
+
+It seems there is a typo (miss a negative sign) in Question 5 , for $\frac{\partial z}{\partial y}$
+
+Would it be
+$$
+
+$$
+\frac{\partial z}{\partial y} = \frac{1}{\frac{x^2}{y}}\cdot x^2 \cdot (-1)\cdot y^{-2} = \frac{y}{x^2}\cdot x^2 \cdot (-1)\cdot \frac{1}{y^2} = \frac{-1}{y}
+
+
+
+Please correct me if I am wrong.  Thank you!
+
+Best,
+
+Zhengxin
+
 
 
 

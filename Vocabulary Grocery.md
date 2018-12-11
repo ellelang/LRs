@@ -97,3 +97,7 @@
 
 ### 12/08/2018
 
+- Cross out 
+
+  If you cross out words on a page, you draw a line through them, because they are wrong or because you want to change them. 
+  He crossed out 'fellow subjects', and instead inserted 'fellow citizens'. 

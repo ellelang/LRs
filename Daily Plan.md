@@ -118,9 +118,9 @@ Monday
   - [ ] build up the county-income categories in R
   - [ ] read the two literatures in OSF folder(taking notes)
   - [ ] read two dynamic optimization papers
-  - [ ] 2:30 - 4:20 MOR qsci 291 final
-  - [ ] biogene pip install and try the model
-  - [ ] Grade final A code
+  - [x] 2:30 - 4:20 MOR qsci 291 final
+  - [x] biogene pip install and try the model
+  - [x] Grade final B & C code
   - [ ] DDM
   - [ ] PIRF recording
 
@@ -128,19 +128,52 @@ Monday
   - [x] Swimming workout
   - [x] write the daily plan in the morning, **review** the daily plan in the evening
   - [ ] The photography course (watch the video)
-  - [ ] email students about the final schedule 
-  - [ ] 
-  - [ ] 
-  
+  - [x] email students about the final schedule 
+
 ----
 
 Time sheet
 -  6:17 woke up
-- 6:30 got up
-- 6:30-7:00 made breakfast
-- 7:15 finished breakfast
-- 7:15-30 used bathroom
-- 7:38 got in the bus
+-  6:30 got up
+-  6:30-7:00 made breakfast
+-  7:15 finished breakfast
+-  7:15-30 used bathroom
+-  7:38 got in the bus
+-  got the "How to write short"
 
 > should email the class about the final schedule on Sunday. Some students who didn't attend the class often will miss the annoucement about the final. 
 
+
+
+### 12/11/2018
+
+Tuesday, shower
+
+- **To DO** 
+
+- [ ] Assign income value to county
+- [ ] write the process of discrete model
+- [ ] paper about spatial weight
+- [ ] read papers of Timothy O. Randhir
+
+- [ ] Grade Qsci 291 A code
+
+
+
+- **Miscellaneous**
+
+- [ ] meal prep for the for rest of the week
+- [ ] record gardes
+- [ ] write diary 
+
+------
+
+Timesheet
+
+- 6:20 woke up
+- 6:37 got up 
+- 6:40 - 7:00 Prepare breakfast
+- 7:20 finished breakfast and bathroom
+- 7:20 - 7:40 dressed up
+
+>
