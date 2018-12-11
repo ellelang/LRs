@@ -35,6 +35,7 @@
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -105,4 +106,11 @@ cat(paste(var_names, collapse=", "))
 
   - ENTER data to dataset by hand
 
+
+
+### 12/10/2018
+
+- Read the papers of Timothy O. Randhir, Ph.D.
+
+   https://scholar.google.com/citations?user=3_JsdOIAAAAJ&hl=en&oi=sra
 

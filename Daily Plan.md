@@ -89,9 +89,9 @@ Saturday, cloudy
   - [x] Swimming workout
   - [x] write the daily plan in the morning, **review** the daily plan in the evening
   - [ ] The photography course (watch the video)
-  - [ ]  Laudary
-  - [ ] DDM course 
-  - [ ] Wechat call to parents
+  - [x]  Laudary
+  - [x] DDM course 
+  - [x] Wechat call to parents
 
 ------
 
@@ -112,5 +112,35 @@ Saturday, cloudy
 
 
 
-### 12/09/2018
+### 12/10/2018
+Monday
+- **To Do**
+  - [ ] build up the county-income categories in R
+  - [ ] read the two literatures in OSF folder(taking notes)
+  - [ ] read two dynamic optimization papers
+  - [ ] 2:30 - 4:20 MOR qsci 291 final
+  - [ ] biogene pip install and try the model
+  - [ ] Grade final A code
+  - [ ] DDM
+  - [ ] PIRF recording
+
+- **Miscellaneous**
+  - [x] Swimming workout
+  - [x] write the daily plan in the morning, **review** the daily plan in the evening
+  - [ ] The photography course (watch the video)
+  - [ ] email students about the final schedule 
+  - [ ] 
+  - [ ] 
+  
+----
+
+Time sheet
+-  6:17 woke up
+- 6:30 got up
+- 6:30-7:00 made breakfast
+- 7:15 finished breakfast
+- 7:15-30 used bathroom
+- 7:38 got in the bus
+
+> should email the class about the final schedule on Sunday. Some students who didn't attend the class often will miss the annoucement about the final. 
 
