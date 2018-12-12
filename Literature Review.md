@@ -1,10 +1,6 @@
 **Table of Content** 
 
-- [December 2018](#december-2018)
-  * [12/03/2018](#12-03-2018)
-    + [Multinomial Logit Models with Continuous and Discrete Individual Heterogeneity in R: The gmnl Package](#multinomial-logit-models-with-continuous-and-discrete-individual-heterogeneity-in-r--the-gmnl-package)
-  * [12/04/2018](#12-04-2018)
-
+[TOC]
 ############################
 
 ## Literature Review Rounds
@@ -148,13 +144,34 @@ Methods to build WTP CI
 
   a). 1.  resample the observations w with replacement to generate a new sample; let this sample  have the same number of observations as the original one;
 
-  b). fit the logit model to the bootstrap sample to obtain $\hat{\beta^*_b} and \hat{WTP^*}$
+  b). fit the logit model to the bootstrap sample to obtain $\hat{\beta^*_b}$ and $\hat{WTP^*}$ 
 $$
 \hat{\beta^*_b} = (\hat{X}'\hat{X})^{-1}\hat{X}\hat{Y}
 $$
 
 - Krinsky and Robb resampling 
 
-​                      a). draw a vector \hat{\beta^*_b} 
+​                      a). draw a vector $\hat{\beta^*_b}$ 
 
-​                      b) Use the vector  \hat{\beta^*_b}  to calculate \hat{WTP^*}
+​                      b) Use the vector  $\hat{\beta^*_b}$  to calculate $\hat{WTP^**}$
+$$
+
+$$
+
+
+### 12/11/2018
+
+#### Research needs for water quality management in the 21st century -- A spatial decision support system (1997)
+
+>  This paper provide strategies to build a spatial decision support system for watershed management that can integrate the biophysical process with economics impacts when evaluating various management alternatives .   
+
+- There have been several national and regional studies in U.S. that quantify the economic impact of agricultural nonpoint source pollution.
+- Spatial scaling and land use patterns are expected to have major influence on sediment , pesticide, and nutrient delivery, but general quantitative relationships relating to scale are lacking at precedent. 
+- models are useful for absolute predictions, relative response, developing designs, organizing concepts, improving the understanding of the system, and dealing with parameter uncertainties. 
+- In a study by Lovejoy, Lee, and Beasley (1985), a hydro- logic simulation model known as ANSWERS was combined with farm level linear programming models to evaluate the cost effectiveness of several policies aimed at reducing sediment yield in a watershed. They found that combining economic and hydrologic models was an efficient means of determining least cost sediment reduction strategies.
+- Evaluation of alternative management systems is possible by using CREAMS or GLEAMS, but only to a level of “lumpy” evaluation (in the sense that the aggregate figures are arrived without evaluation of spatial dynamics) of benefits and costs. The dynamic component of physical and economic variables, in terms of state of the system, is very crude or lacking.
+- Multi-objective criteria in making decisions regarding natural resources has been used to develop regional plans. Romero et al. (1988) illustrate the importance and use of this technique in natural resources management. 
+- The integration of biophysical process and economic models into a more general decision support system is essential for better resource management in the future.
+- The needed research and subsequent decision support system will need to integrate economic optimization techniques (spatial dynamic programming) with spatial process simulation models (e.g., AGNPS, SWAT, QUAL2E, and EPICWQ) within a Geographic Information System (GIS) to evaluate the economic and water quality impacts of current and alternative crop production and nutrient management practices.
+- Previous modeling in this area of research has focused on estimating the physical parameters associated with current land-use and agricultural production practices. However, farmers, agency staff and resource managers also need information about the potential economic and water quality tradeoff associated with alternative nutrient and pesticide management plans and production practices. 
+

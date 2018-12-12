@@ -36,6 +36,7 @@
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -114,3 +115,37 @@ cat(paste(var_names, collapse=", "))
 
    https://scholar.google.com/citations?user=3_JsdOIAAAAJ&hl=en&oi=sra
 
+
+
+### 12/11/2018
+
+- Experiments with dynamic programming algorithms for nonseparable problems
+- Experiments with EA  for nonseparable problems for nonlinear fractional knapsack problem.
+  - EA with no seeding results
+  - EA with Benefit-to-Cost ratio as seeds results
+  - The objective function is a nonlinear erosion rates, or see Se Jo's MOSM 
+
+- Python open file 
+
+  ```
+  from pathlib import Path
+  mdata_folder = Path("C:/Users/langzx/Desktop/github/EAmosm")
+  mosmdata = mdata_folder / "MOSM.accdb"
+  ```
+
+- 
+
+- How do I import an .accdb file into Python and use the data?
+
+- Spyder autocomplete 
+
+  ```
+  pip install rope_py3k
+  ```
+
+- Python select rows based on the value of a specific column
+
+  ```
+  df.loc[df['column_name'] == some_value]
+  
+  ```

@@ -101,3 +101,36 @@
 
   If you cross out words on a page, you draw a line through them, because they are wrong or because you want to change them. 
   He crossed out 'fellow subjects', and instead inserted 'fellow citizens'. 
+  
+- bend over backwards to do sth.
+
+  to make extreme efforts
+  
+  
+  
+### 12/08/2018
+
+- exorbitant 
+    much too high: exorbitant costs / fares / fees / prices / rents ◆ It's a good hotel but the prices are exorbitant.
+
+- leachate
+   a solution or product obtained by leaching
+   
+- siltation   
+   a deposit of sediment 
+
+- percolate  
+ verb
+ [V] (of a liquid, gas, etc.) to move gradually through a surface that has very small holes or spaces in it: Water had percolated down through the rocks. ◆ Nitrates may take 20 years to percolate through to the underground streams.
+ [V] to gradually become known or spread through a group or society: It had percolated through to us that something interesting was about to happen. ◆ Changes percolate through gradually.
+ [VN, V] to make coffee in a percolator; to be made in this way
+ 
+ - feedlot 
+   a plot of land on which livestock are fattened for market
+  
+ - lump
+ 
+ 
+ - commissioner
+    the officer in charge of a department or bureau of the public service
+ 
