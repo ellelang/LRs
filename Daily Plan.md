@@ -107,11 +107,6 @@ Saturday, cloudy
 - Left office at 4:30
 
 
-
-
-
-
-
 ### 12/10/2018
 Monday
 - **To Do**
@@ -176,4 +171,33 @@ Timesheet
 - 7:20 finished breakfast and bathroom
 - 7:20 - 7:40 dressed up
 
+
+### 12/12/2018
+
+Wednesday, shower
+
+- **To DO** 
+
+- [ ] write up the river routing code
+- [ ] Grades recording for Qsci 291
+- [ ] R simulation of WTA
+- [ ] read papers of Timothy O. Randhir
+
+- **Miscellaneous**
+
+- [ ] contact Chunqing Lu
+- [ ] DDM and PIRF
+- [ ] Swimming
+- [ ] Listen to Boston Legal
+
+------
+
+Timesheet
+
+- 6:40 woke up
+- 6:42 got up 
+- 6:45 - 7:00 Prepare breakfast
+- 7:20 finished breakfast and bathroom
+- 8:00 Left home for bus
+- In the bus I didn't read papers
 >

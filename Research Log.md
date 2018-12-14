@@ -149,3 +149,35 @@ cat(paste(var_names, collapse=", "))
   df.loc[df['column_name'] == some_value]
   
   ```
+
+
+### 12/12/2018
+
+- Python slice data --> reset the index, so that the row of each subset dataframe starts from index 0, instead of their index in the original dataframe.
+
+```
+SBoutput_LES = SBoutput[SBoutput['Subbasin'] == 4].reset_index(inplace=False)
+SBoutput_COB = SBoutput[SBoutput['Subbasin'] == 13].reset_index(inplace=False)
+SBoutput_MAP = SBoutput.loc[SBoutput['Subbasin'] == 19].reset_index(inplace=False)
+```
+ 
+ - Set the index for data
+ 
+ ```
+for i in range (0,30):
+       for j in range (0,9131):
+                index = j + ((i + 1) - 1) * 9131
+ ```
+ 
+ 
+ ### 12/13/2018
+
+- Python pandas data print -->show all columns--> by setting the display options
+
+```
+pd.set_option('display.max_columns', None)
+pd.set_option('display.expand_frame_repr', True) ## if set false, then not a readable table.....
+pd.set_option('display.precision', 2)
+pd.set_option('display.max_colwidth', 10000)
+pd.describe_option('display')
+```
