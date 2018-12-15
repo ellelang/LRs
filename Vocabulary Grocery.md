@@ -105,9 +105,7 @@
 - bend over backwards to do sth.
 
   to make extreme efforts
-  
-  
-  
+
 ### 12/08/2018
 
 - exorbitant 
@@ -124,13 +122,84 @@
  [V] (of a liquid, gas, etc.) to move gradually through a surface that has very small holes or spaces in it: Water had percolated down through the rocks. ◆ Nitrates may take 20 years to percolate through to the underground streams.
  [V] to gradually become known or spread through a group or society: It had percolated through to us that something interesting was about to happen. ◆ Changes percolate through gradually.
  [VN, V] to make coffee in a percolator; to be made in this way
- 
+
  - feedlot 
    a plot of land on which livestock are fattened for market
   
  - lump
- 
- 
+
+
  - commissioner
     the officer in charge of a department or bureau of the public service
- 
+
+
+
+### 12/14/2018
+
+- closer to the soil / mother nature
+
+- emit : 
+
+  release and produce (which usually has a negative cognition)
+
+- misleading: 
+
+  gives wrong ideas, impression; biased, confusing, false, fraud.
+
+- what is the main method of cooking in your hometown? --> fry, bake, boil, steam, etc. 
+
+- manure: 
+
+  animal feces, excrement. 
+
+- notion: 
+
+  idea, thought
+
+- toxins: 
+
+  a poisonous substance, especially one that is produced by bacteria in plants and animals
+
+- blister: 
+
+  a swelling on the surface of the skin that is filled with liquid and is caused, for example, by rubbing or burning: e.g. These shoes have given me blisters on my heels./ OR allergy, a reaction to specific substance. 
+
+- carcinogenic 
+
+  likely to cause CANCER: the carcinogenic effects of some pesticides used on fruit.
+
+- breed out =  remove
+
+- eke out 
+
+  If you eke out something, you make your supply of it last as long as possible. 
+  Many workers can only eke out their redundancy money for about 10 weeks. 
+
+- traits: attributes
+
+- be fond of doing sth. 
+
+  If you are fond of something, you like it or you like doing it very much. 
+  He was fond of marmalade.  (Marmalade is a food made from oranges, lemons, or grapefruit that is similar to jam. It is eaten on bread or toast at breakfast. 
+
+- puffer fish (fugu)
+
+  The fugu (河豚; 鰒; フグ) in Japanese, bogeo (복어) or bok (복) in Korean, and hétún (河豚; 河鲀) in Standard Modern Chinese[1] is a pufferfish, normally of the genus Takifugu, Lagocephalus, or Sphoeroides, or a porcupinefish of the genus Diodon, or a dish prepared from these fish.
+
+  Fugu can be lethally poisonous due to its tetrodotoxin; therefore, it must be carefully prepared to remove toxic parts and to avoid contaminating the meat.
+
+- trace
+
+  a mark, an object or a sign that shows that sb/sth existed or was present: ◆It's exciting to discover traces of earlier civilizations. ◆ Police searched the area but found no trace of the escaped prisoners. ◆ Years of living in England had eliminated all trace of her American accent. ◆ The ship had vanished without (a) trace.
+
+- ethics
+
+  Ethics are moral beliefs and rules about right and wrong. 
+  Its members are bound by a rigid code of ethics which includes confidentiality. 
+  Refugee workers said such action was a violation of medical ethics. 
+
+- GM crops: genetically modified crops
+
+- supplementary 
+
+  in addition to sth else in order to improve or complete it: supplementary information / income ◆ A supplementary reading list is attached.
