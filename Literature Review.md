@@ -175,3 +175,9 @@ $$
 - The needed research and subsequent decision support system will need to integrate economic optimization techniques (spatial dynamic programming) with spatial process simulation models (e.g., AGNPS, SWAT, QUAL2E, and EPICWQ) within a Geographic Information System (GIS) to evaluate the economic and water quality impacts of current and alternative crop production and nutrient management practices.
 - Previous modeling in this area of research has focused on estimating the physical parameters associated with current land-use and agricultural production practices. However, farmers, agency staff and resource managers also need information about the potential economic and water quality tradeoff associated with alternative nutrient and pesticide management plans and production practices. 
 
+
+
+
+
+### 12/14/2018
+

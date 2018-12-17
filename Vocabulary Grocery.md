@@ -203,3 +203,30 @@
 - supplementary 
 
   in addition to sth else in order to improve or complete it: supplementary information / income ◆ A supplementary reading list is attached.
+
+- beforehand 
+
+  1. In anticipation
+  2. In advance; early
+
+  Saunas can be hazardous if misused. Avoid a big meal beforehand
+
+- pull for 
+
+  (pull for someone or something) to support and cheer for someone, a group, or something. We're pulling for you. We know you can do it! All the students were pulling for the team
+
+- little ol me 
+
+  Little ol' me is a way of referring to yourself that is meant to be modest or self-deprecatory, though often fake
+
+- malicious
+
+  Having the nature of or resulting from malice; deliberately harmful; spiteful
+
+- mad love for you 
+
+   To harbor more than an average or normal fondness of or for something. A way to say you really like something.
+
+   I got mad love for the mexican food, yo. 
+
+ 

@@ -201,3 +201,34 @@ Timesheet
 - 8:00 Left home for bus
 - In the bus I didn't read papers
 >
+
+### 12/14/2018
+
+Friday, cloudy
+
+- **To Do** 
+
+- [ ] 
+- [ ] Set up the Wiki Page of EA epistasis experiment project
+- [ ] Read papers about EA experiment
+- [ ] backup wechat from phone to computer. Response the messages from Kevin
+- [ ] watch the  eScience YouTube channel (data visualization and reproducibility to machine learning and artificial intelligence). 
+
+- **Miscellaneous**
+
+- [ ] Enter the data from SM to dataset
+- [ ] DDM and PIRF
+- [ ] Swimming
+- [ ] Listen to Boston Legal
+
+------
+
+Timesheet
+
+- 6:05 woke up
+- 6:35 got up 
+- 6:45 - 7:00 Prepare breakfast
+- 7:20 finished breakfast and bathroom
+- 8:16 got on the bus 
+- In the bus I didn't read papers
+>
