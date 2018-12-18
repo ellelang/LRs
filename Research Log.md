@@ -37,6 +37,8 @@
 
 
 
+
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -160,16 +162,16 @@ SBoutput_LES = SBoutput[SBoutput['Subbasin'] == 4].reset_index(inplace=False)
 SBoutput_COB = SBoutput[SBoutput['Subbasin'] == 13].reset_index(inplace=False)
 SBoutput_MAP = SBoutput.loc[SBoutput['Subbasin'] == 19].reset_index(inplace=False)
 ```
- 
+
  - Set the index for data
- 
+
  ```
 for i in range (0,30):
        for j in range (0,9131):
                 index = j + ((i + 1) - 1) * 9131
  ```
- 
- 
+
+
  ### 12/13/2018
 
 - Python pandas data print -->show all columns--> by setting the display options
@@ -181,3 +183,78 @@ pd.set_option('display.precision', 2)
 pd.set_option('display.max_colwidth', 10000)
 pd.describe_option('display')
 ```
+
+
+
+
+
+### 12/17/2018
+
+- CRP data and possibly useful descriptions 
+
+  [Conservation Reserve Program Statistics - Farm Service Agency](https://www.fsa.usda.gov/programs-and-services/conservation-programs/reports-and-statistics/conservation-reserve-program-statistics/index)
+
+  [www.fsa.usda.gov](http://www.fsa.usda.gov/)
+
+  Updated 2018 CRP Rental Rates and Grassland Rental Rates (New) Map of CRP Enrollment as of March 2016 - Dot Density (pdf). Map of CRP Enrollment as of March 2016 - Color (pdf). Map of Changes in CRP Acreage 2007-2016 (pdf). 49th CRP Signup Results (pdf). 49th CRP County Signup book
+
+  -  https://www.fsa.usda.gov/programs-and-services/conservation-programs/reports-and-statistics/conservation-reserve-program-statistics/index   (updated 2018 CRP Regular Rental Rate)
+
+  [CRP Practices Library - Farm Service Agency](https://www.fsa.usda.gov/programs-and-services/conservation-programs/crp-practices-library/index)
+
+  - Compared the data with cash rental rate from University of Minnesota Extension  https://docs.google.com/spreadsheets/d/1H7gePlOLWOufJWvYJu0UcLdUBHyPhULqHpicRI4HA-I/edit#gid=0
+
+  United States Department of Agriculture Farm Service Agency. United States Department of Agriculture Farm Service Agency. Home; Programs and Services. Aerial Photography. Imagery Products
+
+  - <https://www.fsa.usda.gov/programs-and-services/conservation-programs/crp-practices-library/index>
+
+
+- Biogeme library 
+
+  [biogeme libarary](http://biogeme.epfl.ch/documentation/html/group__pdfcdf.html#ga2e4416223b57e1063c2d49720912fb62)
+
+- !!!! Multiple sheets in a CSV. file are not supported.!!!!  
+
+  - add a "sheet 2" in the csv. file--> when saving it, it will auto delete the original "sheet 1" . 
+
+- Johnson's SU-distribution 
+
+- Crop rotation in R
+
+  ```
+  dataset0$num_rotation <- as.numeric(dataset$primaryrotation)
+  dataset0$convCS <- ifelse(dataset$num_rotation == 1 | dataset$num_rotation == 2, 1, 0)
+  dataset0$corn <- ifelse(dataset$num_rotation == 1 | dataset$num_rotation == 2 
+                         | dataset$num_rotation == 4 | dataset$num_rotation == 5
+                         | dataset$num_rotation == 9, 1, 0)
+  ```
+
+- Reshape dataset to wide format
+
+  ```
+  datasetwide1 <- reshape(dataset1, idvar = c("id","task"), timevar = "alti", direction = "wide")
+  # where the dataset$alti <- ifelse(dataset$Alternatives == "V",1,2)
+  ```
+
+
+- Left join 
+
+  left_join(x, y): Return all rows from x, and all columns from x and y. If there are multiple matches between x and y, all combination of the matches are returned. This is a mutating join.
+
+  ```
+  datasetwide <- left_join(datasetwide1,dataset_variables, by = c("id.1" = "id"))
+  info_id <- idinfo_variables[!duplicated(idinfo_variables), ]
+  ```
+
+- Draw exponential distribution from uniform distribution
+
+  https://stackoverflow.com/questions/2106503/pseudorandom-number-generator-exponential-distribution
+
+  Since you have access to a uniform random number generator, generating a random number distributed with other distribution whose CDF you know is easy using the [inversion method](http://en.wikipedia.org/wiki/Inverse_transform_sampling).
+
+  So, generate a uniform random number, `u`, in `[0,1)`, then calculate `x` by:
+
+  `x = log(1-u)/(`−λ`)`,
+
+  where λ is the rate parameter of the exponential distribution. Now, `x` is a random number with an exponential distribution. Note that `log` above is `ln`, the natural logarithm.
+
