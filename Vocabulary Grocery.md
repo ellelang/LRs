@@ -230,3 +230,19 @@
    I got mad love for the mexican food, yo. 
 
  
+
+### 12/18/2019
+
+- perk
+
+  Perks are special benefits that are given to people who have a particular job or 
+  belong to a particular group. 
+
+  - ...a company car, private medical insurance  and other perks... 
+  - One of the perks of being a student is cheap travel. 
+
+- port guid
+
+- compatibility
+
+- 

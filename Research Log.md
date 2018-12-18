@@ -39,6 +39,8 @@
 
 
 
+
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -221,7 +223,7 @@ pd.describe_option('display')
 
 - Crop rotation in R
 
-  ```
+  ```R
   dataset0$num_rotation <- as.numeric(dataset$primaryrotation)
   dataset0$convCS <- ifelse(dataset$num_rotation == 1 | dataset$num_rotation == 2, 1, 0)
   dataset0$corn <- ifelse(dataset$num_rotation == 1 | dataset$num_rotation == 2 
@@ -231,7 +233,7 @@ pd.describe_option('display')
 
 - Reshape dataset to wide format
 
-  ```
+  ```R
   datasetwide1 <- reshape(dataset1, idvar = c("id","task"), timevar = "alti", direction = "wide")
   # where the dataset$alti <- ifelse(dataset$Alternatives == "V",1,2)
   ```
@@ -241,7 +243,7 @@ pd.describe_option('display')
 
   left_join(x, y): Return all rows from x, and all columns from x and y. If there are multiple matches between x and y, all combination of the matches are returned. This is a mutating join.
 
-  ```
+  ```R
   datasetwide <- left_join(datasetwide1,dataset_variables, by = c("id.1" = "id"))
   info_id <- idinfo_variables[!duplicated(idinfo_variables), ]
   ```
@@ -254,7 +256,56 @@ pd.describe_option('display')
 
   So, generate a uniform random number, `u`, in `[0,1)`, then calculate `x` by:
 
-  `x = log(1-u)/(`−λ`)`,
 
-  where λ is the rate parameter of the exponential distribution. Now, `x` is a random number with an exponential distribution. Note that `log` above is `ln`, the natural logarithm.
+$$
+  x = log (1-u)/\lambda
+$$
+  where $\lambda$ is the rate parameter of the exponential distribution. Now, `x` is a random number with an exponential distribution. Note that `log` above is `ln`, the natural logarithm.
+
+- Why do some functions have underscores __ before and after the function name?
+
+https://stackoverflow.com/questions/8689964/why-do-some-functions-have-underscores-before-and-after-the-function-name
+
+?          Actually I use _ method names when I need to differ between parent and child class names. I've          read some codes that used this way of creating parent-child classes. As an example I can provide this code:
+
+```python
+class ThreadableMixin:
+   def start_worker(self):
+       threading.Thread(target=self.worker).start()
+
+   def worker(self):
+      try:
+        self._worker()
+    except tornado.web.HTTPError, e:
+        self.set_status(e.status_code)
+    except:
+        logging.error("_worker problem", exc_info=True)
+        self.set_status(500)
+    tornado.ioloop.IOLoop.instance().add_callback(self.async_callback(self.results))
+```
+
+...
+
+and the child that have a _worker method
+
+```python
+class Handler(tornado.web.RequestHandler, ThreadableMixin):
+   def _worker(self):
+      self.res = self.render_string("template.html",
+        title = _("Title"),
+        data = self.application.db.query("select ... where object_id=%s", self.object_id)
+    )
+```
+
+
+
+- when you use **from x import ***, you actually only imported things in your-python-location/lib/x/\__init__.py
+
+  Packages are folders. Modules are files. If the import calls for specific files then the package folder's \__init\_.py will enumerate the specific files to import.
+
+
+
+
+
+### 12/18/2018
 
