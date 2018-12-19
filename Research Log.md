@@ -1,4 +1,6 @@
-**Table of Contents**
+
+
+Table of Contents**
 
 [TOC]
 
@@ -29,6 +31,7 @@
   $$
   \hat{U}^*_{int(b)} = X_{int}\hat{\beta} + e^*_{int(b)} \Rightarrow
   $$
+
 
 
 
@@ -440,11 +443,33 @@ ind2 ^= temp                    # Symmetric Difference (inplace)
 
 - Nlogit 
 
-  ```nlo
+  ```lpj
+  
+  READ; file="C:\Users\langzx\Desktop\github\DCM\data\wta_observables11192018.csv"; Nobs=7056; Nvar=45; 
+  
+  Names=id,Y,ChoiceSet,alti,task,Wetland,Payment,Covercrop,NuMgt,incfar,areaf,demPrez16,dem_2018,unemploy,costlive, hrwage,taxcost,cashrent,crp2018,landvalu,impstrea,implakes,impwetl,imptotal,childcar,foodcost,healthc,housecos,othercos,convCS,corn, income_1,income_6,income_4,income_3, income_2,income_NA, income_5, income_7, areaf_1,areaf_2,areaf_4,areaf_3,areaf_NA,areaf_5
+  $
+  
+  dstat; rhs=* $
+  
+  sample; ALL $
+  
+  CALC ; Ran(123) $
+  
+  ? create negative of wetland attribute to estimate lognormal rpl
+  
+  CREATE ; negWetl = -1*Wetland 
+  	 ; lake1000 = implakes/1000
+  	 ; agv1000 = landvalu/1000 $
+  
+  SETPANEL ; Group = ID $
+  
+  SKIP $
+  
   ???? 12/4/18
   ? models with alternative non-negative distributions, not lognormal N-563 in NLOGIT 6 ref guide
   
-  sample; 2-7057 $
+  sample; 2-7056 $
   
   ?REJECT; income_N = 1 $
   
@@ -467,7 +492,129 @@ ind2 ^= temp                    # Symmetric Difference (inplace)
                incfarm1*income_1 + incfarm2*income_2 + incfarm3*income_3 + incfarm4*income_4 + incfarm5*income_5 + incfarm6*income_6
   		+ farmsi1*areaf_1 + farmsi2*areaf_2 + farmsi3*areaf_3 + farmsi4*areaf_4	+ crp*crp2018		/
   U(Current) = 0
-  
-  
   $
   ```
+
+
+### 12/19/2018
+
+- NLogit user mannual
+
+  The general format of a command is:
+
+  ```
+  VERB; other information . . .$
+  ```
+
+  These are separated by semicolons. For example, when you wish to
+  compute a regression, you must tell Nlogit what the dependent (LHS) and
+  independent (RHS) variables are. You might do this as follows:
+
+  ```
+  REGRESS ; LHS = y ; Rhs = One,X $
+  ```
+
+
+
+  (1) Data analysis
+
+  ```
+  dstat; rhs=* $
+  DSTATS; RHS = the list of variables $ 
+  REGRESS; Lhs = dependent variable; Rhs = independent variable $
+  ```
+
+  The * signifies in Nlogit, “all variables.” Thus the command will generate descriptive statistics for all variables within the data set. Inserting specific names (separated by commas) instead of * will generate descriptive statistics only for those variables named.
+
+  ```
+  Dstats ; For [ alti ] ; rhs=comfort1,comfort2,ttime $
+  ```
+
+  The addition of the ;For[alti] to the Dstats command has Nlogit produce descriptive statistics for the observations that are specific to each value present within the alti variable.
+
+  It may be worthwhile to examine the correlation structure of the data. The command to do so is:
+
+  ```
+  Dstats ;rhs=*; Output=2$
+  ```
+
+
+
+  ```
+  LOGIT; Lhs = variable; Rhs = variables$           For a binomial logit model.
+  PROBIT; Lhs = variable; Rhs = variables$          For the binomial probit model.
+  NLOGIT; various different forms$ 
+  CROSSTAB; Lhs = variable; RHS = Variable$
+  HISTOGRAM; Rhs = a variable$
+  KERNEL; Rhs = one or more variables$
+  ```
+
+  Each of these includes many optional features. For example, HISTOGRAM and KERNEL allow different display formats by modifying the command. There are many different kinds of regressions as well.
+
+  (2) Sample setting
+
+  ```
+  SAMPLE; first observation – last observation$
+  SAMPLE; ALL$ 
+  ```
+
+  NOTE: the first rows in the dataset is "missing". So usually  the sample starts from 2 , i.e. 2 to  (n+1)
+
+  ```
+  REJECT; decision rule$ 
+  ```
+
+  For removing observations from the sample.They are not “deleted.” They are just marked and bypassed until you restore them in the sample. The "REJECT" might cause conflict with the sample number. So need to try.. e.g. SAMPLE; 2 - 7056
+
+  (3) New variables
+
+  ```
+  CREATE; name = expression; name = expression . . .$
+  ```
+
+
+
+  (4) Scientific calculations
+
+  ```
+  CALCULATE; expression$
+  MATRIX; expression$ 
+  ```
+
+  (5) The model estimation
+
+  ```
+  NLOGIT
+  ;lhs = choice, cset, altij
+  ;choices = <names of alternatives>
+  ; maxit = n
+  ;Model:
+  U(<alternative 1 name>) = <utility function 1>/
+  U(<alternative 2 name>) = <utility function 2>/
+  U(<alternative i name>) = <utility function i>$
+  ```
+
+- ```
+  Timer$ 
+  ```
+
+  Always useful to include this command to see how long it takes to run a
+  model
+
+- 
+
+- constant term represents the average influence of unobserved factors influencing choice decisions
+
+An equal change in magnitude in the utility level (e.g., a one unit increase) produced a different change in the magnitude of the change in the choice probabilities. A discrete choice model is non-linear in the probabilities (NB, plotting the probabilities over changes in a utility function, holding everything
+else equal, will produce the familiar S-shaped or sigmoid curve; see Figure 11.1).
+
+While the probabilities obtained from a choice model will be non-linear, the utility functions themselves are linear.
+
+Assuming that the original utilities are the true utilities for each alternative, the average utilities for alternatives 1 and 2 are one and zero, respectively (noting that these are relative utilities and hence the average utility for the second alternative is not strictly zero), and the probabilities of choice as calculated from Equation (11.4) for these two alternatives are 0.73 and 0.27 respectively, ceteris paribus.
+$$
+p_A = \frac{e^1}{e^1 + e^0} = \frac{2.72}{2.72 + 1} = 0.73,\ p_B = \frac{e^0}{e^1 + e^0} = \frac{1}{2.72 + 1} = 0.27\\
+
+p = \frac{e^2}{e^2 + e^0} = \frac{2}{2 + 1} = 0.88\\
+
+p = \frac{e^3}{e^3 + e^0}  = 0.95
+$$

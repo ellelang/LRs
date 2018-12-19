@@ -231,4 +231,14 @@ Timesheet
 - 7:20 finished breakfast and bathroom
 - 8:16 got on the bus 
 - In the bus I didn't read papers
->
+
+
+
+
+
+### 12/19/2018
+
+- [ ] NLOGIT reference book about Marginal Effects and Mixed Logit and simulation 
+- [ ] Check ECR update
+- [ ] SQL course 
+

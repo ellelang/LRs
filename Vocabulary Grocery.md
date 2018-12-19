@@ -262,3 +262,31 @@
   If you describe something or someone as funky, you like them because they are unconventional or unusual. (mainly AM, INFORMAL) 
   It had a certain funky charm, I guess, but it wasn't much of a place to raise a kid. 
 
+
+
+### 12/19/2018
+
+- stellar
+
+  A stellar person or thing is considered to be very good. 
+  ...a stellar education at Eton and Oxford... 
+  The French companies are registering stellar profits.  ADJ-GRADED: usu ADJ n  = superlative, excellent
+
+  Congratulations Emily on a stellar swimming career.
+
+- be on relays together
+
+  relay :  a race between teams in which each team member 
+
+- pump-up
+
+   If you pump yourself up for something, you prepare yourself for it mentally, especially by telling    yourself that you can succeed. (INFORMAL) 
+  They find it difficult to pump themselves up for the games. 
+
+- huddle
+
+  A huddle is a small group of people or things that are standing very close together or lying on top of each other, usually in a disorganized way. 
+  Les kept seeing Eric and Tam in a huddle and he knew they were talking about him. 
+  ...the huddle of dark houses on the other side of the reservoir. 
+
+Loved being teammates with you, loved racing you, loved being on relays together (could always rely on your unreal splits and pump-up huddles.)
