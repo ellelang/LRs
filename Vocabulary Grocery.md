@@ -241,8 +241,24 @@
   - ...a company car, private medical insurance  and other perks... 
   - One of the perks of being a student is cheap travel. 
 
-- port guid
+- port 
+
+  1 : a place where ships may ride secure from storms : HAVEN 
+  2  a : a harbor town or city where ships may take on or discharge cargo b : AIRPORT 
+  3 : PORT OF ENTRY 
 
 - compatibility
 
-- 
+  capable of existing together in harmony 
+
+- alias
+
+  An alias is a false name, especially one used by a criminal. 
+  Using an alias, he had rented a house in Fleet, Hampshire. 
+  N-COUNT 
+
+- funky
+
+  If you describe something or someone as funky, you like them because they are unconventional or unusual. (mainly AM, INFORMAL) 
+  It had a certain funky charm, I guess, but it wasn't much of a place to raise a kid. 
+
