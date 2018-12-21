@@ -46,6 +46,7 @@ Table of Contents**
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -665,11 +666,11 @@ $$
   Consider the direct point elasticity for a decision maker given a unit increase in price from $1 to $2 and a decrease in the probability of choice from 0.6 to 0.55.
 
 
-  $$
+$$
   E = \frac{0.6 - 0.55}{1 - 2} \times \frac{2}{0.55} = -0.182\\
   E = \frac{0.6 - 0.55}{1 - 2} \times \frac{1}{0.6} = -0.08 \\
   E = \frac{0.6 - 0.55}{1 - 2} \times \frac{1.5}{0.575} = -0.13 \\
-  $$
+$$
 
 
   - 
@@ -769,10 +770,10 @@ The differences b/w a full MNL model and partial effects model can be explained 
 - Simulation
 
 1. Estimate the model as previously described (automatically saving outputs
-  in memory);
+    in memory);
 2. Apply the Simulation command (using the stored parameter estimates) to
-  test how changes in the attribute and SDC levels impact upon the choice
-  probabilities.
+    test how changes in the attribute and SDC levels impact upon the choice
+    probabilities.
 
 Step 1 involves the analyst specifying a choice model that will be used as a basis of comparison for subsequent simulations. The Step 2 involves performing the simulation to test how changes in an attribute or SDC impact upon the choice probabilities for the model estimated in step 1. 
 
@@ -832,3 +833,63 @@ u(cr) =                  invtcar*invt + TC*TC + PC*PC + egtcar*egt
   ```
   ;K&R ; Draws = number
   ```
+
+
+
+### 12/21/2018
+
+- Once the analyst is content with the model results, the model should be **re-estimated with a greater number of draws to confirm stability in the results.**
+
+> As an aside, the statistical significance of attributes does vary as the number of draws
+> changes, so one must exercise some judgment in the initial determination of statistically
+> significant effects. Practical experience suggests that an attribute with a z-value over 1.5 for
+> a small number of draws may indeed become statistically significant (i.e., over 1.96) with a larger number of draws. This has been observed more for the standard deviation parameters
+> (i.e., those derived from normal and log-normal distributions).
+
+
+
+- Kernel function 
+
+what the kernel density function is measuring **is the proportion of the sample of values that is close to the chosen zj.** 
+
+The kernel density function for a single attribute is computed using Equation :
+$$
+f(z_j) = \frac{1}{n}\sum^n_{i = 1} \frac{K[(z_j - x_i)/h]}{h}, j= 1, ...,M.
+$$
+The function is computed for a specified set of values of interest, zj, j = 1,. . .,M where zj is a partition of the range of the attribute. Each value requires a sum over the full sample of n values, xi, i = 1....n. The primary component of the computation is the kernel, or weighting function, K[.], which take a number of forms. For example, the normal kernel is K[z]= φ(z) (normal density). Thus, for the normal kernel, the weights range from φ(0) = 0.399 when xi = zj to values approaching zero when xi is far from zj. 
+
+
+
+The other essential part of the computation is the smoothing (bandwidth) parameter, h, to ensure a good plot resolution. The bandwidth parameter is exactly analogous to the bin width in a common histogram. Thus, as noted earlier, narrower bins (smaller bandwidths) produce unstable histograms (kernel density estimators) because not many points are “in the neighborhood” of the value of interest. Large values of h stabilize the function, but tend to flatten it and reduce the resolution. 
+
+An example of a bandwidth is given in Equation (15.7), which is a standard form used in several contemporary computer programs:
+$$
+h = 0.9Q/n^{0.2}
+$$
+ where Q = min(standard deviation, range/1.5).
+
+A number of points have to be specified. The set of points zj is (for any number of points) defined by Equation:
+$$
+z_j = z_{LOWER} + j\times [(z_{UPPER}- z_{LOWER})/M], j = 1, ..., M\\
+z_{LOWER} = min (x) - h\\
+z_{UPPER} = max (x) + h
+$$
+The procedure produces an M× 2 matrix in which the first column contains zj and the second column contains the values of f(zj) and the **plot of the second column against the first – this is the estimated density function.**
+
+```
+;kernel;rhs=<name of parameter/variable>;Limits=<lower, upper values>;<model form>$
+e.g., 
+kernel;rhs=invtd;limits=0,1.5;logit$.
+```
+
+
+
+- heterogeneity in the mean of random parameters
+
+- heterogeneity in the mean of selective random parameters
+
+- heteroskedasticity and heterogeneity in the variances
+
+   So far, we have focussed on heterogeneity in the mean of a random parameter; however, additional sources of systematic heterogeneity (often referred to as heteroskedasticity) can be associated with the variance (or standard deviation) of the distribution.
+
+- 

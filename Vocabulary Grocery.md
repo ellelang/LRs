@@ -384,4 +384,13 @@ Loved being teammates with you, loved racing you, loved being on relays together
   Perceptible, as by the faculty of vision or the intellect. See Synonyms at perceptible.
 
 - spurious 
-- 
+
+
+
+### 12/21/2018
+
+- be content with 
+- Intuition suggests that the first of these problems **is mitigated by** taking narrower bins, **but the cost of doing so** is that the number of observations that land in each bin falls so that the larger picture
+  painted by the histogram becomes increasingly variable and imprecise.
+- ambiguous
+- exclamation mark “!” 

@@ -115,6 +115,7 @@ $$
     $$
 
 
+
     The random draws are from exponential distribution based on the assumptions about the random parameters
     $$
     \beta_{wetland}, \beta_{pay},\beta_{cc},\beta_{nm} \sim rexp(n, rate = 1)
@@ -122,7 +123,7 @@ $$
 
 
     How to apply the WTA got from survey sample to the candidate sites of WCMO?
-
+    
     - farm size can be got from the cluster area information in  .shapefile
     - farm income: can use the average income of specific farm size as an indicator (see the size/income table  <https://finbin.umn.edu/FmSummOpts/Index>)
 
