@@ -2,6 +2,12 @@ Table of Contens
 
 [TOC]
 
+### Harvard Business Review
+
+https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71174357160001451&context=L&vid=UW&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,harvard%20business%20review&sortby=rank
+
+
+
 ### 12/14/2018
 
 - 
@@ -15,4 +21,16 @@ Table of Contens
 - <http://english-speak-english.com/2018-2/>
 
 
+
+### 12/20/2018
+
+- HBR <https://hbr.org/2018/01/why-do-so-many-managers-forget-theyre-human-beings>
+
+Once upon a time, CEOs steered away from political controversy. 
+
+Now all bets are off.
+
+But some CEOs, say Chatterji and Toffel, also are joining the debate because the changing business climate demands it of them.  
+
+ 
 

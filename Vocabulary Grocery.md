@@ -281,7 +281,7 @@
 - pump-up
 
    If you pump yourself up for something, you prepare yourself for it mentally, especially by telling    yourself that you can succeed. (INFORMAL) 
-  They find it difficult to pump themselves up for the games. 
+    They find it difficult to pump themselves up for the games. 
 
 - huddle
 
@@ -290,3 +290,98 @@
   ...the huddle of dark houses on the other side of the reservoir. 
 
 Loved being teammates with you, loved racing you, loved being on relays together (could always rely on your unreal splits and pump-up huddles.)
+
+
+
+### 12/20/2018
+
+- unalloyed 
+
+  If you describe a feeling such as happiness or relief as unalloyed, you are 
+  emphasizing that it is a strong feeling and no other feeling is involved. 
+
+- orthodoxy
+
+- ineluctably
+
+  not to be avoided, changed, or resisted : INEVITABLE 
+
+- antitrust policy
+
+  In the United States, antitrust laws are intended to stop large firms taking over their competitors, fixing prices with their competitors, or interfering with free competition in any way.
+
+- friction
+
+  the clashing between two persons or parties of opposed views 
+
+- percepts 
+
+- platform-based business
+
+- steer away
+
+- alienate
+
+- apolitical
+
+  having no interest or involvement in political affairs also : having an aversion to politics or political affairs 
+
+- impolitic
+
+  UNWISE 
+
+- all bets are off
+
+- speak out on an array of contentious subjects
+
+- take a stand
+
+- assert their views
+
+- be emboldened to follow
+
+- Twitter age, silence is more conspicuous - and more consequential. 
+
+- This newfound boldness is often born of personal conviction. 
+
+- paralysis
+
+  a state of powerlessness or incapacity to act
+
+  Social upheaval and government paralysis
+
+- upheaval  
+  An upheaval is a big change which causes a lot of trouble, confusion, and worry. 
+  Algeria has been going through political upheaval for the past two months. 
+  Having a baby will mean the greatest upheaval in your life. 
+
+- provoke (provocation)
+
+    1. To incite to anger or resentment.
+    2. To stir to action or feeling.
+    3. To give rise to; evoke:
+        provoke laughter.
+    4. To bring about deliberately; induce:
+        provoke a fight.
+
+- advocate 
+
+  If you advocate a particular action or plan, you recommend it publicly. (FORMAL) 
+  Mr Williams is a conservative who advocates fewer government controls on business
+
+- refrain from doing
+
+- As an aside
+
+   Saying as an aside is sometimes used as a polite way to change the topic and talk about something else
+
+- egress
+
+- pertain to 
+
+- discernible 
+
+  Perceptible, as by the faculty of vision or the intellect. See Synonyms at perceptible.
+
+- spurious 
+- 

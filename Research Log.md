@@ -45,6 +45,7 @@ Table of Contents**
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -618,3 +619,216 @@ p = \frac{e^2}{e^2 + e^0} = \frac{2}{2 + 1} = 0.88\\
 
 p = \frac{e^3}{e^3 + e^0}  = 0.95
 $$
+
+
+
+### 12/20/2018
+
+- The command set up has two choice models; 
+  - the first is the MNL model estimated to obtain the standard set of parameter estimates as well as
+    useful additional outputs such as elasticities, partial (or marginal effects) and prediction success; 
+  - the second MNL model uses the parameter estimates from the first model to undertake “what if” analysis using **;simulation** and **;scenario**, that involves selecting the relevant alternatives and attributes you want to change to predict the absolute and relative change in the choice shares. Arc
+    elasticities can be inferred from the scenario analysis, since it provides before and after choice shares associated with before and after attribute levels
+
+- start point
+
+  ```
+  ;Model: U(<alternative 1 name>) = <constant(valuei) > + <parameter(valuej) > *
+  <variable> /
+  ```
+
+- Constraint value
+
+  ```
+  ;Model:
+  U(<alternative 1 name>) = <constant[valuei]> + <parameter[valuej]>*<variable>
+  ```
+
+
+- Elasticity 
+
+  The theory underlying the concept of elasticity (or elasticity of choice) was set
+  out in Chapter 8. From Louviere et al. (2000, 58), direct and cross-elasticities
+  may be defined as:
+
+  > A direct elasticity measures the percentage change in the probability of choosing a
+  > particular alternative in the choice set with respect to a given percentage change in an
+  > attribute of that same alternative. A cross-elasticity measures the percentage change
+  > in the probability of choosing a particular alternative in the choice set with respect to a
+  > given percent>age change in a competing alternative.
+
+  - arc elasticity : for dummy variables
+  - point elasticity : for continuous variables
+
+
+
+  Consider the direct point elasticity for a decision maker given a unit increase in price from $1 to $2 and a decrease in the probability of choice from 0.6 to 0.55.
+
+
+  $$
+  E = \frac{0.6 - 0.55}{1 - 2} \times \frac{2}{0.55} = -0.182\\
+  E = \frac{0.6 - 0.55}{1 - 2} \times \frac{1}{0.6} = -0.08 \\
+  E = \frac{0.6 - 0.55}{1 - 2} \times \frac{1.5}{0.575} = -0.13 \\
+  $$
+
+
+  - 
+
+    ```
+    ? ;effects: <variablek(alternativei, alternativej)>
+    ? ;effects: <variablek(alternativei) / variableh(alternativei)>
+    ? 
+    ?( ) is for elasticities, [ ] is for partial or marginal effects:
+    ;effects:invc(*)/invt2(bs,tr,bw)/invt(cr)/act[bs,tr,bw]
+    ;pwt
+    ```
+
+  - To use the probability weighted sample enumeration (PWSE) method, the command **;pwt** must also be added to the command syntax.
+
+  ```
+  OPEN;export=“C:\Books\DCMPrimer\Second Edition 2010\Latest Version\Data and nlogit set ups\SPRPLabelled\NWelall.csv”$
+  Nlogit
+  . . .
+  ;effects:invc(*)
+  ;full
+  ?;export=matrix
+  ? ;export=tables
+  ;export=both
+  ;pwt
+  . . .$
+  ```
+
+
+- Partial / marginal effects
+
+  A partial or marginal effect reflects the rate of change in one variable relative to the
+  rate of change in a second variable. Unlike elasticities, marginal effects are not
+  expressed as percentage changes. Rather marginal effects are expressed as unit
+  changes. More specifically, we interpret the marginal effect for a choice model as
+  the change in probability given a unit change in a variable, ceteris paribus. 
+
+  ```
+  ;effects:act[bs,tn,bw];full;pwt
+  ```
+
+
+> As an aside, as the choice probabilities must sum to one, the marginal effects which
+> represent the change in the choice probabilities are mathematically constrained to sum to
+> zero, thus representing a net zero change over all alternatives. This is not true of elasticities.
+
+
+
+- ;simulation command (see Section 13.3.6) to obtain the change in choice shares resulting from a pre specified change in the dummy variable, such as setting gender = 1 and then = 0, and compare the results. Looking ahead, the scenario command would be
+
+  ```
+  ;Scenario: gender(bs,tn,bw) = 1.0 & gender(bs,tn,bw) = 0.0 $
+  ```
+
+
+- Confidence Interval:  
+
+  The “confidence interval” shown displays for you the range that contains roughly 95 percent of the sample observations on the elasticities, not a 95 percent confidence interval for a parameter
+  estimator.
+
+We can say : 
+$$
+\mu \in [a,b]
+$$
+is true in 95% of the samples, OR 
+
+We can say : the interval [a, b] was constructed by a procedure which will output an interval containing $\mu$ in 95% of samples. 
+
+:warning:However, we **can't** say that 
+$$
+Pr(\mu \in [a,b]) = 0.95 ❌
+$$
+ Because the interval either does or does not contain \mu, and we do not know whether it does or not. 
+
+ 
+
+> If the p-value is less than the analyst determined critical value, we **reject the null hypothesis at the 95 percent level of confidence** and conclude that the mean of the random parameter is statistically different to zero.
+
+
+
+- Partial or marginal effects for binary choice
+
+Fundamentally, the model describes the process of choosing one among a set of alternatives and, in response to changes in the attributes such as an increase in cost or travel time, the substitution of one
+alternative for another. 
+
+```
+logit ; if[altij = 4] ; lhs = choice ; rhs = one,invt,tc,pc,egt $
+```
+
+The differences b/w a full MNL model and partial effects model can be explained by two sources: 
+
+1. sampling variability – 175 observations is not a very large sample – 
+2.  and the violation of the IIA assumption that we explored in Chapter 7.
+
+
+
+- Simulation
+
+1. Estimate the model as previously described (automatically saving outputs
+  in memory);
+2. Apply the Simulation command (using the stored parameter estimates) to
+  test how changes in the attribute and SDC levels impact upon the choice
+  probabilities.
+
+Step 1 involves the analyst specifying a choice model that will be used as a basis of comparison for subsequent simulations. The Step 2 involves performing the simulation to test how changes in an attribute or SDC impact upon the choice probabilities for the model estimated in step 1. 
+
+```
+simulate ; if[altij=4]; scenario: & tc = 0(.5)10 ; plot(ci)$
+simulate ; if[altij=4]; scenario: & tc = 0(.5)10; plot(ci); set:invt=80, pc=30,egt=25$
+```
+
+3. scenarios produce **discrete changes in the probabilities from discrete changes in attributes**, it is convenient to compute arc elasticities using the results.
+
+   You can request estimates of **arc elasticities** in ;Simulation by adding ;Arc to the command. Like point elasticities, these be computed either unweighted or **probability weighted by adding ;Pwt** to the command. 
+
+```
+Nlogit
+;lhs = choice, cset, altij
+;choices = bs,tn,bw,cr
+;model:
+u(bs) = bs + actpt*act + invcpt*invc + invtpt*invt2 + egtpt*egt + trpt*trnf /
+u(tn) = tn + actpt*act + invcpt*invc + invtpt*invt2 + egtpt*egt + trpt*trnf /
+u(bw) = bw + actpt*act + invcpt*invc + invtpt*invt2 + egtpt*egt + trpt*trnf /
+u(cr) =                  invtcar*invt + TC*TC + PC*PC + egtcar*egt
+;Simulation;arc
+;Scenario: invt2(bs,tn,bw) = 0.9 & invt2(bs,tn,bw) = 0.8 $
+```
+
+
+
+- Weighting 
+
+  - Firstly, if the information pertains to the true market shares of the alternatives, the weighting criteria to be applied is said to be endogenous, endogenous meaning internal to the choice response. The market shares for the alternatives are represented by the choice variable within the data set. Both endogenous weighting and choice-based sampling is meaningful solely within the context of RP data collection.
+
+  ```
+  ;choices = <names of alternatives> / <weight assigned to alt1,> <weight assigned to
+  alt2,> . . . , <weight assigned to altj>
+  ```
+
+
+
+  -  If the information held by the analyst relates to any variable other than the choice variable, the weighting criteria to be applied is said to be exogenous, exogenous meaning external to the system.
+
+  ```
+  ;wts = <name of weighting variable>
+  ```
+
+
+- WTP
+
+  ```
+  Wald; Parameters = b ; Covariance = varb
+  ; Labels = bs,invtz,invtcz,invcqz,tn,bw
+  ; fn1 = -(invtz+invtcz*invc) / (invtcz*invt + 2*invcqz*invc)
+  ; Means $
+  ```
+
+  To compute the mean WTP, the function would be computed for each observation in the sample and the functions would be averaged. This calculation can be obtained by removing ;Means from the command above. An alternative to the delta method is the Krinsky–Robb (K&R) method. The preceding
+
+  ```
+  ;K&R ; Draws = number
+  ```
