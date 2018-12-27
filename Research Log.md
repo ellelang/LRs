@@ -36,17 +36,6 @@ Table of Contents**
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -918,3 +907,90 @@ kernel;rhs=invtd;limits=0,1.5;logit$.
 - The stored matrices of mean and standard deviation conditional parameter estimates provide important data to use in obtaining the distributions of random parameters that are conditioned on each respondent’s choice. There are many ways in which such evidence can be presented, but the most appealing method is one that can graphically show the distribution as well as indicate the confidence interval.
 
 - As a general result, an interval in a distribution for a continuous random variable defined by the mean plus and minus two standard deviations will encompass 95 percent or more of the mass of the distribution. This enables us to form a sort of confidence interval for βi itself, conditioned on all the information known about the individual. To obtain this level of confidence, the interval:
+
+
+
+### 12/26/2018 
+
+- Likelihood ratio test
+  - LR = 2 (log L | unrestricted model -  log L | restricted model)
+
+The LL for the nested logit is -199.25552. The LL for the MNL is -200.40253. Twice the difference is the estimated Chi squared statistic, which is only 2.294. With two degrees of freedom, the critical value (95 percent) is 5.99. **So the hypothesis of the MNL model is not rejected by this test**. The LL function for the nested logit model is not significantly larger than that for the MNL model:
+
+- Wald test
+  - The Wald distance is a measure of the distance of the estimated parameters from the hypothesized values. A familiar example is the simple t test of how far an estimated parameter is from zero (or, in the case of nested logit, how far the inclusive parameter estimate is from 1.0). The Wald statistic is computed as a quadratic form in the distance of the parameters from the null hypothesis using the inverse of the appropriate covariance matrix. The statistic has a Chi-squared distribution with degrees of freedom equal to the number of restrictions
+
+- Lagrange multiplier test
+  - The Lagrange multiplier (LM) test is a test of the hypothesis that these derivatives are actually “close” to zero. It is a Wald statistic based on the derivatives of the criterion function. The LM statistic is a Chisquared statistic with degrees of freedom equal to the number of restrictions.
+
+
+
+> IIA assumption :  irrelevant alternatives (IIA)
+>
+> RP : revealed preference 
+
+
+
+- Variance estimation
+
+  Statistical inference, such as some hypothesis tests, confidence intervals, and estimation generally, relies on computation of variances of estimators. There are several ways to proceed. The starting point is the estimator of the asymptotic covariance matrix of the estimator of the model parameters.
+
+
+  Central to this activity is the information obtained from a variance-covariance matrix of parameter estimates. 
+
+  - **The conventional estimator** of the covariance matrix of b is the negative inverse of the second derivatives matrix.
+
+  - **Robust estimation,** e.g. White estimator, that appropriately estimates the asymptotic covariance matrix of the ordinary (unweighted) least squares estimator, even in the presence of heteroskedasticity. 
+
+  - **Bootstrapping** of standard errors and confidence intervals
+
+    - Bootstrapping is a technique used to deduce the properties (usually mean and variance) of the sampling distributions of estimators by using the variation in the observed sample under an assumption that the pattern of variation in the observed sample mimics reasonably accurately the counterpart in the population.
+
+      In many cases, it is uncertain what formula should be used to compute the asymptotic covariance matrix of an estimator. In these cases, a more reliable and common strategy is to use **a parametric bootstrap procedure** instead. This requires **drawing from the estimated asymptotic distribution of the parameter estimates, and computing the non-linear function for each independent draw.** If this process is repeated many times, any feature of the sampling distribution of the non-linear function can be accurately estimated. Since the moments of these distributions may not exist, confidence regions should be estimated directly using percentiles of the sampling distribution.
+
+    - More intuitively, the idea is as follows. We typically have just one data set. When we compute a statistic on the data, we only know that one statistic (e.g., some mean estimate of WTP); we do not see how variable that statistic is. The bootstrap creates a large number of datasets (say, R repetitions) that we might have seen and computes the statistic on each of these data sets. Thus we get a distribution of the statistic. The strategy to create data that “we might have seen” is key.
+
+    - Note in the execute command that generates the bootstraps, we have accounted for the fact that in this sampling setting an “observation” consists of “cset” rows of data
+
+- Variances of functions and willingness to pay
+
+  Estimated parameters are not individually useful. Because the scale of the error terms is not identified, the scale of the individual parameters is also not identified. Therefore we typically look at ratios of the parameters (usually identifying willingness to pay (WTP) in the model), or use the parameters to carry out demand simulations. 
+
+  - If the parameter estimates are uncorrelated, then the ratios will typically have a Cauchy distribution (which has no finite
+    moments). This fact suggests that standard delta-method approximations (see above and
+    also Greene 1997, 127 and 916) will not yield reliable inferences, although the resulting
+    standard error estimates are certainly better than nothing!
+  - This section is concerned with **methods of obtaining asymptotic covariance matrices for estimators** such as these. Two equally effective and widely used methods are the delta method  and the Krinsky–Robb (KR) method. The standard errors for a WTP ratio are defined as in Equation
+
+
+  $$
+   s.e._{(\frac{\beta_k}{\beta_c})} \approx \sqrt{\frac{1}{\beta_c^2}[Var(\beta_k) - \frac{2\beta_k}{\beta_c}Cov(\beta_k,\beta_c) + (\frac{\beta_k}{\beta_c})^2Var(\beta_c)]}
+  $$
+
+  - Delta Method
+  - Non-symmetric confidence intervals obtained using Krinsky-Robb (KR )simulations are recommended
+    - 1. Estimate the WTP model with any function form. 
+      2. obtain the vector of parameter estimates and the VCV matrix  V(est $\beta$)
+      3. Calculate the Cholesky decomposition, C, of the VCV matrix such that CC'=V(est $\beta$).
+      4. Randomly draw from standard normal distribution a vector x with k independent elements.
+      5. Calculate a new vector of parameter estimates Z such that Z =$\beta$+C'x.
+      6. Use the new vector Z to calculate the WTP measures.
+      7. Repeat steps 4, 5, and 6 N (e.g., >=5,000) times to obtain an empirical distribution of WTP.
+      8. Sort the N values of the WTP function in ascending order.
+      9. Obtain a 95 percent confidence interval around the mean/median by dropping the top and bottom 2.5 percent of the observations.
+
+- Bayesian 
+
+  The key difference between Bayesian and classical approaches is that Bayesians treat the nature of the randomness differently. In the classical view, the randomness is part of the model; it is the heterogeneity of the taste parameters, across individuals. In the Bayesian approach, the randomness ‘represents’ the uncertainty in the mind of the analyst (conjugate priors notwithstanding).
+  Therefore, from the classical viewpoint, there is a ‘true’ distribution of the parameters across individuals. From the Bayesian viewpoint, in principle, there could be two analysts with different, both legitimate, but substantially different priors, who therefore could obtain very different, albeit both legitimate, posteriors.
+
+  Prior knowledge about parameters, θ, is gathered in a prior distribution, π(θ). T**he sampling distribution, or likelihood function, is given by f(X|θ)** where X contains all the sample data in the study. After observing the data, the information about θ is given by the posterior distribution which is derived using Bayes Theorem:
+  $$
+  Pr(\theta | x) = \frac{f(x|\theta)\pi(\theta)}{
+      \int f(x|\theta)\pi(\theta)d\theta
+  }
+  $$
+
+  - We note for the purposes explained below, that the posterior density is functionally equivalent to the conditional distribution of the parameters given the data. All inference is based on this posterior distribution. The usual Bayes estimator is the mean of the posterior distribution, and Bayesian confidence bands are typically given by the narrowest region of the posterior distribution with the specified coverage probability. Bayesian confidence regions are interpreted as fixed regions containing the random parameter θ with the specified coverage probability (i.e., the ‘highest posterior density’ interval). This is different from the classical confidence region, which is a region with random endpoints that contain the true value θ with the specified probability over independent repeated realisations of the data (Brownstone, 2001). Classical inference therefore depends on the distribution of unobserved realizations of the data, whereas Bayesian inference conditions on the observed data. Bayesian posterior inference is also exact and does not rely on asymptotic approximations to a true sampling distribution.
+
+ The ability to combine information about the aggregate distributions of preferences with individuals’ choices to derive conditional estimates of the individual parameters is very attractive

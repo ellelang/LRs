@@ -242,3 +242,32 @@ Timesheet
 - [ ] Check ECR update
 - [ ] SQL course 
 
+
+
+### 12/26/2018
+
+- [ ] ML WTP read finish
+- [ ] write down the process of estimation 
+- [ ] about WTP simulation
+- [ ] Qsci 292 prep
+- [ ] DDM & PIRF read and understand the content. 
+
+
+
+### 12/27/2018
+
+- [ ] Write Intro + Theoretical + MNL part + Heterogeneity WTA
+- [ ] Qsci 292
+- [ ] Systematic planning
+- [ ] DDM + PIRF
+- [ ] Reply to Kevin about the article review. 
+
+-----
+
+5:30 AM got up 
+
+5:40 - 7:00 wrote Chinese 
+
+8:10 got on the bus
+
+9:08  sat before computer in office to plan the daily work.

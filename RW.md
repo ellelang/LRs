@@ -34,3 +34,24 @@ But some CEOs, say Chatterji and Toffel, also are joining the debate because the
 
  
 
+### Useful structures. 
+
+#### Theoretical vs Practical
+
+- Introduction
+- The Theoretical Model
+- Econometric Model
+- Numerical Illustration
+- Conclusion
+
+------
+
+- Introduction
+- The Bayesian approach
+- The Mixed Logit Model
+- An Empirical Example
+  - 4.1 Stated Choice Experimental Design
+  - 4.2 Findings
+  - 4.3 WTP Derived from Individual Parameters
+
+- Conclusions

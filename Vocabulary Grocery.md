@@ -394,3 +394,33 @@ Loved being teammates with you, loved racing you, loved being on relays together
   painted by the histogram becomes increasingly variable and imprecise.
 - ambiguous
 - exclamation mark “!” 
+
+
+
+### 12/26/2018
+
+- canonical
+
+  Conforming to orthodox or well-established rules or patterns, as of procedure.
+
+- forgo
+
+  to give up the enjoyment or advantage of : do without 
+
+- upshot
+
+  The upshot of a series of events or discussions is the final result of them, usually a surprising result. 
+  The upshot is that we have lots of good but not very happy employees. 
+  So the upshot is we're going for lunch on Friday. 
+  N-SING: the N 
+  = outcome
+
+- squarely
+
+  in a straightforward or honest manner  we must squarely face the issue
+
+- proviso
+
+  A proviso is a condition in an agreement. 
+
+  You can borrow this book, with the ~ that you return it to me within a week.
