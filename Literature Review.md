@@ -120,7 +120,7 @@
 
 ### 12/06/2018
 
-
+<p 123. >
 
 There are three sources of randomness or variation in a willingness to pay measure: 
 

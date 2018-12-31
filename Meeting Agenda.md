@@ -116,6 +116,7 @@ $$
 
 
 
+
     The random draws are from exponential distribution based on the assumptions about the random parameters
     $$
     \beta_{wetland}, \beta_{pay},\beta_{cc},\beta_{nm} \sim rexp(n, rate = 1)

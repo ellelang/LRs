@@ -271,3 +271,16 @@ Timesheet
 8:10 got on the bus
 
 9:08  sat before computer in office to plan the daily work.
+
+
+
+### 12/29/2019
+
+- [ ] write down the DCM empirical part
+- [ ] DDM live
+- [ ] reply to Kevin
+- [ ] Qsci 292 prep
+- [ ] PIRF 
+- [ ] Write the email to introduce Yixie to Sergey
+- [ ] call family
+- [ ] 

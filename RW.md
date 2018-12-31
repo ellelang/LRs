@@ -55,3 +55,28 @@ But some CEOs, say Chatterji and Toffel, also are joining the debate because the
   - 4.3 WTP Derived from Individual Parameters
 
 - Conclusions
+
+
+
+### Size and word counts
+
+- 3000 words in main text ~ 850 * 3.5 = 2975
+
+Work out the relative size of each section (Introduction, Methods, Results, Discussion, Conclusion). A rule of thumb split is **600, 900, 500, 800, 200.**
+
+- 5484 words in main text ~850*6.5 = 5525
+
+  5484 words in total, approximately split by the ration: 2: 4: 4: 1 EXP :
+
+  - introduction 1908
+  - method 1991
+  - results 1715
+  - conclusion 623
+
+
+
+### Template collection
+
+
+
+The remainder of this article is organized as follows. In the following section, we give an overview of the theory, looking first at closed-form GEV models, and then at mixed GEV models. Section 3 presents a summary of the empirical analysis conducted to explore the potential of mixed GEV models and to highlight the issues of confounding discussed above. Finally, the fourth section gives a summary of the findings and presents the conclusions of the research.

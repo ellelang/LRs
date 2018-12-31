@@ -36,6 +36,7 @@ Table of Contents**
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -963,9 +964,9 @@ The LL for the nested logit is -199.25552. The LL for the MNL is -200.40253. Twi
   - This section is concerned with **methods of obtaining asymptotic covariance matrices for estimators** such as these. Two equally effective and widely used methods are the delta method  and the Krinsky–Robb (KR) method. The standard errors for a WTP ratio are defined as in Equation
 
 
-  $$
+$$
    s.e._{(\frac{\beta_k}{\beta_c})} \approx \sqrt{\frac{1}{\beta_c^2}[Var(\beta_k) - \frac{2\beta_k}{\beta_c}Cov(\beta_k,\beta_c) + (\frac{\beta_k}{\beta_c})^2Var(\beta_c)]}
-  $$
+$$
 
   - Delta Method
   - Non-symmetric confidence intervals obtained using Krinsky-Robb (KR )simulations are recommended
@@ -993,4 +994,4 @@ The LL for the nested logit is -199.25552. The LL for the MNL is -200.40253. Twi
 
   - We note for the purposes explained below, that the posterior density is functionally equivalent to the conditional distribution of the parameters given the data. All inference is based on this posterior distribution. The usual Bayes estimator is the mean of the posterior distribution, and Bayesian confidence bands are typically given by the narrowest region of the posterior distribution with the specified coverage probability. Bayesian confidence regions are interpreted as fixed regions containing the random parameter θ with the specified coverage probability (i.e., the ‘highest posterior density’ interval). This is different from the classical confidence region, which is a region with random endpoints that contain the true value θ with the specified probability over independent repeated realisations of the data (Brownstone, 2001). Classical inference therefore depends on the distribution of unobserved realizations of the data, whereas Bayesian inference conditions on the observed data. Bayesian posterior inference is also exact and does not rely on asymptotic approximations to a true sampling distribution.
 
- The ability to combine information about the aggregate distributions of preferences with individuals’ choices to derive conditional estimates of the individual parameters is very attractive
+ The ability to combine information about the aggregate distributions of preferences with individuals’ choices to derive conditional estimates of the individual parameters is very attractivese :flushed:
