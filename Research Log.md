@@ -37,6 +37,7 @@ Table of Contents**
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -995,3 +996,10 @@ $$
   - We note for the purposes explained below, that the posterior density is functionally equivalent to the conditional distribution of the parameters given the data. All inference is based on this posterior distribution. The usual Bayes estimator is the mean of the posterior distribution, and Bayesian confidence bands are typically given by the narrowest region of the posterior distribution with the specified coverage probability. Bayesian confidence regions are interpreted as fixed regions containing the random parameter θ with the specified coverage probability (i.e., the ‘highest posterior density’ interval). This is different from the classical confidence region, which is a region with random endpoints that contain the true value θ with the specified probability over independent repeated realisations of the data (Brownstone, 2001). Classical inference therefore depends on the distribution of unobserved realizations of the data, whereas Bayesian inference conditions on the observed data. Bayesian posterior inference is also exact and does not rely on asymptotic approximations to a true sampling distribution.
 
  The ability to combine information about the aggregate distributions of preferences with individuals’ choices to derive conditional estimates of the individual parameters is very attractivese :flushed:
+
+
+
+### 12/31/2018
+
+- Latex alignment equation only one line number--> add the  "\nonumber"
+- turn off section numbering in latex "\section*{Special relativity}"
