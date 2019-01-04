@@ -274,7 +274,7 @@ Timesheet
 
 
 
-### 12/29/2019
+### 12/29/2018
 
 - [ ] write down the DCM empirical part
 - [ ] DDM live
@@ -284,3 +284,30 @@ Timesheet
 - [ ] Write the email to introduce Yixie to Sergey
 - [ ] call family
 - [ ] 
+
+
+
+## January 2019
+
+
+
+### 1/3/2019
+
+- [ ] writing process
+
+  - experiment design
+    - lable or unlabel
+    - statistical efficient
+
+  - introduce the topic of indiviual heterogeneity
+  - socio-demographic questions
+  - respondent info
+  - model specification 
+
+- [ ] coding process
+
+  - nlogit for DCM
+
+- [ ] English process
+  - DDM 171
+  - PIRF 44

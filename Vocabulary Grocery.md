@@ -660,3 +660,12 @@ All I can say is, pray for peace and for justice for the oppressed. Be thankful 
 
 
 Here’s to a better year in 2019.
+
+
+
+### 1/2/2019 
+
+- comprise vs compose: comprise is a verb that means “to include or contain” or “to consist of” as in The pie comprises 8 slices. Compose means “to be or constitute a part of element of” or “to make up or form the basis of,” as in Eight slices compose the pie.
+- In turn: successively, in due order of succession
+- sabbatical : 
+  A sabbatical is a period of time during which someone such as a university teacher can leave their ordinary work and travel or study.  I am on sabbatical for the 2018–19 academic year.

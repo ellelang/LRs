@@ -10,7 +10,7 @@ Table of Contents**
 
 ### 12/06/2018
 
-#### Estimate WTA 
+**Estimate WTA** 
 
 - The non-parametric bootstrap
 
@@ -31,6 +31,7 @@ Table of Contents**
   $$
   \hat{U}^*_{int(b)} = X_{int}\hat{\beta} + e^*_{int(b)} \Rightarrow
   $$
+
 
 
 
@@ -87,7 +88,7 @@ OR.  b) Use the R function  rmvnorm(#,  mean=, sigma=)
 
 
 
-#### Miscellaneous
+**Miscellaneous**
 
 ```
 cat(paste(shQuote(var_names, type="cmd"), collapse=", "))
@@ -1003,3 +1004,138 @@ $$
 
 - Latex alignment equation only one line number--> add the  "\nonumber"
 - turn off section numbering in latex "\section*{Special relativity}"
+
+
+
+##  January 2019
+
+
+
+### 1/2/2019 
+
+- LaTeX/Special Characters  \hat, \bar, \tilde
+
+  https://tex.stackexchange.com/questions/66537/making-hats-and-other-accents-bold
+
+- Choice experimental design
+
+  *"A_primer on nonmarket valuation"*
+
+  The basic problem addressed in the experimental design literature for CEs—given the selected attributes and their levels—is how to allocate attribute levels to alternatives and choice sets. Several approaches to experimental design for CEs have been proposed, and the best approach to use depends on which preference parameters need to be estimated and whether or not prior information on the parameters is available. The researcher also needs to think about the complexity of the design because the inclusion of many alternatives and choice sets can cause respondents to use decision-making shortcuts (heuristics) that might not reflect their true preferences.
+
+   An experimental design must contain sufficient independent variation among attribute levels within and across alternatives so that each preference parameter can be identified. For example, if the levels of an attribute are always identical across alternatives, it will not be possible to identify the effect of that attribute on responses. A good design is also statistically efficient, meaning it minimizes (maximizes) the standard errors (precision) of the preference parameter estimates.
+
+  - Orthogonal full factorial design
+
+    - The primary advantage of a full factorial design is that all main and interaction effects are statistically independent (orthogonal) and can be identified when estimating a model
+
+    - The major drawback of this design is that a very large number of alternatives are generated as the numbers of attributes and levels are increased. If each of these three attributes takes two levels (install or not for Picnic shelters, install or not for Boat ramps, $10 or $20 for camping fees), there are 2^3 = 8 possible combinations of attribute levels in the full factorial design.  If the number of levels associated with each attribute increases from two to three, the full factorial design increases to 3^3 = 27 possible combinations of attribute levels.
+
+  - Orthogonal Fractional Factorial Designs
+
+    - The simplest method of generating a fractional factorial design is to select subsets of attribute combinations from the full factorial design using higher order interaction terms 
+    - However, in reducing the design size, fractional factorial designs omit some or all information on interaction effects. If the omitted interactions are important in explaining responses, the preference parameter estimates may be biased due to confounding an omitted variable with a main effect.
+    - Due to the possibility that a fractional factorial design can induce biased parameter estimates on the main effects and can fail to identify meaningful interactions, it is essential to identify which attribute interactions might be important during the design stage of survey development.
+    - These potentially important interactions could be evaluated by asking focus group participants if some combinations of attribute levels are particularly desirable or undesirable. If so, a main effects plus selected interactions plan should be used. In general, this is accomplished using orthogonal codes to examine the correlations between the main and interaction effects and assigning attributes to design columns that are orthogonal to the specified interaction effects
+
+
+
+  - Generating Choice Sets for Orthogonal Designs
+
+    The key issues to consider in creating an experimental design for a CE are how to place alternatives into choice sets and how many choice sets are needed.
+
+    - the number of choice sets depends on the number of degrees of freedom (the number of parameters plus one) required to identify the parameters of the specified model.
+    -  the number of degrees of freedom depends on whether the alternatives are described using a label to differentiate the alternatives (such as transportation modes or recreational locations) or whether they are unlabeled (generic). 
+    - Labeled alternatives are used when the researcher wants to estimate a utility function for each alternative. 
+    - The ability to identify the independent effect of each attribute in each alternative requires that attributes are orthogonal within and between alternatives. Unlabeled alternatives are used when the researcher is only interested in estimating a single utility function. Because labeled designs require more parameters to be estimated, more degrees of freedom are required, resulting in a larger design.
+    - the alternative specific constants provide a means for measuring that component of
+      utility that is independent of the experimentally designed attributes. It is also common to test for status quo bias in unlabeled designs by including an alternative specific constant for the status quo alternative. If the alternative specific constant is statistically significant, it suggests that respondents have a preference for (or against) the status quo option independent of the designed attributes.
+    - For unlabeled alternatives in which the analyst wants to estimate nonlinear effects, the **minimum degrees of freedom required is (L − 1) x A + 1,** where L is the number of attribute levels and A is the number of attributes. If only one parameter is estimated for each attribute, the number of degrees of freedom is reduced to A + 1. For labeled alternatives, the comparable
+      formulas are (L − 1) x NA + 1 and NA + 1, where N is the number of alternatives.
+    - Because choice models are based on attribute differences, the lack of a contrast for attribute levels within choice sets reduces the statistical efficiency of the design.
+    - In general, randomizing attribute combinations will be inadequate for estimating independent utility functions for labeled alternatives because the attributes will not be orthogonal across alternatives, and main effects will be correlated (Hensher et al. 2005; Street et al. 2005).
+
+  - Statistical Efficiency for CEs
+
+    Traditional orthogonal designs were developed for linear-in-parameters statistical models and meet two criteria for good designs: (1) they remove multicollinearity among attributes so that the independent influence of each attribute can be estimated, and (2) they minimize the variance of the parameter estimates so that t-ratios (based on the square roots of the variances) are maximized. These design criteria are met when the elements of the variance-covariance matrix for the linear model are minimized (Rose and Bliemer 2009).
+
+    - "best" variance-covariance matrix --> A commonly used summary statistic for the information contained in the variance-covariance matrix is the determinant as it uses information on the main
+      diagonal (variances) and the off-diagonals (covariances). The determinant of a variance-covariance matrix, scaled by the number of parameters to be estimated in the model, is known as the D-error. Designs that minimize the D-error are considered to be **D-efficient**. 
+
+    - - Optimal Orthogonal Designs 
+
+        One approach for finding D-efficient designs for CEs is to assume that all alternatives contained in choice sets are equally attractive or, equivalently, that all preference parameters equal zero. These designs are referred to as optimal orthogonal designs. In general, a D-efficient optimal orthogonal design is constructed by minimizing
+        the following expression
+        $$
+        D_0-error = det(VC(Z, 0))^{\frac{1}{k}}
+        $$
+        where Z represents the attributes in the experimental design, 0 indicates that beta = 0 for all model parameters, and k is the number of parameters used in the scaling factor. (The smaller of the D_p, the better of the design)
+
+
+
+      - Nonzero Priors Designs
+
+        A second approach to the efficient design of CEs using the variance-covariance matrix is based on the idea that information about the vector of preference parameters might be available from pretests or pilot studies and that this information should be incorporated in the design This approach, which we call a nonzero priors design, seeks to minimize the following expression:
+        $$
+        D_p-error = det(VC(Z, \beta))^{\frac{1}{k}}
+        $$
+        where p stands for the point estimates of the (nonzero) b’s. The constraints imposed
+        on the optimal orthogonal model (orthogonality, attribute level balance, and minimal
+        overlap) are relaxed in minimizing the Dp-error. However, if reasonable nonzero
+        priors are available, relaxing these constraints can result in efficient designs that
+        greatly reduce the number of respondents needed to achieve a given level of significance
+        for the parameter estimates (Huber and Zwerina 1996). Note that designs
+        that minimize the Dp-error do not generally minimize the D0-error and vice versa.
+
+        If the nonzero priors are incorrect, however, the selected design will not be the most efficient. 
+
+        - One method for evaluating this potential shortcoming is to test the sensitivity of a D-efficient design to alternative parameter values, which can provide the analyst some degree of confidence about the robustness of a design (Rose and Bliemer 2009).
+        - Another approach that can incorporate the analyst’s uncertainty about parameter values is to **specify a distribution of plausible values that reflects subjective beliefs about the probabilities that specific parameter values occur** (Sándor and Wedel 2001; Kessels et al. 2008). This Bayesian approach to experimental design proceeds by evaluating the efficiency of a design over many draws from the prior parameter distributions $ f(\tilde{\beta})$. The design that minimizes the expected value of the determinant shown in Eq below is a D-efficient Bayesian design:
+
+        $$
+        D_b-error = \int_{\tilde{\beta}} det(VC(Z, \tilde{\beta}))f(\tilde{\beta})d\beta
+        $$
+
+
+  - Selecting a design
+
+    Given a suite of alternative design options, which design should a researcher choose? **Although this will depend on considerations specific to each study, the authors recommend the following general guidelines.** 
+
+    - First, use a design that is statistically efficient in the context of the nonlinear-in-parameters models used to analyze random utility models. If reasonable information is available on preference parameters from sources such as pretests or pilot studies, the authors recommend using a nonzero priors design. In general, these designs reduce the number of respondents needed to achieve a specific precision (standard error) for the parameters specified in the utility function(s) and can therefore help reduce the cost of survey implementation.
+    -  In cases where no prior information is available or where parameter estimates from other CE studies do not provide a good match, an optimal orthogonal design should be considered. This recommendation is based on evidence that optimal orthogonal designs can produce good results where prior information on parameter values is of poor quality or when the model specification chosen by the analyst is inconsistent with the underlying data generating process (Ferrini and Scarpa 2007). The construction of statistically efficient designs is greatly facilitated by the availability of software programs (such as SAS and Ngene).
+
+
+
+### 1/3/2019 
+
+- ASCs 
+  alternative-specific constants (ASCs) 
+
+- IRB APPLICATION (MRB Survey see notes in Evernote)
+
+- Human subjects approval for the survey was granted by the Human Subjects Review Board at the University of Washington.
+
+- Refer table /figure in latex
+
+  ```
+  \begin{figure}[here]
+  \includegraphics[width=0.9\textwidth]{images/JobInformationDialog.jpg}
+  \caption{A prototype of the Job Information dialog}
+  \label{fig:jobInformationDialog}
+  \end{figure}
+  
+  -->>>>> Please see Figure ~\ref{fig:JobInformationDialog} on page ~\pageref{fig:JobInformationDialog} for a prototype blah blah blah
+  
+  
+  ################
+  \begin{table}[!htb]
+      \centering
+          \begin{tabular}{lrc}\hline
+          ....
+      \caption{Class Mark List}\label{tab:a}
+  \end{table}
+  ```
+
+
+
+
