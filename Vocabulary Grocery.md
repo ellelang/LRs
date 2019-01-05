@@ -4,6 +4,10 @@
 
 [TOC]
 
+# 2018
+
+## December 
+
 ### 12/5/2018
 
 - Spectacular 
@@ -663,9 +667,292 @@ Here’s to a better year in 2019.
 
 
 
-### 1/2/2019 
+# 2019
+
+## January 
+
+### 1/1/2019
+
+LME Lesson 1 http://archive.aweber.com/ddm_membership/HdbWZ/h/Strong_start_to_your_2019_.htm
+
+- No caramel. I will die
+
+- I have to be careful not to slip on the ice.
+
+- Happy New Year **to you and yours!!**
+
+- The best to you and yours in 2019!
+
+  **It means: to you and your family/friends/colleagues/coworkers/classmates...**
+
+  You can use this expression in your emails AND when talking with people. It's a very personable (nice) and polite way to greet someone this time of year!!
+
+- personable： Someone who is personable has a pleasant appearance and character. 
+  The people I met were intelligent, mature, personable
+
+- Yule log recipe.
+
+- Yummy in my tummy
+
+- Handmade decorations 
+
+- garland  n/v  A garland is a circular decoration made from flowers and leaves. 
+
+  e.g. People sometimes wear garlands of flowers on their heads or around their necks. 
+
+  e.g. Players and officials were garlanded with flowers. 
+
+- Arras city of France
+
+- arras.  1 : a tapestry of Flemish origin used especially for wall hangings and curtains 
+  2 : a wall hanging or screen of tapestry
+
+- My Christmas tree ornament.
+
+I now know the great joy of first having a baby son. But to have him get married...wow!! Over the next few years, I may **seek your advice on how to** be a good father!! **I wish your son and his bride a wonderful life together!!**
+
+- stunning
+- may love continue to grow in your family throughout 2019! The best to you and yours!
+
+I want to share with you with the Christmas cards we made with my elder daughter for charity- they will go to orphanages along with presents.
+
+- orphanage:  an institution for the care of orphans
+- My hugs to your family
+
+Yes--the real meaning of Christmas, is remembering those in need and doing something for them. Sending children cards and gifts is a really wonderful thing to do. Just like the little girl in our last DDM, right? I'm really proud of children who spend the extra time to GIVE. Especially at this time of year!!
+
+- pedestrian mall
+
+Wow--in the US, Santa flies around in a sleigh.  I wish you and your wife a SUPER 2019 with great health and success! 
+
+- sleigh : an open usually horse-drawn vehicle with runners for use on snow or ice
+
+Well, although the decorations look a little...sparse! They are STILL done with the proper spirit! Those Christmas trees remind me of Charlie Brown's Christmas. I wonder if you have seen that movie? I wonder if any of you have seen it...
+
+- sparse : Something that is sparse is small in number or amount and spread out over an area.  / of few and scattered elements especially : not thickly grown or settled 
+
+Remember, **every Christmas tree--big and small--is a treasure. And they all have the power of making people smile!**
+
+
+
+- Last minute Christmas shopping.
+- start carving the turkey
+
+On the table, cranberry bread, pumpkin pie, **stuffing-on-the-side**, Brussels sprouts, mashed potatoes, **gravy, scalloped corn,** Christmas cookies and roast turkey!
+
+- gravy:  a sauce made from the thickened and seasoned juices of cooked meat  
+- Carved turkey with all the "trimmings"! 
+
+His family took a picture and sent it out to everyone. And they included a little letter that talked of the BIG EVENS (highlights) of 2018. It's a great idea. I think next year, I'll copy his idea!
+
+- sent it out to everyone
+
+Truck down again. So, over the past two weeks: Battery DEAD. Plow had an electrical problem. An engine belt broke.
+
+- plow:   an implement used to cut, lift, and turn over soil especially in preparing a seedbed 
+
+All SEPARATE incidents and expensive. Good news. It's all fixed. I hope there's no more bad news!!
+
+
+
+### 1/2/2019
+
+LME Lesson 2 http://archive.aweber.com/ddm_membership/Grc0Z/h/The_Year_of_English_Here_s.htm
+
+- A cymbal-bashing monkey!
+
+  A cymbal is a flat circular brass object that is used as a musical instrument. You hit it with a stick or hit two cymbals together, making a loud noise. 
+
+- Ladybugs  that move~
+- A tin soldier that bangs on a drum!
+- A jack in the box~
+
+And…all of those toys were **WIND-UP** toys! On the side or on the back of the toy, there was a handle or a little pin that you “wind” and then the toy will “play”!
+
+In daily English, we can use “wind up” as a phrasal verb to have DIFFERENT meanings!
+
+*To wind up...Winds up...Wound up...Winding up*
+
+The meeting is **winding up**. FINISHING
+
+How will the game **wind up**? END
+
+Don’t **wind up** the children before bedtime! GET EXCITED/LOUD
+
+The news always **winds me up**. MAKES *me* ANGRY/AGITATED
+
+After living in Korea, I **wound up** in Las Vegas! ARRIVED
+
+
 
 - comprise vs compose: comprise is a verb that means “to include or contain” or “to consist of” as in The pie comprises 8 slices. Compose means “to be or constitute a part of element of” or “to make up or form the basis of,” as in Eight slices compose the pie.
 - In turn: successively, in due order of succession
 - sabbatical : 
   A sabbatical is a period of time during which someone such as a university teacher can leave their ordinary work and travel or study.  I am on sabbatical for the 2018–19 academic year.
+
+
+
+### 1/3/2019
+
+LME Lesson 3 <http://archive.aweber.com/ddm_membership/Ioe.Z/h/Year_of_English_Lesson_3_.htm>
+
+With the new year, many people want to make a new plan. A fresh start. Why not? It’s a great time to do something new, right?! But instead of DOING something…what about FINDING something?
+
+Below is a list of “things” that people spend YEARS looking for. Some people never find them. What about you? I still have a LOT of “things” to find, but I think I have found a few! You can see them in blue.
+
+FIND YOUR...
+
+- Have you found your bliss? Your happiness
+
+- Find your calling—the job that feels natural to you
+
+  -  YES! For me, teaching!
+
+- Find your destiny—God’s purpose for you OR your life according to the stars (astrology)
+
+- Find your edge—your advantage that other people don’t have
+
+  - Yes! I think~ The ability to explain difficult things EASILY to people
+
+- Find your fate—your destiny
+
+- Find your grind—the work (job) that is best for you
+
+  - Yes! Working for myself online at home!
+
+  - grind : dreary, monotonous, or difficult labor, study, or routine b : one who works or studies excessively* 
+
+- Find your groove—*the lifestyle that is perfect for you*. 
+  - Yes! The country life—like a farmer with a computer!
+  - groove: a fixed routine : RUT b : a situation suited to one's abilities or interests : NICHE 
+
+​      
+
+- Find your passion—something you LOVE doing
+
+- Find your purpose—your reason for living
+  - Yes, I think. To help people by making them smile~
+
+- Find your spirit animal—the animal you resemble in your daily life
+
+- Find your style—the “look” (appearance) that is best for you
+
+- Find your talent—a skill that you’re naturally good at
+- Find your voice—the ability to express your thoughts and feelings easily
+- Find your way—the path towards a happy/successful life
+- Find your Zen—an inner peace where you are able to block out the rest of the world!
+
+That’s it for today…**a little philosophical!!**
+
+
+
+### 1/4/2019
+
+LME Lesson 4 <http://archive.aweber.com/ddm_membership/HYHUZ/h/English_Lesson_4_Enjoy_it.htm>
+
+**TO LEARN: reddit, lurk, nootropics, subreddit,  AMA**
+
+I highly recommend you check out reddit FOR YOUR ENGLISH!
+
+Reddit.com is the 16th most popular website in the WORLD! Reddit is a place where you can find every type of subject and talk about it with other people. **Or you can “lurk”. To lurk means to “just watch”!!**
+
+I go to reddit to find out information about “nootropics”. Nootropics are vitamins and foods and herbs that I can eat which help my BRAIN function better! Another “subreddit’ (subject in reddit) that I like is ELI5.ELI5 is short for “ExplainLikeImFive” or “Explain (difficult subject) as though I’m a five-year-old child”!!
+
+In the ELI5 subreddit, people ask questions about science (LOTS of science), politics, religion or ANY kind of silly question that we don’t understand the answer to.
+
+ That brings me to AMA. AMAs started on reddit—AMA stands for “Ask Me Anything”! Experts and politicians and **celebrities use AMAs to help people, to get to know people, and to satisfy people’s curiosities!**
+
+Nowadays you can find AMAs on Twitter, Facebook, Periscope…**pretty much everywhere on the internet**!
+
+That’s it for today! **A quick recap**: reddit…lurk…nootropics…subreddit…AMA
+
+- A quick recap: 
+
+- Have a super weekend!
+
+
+**Book review about  [The Minimalist Home: A Room-by-Room Guide to a Decluttered, Refocused Life]**
+
+This is an excellent book--logical, sensible, and worth reading. The one thing missing is "how" to get rid of things. Certain items, like used clothing, are covered, but the problem comes with family heirlooms you no longer want (and no one else does, either) or things, like valuable silver, that you can't just put in the trash. I've tried auctioneers (they don't want to deal with these things any more than you do), consignment shops (they tell me to come and get them), and there they are again, back in my house. What we need next is a book that really focuses on places to send things, not necessarily for monetary gain, but to ensure they don't end up in a landfill. My late mother-in-law used to say that you spend the first half of your life acquiring things and the next half trying to get rid of them. She was right. You can't just toss a two-hundred year old fish slice. So where do you send it?
+
+- family heirlooms 
+  An heirloom is an ornament or other object that has  belonged to a family for a very long time and that has been handed down from one  generation to another.
+
+- consignment  shops: a dealer who pays only for what is  sold and who may return what is unsold <goods shipped on consignment*>
+
+- landfill: A landfill is a large deep hole in which very large amounts of rubbish are buried
+
+- you spend the first half of your life acquiring things and the next half trying to get rid of them
+
+- You can't just toss a two-hundred year old fish slice. 
+
+- tackle my mental and physical materialistic issues: 
+
+  If you tackle a difficult problem or task, you deal with it in a very determined or efficient way. 
+
+
+
+First off let me say I love Joshua Becker...have been following him for years. I have his first book and thoroughly loved it so was looking forward to this new book. Boy I was disappointed. The book is described as “a room by room guide to a decluttered refocused life.” Nothing could be further from the truth...every chapter(room) said the same thing-get rid of what you don’t want, keep what you love. Not very inspiring! If you preordered the book and are on Joshua's email list, you also received some online materials(minimizing checklist and a step by step minimizing checklist) I found those to be way more helpful, informative, and inspiring than the book itself. In fact I printed them out and put them in protective sheets in a folder so I can refer to them over and over. In those checklists he lists actual ITEMS to declutter and is much more specific as to how to proceed with your decluttering. I still think Joshua’s methods of decluttering and simplifying are the best-this book just fell short.
+
+- refer to them over and over
+- how to proceed with your decluttering. 
+
+
+
+Many thanks to NetGalley, Waterbrook and Multnomah, and Joshua Becker for an ARC in exchange for an honest review. My opinions are 100% my own and independent of receiving an advanced copy.
+
+Joshua Becker has been in the “minimal” business for about 10 years. He has a website where you can get lots of tips and advice, including a newsletter sent to your inbox every so often. He has written other books but this one is sort of the culmination of his life’s work. He has been on TV, speaks all over and I have been following him for the past couple of years.
+
+- every so often: once in a while; occasionally
+
+- this one is sort of the culmination of his life’s work.
+
+
+ In today’s **world of massive consumerism**, we can all use a dose of paring down and keeping things simple. We all have too much stuff. **We are promoted, advertised, propagandized into thinking that it’s all stuff we need, what we have isn’t the right stuff and that the more stuff we have the happier we will be.** This has been going on for years, I mean George Carlin had a bit about “Stuff” in the early 80’s. So I was excited to read what Becker had to say on what he promotes as a step by step, comprehensive room-by-room guide to decluttering your home and your life.
+
+
+
+- massive consumerism
+- pare down:   to trim off an outside, excess, or irregular part. Pare down expenses
+- be promoted, advertised, propagandized into thinking that.... 
+
+Ugh - what an awful read. First I felt like his tone was so condescending. I couldn’t take it. Obviously I have a lot of stuff - that’s why I’m reading this book. He would repeat himself, ad nauseam, throughout the whole book. 
+
+- his tone was so condescending. I couldn't take it.
+
+- ad nauseam:  to a sickening or excessive degree
+
+
+There wasn’t any comprehensive guide - again, he would repeat the same thing over and over for each room, literally the same steps - for each room! Why bother going through each room, listing all of the possible things you might have accumulated, telling me “get rid of what you don’t use or don’t need”. Obviously I knew that much! I don’t need a book for that. I was hoping for some insight, maybe some ideas that I hadn’t thought of to help declutter, some instructions. There was no real guidance other than “don’t do it” for lasting change. 
+
+- there was no sth. other than ...
+
+
+
+Then, don’t tell me how my life is going to change, I will become richer, have a fabulous job, help the poor, have more time, blah blah blah, just because you told me to get rid of some stuff. I didn’t buy any of it. I have decluttered before and none of those things have happened to me. The “real life” examples were ridiculous, laughable. Look, I believe in keeping a home without a lot of junk. Nobody needs piles of clothes, lots of knick-knacks, and yes, you should keep those things that mean something to you. 
+
+- I didn't buy any of it.
+
+- knick-knacks:  small objects which people keep as ornaments or toys, rather than for a particular use. 
+  e.g. Her flat is spilling over with knick-knacks. 
+
+You shouldn’t get sucked into marketing ideas of having the latest, greatest and best thing out there, which will go out of date and then you need something new. I also happen to live with a (mild case) hoarder, who believes every rock, piece of junk, paper, etc. is extremely important and sentimental and will not throw out anything. 
+
+- get sucked into marketing ideas of ...
+- out there 
+- (mild case) 
+- hoarder: a person loving accumulating items. 
+- Sentimental means relating to or involving feelings such as pity or love, especially for things in the past. 
+  e.g. Our paintings and photographs are of sentimental value only. 
+  e.g. Perhaps he has returned for sentimental reasons. 
+
+
+
+So according to Becker, those are the things to keep. Not helpful. But without something new or real to add to the discussion, don’t fill up a book with one idea. My advice is don’t add one more book to your bookshelf with this one.
+
+- fill up: make full
+
+  If you fill up or fill yourself up with food, you eat so much that you do not feel hungry
+
+
+

@@ -39,6 +39,8 @@ Table of Contents**
 
 
 
+
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -1074,7 +1076,7 @@ $$
 
 
       - Nonzero Priors Designs
-
+    
         A second approach to the efficient design of CEs using the variance-covariance matrix is based on the idea that information about the vector of preference parameters might be available from pretests or pilot studies and that this information should be incorporated in the design This approach, which we call a nonzero priors design, seeks to minimize the following expression:
         $$
         D_p-error = det(VC(Z, \beta))^{\frac{1}{k}}
@@ -1086,12 +1088,12 @@ $$
         greatly reduce the number of respondents needed to achieve a given level of significance
         for the parameter estimates (Huber and Zwerina 1996). Note that designs
         that minimize the Dp-error do not generally minimize the D0-error and vice versa.
-
+    
         If the nonzero priors are incorrect, however, the selected design will not be the most efficient. 
-
+    
         - One method for evaluating this potential shortcoming is to test the sensitivity of a D-efficient design to alternative parameter values, which can provide the analyst some degree of confidence about the robustness of a design (Rose and Bliemer 2009).
         - Another approach that can incorporate the analyst’s uncertainty about parameter values is to **specify a distribution of plausible values that reflects subjective beliefs about the probabilities that specific parameter values occur** (Sándor and Wedel 2001; Kessels et al. 2008). This Bayesian approach to experimental design proceeds by evaluating the efficiency of a design over many draws from the prior parameter distributions $ f(\tilde{\beta})$. The design that minimizes the expected value of the determinant shown in Eq below is a D-efficient Bayesian design:
-
+    
         $$
         D_b-error = \int_{\tilde{\beta}} det(VC(Z, \tilde{\beta}))f(\tilde{\beta})d\beta
         $$
@@ -1138,4 +1140,63 @@ $$
 
 
 
+### 1/4/2019
 
+
+
+- Why use .sty file?   https://tex.stackexchange.com/questions/91167/why-use-sty-files
+- https://tex.stackexchange.com/questions/528/style-class-tutorials
+- How to write a class file https://www.dickimaw-books.com/latex/admin/html/clsform.shtml
+
+First of all: *never* use `\include` to load a file with personal definitions and packages to use.
+
+The choice is thus between `\input` and `\usepackage`; for the first it's better to use the extension `.tex` for the file, for the second `.sty` is mandatory.
+
+What are the pros of the latter solution? Many. For instance you can define *options* that can change the behavior of your macros or selectively load parts of it.
+
+In a `.sty` file `@` is assumed to be a letter, so no `\makeatletter` or `\makeatother` command is needed to access "private macros", which is often the case for complex macros.
+
+If you don't need options nor access to private macros, loading your definitions and package with `\input{mymacros}` is exactly equivalent to `\usepackage{mymacros}` (provided that the file is `mymacros.tex` in the first case and `mymacros.sty` in the second one).
+
+As noticed by Andrew Stacey, there is one more pro in using a `.sty` file: it won't be loaded twice, even if called twice in a document (maybe frome some other loaded file or package). This is important because `\newcommand` would raise errors on the second loading (and other definitions might lead to infinite loops).
+
+Example. Suppose you have a macro that must change its behavior when the `draft` option is enabled in the `\documentclass` line; for instance it should have an argument that's emphasized in the text and is also written in the margin for draft copies.
+
+Example. Suppose you have a macro that must change its behavior when the `draft` option is enabled in the `\documentclass` line; for instance it should have an argument that's emphasized in the text and is also written in the margin for draft copies.
+
+```tex
+\ProvidesPackage{mymacros}
+\newif\if@myfiledraft
+\DeclareOption{draft}{\@myfiledrafttrue}
+
+\ProcessOptions\relax
+
+\if@myfiledraft
+  \newcommand{\myterm}[1]{\emph{#1}\marginpar{TERM: #1}}
+\else
+  \newcommand{\myterm}[1]{\emph{#1}}
+\fi
+
+\endinput
+```
+
+If a document does
+
+```tex
+\documentclass[draft]{article}
+\usepackage{mymacros}
+
+\begin{document}
+\term{foo}
+\end{document}
+```
+
+then "TERM: foo" will be written in the margin. If `draft` is removed, the same source will only emphasize "foo" in the text.
+
+
+
+- Latex beamer theme
+
+  https://hartwork.org/beamer-theme-matrix/
+
+- 
