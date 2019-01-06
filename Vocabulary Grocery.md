@@ -956,3 +956,74 @@ So according to Becker, those are the things to keep. Not helpful. But without s
 
 
 
+English speak English<http://english-speak-english.com/a-new-feature/>
+
+Beginning this year (2019) I will try and post a monthly topic of “special difficulties” in the English language. Words and phrases that are often confused or misused will be the primary focus, **but there may be other pointers that come up too.**
+
+These words and phrases are worth saving in your vocabulary notebook for future reference.
+
+Words often confused or misused.
+
+Lesson 1
+
+A) Phrases with the word **way**.
+
+**In the way:** Please move this chair. It’s in the way. Do your work in the way I have shown you.
+
+**On the way**: I bought a magazine on the way to the station.
+
+**In this way:** He saves old envelopes. In this way, he has collected a great many stamps.
+
+**By the way**: By the way, have you seen Sally?
+
+**In a way:** In a way, It is an important film.  (to some degree)
+
+The delivery man knocked at my door and he rang the doorbell.
+I **knocked the vase off the table** and broke it.
+He always **knocks off** at six o’clock on Fridays. (He finishes his work.)
+The shop manager **knocked 10% off** the bill. (Reduced the price by 10%.)
+A car knocked the boy over.. (It hit him and made him fall.)
+The older boxer **knocked out** the younger fighter in the first round. (Hit him so hard that he caused the fighter to lose consciousness.)
+
+- vase:  A vase is a jar, usually made of glass or pottery, used for holding cut flowers or as an ornament. 
+
+
+
+
+
+### 1/5/2019
+
+- Get ready for some serious wet weather coming your way!
+
+[Forget El Nino, StormFest Is about To Hit The West Coast] <https://www.zerohedge.com/news/2019-01-04/forget-el-nino-stormfest-about-hit-west-coast>
+
+Via Cliff Mass Weather & Climate blog,
+
+Things often calm down after January 1 during El Nino years... but not this year... with the U.S. West Coast from central California to Washington State about to be pummeled by a series of storms.   Rain, snow, wind?  Plenty for everyone.
+
+-  pummeled
+
+A view of the latest infrared satellite imagery shows an amazing line-up of one storm after another stretching way into the Pacific.  A traffic jam of storms.
+
+- infrared infrared  
+  Infrared radiation is similar to light but has a longer wavelength, so we cannot see it without special equipment
+
+- line-up
+- a traffic jam of storms
+
+**Wind?**  You bet.  Each of these storms will bring strong, damaging winds to a favored area of the coastal zone and mountain peaks. 
+
+There is a **silver lining** of all this action of course:  it will provide an immense amount of water to fill our reservoirs and enhance our snowpack, a **snowpack** that is now in pretty decent shape (see latest summary below).  Water resources should be fine next summer.
+
+- Silver lining: If you talk about a silver lining, you are talking about something positive that comes out of a sad or unpleasant situation. 
+  The fall in inflation is the silver lining of the prolonged recession. 
+  N-SING
+- in a decent shape
+
+But all these facts on the ground and favorable forecasts don't stop some of Seattle's wacky local media from talking about drought for our region, with the Seattle Stranger being one of the worst (see below). 
+
+- wacky:  absurdly or amusingly eccentric or irrational : CRAZY <e.g wacky ideas> <e.g. a wacky comedian> 
+
+Facts should matter---apparently not at the Stranger.
+
+- hedge : a calculatedly noncommittal or evasive statement
