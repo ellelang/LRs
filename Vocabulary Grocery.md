@@ -1027,3 +1027,176 @@ But all these facts on the ground and favorable forecasts don't stop some of Sea
 Facts should matter---apparently not at the Stranger.
 
 - hedge : a calculatedly noncommittal or evasive statement
+
+
+
+### 1/7/2019
+
+LME Lesson 5 http://archive.aweber.com/ddm_membership/KeaKZ/h/If_you_miss_our_SALE_TOUGH.htm
+
+My BAD LUCK STREAK (long period of time of continuous bad luck) was caused by BAD DECISIONS that I made.
+
+- streak:  An unbroken series, as of wins or losses
+
+But my BAD LUCK STREAK started to end, also, because of GOOD DECISIONS that I made. 
+
+LUCK in life, good and bad, doesn’t usually happen in one day—it builds. It builds more. And then explodes. And, for some of us, it lasts and grows for years and years.
+
+- explode: increase rapidly and in an uncontrolled manner
+
+- Tough luck is when something BAD happens.
+
+Sometimes you created the bad luck~ but Sometimes it just happens~
+
+Tough luck happens ALL THE TIME!! But don’t allow “tough luck” to ruin your day.
+
+
+
+- encounter complications : have / experience/ come upon problems
+- Caesarean section
+- amniotic fluid
+- resuscitate: came back to life
+- walk away from: despite .. ended up...
+- ordeal: a very trying/difficult/demanding incident / event
+
+Not only did she spontaneously resuscitate, Graupera walked away from the ordeal with no brain damage. 
+
+ 
+
+- made it through  = survived
+- abruptly: suddenly
+- intact: unharmed, **unscathed.** 
+
+He also abruptly **came to** with his brain health intact....
+
+- Confucius
+
+I mentioned a few bits of wisdom from Confucius. 
+
+- would you just put her on? = let her answer the phone
+
+- How come you ... = how dare you
+
+- appalled: shocked, taken aback
+
+I was appalled to learn of the destructive influences you've had over her life. 
+
+- calling the shots: making the decisions, in charge
+
+From now on, I'll be calling the shots around here
+
+- structure: a lifestyle (role, relationships, duties) that is clearly defined
+
+Well,I've encouraged her  to go back into the Army. There she'll **get the structure** and the disciplines he needs right now. And she'll have qualified officers telling her what to do.
+
+- duped: fooled, conned, taken advantage of 
+
+You couldn't **get away with that** in any other restaurant. 
+
+- I'm running all over Queens. 
+
+- Tons of traffic. 
+- remain elusive: is out of reach/grasp, has not yet come to fruition, has yet to be
+- Shelled out: paid (a lot of money)
+- hefty: large, huge, heave
+- overage charges: financial charges for using something too much - over-usage
+- admittedly: in concurrence
+- stem from: are related to, go back to
+- ethical: right, proper, decent
+- what' in the fine print: the information written in small print/text in the contract that few people read. 
+- etiquette: Etiquette is a code of behavior that delineates expectations for social behavior according to contemporary conventional norms within a society, social class, or group. 
+- wharf: dock, a platform built out from the shore into the water and supported by piles; provides access to ships and boats
+- spiked: If someone has spiked hair, their hair is short and sticks up all over their head
+- snarl: If you snarl something, you say it in a fierce, angry way.
+- snort: If someone snorts something, they say it in a way that shows contempt. 
+
+
+
+spike your water with fresh lemon or lime juice—the nutrients in those fruits are known to be stone busters!
+
+- spike : add alcohol to (beverages)
+
+
+
+### 1/8/2019
+
+LME Lesson 6
+
+- seize the day
+
+  seize : To grasp with the mind; apprehend
+
+- Do you keep a dream journal
+
+- Actually, these days I've been having dreams **with a recurring theme.**..a bathroom!
+
+- I am holding in TOO many emotions~
+
+- I have stress just like anyone else! I don't think I have any emotions building up inside~~ 
+
+- It's 2019. Time to set up a plan for the year.
+
+- conceive:  to become pregnant with <eg. conceive a child>
+
+- a tremendous story
+
+- shovel the snow and damp it
+
+  - shovel: If you shovel earth, coal, or snow, you lift and move it with a shovel
+  - If you dump something somewhere, you put it or unload it there quickly and carelessly. (INFORMAL) 
+  - haversack
+
+- municipal: relating or belonging to or characteristic of a municipality
+
+Down below are traditional New Year delicacies : sweet black beans, Kobumaki (tuna fish wrapped in boiled kelp) and mashed sweet potatoes that symbolize all good fortune.
+
+- delicacy: We were served course after course of mouthwatering local delicacies
+
+Country Hajime (Aomori Pref. Japan)
+
+- Home winterization 101
+
+  winterize:to make ready for winter or winter use and especially resistant or proof against winter weather <eg. winterize a car> 
+
+- can snow get trapped up there? Let me know!!
+
+  If I have time, I'll go and shovel off your roof. Maybe Hajime can help, too!
+
+- Roses have thorns!
+- The year of 2018, I had a lot of ups and downs but I am healthy, my family, mom and sister are okay. I couldn't ask for more.
+- comrades: a person who is a member of the same COMMUNIST or SOCIALIST political party as the person speaking
+
+Artists--especially the artists from the Renaissance. The sculptors in particular. But the painters, too. And back then--many artists did both! JAW-DROPPING. Their talent and vision. Stunning.
+
+- your sense of humor aligns perfectly with mine!
+
+- Your tree is beautiful and the nativity scene is perfect! 
+
+- I wanna have a Mermaid Barbie and different sets of clothes for her.
+
+- I really hope they can always trust that Santa exists.
+
+- I will also keep the dream of Santa alive in my son, Mikey! And I hope he'll do the same for his future children!!
+
+- chicken coops
+
+
+Hello my dearest Coach Shane and everyone who is reading this. I hope you and your family are doing great. I know I'm late, but HAPPY BIRTHDAY TO YOU Coach Shane. And Happy New Year to everyone. I'm wishing you and your family love, light and many blessings for the year ahead.
+
+
+
+- I hooked up the water, too! AND it’s not leaking. 
+- The decorations they call Santa Claus' House, and there are pictures of Santa Claus' house, sleigh, elves, and Santa : )
+
+Going somewhere. Following a plow that is salting and sanding the roads! The roads were REALLY slippery. Very dangerous. A BAD day to travel--but where I live, in the winter, everyday is a bad day to travel. I should be living in Brazil next to Everton!
+
+
+
+I put up an accordion door to keep my cats OUT of a section of the house. That section will become Mikey's playroom-
+
+- an interior door that opens by folding back in sections
+- Isn't my son's expression HILARIOUS?!
+
+
+
+I've been on a "less sugar diet" since January 1st. I miss my cookies and slices of cake and pie, I miss my sweetened coffees...but I'm doing okay.
