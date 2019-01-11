@@ -1205,11 +1205,33 @@ I've been on a "less sugar diet" since January 1st. I miss my cookies and slices
 
 ### 1/9/2019
 
+LME 07 http://archive.aweber.com/ddm_membership/5eGJZ/h/Lesson_7_All_about_NOODLES_.htm
+
+- Piping hot (steamy or steaming) soup…coffee…noodles! Yummy! It’s a word that we use in the USA and it implies not only hot but also delicious.
+
+- scruffy: Someone or something that is scruffy is dirty and untidy. 
+  e.g. a young man, pale, scruffy and unshaven. 
+
+- catwalk: A catwalk is a narrow bridge high in the air, for example between two parts of a tall building, on the outside of a large structure, or over a stage.
+
+- kleptomaniac: A kleptomaniac is a person who cannot control their desire to steal things, usually because of a medical condition
+
+- scrawny: being very thin
+
+- enchilada: A tortilla rolled and stuffed usually with a mixture containing meat or cheese and served with a sauce spiced with chili
+
+
+
 Good thinking takes time. Ponder. We have a lot of automatic responses in our brain cells and that is not always good...!
 
 - ponder: to think about : reflect on <pondered the events of the day> 
   intransitive verb : to think or consider especially quietly, soberly, and deeply 
 
 - at stake:  at issue : in jeopardy The life of the wounded pilot is at stake
--  30 megabytesof data.
+-  30 megabytes of data.
 
+
+
+### 1/10/2019
+
+- Bragging:  n.  an instance of boastful talk, adj.  exhibiting self-importance
