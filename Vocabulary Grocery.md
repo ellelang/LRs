@@ -1200,3 +1200,16 @@ I put up an accordion door to keep my cats OUT of a section of the house. That s
 
 
 I've been on a "less sugar diet" since January 1st. I miss my cookies and slices of cake and pie, I miss my sweetened coffees...but I'm doing okay.
+
+
+
+### 1/9/2019
+
+Good thinking takes time. Ponder. We have a lot of automatic responses in our brain cells and that is not always good...!
+
+- ponder: to think about : reflect on <pondered the events of the day> 
+  intransitive verb : to think or consider especially quietly, soberly, and deeply 
+
+- at stake:  at issue : in jeopardy The life of the wounded pilot is at stake
+-  30 megabytesof data.
+

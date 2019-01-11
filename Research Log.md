@@ -1200,3 +1200,142 @@ then "TERM: foo" will be written in the margin. If `draft` is removed, the same 
   https://hartwork.org/beamer-theme-matrix/
 
 - 
+
+### 1/10/2019
+
+- Model 4: heterogeneity in the mean of random parameters
+
+The distributions derived from the estimated random parameters are defined in terms of the full sample, and each respondent is randomly assigned an estimate drawn from the full distribution. While this avoids the need to be concerned about where a particular respondent might best be located on the distribution, it runs the real risk of missing out on an opportunity to establish whether a specific sampled respondent might be at the upper or lower part of the distribution as a consequence of some additional systematic source of influence. 
+
+The opportunity to assess whether such systematic sources exist is referred to as adding an additional layer of heterogeneity, which may be associated with the mean of the distribution and/or the variance (or standard deviation) of the distribution. In this section, we introduce heterogeneity in the mean of a random parameter.
+
+**To introduce heterogeneity around the mean** we have to include the ;rpl command and add to it “=name of heterogeneity influence.” In the application below we have added in the socio-economic effects ;rpl=pinc. If that is all that is included as an extra command**, then every random parameter will be conditioned on the personal income** of a respondent, which is essentially an interaction term such that the new expression for the marginal utility of an attribute. 
+
+Note that when you have a heterogenous mean, this construction becomes somewhat ambiguous. For the specification above, for example, if the uniform distribution were specified, the range of variation of the parameter, for a given value of income, is from δ_{pinc} to δ_{pinc} + 2β. The uniform and triangular distributions with value = 1 are special cases, as this device allows you to anchor the distribution at zero for this case. Importantly, however, **when you**
+**impose a constrained distribution on a random parameter, the inclusion of an additional term to allow for systematic heterogeneity no longer guarantees that the sign or range condition holds.**
+
+The model below is an extension of the previous model, with the addition of the 11 parameters associated with heterogeneity in the mean of the random parameters. The LL at convergence is −2444.458, compared to −2465.752 for exactly the same model without these additional parameters. With 11 degrees of freedom difference, the LRT gives −2*(21.294) = 42.588. This is greater than the critical Chi-square value with 11 degrees of freedom of 19.68, and hence
+we can reject the null hypothesis of no difference:
+
+```
+Nlogit
+;lhs=resp1,cset,Altij
+;choices=NLRail,NHRail,NBway,Bus,Bway,Train,Car
+;par
+;rpl=pinc
+;fcn=invt(t,1),cost(t,1),acwt(t,1) ,eggt(t,1), crpark(t,1),
+accbusf(t,1),waittb(t,1],acctb(t,1),crcost(t,1),crinvt(t,1),creggt
+(t,1)
+;maxit=200
+;halton;pts= 100
+;model:
+$
+```
+
+The marginal utility associated with a specific variable now includes the additional “interaction” term. For example, the marginal utility expressionfor invt is: 
+
+MUinvt = − 0.07373 + 0.0001**pinc + 0.07373*o,
+
+ where o is the one-sided triangular distribution. This additional term indicates that as personal income increases, the marginal utility of invt will increase or the marginal disutility (given the negative sign for the mean estimate) will decrease. 
+
+
+
+- Model 5: heterogeneity in the mean of selective random parameters
+  Model
+
+Model 4 allows for heterogeneity in the mean to be identified for all random parameters. It is often the situation that the analyst wants to limit the heterogeneity to a subset of random parameters, either for some behaviorally interesting reason or because the heterogeneity was found to be not statistically significant for specific random parameters. ML permits a specification that controls for selective use of heterogeneity in the mean.
+
+We begin with a general variation in the form for name (type) such as
+invt(n) used in earlier models, which is name (type|#) or invt (n|#). This
+simply says that all random parameters will not have an interaction term to
+allow for heterogeneity in the mean, where the heterogeneity is defined by one
+or more variables associated with the command ;rpl=hetvar1, hetvar2. . ... That
+is, where we have name (type), heterogeneity will apply; **where we have name**
+**(type|#), it will not apply.** 
+
+
+
+If we want to limit the heterogeneity in the mean to a subset of attributes then we would define a pattern of 0s and 1s, where 1 includes the heterogeneity and 0 does not for the set of hetvars associated with ;rpl. For example, if we specify (as below) **;rpl=pinc,gender**, and we want to include pinc but not gender, then we would specify name (type#10) – for example, acwt(t|#10). It should be clear that acwt(t|#00) excludes both sources of heterogeneity, and acwt(t|#11) includes both sources of heterogeneity; thus acwt(t|#00) is equivalent to acwt(t|#).
+
+
+
+; Fcn = invt(n,1) says the
+σinvt = 1 * |βinvt|. The parameter that enters the absolute value function is the constant term in the parameter mean.
+
+
+
+```
+Nlogit
+;lhs=resp1,cset,Altij
+;choices=NLRail,NHRail,NBway,Bus,Bway,Train,Car
+;par
+;rpl=pinc,gender
+;fcn=invt(t,1),cost(t,1),acwt(t|#10) ,eggt(t|#11), crpark(t|#11),
+accbusf(t,1),waittb(t|#00),acctb(t|#10),crcost(t|#00),crinvt(t,1),
+creggt(t|#01)
+;maxit=200
+;halton;pts= 100
+;model:
+U(NLRail)= NLRAsc + cost*tcost + invt*InvTime + acwt*wait+ acwt*acctim
++ accbusf*accbusf+eggT*egresst + ptinc*pinc + ptgend*gender +
+NLRinsde*inside /
+U(NHRail)= TNAsc + cost*Tcost + invt*InvTime + acwt*WaitT + acwt*acctim
+```
+
+
+
+- Model 6: heteroskedasticity and heterogeneity in the variances
+
+So far, we have focused on heterogeneity in the mean of a random parameter; however, additional sources of systematic heterogeneity (often referred to as heteroskedasticity) can be associated with the variance (or standard deviation) of the distribution.
+
+When the model is expanded so that the random parameters model allows heterogeneity in the variances as well as in the means in the distributions of the random parameters, the additional modification is σik = σk exp[ωk'hri]. If ω equals 0, this returns the homoscedastic model. The implied form of the RPL model is:
+$$
+\beta_{ik} = \beta + \delta_{k'}z_i + \sigma_{ik}v_{ik} =  \beta + \delta_{k'}z_i + \sigma_kexp(w_{k'}\text{hr}_i)v_{ik}
+$$
+The variables in **hr_i** may be any variables, but they must be choice invariant. This specification will produce the same form of heteroskedasticity in each parameter distribution – note that each parameter has its own parameter vector, ωk. 
+
+we described the method of modifying the specification of the heterogenous means of the parameters so that some RPL variables in **zi** may appear in the means of some parameters and not others. A similar construction may be used for the variances. For any parameter specification of the forms set out above, the specification may end with an exclamation
+point, “!” to indicate that the particular parameter is to be homoskedastic even if others are heteroskedastic. For example, the following produces a model with heterogenous means (associated with age and pinc), and one heteroskedastic variance (associated with gender):
+
+```
+; RPL= age,pinc
+; Hfr = gender,family,urban
+; Fcn = invt(n),acwt(n|# 01 ! 101)
+```
+
+The variance for invt includes all three variables, but the variance for acwt excludes family.
+
+- Model 7: allowing for correlated random parameters
+
+The previous models assume that the random parameters are uncorrelated. As discussed in Chapter 4, all data sets, regardless of the number of choice situations per sampled individual (i.e., choice sets), may have unobserved effects that are correlated among alternatives in a given choice situation. ML models enable the model to be specified in such a way that the error components in different choice situations from a given individual are correlated.
+
+> As an aside, The model with both correlated parameters (;Correlated) and heteroskedastic
+> random parameters is not estimable. If your model command contains both ;Correlated and ;Hfr = list, the heteroskedasticity takes precedence, and ;Correlated is ignored
+
+The following ML model is estimated allowing for correlation among the
+random parameters of the model:
+
+
+
+
+
+- N29: Random Parameters Logit Model N-563
+
+The exponential random variable has a mean of one, so the mean of the
+parameter distribution in this case is b. Note that in all four cases, we are restricting the shape of the distribution as well as the mean and variance. The first three of these are likely to be attractive alternatives to the lognormal distribution. Finally, the triangle and uniform distributions are constructed so that the spread parameter equals the mean parameter. This construction is described in the next section. The beta model is likely to be an attractive alternative to the triangle and uniform models because of the smoothness of the distribution.
+
+
+
+- From GMNL instructions
+
+- GMNL formula
+  a symbolic description of the model to be estimated. The formula is divided in five parts, 
+  each of them separated by the symbol |. 
+  - The first part is reserved for alternative-specific variables with a generic coefficient.
+  - The second part corresponds to individual-specific variables with an alternative specific coefficients. 
+  - The third part corresponds to alternative-specific variables with an alternative-specific coefficient. (e.g. income is only related to the choice of Train, not for Air and Bus)
+  - The fourth part is reserved for time-invariant variables that modify the mean of the random parameters.  (e.g. late1000 modified the mean of  the distribution of Covercrop coefficients) 
+  - Finally, the fifth part is reserved for time-invariant variables that enter in the scale coefficient or in the probability assignment in models with latent classes.
+     (from gmnl help)
+
+Part three: "alternative-specific variables with an alternative-specific coefficient." --> not fixed numbers, but a distribution with mean and sd.
