@@ -1235,3 +1235,44 @@ Good thinking takes time. Ponder. We have a lot of automatic responses in our br
 ### 1/10/2019
 
 - Bragging:  n.  an instance of boastful talk, adj.  exhibiting self-importance
+- 
+
+### 1/11/2019
+
+- loveseat
+
+- La-Z-Boy
+
+- Flattering:something  that  makes  your appearance/image better...Is  my  new  haircut flattering?
+
+- Prospective: possible, potential
+
+- half-conscious: half-awake/aware
+
+- deadbeat: a grown (adult) man with no job who gets everything for free (food, shelter, clothes, cable TV, etc.!)
+
+- Cheetos
+
+- Wiped: dead (tired), drained of energy
+
+- Burgeoning: blossoming, growing, expanding
+
+- pound it : hit it, knead it
+
+- resurrect: bring back to life
+
+- lit up: got bright, became impassioned
+
+- Busted:arrested, fined, caught
+
+- The Board of Health
+
+- Chumps:fellas
+
+- fine-tune my resume
+
+- be bogged down
+
+- 
+
+  

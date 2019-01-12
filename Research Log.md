@@ -1339,3 +1339,15 @@ parameter distribution in this case is b. Note that in all four cases, we are re
      (from gmnl help)
 
 Part three: "alternative-specific variables with an alternative-specific coefficient." --> not fixed numbers, but a distribution with mean and sd.
+
+
+
+### 1/11/2019
+
+Pseudo-R square = 
+$$
+1 - \frac{log L(model)}{log L(base model)}
+$$
+where the base model would be a model that contains only a constant term. For any binary choice model, the base model would have
+
+log L_0 = N1

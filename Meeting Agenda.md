@@ -8,9 +8,9 @@
 
 ## December 2018
 
-#### 12/05/2018
+### 12/05/2018
 
-##### Topics discussed
+#### Topics discussed
 
 - DCM results from NLOGIT6. 
 
@@ -58,10 +58,7 @@ $$
 
     1) Find the income distribution for each county, and then do the similar stuff. 
 
-
-
-
-#####  Things to Do
+#### Things to Do
 
 - Stuff To Read
 
@@ -85,9 +82,7 @@ $$
 >
 > 2C. MULTIPLE CRITERIA DYNAMIC SPATIAL OPTIMIZATION TO MANAGE WATER QUALITY ON AWATERSHED SCALE
 
-
-
-##### Plans for next meeting. 
+#### Plans for next meeting. 
 
 - Simulation of WTA in R
 - Uncertainty of WTA (discuss about the literature)
@@ -95,9 +90,9 @@ $$
 
 
 
-#### 12/06/2018
+###  12/06/2018
 
-##### Topics discussed
+#### Topics discussed
 
 - Simulate WTA
 
@@ -128,9 +123,29 @@ $$
     - farm size can be got from the cluster area information in  .shapefile
     - farm income: can use the average income of specific farm size as an indicator (see the size/income table  <https://finbin.umn.edu/FmSummOpts/Index>)
 
-##### Things To Do
+#### Things To Do
 
 - 
 
-##### Plans for next meeting
+Plans for next meeting
 
+
+
+## January 2019
+
+### 1/11/2019
+
+#### Things to Do
+
+1. Simulate WTA 
+   $$
+   E(WTA|X) = \frac{\sum \beta_k}{\beta_p}
+   $$
+
+2. General Exam Prep
+   - [ ] list the papers you prepare for your Thesis
+   - [ ] proposal is the combination of the "Abstracts" of these papers
+   - [ ] Show the committee that you know what you are doing / you have solid understanding about the topic
+   - [ ] Then seek for advice from the committee
+   - [ ] The practical implement of your project & public media--> write a scientific blog 
+   - [ ] send out the draft and slides before the meeting. 
