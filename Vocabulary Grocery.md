@@ -1239,6 +1239,18 @@ Good thinking takes time. Ponder. We have a lot of automatic responses in our br
 
 ### 1/11/2019
 
+ LME 09 http://archive.aweber.com/ddm_membership/CLMfJ/h/Lesson_9_TGIF_But.htm
+
+Thank God / Thank god
+
+The test has been canceled? Thank God!!!
+
+I don’t have to work tomorrow…thank God!
+
+My mom is home from the hospital? Thank God!
+
+Thank God everyone is safe!
+
 - loveseat
 
 - La-Z-Boy
@@ -1273,6 +1285,19 @@ Good thinking takes time. Ponder. We have a lot of automatic responses in our br
 
 - be bogged down
 
-- 
+- fruition :  If something comes to fruition, it starts to succeed and produce the results that were intended or hoped for. (FORMAL) 
+  These plans take time to come to fruition. 
+  His hopes for a new political party have little chance of reaching fruition. 
+
+- in concurrence: 
+
+  1.concurrence concurrences 
+  Someone's concurrence is their agreement to something. (FORMAL) 
+  Any change ought not to be made without full discussion and the general concurrence of all concerned. 
+  N-VAR: oft with poss 
+  = agreement 
+  2.concurrence concurrences 
+  If there is a concurrence of two or more things, they happen at the same time. 
+  The concurrence of their disappearances had to be more than coincidental. 
 
   

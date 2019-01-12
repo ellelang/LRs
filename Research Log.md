@@ -1,5 +1,3 @@
-
-
 Table of Contents**
 
 [TOC]
@@ -1351,3 +1349,42 @@ $$
 where the base model would be a model that contains only a constant term. For any binary choice model, the base model would have
 
 log L_0 = N1
+
+
+
+### 1/12/2019
+
+- Latex bookmark issue
+
+  ```latex
+  \setcounter{secnumdepth}{0} 
+  %don't show the section number
+  %% if you use \section*{}, no bookmarks show on the pdf file
+  ```
+
+
+
+- Export Nlogit results to spreadsheet P 385
+
+Model results and estimated partial effects or elasticities may be exported to a spreadsheet
+file. Before doing this, you must open the export file with
+
+```
+OPEN ; Export = “C:\… \elasticities.csv” $
+CLOGIT ; Lhs = mode; Choices = air,train,bus,car
+; Rhs = gc,ttme,invc,invt ; Rh2=one,hinc
+; Export output
+; Export = table
+;?Export = matrix
+; Effects: gc(*),ttme(*) ; Full $
+```
+
+
+
+- KR simulation
+
+  The primary difficulty in carrying out the Krinsky and Robb procedure is getting the N parameter vector draws from the multivariate normal distribution.
+
+  To execute the Krinsky-Robb procedure, draw N observations on the parameter vector \beta from the estimated multivariate normal distribution of the parameters.
+
+- csv file can't have multiple sheets!!! Need to use xsl. to restore sheets!!!
