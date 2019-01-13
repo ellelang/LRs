@@ -117,7 +117,8 @@ $$
     \beta_{wetland}, \beta_{pay},\beta_{cc},\beta_{nm} \sim rexp(n, rate = 1)
     $$
 
-
+    The Lake effects to the mean of CC is $\beta_{cc} = \beta_{cconly} + \beta_{cclake}$
+    
     How to apply the WTA got from survey sample to the candidate sites of WCMO?
     
     - farm size can be got from the cluster area information in  .shapefile
