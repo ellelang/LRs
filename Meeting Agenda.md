@@ -97,7 +97,7 @@ $$
 - Simulate WTA
 
   ```
-  wta_largefarm_repubs <- -(-1.32104 - 0.0006*483 - 1.75395 * rexp(10000,1))/(0.00758*rexp(10000,1))
+  wta_largefarm_repubs <- -(-1.32104 - 0.0006*483 - 1.75395 * rexp(n = 10000,rate = 1))/(0.00758*rexp(n = 10000,rate = 1))
   ```
 
   - Note the coefficients of Wetland and Payment are "random distributions"
@@ -139,7 +139,7 @@ Plans for next meeting
 
 1. Simulate WTA 
    $$
-   E(WTA|X) = \frac{\sum \beta_k}{\beta_p}
+   E(WTA|X) = \frac{\sum \beta_k}{\beta_p} = \frac{U(V) - pay\times Payment}{\beta_p}
    $$
 
 2. General Exam Prep
@@ -149,3 +149,88 @@ Plans for next meeting
    - [ ] Then seek for advice from the committee
    - [ ] The practical implement of your project & public media--> write a scientific blog 
    - [ ] send out the draft and slides before the meeting. 
+
+
+
+### 1/14/2019
+
+1. WTA simulation - three sources of uncertainties. 
+
+   There are three sources of randomness or variation in a willingness to pay measure: 
+
+   - randomness of preferences ("Taste heterogeneity", uncertainties from individual observation )
+
+   - randomness of estimated parameters (maximum likelihood distributions. e.g.  K-B process: draw new vector of parameters from the multinomial distribution 
+
+     ```R
+     rmvnorm(mean = beta_est, sigma = vcov(beta_est)) ) 
+     ```
+
+   - variation across individuals in the sample. 
+     $$
+     \bar{E(WTP_i)} = \frac{\sum^T_{i = 1}g(z_i|\beta)}{T}
+     $$
+     The interpretation of this quantity is the sample average expected WTP with respect to random preferences. That is, it is the sample average value of the measure of WT P found by taking the expectation of WTP with respect to individual randomness. 
+
+2. Procedures for DCM project:
+
+​       Goal: want to get the individual WTA respected to individual location (WTA|X), where X includes the characteristics for the sample.
+
+- [ ] get the parameter estimates from RPL. For wetland, payment, cc, nm, are the means of exponential  distributions. 
+
+- [ ] take the random draws from the exponential distributions (refer to the nlogit 6 manual--> how to recover the distributions assumption for exponential distribution)  eg. 
+
+  ```
+  betaest_wld <- beta_wld * rexp (rate = 1, n = 10000)
+  betaest_pay <- beta_wld * rexp (rate = 1, n = 10000)
+  ```
+
+- [ ] add the effects from the fixed parameters to the est_wld.
+
+- [ ] Calculate the ratio 
+  $$
+  WTA_i = \frac{\beta_{estwld} + Z_i\beta_i}{\beta_{pay}}
+  $$
+   
+
+- [ ] Get the statistical parameters for WTA_i
+
+  In the example above, we should have a WTA vector with10000 elements for each individual i. We can have the mean, median, and the 25%, 75% CI for the vector.  
+
+
+
+
+
+2. Methods to build WTP CI
+
+- Approximation 
+  - Delta Method : produces symmetric CIs around WTP point estimates.  
+- Bootstrap (simulation): Bootstrap methods use the simulated distribution of parameter estimates in place of their analytical one. These methods are computationally intensive and affected by Monte Carlo error
+  - Different sampling strategies, either parametric or non-parametric, can be used to produce a bootstrap sample and, thus, a simulated WTP distribution
+
+
+
+- Non-parametric resampling: 
+
+  a). 1.  resample the observations w with replacement to generate a new sample; let this sample  have the same number of observations as the original one;
+
+  b). fit the logit model to the bootstrap sample to obtain $\hat{\beta^*_b}$ and $\hat{WTP^*}$ 
+
+$$
+\hat{\beta^*_b} = (\hat{X}'\hat{X})^{-1}\hat{X}\hat{Y}
+$$
+
+- Krinsky and Robb resampling 
+
+​        a). draw a vector $\hat{\beta^*_b}$ from the multinomial distribution 
+
+```
+rmvnorm(mean = beta_est, sigma = vcov(beta_est)) ) 
+```
+
+​       b) Use the vector  $\hat{\beta^*_b}$  to calculate $\hat{WTP^**}$
+$$
+<Empty \space Math \space Block>
+$$
+
+### 
