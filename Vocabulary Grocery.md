@@ -1301,3 +1301,75 @@ Thank God everyone is safe!
   The concurrence of their disappearances had to be more than coincidental. 
 
   
+
+### 1/14/2019
+
+- bogged down 
+  If you get bogged down in something, it prevents you from making progress or getting something done. 
+  But why get bogged down in legal details?. 
+  Sometimes this fact is obscured because churches get so bogged down by unimportant rules.
+
+A bog is an area of land which is very wet and muddy. 
+
+bog as a verb: to cause to sink into or as if into a bog : IMPEDE, MIRE ― usually used with down 
+intransitive verb : to become impeded or stuck ― usually used with down
+
+- at 2ish
+
+  It means "around that time". 7-ish just means show up around 7
+
+- fine-tune
+
+
+If  you fine-tune something, you make very small and precise changes to it in order  to make it as successful or effective as it possibly can be. 
+We do not try  to fine-tune the economy on the basis of short-term predictions. 
+Computers  allow the plans to be fine-tuned and to be altered quickly. 
+VB 
+
+- darn 
+  You can say darn it to show that you are very annoyed about 
+  something. (AM, INFORMAL) 
+  OK, I admit it, it was me. But darn it, I was 
+  right! 
+  EXCLAM feelings 
+
+- committed: did, performed
+- authorities: the police...(could also mean government officials)
+- armed robbery : robbing a person/business with a weapon
+- Much-publicized: highly advertised
+- Work out: succeed, come to fruition
+- Recoup: recuperate, get back the money he had lost
+
+If you recoup a sum of money that you have spent or lost, you get it back. 
+Insurance companies are trying to recoup their losses by increasing premiums. 
+VB  
+
+recuperate  : When you recuperate, you recover your health or strength after you have been ill or injured. 
+I went away to the country to recuperate. 
+He is recuperating from a serious back injury. = recover =>recuperation 
+Leonard was very pleased with his powers of recuperation. 
+
+- Slimming strategy: diet plan
+
+- Referring to: talking about
+- Calorie-laden: high calorie
+- Suspected: alleged
+- Crime spree: series of criminal events
+
+- spree sprees 
+  If you spend a period of time  doing something in an excessive way, you can say that you are going on a  particular kind of spree. 
+  Some Americans went on a spending spree in  December to beat the new tax. 
+  N-COUNT: usu n N 
+
+- Released: allowed the general public to see
+
+- Surveillance footage: film taken by security cameras
+  surveillance  e.g. under ~
+  Surveillance is the careful watching of someone, especially by an organization such as the police or the army. 
+  He was arrested after being kept under constant surveillance. 
+  Police swooped on the home after a two-week surveillance operation. 
+  Police keep track of the kidnapper using electronic surveillance equipment. 
+
+- footage 
+  Footage of a particular event is a film of it or the part of a film  which shows this event. 
+  They are planning to show exclusive footage from  this summer's festivals. 
