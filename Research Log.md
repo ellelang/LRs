@@ -1388,3 +1388,19 @@ CLOGIT ; Lhs = mode; Choices = air,train,bus,car
   To execute the Krinsky-Robb procedure, draw N observations on the parameter vector \beta from the estimated multivariate normal distribution of the parameters.
 
 - csv file can't have multiple sheets!!! Need to use xsl. to restore sheets!!!
+
+
+
+### 1/15/2019
+
+For the current RPL specification, with exponential distribution and a fixed parameter, K&R should be quite straightforward.
+
+
+As an aside, think about how you might use the uncertainty of WTA at a specific location to say something about practices/locations which may be robust to cost assumptions.
+
+
+
+Nlogit6 P548. exponential distribution, scaled: 
+$$
+\beta_i = \beta v_i, \ v_i \sim exponential
+$$

@@ -191,7 +191,6 @@ Plans for next meeting
   $$
   WTA_i = \frac{\beta_{estwld} + Z_i\beta_i}{\beta_{pay}}
   $$
-   
 
 - [ ] Get the statistical parameters for WTA_i
 

@@ -1,6 +1,8 @@
-### Math
 
-12/09/2018
+
+[TOC]
+
+### 12/09/2018
 
 Hi Ezrie,
 
@@ -85,3 +87,13 @@ Zhengxin
 
 
 
+### 1/15/2019
+
+
+$$
+1. \int x^{\frac{5}{2}}dx = \frac{2}{7}x^{\frac{7}{2}} + C\\
+
+2. \int \frac{1}{x+t} dt = ln(x + t) + C\\
+
+3. \int \frac{1}{3x +4} dx = \frac{1}{3}ln(3x + 4) + C \\
+$$

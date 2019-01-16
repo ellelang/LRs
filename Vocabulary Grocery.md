@@ -1304,6 +1304,41 @@ Thank God everyone is safe!
 
 ### 1/14/2019
 
+
+
+LME 10
+
+It was a SUPER busy week for me with 11 LIVE classes on top of my regular schedule. UGH!!! So, I needed a day off!
+
+I was talking to my neighbor this morning, and she said something really interesting. She said:
+
+> We had guests over on Saturday and then so many visitors on Sunday.
+
+ 
+
+After hearing that, I thought—what an excellent idea for a short email lesson!!
+
+Guests VERSUS visitors
+
+Actually, in daily English, many Americans sometimes use them the same. BUT, there is a simple difference
+
+Guests—YOU invited!
+
+Visitors—you did NOT invite!!
+
+When I lived in Las Vegas, I would “**pay my mother a visit**” almost every day. Just for a few minutes. I never called her, I just went to her house.
+
+Houseguests *(you can spell it as one word OR as two)* are guests that stay overnight. Sometimes it’s just one night…but sometimes it’s for several nights!
+
+SMO : https://www.rohitbhargava.com/2006/08/5_rules_of_soci.html
+
+What is Social Media Optimization?
+Obviously, SMO has to do with social networks and their growing importance to business. This aspect of optimization deals with enhancing your company’s presence and online reputation through interactive communities—not just Facebook and Twitter, but also blogs, forums, and anywhere your business is mentioned or linked to socially.
+
+Working with SMO can help you strengthen your brand and boost visibility, as well as generate leads and increase sales. Optimizing your social media builds both familiarity with and trust for your business, because consumers will see you not only mentioned, but recommended by others.
+
+- mashup: 
+
 - bogged down 
   If you get bogged down in something, it prevents you from making progress or getting something done. 
   But why get bogged down in legal details?. 
