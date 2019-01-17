@@ -232,4 +232,56 @@ $$
 <Empty \space Math \space Block>
 $$
 
-### 
+### 1/16/2019 
+
+- Delta Method: essentially is the application of The Taylor Expansion
+- KR method for lognormal distribution: 
+
+$$
+\beta_i = \hat{\beta_k} + Cz_k = \bar{\beta} + \hat{\sigma} x_k + Cz_k\\ 
+
+\Beta = exp(\bar{\beta} + \hat{\sigma} x_k + Cz_k)
+$$
+
+where x_k and z_k are  independent standard normal random variables. 
+
+C is the lower Cholesky decomposition matrix. 
+
+Nlogit 6  P563. 
+
+Nlogit 6 can do the delta method simulation
+
+
+
+- The paper https://www.mendeley.com/catalogue/confidence-intervals-willingnesstopay-random-coefficient-logit-models/
+
+do a good job explaining the ins and outs of uncertainty in RPL models. They also provide Delta method formulas but for an exponential, the K&R loop is pretty easy (beta_draw = betahat*rexp(1) + C*z)...
+
+Doing draws based on exponential distribution alone helps characterize the extent of preference heterogeneity, but if you want confidence intervals, it's either KR or Delta method.
+
+- Loop over r we get the same draw from multivariate normal, but this snippet seems to show that we get a different draw every time (which is what we want)
+
+```R
+##########cc wta
+draws <- matrix (NA,nrow = R, ncol = 19)
+colnames(draws)<-c('wetland','pay','cc','nm','asc','dems18','costtax',
+                   'inc1','inc2','inc3','inc4','inc5','inc6',
+                   'farm1','farm2','farm3','farm4','crp','cclake')
+
+  for (r1 in 1 : R){
+    drawbetas<- betas
+    drawbetas$Betas <- as.vector(rmvnorm(1,mean = betas$Betas, sigma = varcov_m))
+    draws[r1, ] <- drawbetas$Betas
+  }
+
+  for (r in 1 : R){
+    newbetas <- draws[r,]
+    pay_rp <- newbetas["pay"]
+    cc_rp <- newbetas["cc"]
+    lake_rp <- newbetas["cclake"]
+  }
+```
+
+
+
+- How you might use the uncertainty of WTA at a specific location to say something about practices/locations which may be robust to cost assumptions?

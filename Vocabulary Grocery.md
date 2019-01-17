@@ -1408,3 +1408,139 @@ Leonard was very pleased with his powers of recuperation.
 - footage 
   Footage of a particular event is a film of it or the part of a film  which shows this event. 
   They are planning to show exclusive footage from  this summer's festivals. 
+
+
+
+### 1/15/2016
+
+LME 11http://archive.aweber.com/ddm_membership/7kX1J/h/Better_LATE_than_NEVER_So.htm
+
+STARTING something...is actually really easy.
+
+BUT maintaining something...not so easy.
+
+And finishing something...even more difficult.
+
+We are now into our second week of 2019. How are you doing? Are you maintaining your goals?!
+
+Did you forget to start?!!
+
+It is NEVER to late to start. But don't delay too long.
+
+What is EASIER than STARTING?
+
+DELAYING!!
+
+Remember, the longer you delay, the more difficult it is to start. And if you never start...
+
+
+You'll never be better.
+
+Better LATE than NEVER.
+
+Start today. Maintain. Go to the finish!
+
+
+
+
+
+The man in the picture is a priest at the “Hoshoku Shrine”. It's NOT me!! 
+
+Every year we ask him to come over to my house. He purifies our home to ward off bad luck like natural disasters.
+
+- shrine
+
+A shrine is a place that people visit and treat with respect because it is connected with a dead person or with dead people that they want to remember.
+
+- ward off:  To ward off a danger or illness means to prevent it from affecting you or harming you
+
+There’re lots of offerings to the deity of the Hoshoku Shrine on the table: veggies ＆ rice for a huge harvest, dried squid & grilled dried fish to bring good luck.
+
+- A deity is a god or goddess. (FORMAL)
+
+This is the room where the family Buddhist altar is placed.
+
+
+
+- altar  1.altar altars  An altar is a holy table in a church or temple. 
+  ...the high altar at Chichester Cathedral 
+- .folly follies 
+  If you say that a particular action or way of behaving is folly or a folly, you mean that it is foolish. 
+  It's sheer folly to build nuclear power stations in a country that has dozens of earthquakes every year. 
+
+Can you see the little portable shrine (upper left)? In that shrine, three deities are enshrined: the goddess of the sun, a food-related deity & this area’s protective deity. 
+
+- enshrined:   to enclose in or as if in a shrine 
+  2 : to preserve or cherish as sacred : Her memory is ~d in his heart.
+
+We have lots of deities in Japan.
+
+ Thank you for giving me a shout-out on the LME radio show. I’m very grateful to learn a deeper meaning of the lyrics.
+
+- shout out : a brief expression of greeting or praise given especially on a broadcast or audio recording
+
+Snow has come. Gas mileage is getting worse~ In the car “Shape of my Heart” is playing. It's not so cold outside, minus two degrees Celsius. (^_-)
+
+I have to make a path to the warehouse.
+
+- make a path
+
+God (my wife) ordered me to shovel the snow on her way back from shopping. (⌒-⌒; )
+
+After snow shoveling, a cup of noodles warms me up. (^_^)v
+
+Country Hajime (^^)／~~~
+
+- your descriptions were super! 
+
+ 
+
+- If I make it to Japan, I hope that I go in the winter and I will surely pay you a visit. I'll help you shovel, eat some noodles, and watch some Sumo! If that's okay with you and God!!
+
+
+
+- a great cross-country ski &outing. 
+- a mild frost, fresh snow, bright sun.
+-  Shadows on the snow, frozen grass, tracks of the meadow inhabitants and even the train were gorgeous! 
+- Ugh...PERFECT! Like I told you in our LIVE class, I'm very envious of you! And your wife! After a few years, I will buy a set of skis for us and we will go out and enjoy perfect winter days just like you! 
+- Your pictures **invigorate** me!!
+
+- If something invigorates you, it makes you feel more energetic. 
+  Take a deep breath in to invigorate you. 
+
+carpet cleaning.... I rented the carpet shampooer. I had to clean the carpets so that Mikey has more space to crawl around. Now he has a nice big area for him and his toys!!
+
+
+
+- Usually on holidays I go outdoors for biking, **mountaineering, canyon hiking** and spelunking (caving) with my friends.
+- spelunking 
+  Spelunking is the leisure activity of going into underground 
+  caves and tunnels. (AM; in BRIT use potholing) 
+  N-UNCOUNT 
+
+- These photos are from one of my spelunking adventures. This cave is in YAZD province and it's name is DOSAR CAVE. It is the fourth largest chamber in the world.
+
+- WOW!! What AMAZING adventures! Those pictures are TRULY spectacular! If I were younger, I would surely want to join you...now? I'll just enjoy your pictures and descriptions!! But seriously, PLEASE be careful! Do your parents know you do this?!
+
+
+
+- Ugh...one of the gifts was a **BRAIN TEASER**. A puzzle. Two pieces of metal are linked together...SOMEHOW you are supposed to be able to separate them. UGH...so far, impossible.
+
+- What's your date night go-to place? Send us a picture, PLEASE!
+
+- Half vegetarian and half SMO! SMO is sausage, mushrooms and onion! 
+
+ Actually my wife wanted shrimp on her half of the pizza...but I forgot to tell the restaurant. Sorry~!!
+
+My half of the pizza tasted excellent!
+
+- I'm sending some of my students some stuff so I had to visit the post office. What stuff?
+
+  **Nootropics!**! If you're interested, click here! If you have questions, let me know!!
+
+### 1/16/2019
+
+but this snippet seems to show that we get a different draw every time (which is what we want)
+
+- snippet
+- 
