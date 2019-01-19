@@ -1442,8 +1442,6 @@ Start today. Maintain. Go to the finish!
 
 
 
-
-
 The man in the picture is a priest at the “Hoshoku Shrine”. It's NOT me!! 
 
 Every year we ask him to come over to my house. He purifies our home to ward off bad luck like natural disasters.
@@ -1540,7 +1538,213 @@ My half of the pizza tasted excellent!
 
 ### 1/16/2019
 
-but this snippet seems to show that we get a different draw every time (which is what we want)
 
-- snippet
-- 
+
+Lesson 12: Nostalgic Containers?! Yes...what do you think?http://archive.aweber.com/ddm_membership/FnsoJ/h/Lesson_12_Nostalgic.htm
+
+In our current **DDM 545**, we ran into two really interesting things:
+
+When I was a kid, those two things were ubiquitous containers for knickknacks—little things that we didn’t want to throw away! They were EVERYWHERE! And people used them to store EVERYTHING! Everything small!
+
+In nearly every garage you could find coffee cans full of nails and nuts and bolts, they’d be full of change, and they made great containers for pens and pencils.
+
+Cigar boxes—they were PERFECT for my baseball and football card collections! And my stamp collection. And for marbles and crayons and anything else that wasn’t too heavy! And they looked cool on a bookshelf plus you could stack them. I loved them!
+
+But nowadays…coffee comes in resealable bags. Or plastic containers.
+
+**And with the knowledge of the bad effects of smoking**, fewer and fewer people are buying boxes of cigars. I don’t think I’ve seen a box of cigars in a store in decades! I guess that’s a good thing…
+
+**But the nostalgia—the sweet memories that I have about those things!** By just seeing those containers, I can smell my dad’s coffee, I can smell my grandpa’s cigar! I can visualize my coins~ I can visualize my baseball cards~
+
+Good memories~
+
+What about you? Did you ever use containers like those? **What sort of knickknacks did you store** in them? Do you still have them? What other things did we use as containers?
+
+Copyright 2019. All rights reserved. You can show your friends, coworkers and students, **but NO reproduction in any form allowed without prior written authorization.**
+
+- ubiquitous: If you describe something or someone as ubiquitous, you mean that they seem to be everywhere. (FORMAL) 
+- knickknacks
+- nearly :  almost but not quite 
+
+- nostalgic 
+- resealable: a device adapted to hold or release a mechanism as required 
+
+But this snippet seems to show that we get a different draw every time (which is what we want)
+
+- snippet: snippet snippets 
+  A snippet of something is a small piece of it. 
+  ...snippets of popular classical music... 
+  I read a snippet she had cut from a magazine. 
+
+
+
+### 1/17/2019
+
+LME 13 http://archive.aweber.com/ddm_membership/5xaNJ/h/Lesson_13_Should_you_read.htm Should you read English OUT LOUD?
+
+When reading in English, is it a good idea to read out loud? NO! Unless you have very good pronunciation, read to yourself!
+
+ Yes, the opposite of “read out loud” is “read to yourself”!
+
+Why? What happens when you read out loud?
+
+If a student's pronunciation is “bad”, he will make his “bad” pronunciation stronger! Your eyes and mind are filled with English, but let your mouth and ears relax.
+Reading SPEED will slow down a LOT! Reading to yourself is MUCH faster than reading aloud.
+Your coworkers, classmates, friends and family will be ANNOYED!! It’s true!
+
+Additionally, SPOKEN language is different from WRITTEN language.  We use many more “big words” when writing to be more precise. When we speak, however, we use easier words to be more efficient.
+
+ One of America’s most influential writers was William Faulkner. Here’s an **excerpt** from one of his most famous novels called A Fable. Try reading it out loud
+
+- excerpt: a passage (as from a book or musical composition) selected, performed, or copied : EXTRACT
+
+Oh my god!! Did you give up? I stopped in the middle!! Books use more $10-words (big words) than we use when speaking. By trying to say them out loud, you will CUT YOUR FLOW—you will lose your rhythm and your speed will slow!
+
+When I mispronounced a word, some people would smile and imitate the word just like I said. It embarrassed me and made me SO mad!! Again, it happens in every language, in every country.
+
+If a person has bad pronunciation in a professional situation, it makes them sound “less intelligent”.  People might not want to listen to the speaker... Worse...the native speaker might focus more on your ACCENT than on what you are saying~~
+
+After three days, you will stink
+
+- stink: to be extremely bad or unpleasant eg<eg. the performance stank> that news really stinks>   
+
+
+
+### 1/18/2019
+
+LME http://archive.aweber.com/ddm_membership/Hl8yJ/h/Lesson_14_PLUS_a_free_MP3_.htm
+
+I must polish my shoes.
+
+I love Polish food.
+
+That’s the basis for my DDM Listening classes. I want students to focus on the VISUAL and AUDITORY aspect of what we are studying, and THEN put it into words and write it.
+
+Kinesthetic it! -- Do it! 
+
+HETERONYM: those words that are SPELLED the SAME but are PRONOUNCED DIFFERENTLY.
+
+The **bass** player went fishing and caught a **bass**.
+
+I’m too **close** to the open window—**close** it, please.
+
+The wooden **Polish** chest needs some **polish**.
+
+I’ll **resume** working on my **resume** after lunch.
+
+The **sewer** quit his job at the clothing company because of the terrible smell from the **sewer**.
+
+He was able to see the **minute** difference after only a **minute** or two.
+
+It **tears** my heart to see **tears** in his eyes.
+
+You should **read** this book—I **read** it when I was your age.
+
+I **live** for **live** concerts!
+
+The enemy made him **bow** which caused him to drop his **bow**.
+
+I won’t **desert** you in the **desert**.
+
+I’m very **content** with the **content** Coach Shane creates.
+
+**Does** do things in groups; the buck **does** things alone.
+
+I will **lead** you to the **lead** mine.
+
+I practice **putting** every day—by **putting** the ball in the hole, I gain confidence.
+
+**Wind** the kite tightly to the tree branch or the **wind** will take it away.
+
+The soldier’s **wound** was very bad and he **wound** up dying.
+
+I tried **evening** out my suntan—but in the **evening** I realized I had failed~
+
+Her method to **entrance** me started as soon as I came through the **entrance**.
+
+I will **present** my **present** after dinner!
+
+What’s the **address** of the place where you’ll **address** the students?
+
+I made a special MP3 file for these sentences. You can listen to it here.
+
+https://parmyproductionsllc.app.box.com/s/ni6kgawz4a1wyw42mfvcf2kperiy7eqx
+
+
+
+- the franchise brand:  If a company franchises its business, it sells franchises to other companies, allowing them to sell its goods or services
+
+. E.g. It takes hundreds of thousands of dollars to get into the franchised pizza  business
+
+- Much-publicized: highly advertised
+- Weight-loss endeavor: the process/action of trying to lose weight [In`dZvL; inˋdєvə]
+- Calorie-laden food: high calorie food
+
+
+
+### 1/19/2019
+
+E3PODCAST: 0808 I am sitting on it!
+
+- to sit on an idea
+
+  a ham sits on an egg until it hatches. 
+
+
+
+Pittock Mansion
+
+Built in 1914, Pittock Mansion is full of rich history of one of Portland's first families, the Pittocks. It is the perfect place to discover how Portland became what it is today.
+
+Henry Pittock and future wife Georgiana Burton both crossed the ORGEGON Trail, separately, in the 1850s. Henry built his fortune as the publisher of The Oregonian newspaper, while Georgiana raised a family and funds for local charities. Together, the Pittocks helped transform Portland from small "stumptown" to bustling modern city. 
+
+Goeorgiana and Henry lived in Pittock Mansion until their deaths in 1918 and 1919. In 1958, the last family members moved out and then mansion suffered damage in the 1962 Columbus Day Storm. Portlanders launched a fundraising campaign to save it, and in 1965 a restored Pittock Mansion opened to the public
+
+
+
+http://pittockmansion.org/our-story/history/
+
+BUILDING A LIFE, BUILDING PORTLAND
+
+Henry Pittock (c.1834-1919) was born in London, England but grew up in Pittsburgh, Pennsylvania. In 1853, when Henry was 19, he headed west on the Oregon Trail **to seek his fortune**. A year later, his future wife Georgiana Burton (c.1845-1918) left Missouri with her family and headed west as well. When Henry and Georgiana arrived in the area, Portland was a frontier “stumptown” competing with Oregon City to become the major trade and industrial center for the region.
+
+- stump: A stump is a small part of something that remains when the rest of it has been removed or broken off. 
+  If you have a tree stump, check it for fungus
+
+
+
+Henry found work as a typesetter at [*The Oregonian*](http://www.oregonlive.com/) at a time when the newspaper industry was **financially risky and fiercely competitive.** More than 30 newspapers **were launched in** Portland during this period. On June 20, 1860, Henry and Georgiana married and five months later, he was given ownership of the paper **in exchange for back wages**. Henry went on to transform *The Oregonian* into a successful daily newspaper that is still printed today.
+
+- back wages:  is the difference between what an employee was paid and the amount the person should have been paid. ... For example, if an employer unlawfully fires an employee, the employee might be due back wages for the time he or she was not allowed to work.
+
+AN ADVENTUROUS LIFE
+
+While best known for being a successful newspaper publisher, Henry Pittock also built a financial empire by investing in real estate, banking, railroads, steamboats, **sheep ranching**, silver mining, and the paper industry. He was **an avid outdoorsman**, bicycle enthusiast, and was among the first group to climb Mount Hood. Georgiana Pittock became a founder and fundraiser for many charities and cultural organizations, such as the Ladies Relief Society, Women’s Union, and the Martha Washington Home, a residence for single, **self-supporting** women.
+
+BUILDING A GRACIOUS HOME
+
+It wasn’t until the early 1900s that Henry Pittock started planning his “mansion on the hill” **on property that had panoramic views of Portland, the Willamette River, and the distant Cascade Mountains**. Construction began in 1912 and Henry and Georgiana moved into the home in 1914 with eight other members of the family. The couple only lived in the Mansion for roughly four years before they died. Family continued to live in the home into the 1950s. The last residents, grandson Peter Gantenbein and his father, Edward, moved out in 1958 and **put the Mansion up for sale**.
+
+- a panoramic view of ... If you have a panoramic view, you can see a long way over a wide area. 
+- put ... up for sale
+
+The Mansion sat empty for four years and was hit by the Columbus Day Storm on October 12, 1962. **Hurricane-force winds** damaged roof tiles and window panes which then allowed water to infiltrate the Mansion. By 1964, the Mansion was in poor condition and developers expressed interest in **tearing it down** and turning the estate into a subdivision. **Dedicated citizens of Portland rallied and assisted the City in raising the funds to purchase the property for $225,000, which included $67,500 raised by citizens**.
+
+- pane: A pane of glass is a flat sheet of glass in a window or door
+- infiltrate
+- turn into subdivision
+- Dedicated: devoted to a cause, ideal, or purpose : ZEALOUS <a dedicated scholar> 
+- rally: unite to support 
+
+SAVING PITTOCK MANSION
+
+The work needed to restore the Mansion and transform it from a private residence to a public space took 15 months. In 1965, Pittock Mansion opened to the public as a historic house museum.
+
+In 1968, the nonprofit Pittock Mansion Society was formed to **take on the responsibility of** furnishing the Mansion, taking care of the collection, and providing educational activities.
+
+PITTOCK MANSION TODAY
+
+In 2007, the Society took over the day-to-day museum operations from [Portland Parks & Recreation](https://www.portlandoregon.gov/parks/) and has been operating the historic house museum ever since.
+
+The Pittock Mansion Society is a 501(c)3 nonprofit organization whose mission is to **inspire understanding and stewardship of Portland history through Pittock Mansion**. The Society also works with Portland Parks & Recreation to maintain and preserve the historic buildings. All admissions, memberships, donations, grants, and museum store purchases go to **support Pittock Mansion and its mission.**
+

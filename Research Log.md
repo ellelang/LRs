@@ -129,7 +129,7 @@ cat(paste(var_names, collapse=", "))
 
 - Python open file 
 
-  ```
+  ```python
   from pathlib import Path
   mdata_folder = Path("C:/Users/langzx/Desktop/github/EAmosm")
   mosmdata = mdata_folder / "MOSM.accdb"

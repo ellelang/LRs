@@ -284,4 +284,5 @@ colnames(draws)<-c('wetland','pay','cc','nm','asc','dems18','costtax',
 
 
 
+- The parameters for observable heterogeneity should not be called "fixed parameters". They are individual specific parameters. In the Nlogit6 output, the name "fixed" means the means of these random parameters are fixed.   
 - How you might use the uncertainty of WTA at a specific location to say something about practices/locations which may be robust to cost assumptions?
