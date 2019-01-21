@@ -1300,7 +1300,6 @@ Thank God everyone is safe!
   If there is a concurrence of two or more things, they happen at the same time. 
   The concurrence of their disappearances had to be more than coincidental. 
 
-  
 
 ### 1/14/2019
 
@@ -1733,7 +1732,7 @@ The Mansion sat empty for four years and was hit by the Columbus Day Storm on Oc
 - pane: A pane of glass is a flat sheet of glass in a window or door
 - infiltrate
 - turn into subdivision
-- Dedicated: devoted to a cause, ideal, or purpose : ZEALOUS <a dedicated scholar> 
+- Dedicated: devoted to a cause, ideal, or purpose : adj.  ZEALOUS <a dedicated scholar> 
 - rally: unite to support 
 
 SAVING PITTOCK MANSION
@@ -1748,3 +1747,51 @@ In 2007, the Society took over the day-to-day museum operations from [Portland P
 
 The Pittock Mansion Society is a 501(c)3 nonprofit organization whose mission is to **inspire understanding and stewardship of Portland history through Pittock Mansion**. The Society also works with Portland Parks & Recreation to maintain and preserve the historic buildings. All admissions, memberships, donations, grants, and museum store purchases go to **support Pittock Mansion and its mission.**
 
+
+
+### 1/20/2019
+
+- E3podcast 821: 
+
+To be pumped: I am pumped about my trip to Alaska. My students are always pumped! 
+
+- E3podcast 822:
+
+To pander to sb:  the only reason that they eat on the stick is to pander to the general public
+
+(The politicians are pandering to the general public)
+
+- succulent: food that is juicy and tender and delicious
+
+- venture: a (usually risky) plan - in this case, starting a business
+
+- fanatical: 
+
+  very zealous/arduous..... to an obsessive or crazy level. 
+
+- zealous: 
+
+  Someone who is zealous spends a lot of time or energy in supporting something that they believe in very strongly, especially a political or religious ideal. 
+  She was a zealous worker for charitable bodies.
+
+- arduous: 
+
+  Something that is arduous is difficult and tiring, and involves a lot of effort. 
+  e.g. a long, hot and arduous journey...  The task was more arduous than he had calculated. 
+
+- inquire: ask, find out
+
+- abducted: kidnapped, taken
+
+  If someone is abducted by another person, he or she is taken away illegally, usually using force. 
+  He was on his way to the airport when his car was held up and he was abducted by four gunmen. 
+
+- pretty much: basically, essentially
+
+- quite a character: an interesting/ surprising person
+
+- semantic 
+  Semantic is used to describe things that deal with the meanings of words and sentences. 
+  He did not want to enter into a semantic debate.
+
+:
