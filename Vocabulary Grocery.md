@@ -1535,9 +1535,9 @@ My half of the pizza tasted excellent!
 
   **Nootropics!**! If you're interested, click here! If you have questions, let me know!!
 
+
+
 ### 1/16/2019
-
-
 
 Lesson 12: Nostalgic Containers?! Yes...what do you think?http://archive.aweber.com/ddm_membership/FnsoJ/h/Lesson_12_Nostalgic.htm
 
@@ -1794,4 +1794,152 @@ To pander to sb:  the only reason that they eat on the stick is to pander to the
   Semantic is used to describe things that deal with the meanings of words and sentences. 
   He did not want to enter into a semantic debate.
 
-:
+
+
+### 1/21/2019
+
+LME 15 <http://archive.aweber.com/ddm_membership/NV1oJ/h/Lesson_15_Americans_using.htm>
+
+In our last DDM assignment we were studying part of a TED Talk.
+
+TED Talks are really popular because of their GREAT subjects and their GREAT speakers. And our assignment was great. BUT…we ran into a phrase that caused a lot of students a problem.
+
+more so
+
+“more so” is MOST COMMONLY used as an adverbial. It’s equivalent to “even more” and typically includes the word “than”.
+
+**Check these sentences out** **(all written by my students)****:**
+
+- **Women** create stable societies more so than **men**.
+
+- If you cover your **eyes**, your **hearing** ability is enhanced more so than ever.
+
+- This band is popular **now** and is likely to become even more so in the **future**.
+
+*We could easily replace* **MORE** *with \**LESS** or **EQUALLY**, which is why English dictionaries prefer to write it as TWO WORDS and not one word.*
+
+ In those examples, we are using “more so” to **CONTRAST** A and B. It shows a difference between A and B. That is the CORRECT usage of “more so”!
+
+**But…damn daily English!**
+
+In the TED Talk we studied, “more so” was used to **ADD** to A and **NOT** to **CONTRAST**. In this situation, however, “**MOREOVER**” would be a better word to use, but Americans sometimes don’t care about the rules!!
+
+ In this usage, “more so” is similar to:
+
+Not only A, but also B 
+
+In addition to A, there is also B
+
+There is A, not to mention B
+
+And an example with *moreover*:
+
+Cooking my own food is cheap, moreover it’s healthier.
+
+ **Check these out** **(one sentence from my student, one from TED and two from me!)****:**
+
+- I realized that I wanted everyone to like me. More so I am a hypocrite.
+
+  Hypocrite:  
+  If you accuse someone of being a hypocrite, you mean that they pretend to have qualities, beliefs, or feelings that they do not really have. 
+  The magazine wrongly suggested he was a liar and a hypocrite. 
+  N-COUNT disapproval 
+
+- She became a bassist, more so a musician.
+
+  bassist: A bassist is someone who plays the bass guitar or the double bass. 
+
+- I coach, more so I inspire.
+
+- Cooking my own food is cheap, **moreso** it’s healthier.
+
+*It is more acceptable (recently) to write “more so” as one word.*
+
+*Still, most dictionaries will NOT acknowledge “moreso” as one word!*
+
+Chances are, the American will understand you. **Especially if you add, “You know what I mean?” at the end of your sentence!!**
+
+
+
+### 1/22/2019
+
+LME  <http://archive.aweber.com/ddm_membership/AFbx3/h/Buck_up_But_not_always_.htm>
+
+Tough and resilient.
+
+That's my neighbor. When I took that picture, it was 26 below 0 Celsius! No problem for that guy. He's a male deer--we call them bucks. 
+
+We have an expression: **Buck up**!
+
+It means, "be tough" or "be strong".
+
+"Don't be weak". Be like a buck!
+
+Our buck comes by every evening for some snacks. My wife gives them some feed--she likes having the deer around.
+
+We don't usually see the bucks, though. The does (females) and yearlings (deer that are almost one year old) are the most common visitors.
+
+So why has he been visiting? 
+
+Because of the BRUTAL cold. While the deer can survive in the super cold weather, they don't want to waste much energy running around. 
+
+SO...our FREE food is a great deal! He can come, eat and then go back to rest!
+
+ **Even the toughest sometimes need help**.
+
+The same goes with everything. You might think you don't need help. You might think getting help is weak.
+
+You might think that it's better to do it yourself than to get help.
+
+But that's not always true.
+
+You might just be wasting your time. And other people's time, too.
+
+Don't be too proud to NOT take help. At the same time, be happy when YOU can offer help, too!
+
+
+
+When I was a kid, we had those containers, too. I kept cigar boxes to store "Bons Points" that my teacher gave me when I was either a good girl or if a had done a good job. After earning 10 bons points, we could exchange them for an image of animals or whatever. We still have coffee cans in France, especially for instant coffee. Yes, good memories of my childhood.
+
+
+
+THIS is what I love about teaching English through DDM. How else could we come up with the subject of old coffee cans and cigar boxes? And how nice it is to know that as a child, just like me, we kept some treasure in these containers!! Thank you for sharing, Chantal!
+
+ Hi Daisy! Oh...they all look SO delicious! You know, when I visited China (Hong Kong), I never saw anything like these dishes. And when I ate at nice Chinese restaurants in Korea, I never saw ANY of these dishes! If I go to China, you'll have to tell me exactly where to go. Food will be my top priority!!
+
+
+
+ Hi, there!  I'm giving answers to the questions you asked me in the last newsletter. And I'm also attaching some additional pics... So here is my route! A short description...I took the train from Strel'na (my neighborhood) to a station called "Platform 68km." I was on the train with my MTB. The body of water is called "The Gulf of Finland." 2nd (pic). The weapons are from WWII 1941-1945 battles. 
+
+ As to the lighthouse, it's a landmark but still active, you can see a light signal on top of it. And next to it is a modern ships' traffic control station. It was getting rather late so I decided skip food in order to catch train. All in all, it was a spontaneous adventure. I didn't plan it... The places were new for me, but I  really enjoyed visiting them! 
+
+- spontaneous:  happening or arising without apparent external cause
+
+Yes, like you, I have a desire to go on little adventures! I have a t-shirt that my wife bought me which says, **"Not all those who wander are lost"!** It's a quote from Tolkien! And it describes me. And I think it describes you, too!
+
+I’m making drawings!!! The book’s coming along great. T**he freedom that will allow me to make any of my ideas a reality is within sight.** More updates soon^_^
+
+
+
+Hmm!! I like me some STEAK!! **Did you cook it rare, medium or well-done?** This IS a test... 
+
+15 minutes to change a flat? Wow! That's very quick! The last time I changed a flat...30 years ago!! And right now, with all the snow, I hope I don't have that problem!
+
+ And your book is getting closer and closer to being finished! I, and I think all of the LME family...WE are really looking forward to it! And finally Luka! Luka has a LOT of fans, Matt. We get mail specifically directed towards Luka. Perhaps we should hire him to do some coaching!!
+
+- Red moon...shaky Coach Shane!
+
+Mikey was in his crib when all of the sudden deer started showing up in our backyard.
+
+- crib: baby bed with high sides made of slats
+
+He started screaming and hollering!
+
+- holler: If you holler, you shout loudly. (mainly AM, INFORMAL) 
+  The audience whooped and hollered. 
+
+I think he got scared because the buck was chasing all the other deer away!!
+
+He was probably angry at the buck!
+
+That's it from me! I hope you guys have a super week. I'll be back in your INBOX tomorrow with another English lesson!
