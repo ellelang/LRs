@@ -1404,3 +1404,26 @@ Nlogit6 P548. exponential distribution, scaled:
 $$
 \beta_i = \beta v_i, \ v_i \sim exponential
 $$
+
+
+
+### 1/22/2019
+
+
+
+Python plot
+
+```python
+fig = plt.figure(figsize=(10,5))
+gs = gridspec.GridSpec(1,2)
+mg0 = sfg.SeabornFig2Grid(g1, fig, gs[0])
+mg1 = sfg.SeabornFig2Grid(g2, fig, gs[1])
+
+gs.tight_layout(fig)
+fig.text(0.65, 0.915,'$y = -0.5818x^2 - 0.0465x + 0.9896$', fontsize=12)
+#gs.update(top=0.7)
+
+plt.show()
+fig.savefig('diffratio.pdf')   
+```
+
