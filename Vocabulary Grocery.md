@@ -1943,3 +1943,92 @@ I think he got scared because the buck was chasing all the other deer away!!
 He was probably angry at the buck!
 
 That's it from me! I hope you guys have a super week. I'll be back in your INBOX tomorrow with another English lesson!
+
+
+
+### 1/23/2019
+
+LME 17 http://archive.aweber.com/ddm_membership/E0Xu3/h/Lesson_17_Phrasal_Verb.htm
+
+If you want to speak good “daily English”, there are FOUR things you must master.
+
+Pronunciation & Phrasal verbs & Get/got usage & Pronouns 
+
+ I talk about these four areas of daily English in my DDM classes all the time. They look easy—trust me, they’re NOT!!
+
+Phrasal verbs are SIMPLY: an action verb + a preposition
+
+Here are some examples…
+
+- Shut up, shut down, shut off ,
+
+- Go on, go through,  go by,
+
+- Break out, break down, break up
+
+Most of the time, the preposition (actually, it can function as a preposition OR an adverb—but that’s too much grammar!) gives extra information about the verb. And it’s usually easy to understand IN the context.
+
+We have to know the context. We have to know the situation.
+
+One phrasal verb can have SEVERAL possible meanings. An easy example would be GO DOWN:
+
+- When the sun **goes down**, it’s much colder.   SINKS
+- I told my wife I lost my job…that didn’t **go down** well. ACCEPTED *(received)*
+- My weight has **gone down** since January first. DECREASED
+- The game is **going down** at 7pm.  STARTING
+- Your team is **going down**!  LOSING *(especially badly)*
+- Let’s **go down** together. TRAVEL *(to the south, towards downtown, to a lower elevation)*
+- My computer **went down** last night. BROKE *(stopped working)*
+- Will Trump **go down** as a great president or a terrible president? BE REMEMBERED *(historically)*
+
+That’s why I tell my students,
+
+**Do NOT ignore phrasal verbs.**
+
+But I also tell them,
+
+**Do NOT memorize phrasal verbs.** 
+
+What should you do?
+
+**USE THEM!**
+
+- Talk with Americans—catch the phrasal verbs.
+- Listen to podcasts and radio shows in English—catch the phrasal verbs.
+- Read articles and books—recognize the phrasal verbs.
+- Watch TV shows and movies—catch the phrasal verbs.
+
+Sound easy?
+
+No, it’s not! And the really sad thing: if you don’t learn your phrasal verbs, you’ll continue to have a really hard time with daily English. The good news: Phrasal verbs are my specialty!
+
+In EVERY DDM lesson we meet phrasal verbs. And we see them being used in a situation. The situation is easy after I explain it—and that makes the phrasal verb easy to understand.
+
+And a few weeks later, we see the SAME phrasal verb again in a different situation. And my students recognize it and they can SEE that it is either the same or a bit different. And we talk about it.
+
+Without a coach, without someone to ask, learning and mastering phrasal verbs is NOT easy!!
+
+ Let me give you a QUIZ! In the following FOUR sentences, we can use the same phrasal verb (just change the tense). Can you figure out which is best? Don’t use a dictionary!! REAL LIFE, okay?
+
+**Which of these phrasal verbs can go in ALL FOUR sentences below?**
+
+**Go through**    **Bring up**    **Run down    Put off**
+
+1. I                            a difficult time when my grandmother died.
+2. Our proposal did not                      . But I promise that I’ll try again.
+3. As a runner, I would                       3 or 4 pairs of running shoes every year.
+4. I                            my resume and didn’t find any mistakes.
+
+\1.    I **went through** a difficult time when my grandmother died. 
+
+\2.    Our proposal did not **go through**. But I promise that I’ll try again.
+
+\3.    As a runner, I would **go through** 3 or 4 pairs of running shoes every year.
+
+\4.    I **went through** my resume and didn’t find any mistakes.
+
+### 1/24/2019
+
+- caveat: A warning or caution: “A final caveat: Most experts feel that clients get unsatisfactory results when they don't specify clearly what they want” (Savvy). 
+     b. A qualification or explanation.
+    2. Law. A formal notice filed by an interested party with a court or officer, requesting the postponement of a proceeding until the filer is heard.

@@ -1427,3 +1427,14 @@ plt.show()
 fig.savefig('diffratio.pdf')   
 ```
 
+
+
+### 1/23/2019
+
+Deap pareto front:
+
+https://stackoverflow.com/questions/44929118/minimizing-multi-objective-function-using-deap
+
+deap example
+
+https://www.programcreek.com/python/example/90740/deap.algorithms.eaSimple
