@@ -1438,3 +1438,74 @@ https://stackoverflow.com/questions/44929118/minimizing-multi-objective-function
 deap example
 
 https://www.programcreek.com/python/example/90740/deap.algorithms.eaSimple
+
+
+
+### 1/24/2019
+
+Writing plan for general exam:
+
+- Identify key Modules
+
+  - Main message of each Module (25 words)
+  - Main methodology of each Module
+
+  - Abstract for each Module (250 words)
+
+  - Paragraphs outlines for each Module
+    - Topic sentence for each paragraph (15 words)
+    - Logic flow
+
+  - List the key literatures  for each module
+    - [ ] the proposal by Sergey!!
+    - [ ] the Cornell workshop proposal
+    - [ ] the abstract of AGU paper
+    - [ ] MOSM PAPER
+    - [ ] SERGEY, Valcu, Kling 2014
+    - [ ] John M. Rose CI of WTP for random coefficient logit model
+    - [ ] Weighted choice models to account for spatial heterogeneity of preferences by Czajkowski 
+
+- Time line of writing for Each Module
+
+- Time to schedule the general exam
+
+
+
+- [ ] Module 1 
+
+
+
+
+For the WTA analysis, you said you fixed the KR script? I guess I haven't seen the results yet. Next step would be to a) revisit the MOSM alleles and costs and modify those according to the WTA analysis and b) think about developing costs for MRB, using those.
+
+
+
+Wrt robustness, the other thing to develop can be to develop bounds on costs (and maybe benefits) and see how stable the wBCR ranking is when those are perturbed, and whether particularly robust management options (and locations) emerge.
+
+Use the mean values for the county. 
+
+
+
+Think about the "clusters of landowner": fixed cost for participation is high!  --> Prefer farmers with higher probabilities for more of the land management practices. 
+
+
+
+
+
+peter hawthorne, decision trees. 
+
+first best, second best 
+
+intervention priority 
+
+SEFS Graduate Student Symposium (GSS)
+
+The abstract submission period for the annual SEFS Graduate Student Symposium (GSS) is **open now** and will be **closing Friday, February 1**, so we encourage everyone to check out the submission form [here](https://goo.gl/forms/HhJVnaJdz17G0vV53) and start putting an abstract together!  Please note that we will only accept abstract submissions through this form – emailed abstracts will not be accepted
+
+https://docs.google.com/forms/d/e/1FAIpQLSdkGcbeUlMQcdRHFyx9QprQwBh77MKvUrNzCvNf9U3Jtm3QQg/viewform
+
+2019 SEFS Graduate Student Symposium Friday March 1st, 2019
+
+Abstract submissions are due at 5pm on Friday, February 1st.
+Presentations last 10 minutes, followed by 2-3 minutes for Q&A. 
+The name and photo associated with your Google account will be recorded when you upload files and submit this form
