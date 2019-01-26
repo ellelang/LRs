@@ -2029,6 +2029,135 @@ Without a coach, without someone to ask, learning and mastering phrasal verbs is
 
 ### 1/24/2019
 
+LME 18 http://archive.aweber.com/ddm_membership/IoAz3/h/Lesson_18_Bacon_eggs_or.htm
+
 - caveat: A warning or caution: “A final caveat: Most experts feel that clients get unsatisfactory results when they don't specify clearly what they want” (Savvy). 
      b. A qualification or explanation.
-    2. Law. A formal notice filed by an interested party with a court or officer, requesting the postponement of a proceeding until the filer is heard.
+
+e.g 2. Law. A formal notice filed by an interested party with a court or officer, requesting the postponement of a proceeding until the filer is heard.
+
+
+
+When you speak English, we often have words that GO TOGETHER.
+
+For example,
+
+**Black and white**
+
+I really like black and white photographs.
+
+**Read and write**
+
+In elementary school, they teach students to read and write.
+
+**Suit and tie**
+
+If a guy works for a bank, he should wear a suit and tie.
+
+ 
+
+Now, what’s IMPORTANT with these pairs of words—you MUST say them in that order! If you say “a white and black photograph”, people will look at you STRANGE!
+
+ Of course, it is possible to switch the order—there’s nothing wrong contextually—but native speakers commonly use THE SAME ORDER!!
+
+So, here’s your quiz: Choose the correct order!
+
+- For breakfast I love having  bacon and eggs. 
+
+- For dinner, though, I’m a meat and potatoes  guy! 
+
+- Do you have a  pen or pencil ?
+
+- I need new  pots and pans  for my kitchen.
+
+- Put on your shoes and socks                        .   
+
+- I work outside rain or shine                        .   
+
+- Life has its  ups and downs                    .
+
+- After getting hit, his eye turned  black and blue                            .
+
+- Do you want any salt and pepper on your eggs?
+
+- Hotels are nice, but I prefer a quaint bed and breakfast  much more.
+  - Something that is quaint is attractive because it is unusual and rather old-fashioned. 
+    ...a small, quaint town with narrow streets and traditional half-timbered houses... 
+
+The answers are [HERE](https://parmyproductionsllc.box.com/s/s5ckov9t3fpcpm8pw5imz53fieu5fxxh)!
+
+**A quick recap:** **black and white****,** **read and write****,** **suit and tie****,** **+10 more pairs**
+
+An article from Ziyuan https://uxdesign.cc/what-it-takes-to-become-a-ux-designer-in-silicon-valley-cb1a6ee0c657
+
+ gamify
+
+ I am in awe that you have so much grit to self-teach yourself UX design. 
+
+It will be helpful if someone can show you the rope. No one person can answer all the questions. That’s why you need a board of mentors. I’ve learned so much from the people around me, my mentors, colleagues, friends and online.
+
+Having a higher goal than just finding a job will help you sail through ups and downs. 
+
+
+
+Surprising facts: 85% of people I followed up with after interviews provided me useful feedback. On the other hand, I learned less than 3% of interviewees actually reach out for feedback.
+
+### 1/25/2019
+
+LME 19 http://archive.aweber.com/ddm_membership/PY3o3/h/Lesson_19_I_hope_this.htm
+
+**TO LEARN: stick with it, sticky fingers, stick in your mind** 
+
+Hi , In DDM 547 my students ran into the word “stick” twice.“sticky-fingers George"
+
+- We’re gonna stick with the calzones (*a type of food*).
+- When I find something I like, I stick with it.
+
+ Stick is one of those words that has DOZENS of definitions and is used MANY times each day. It’s a word that you NEED to master if you want to be good at daily English.Like I always say to students at the intermediate and advanced level: In order to improve your daily English—STOP memorizing and start using. “using” includes **listening** to English (podcasts, radio, music) and **watching** English (TV, movies, etc.)!
+
+So, let’s go back to STICK.
+
+I’m guessing that these two are easy for most of you:
+
+- “We’re gonna stick with the calzones (*a type of food*).”
+- “When I find something I like, I stick with it.”
+
+They mean: you will NOT change.
+
+- You will continue to eat calzones.
+- Once you find something you like, you’ll continue to eat (*any verb*) it.
+
+But what about the first one?
+
+1. “sticky-fingers George”
+
+That means that George likes to STEAL things! It’s an idiom and the image of it is funny! Imagine you have “honey” on your fingers…then whenever you touch something, it sticks (attaches/adheres) to your fingers! Do you know anyone with sticky fingers? My cat Minty has sticky fingers!! She loves to steal my pen caps~ But people with sticky fingers…they might be stealing your money!
+
+
+
+After you learn new expressions like theseà
+
+MAKE your own sentences!
+
+LOOK for other examples online!
+
+If you do that, those new expressions will STICK IN YOUR MIND!! You won’t forget them!
+
+ 
+
+Perhaps you should inquire: 
+
+pay attention to your vowel sound : e
+
+succulent : Succulent food, especially meat or vegetables, is juicy and good to eat. 
+
+supreme court :
+
+abduct
+
+communist
+
+ 
+
+We learned by trail and error 
+
