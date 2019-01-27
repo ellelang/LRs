@@ -2161,3 +2161,57 @@ communist
 
 We learned by trail and error 
 
+
+
+### 1/26/2019
+
+- zodiac: the “belt” of stars we see on the “ecliptic”. The ecliptic is path of the sun as the Earth orbits it. The belt is broken into 12 parts which each have a major constellation. Those constellations make up the zodiac.
+
+- constellation: A constellation is a group of stars which form a pattern and have a name.
+
+- Zinger: surprising or shocking news/information. When Shane said he was  married— that was a real zinger!
+
+- Starstruck: to be in awe/shock/admiration of (usually) a celebrity! When you see a movie star and you are so surprised you can say anything
+
+- what's the latest buzz? what's the latest news? 
+
+- cosmos
+
+- Zodiac signs:the 12 constellations that are seen along the ecliptic 
+
+- To sort it all out: to clear
+
+  up the confusion, to set us straight, to explain it to us
+
+- A shakeup: a reorganization. Every time a new president begins work, there’s a shakeup in top management
+
+- Buzzing about: talking about
+
+- Planetarium: a room with a rounded ceiling on which projections of the solar system are displayed. It allows the study of the stars and planets as they move in unison.
+
+- Astrologers: people who “predict the future” by considering your birthdate and time and comparing it with the alignment of the stars and planets
+
+- Orbit: the curved path a planet takes as it goes aroundits sun...satellites and comets, too!
+
+- comet: A comet is a bright object with a long tail that travels around the sun. 
+  Halley's Comet is going to come back in 2061. 
+
+- Aligned to the starts: lined up with the stars, in synch with the stars
+
+- Babylonians: the people from the ancient civilization of Babylon
+
+- A bit off: not quite accurate
+
+- Word is...: some people are saying
+
+- Constellations: permanent groups of stars that make up the zodiac
+
+- Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn
+
+before you start reading a new horoscope, word is there are actually two different zodiac calendars. Most Westerners follow the tropical zodiac based on seasons instead of constellations, and nothing has changed there.
+
+- horoscope : a description of what is going to happen to sb in the future, based on the position of the stars and the planets when the person was born
+
+- everywhere
+- read eeeding, not raid
+- ei, ang
