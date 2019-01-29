@@ -2215,3 +2215,157 @@ before you start reading a new horoscope, word is there are actually two differe
 - everywhere
 - read eeeding, not raid
 - ei, ang
+
+### 1/28/2019
+
+LME 20 http://archive.aweber.com/ddm_membership/M2Qr3/h/Lesson_20_Know_the.htm
+
+From about 7:30am until 8 or 9pm, you’ll find me at my desk. In front of two computers, four monitors, two cameras and microphones. My desk is where nearly ALL of my work gets done.
+
+I’m sure you are the same. **Sitting at our desks is how most of us earn a living.** I don’t mind that…but I think my **butt** is getting bigger!!
+
+Today I want to talk a little about “furniture”. Specifically, the difference between **desks** and **tables**.
+
+My wife’s desk is *actually* a kitchen table. She uses that because she wants a huge area to work on. My desk is a regular **L-shaped desk**. My son has a desk, too…or is it a table?
+
+What’s the general difference?
+
+Desks are for WORKING and STUDYING! And they usually have a drawer, but not always.
+
+Tables are for EATING or for MEETINGS with several people. Most of you have a table in your kitchen or dining room.
+
+My desk has a drawer. It also has **two electricity outlets** (where you can plug in an electronic device) and it**’s cable-friendly** (there are holes in the frame and top of the desk to **run computer cables through**).
+
+My wife’s desk has NO drawer. Like I told you, it was sold as a kitchen table. But she has a huge area to work on. I’m a bit jealous!
+
+Mikey’s desk…I call it a desk because I’ll want him to eventually color and read and write there. But it has no drawer! But I won’t want him to eat there, so I’m not going to call it a table! It’s very sturdy…so I guess that one day it’ll become a ***footstool***!!
+
+As you can see, **tables can be both**—a table or a desk. But **desks are only desks**!
+
+These days, **standing desks** are very popular. What do you think? Would you like to have one? I think I would like one!!
+
+And if you have a sofa in your living room, you might have a COFFEE TABLE! Those are perfect for coffee, magazines and remote controls.
+
+So, what’s on your coffee table? Your desk? Your kitchen table? Send a picture, maybe we’ll include it in an **upcoming Tuesday’s English Magazine!**
+
+
+
+Technology: Distracting, Disturbing, Deceiving, & Deluding Ourselves To Death
+
+ https://www.zerohedge.com/news/2019-01-28/technology-distracting-disturbing-deceiving-deluding-ourselves-death?from=singlemessage&isappinstalled=0
+
+- Delude: If you delude yourself, you let yourself believe that something is true, even though it is not true. 
+
+[*Authored by Jim Quinn via The Burning Platform blog,*](https://www.theburningplatform.com/2019/01/27/technology-distracting-disturbing-deceiving-deluding-ourselves-to-death/)
+
+> *“What Huxley teaches is that in the age of advanced technology, spiritual devastation is more likely to come from an enemy with a smiling face than from one whose countenance exudes suspicion and hate. In the Huxleyan prophecy, Big Brother does not watch us, by his choice. We watch him, by ours. There is no need for wardens or gates or Ministries of Truth.*
+>
+> *When a population becomes distracted by trivia, when cultural life is redefined as a perpetual round of entertainments, when serious public conversation becomes a form of baby-talk, when, in short, a people become an audience and their public business a vaudeville act, then a nation finds itself at risk; a culture-death is a clear possibility.”* ― **Neil Postman, Amusing Ourselves to Death: Public Discourse in the Age of Show Business**
+
+- Vaudeville: vaudeville is a type of entertainment consisting of short acts such as comedy, singing, and dancing. Vaudeville was especially popular in the early part of the twentieth century. (mainly AM; in BRIT usually use music hall) 
+
+**Something as mundane as using the restroom at work sometimes ends up triggering deeper thoughts about technology – its benefits, deficiencies and danger to our culture.** I’ve been using the same restroom at work for the last twelve years. They remodeled the restroom a few years ago with the latest technology – automatic flushers, automatic soap dispensers, automatic spigots, and automatic towel dispenser. This technology is supposed to make things better, but from my perspective the technology just added complexity, glitches and unnecessary complications.
+
+- mundane : Something that is mundane is very ordinary and not at all interesting or unusual. 
+  Be willing to do mundane tasks with good grace. 
+  ...the mundane realities of life. 
+  ADJ-GRADED 
+  = boring 
+- spigot: A spigot is a faucet or tap
+- glitch: A glitch is a problem which stops something from working properly or being successful. (INFORMAL) 
+
+First off, these technological “improvements” did not eliminate any humans from the equation. The housekeepers responsible for the restrooms continued to be employed. Prior to the remodel they would fill a metal bin with individual paper towels and fill the soap dispenser with liquid soap. Now they have to insert a roll of paper towels in the electronic dispenser and a cartridge of soap in the electronic soap dispenser.
+
+- A cartridge is part of a machine or device that can be easily removed and replaced when it is worn out or empty. 
+  Change the filter cartridge as often as instructed by the manufacture. 
+
+Instead of doing this daily, they wait until they are empty before replacing the towels and soap. That means they run out during the day. It must be dozens off times when I’ve washed my hands and put my hands in front of the automatic towel machine and nothing comes out. Then your choice is going to a stall and using toilet paper or wiping your hands on your pants. When it’s not empty, **it jams 20% of the time.** The automatic faucets stay on too long or go off by themselves with no one near them.
+
+The bottom line is this bathroom technology was costly, requires ongoing costs for battery replacement, did not eliminate any labor costs, malfunctions at a far greater rate than the previous manual devices, and provides less service and satisfaction than the non-technological methods.
+
+This led me to ponder whether this microcosm of technological dysfunction and dissatisfaction applies to technology on a much larger scale, as technology has been sold to the masses as the solution to all of our ills and a sure sign we are progressing as a civilization and culture. Technological advances have given the masses the false impression their lives have gotten better, when in reality the technology has enslaved and controlled them while providing a never-ending distraction from reality, critical thinking and the truth.
+
+> *“Americans no longer talk to each other, they entertain each other. They do not exchange ideas, they exchange images. They do not argue with propositions; they argue with good looks, celebrities and commercials.”* ― **Neil Postman, Amusing Ourselves to Death: Public Discourse in the Age of Show Business**
+
+With virtually everyone in America having access to the internet, smart phones containing more computing power than NASA used to launch rocket ships into outer space, and the proliferation of computers even in the poorest school districts, the masses should be far more intelligent and informed than previous generations. But nothing could be further from the truth.
+
+**Technology is wasted on people who haven’t been taught to think critically, have been indoctrinated by government run schools to be subservient cogs in the machine, and believe feelings and emotions are more important than knowledge and understanding.** The proliferation of social media (Twitter, Facebook, Instagram) has resulted in the dumbing down of human interactions and replacement of discussing issues with virtue signaling, selfies, faux manufactured outrage, and glorifying shallow celebrities. We’re addicted to technology.
+
+**It is incomprehensible our society has embraced technology for amusement, trivialities, and superficial displays of diversion, rather than advancement of knowledge, proliferation of ideas, and cultural progress and enrichment.** The works of Aristotle, Socrates, Shakespeare, Dickens, Twain, Tolstoy, Steinbeck, Orwell and Huxley are available with one click of your iGadget, but instead the masses choose to play Angry Birds, Candy Crush, and Madden, while worshipping at the altar of Kardashian. So much knowledge and wisdom at your fingertips, guaranteed to make you smarter and 99.9% choose to amuse themselves into a stupor of ignorance.
+
+Are we just a society of intellectual lightweights, driven by emotions and sensitivities? Or is this infinite infantilism designed and implemented by those controlling the culture through their ownership of all media platforms? It appears to be a purposeful deliberate strategy implemented by the ruling class to dumb down the masses through the public education (indoctrination) system, divert their attention and thoughts through modern day electronic bread and circuses, enslaving them in debt, and pillaging global wealth and power through control of the political, financial, and mass media structures. And now they utilize the technology to spy on you and make sure you are not contradicting the establishment narrative.
+
+> *“Our politics, religion, news, athletics, education and commerce have been transformed into congenial adjuncts of show business, largely without protest or even much popular notice. The result is that we are a people on the verge of amusing ourselves to death.”* **― Neil Postman**
+
+If the daily machinations, intrigues, schemes, and plot twists broadcast 24/7 seem like an orchestrated reality TV show, it’s because they are. It’s nothing more than an enhanced Truman Show where we are all Truman. The controllers produce the daily disinformation propaganda; superficial story-lines designed to play upon your emotions; plot twists designed to invoke hope, despair, anger, fear, and desire; and a ceaseless mantra that the government, mega-corporations, Wall Street bankers, and chosen “experts” know what is best for us.
+
+**They don’t want a citizenry who understands what is going on, how to think critically and question the establishment, or live within their means. They want obedient consumers** who believe what they are told by “authorities” and are just smart enough to follow the rules laid down by their superiors. A nation built on illusions, delusions, disinformation and confusion.
+
+> *“Television is altering the meaning of ‘being informed’ by creating a species of information that might properly be called disinformation. Disinformation does not mean false information. It means misleading information – misplaced, irrelevant, fragmented or superficial information – information that creates the illusion of knowing something, but which in fact leads one away from knowing.”* **― Neil Postman**
+
+**Television has always been an effective tool in keeping the masses under control.** Talking media heads, sold to the public as highly intelligent and educated journalists, mouthed their lines, written by invisible men working on behalf of the wealthy ruling class, to sooth the savage beasts known as the masses. Control the message and you control society.
+
+**With the advent of the internet, what should have been a vast awakening and enlightenment of the masses, has just been a degradation to the lowest common denominator.** Social media platforms have eliminated thought, conversation, seriousness, knowledge, intelligence, and clarity from the public square and replaced it with narcissism, vitriol, virtue signaling, triviality, attacking anyone with a different viewpoint, and self-promotion.
+
+Now that the Silicon Valley social media behemoth corporations have hundreds of millions addicted to amusing themselves to death, they can decide what is acceptable speech and that which doesn’t conform to their left-wing views. Censorship, public shaming, manufactured outrage and destroying those with an alternative point of view is now in the control of a small cabal of extremely rich men.
+
+They use contrived incidents like the Covington High School kids “threatening” a “noble” Vietnam Vet Native American in a blatant attempt to spin their web of deceit. **Their technological control over public discourse is a threat to our freedom of speech and to our society.** Anyone who thinks for themselves is in danger of becoming an outcast and/or cyber criminal in our new dystopian existence.
+
+> *“For in the end, he was trying to tell us what afflicted the people in ‘Brave New World’ was not that they were laughing instead of thinking, but that they did not know what they were laughing about and why they had stopped thinking.”* **― Neil Postman, Amusing Ourselves to Death: Public Discourse in the Age of Show Business**
+
+Neil Postman published his book in 1985, one year after the title of Orwell’s chilling view of a dark and brutal dystopian future. Postman’s view at the time was Huxley’s Brave New World dystopia had proven to be the more accurate assessment of the future. And he was probably right thirty-four years ago. He accurately assessed how the masses had been trained like Pavlov’s dogs to follow their emotions rather than their intellects.
+
+**The average person actually thinks they are informed, when they have been programmed by disinformation peddled by the corporate media at the behest of their oligarch masters. Ignorance is not strength. War is not peace. Freedom is not slavery.**
+
+The misleading information – superficial, irrelevant, fake news – is designed to create the illusion of knowledge when, in reality, it leads you away from knowledge. Postman didn’t think the dumbing down of Americans was deliberate. He attributed it to TV entertaining rather than informing.
+
+I believe those in control of the levers of society have made a calculated effort to convince the masses their willful ignorance is actually knowledge. The ignorant are much easier to manipulate and lead down any path necessary to benefit those in charge. Accumulating wealth and power is much easier when the masses can’t think, understand basic mathematical truths, or comprehend reality.
+
+**Postman compared the two dystopian visions at the outset of his brilliant tome:**
+
+> *“We were keeping our eye on 1984. When the year came and the prophecy didn’t, thoughtful Americans sang softly in praise of themselves. The roots of liberal democracy had held. Wherever else the terror had happened, we, at least, had not been visited by Orwellian nightmares.*
+>
+> *But we had forgotten that alongside Orwell’s dark vision, there was another – slightly older, slightly less well known, equally chilling: Aldous Huxley’s Brave New World. Contrary to common belief even among the educated, Huxley and Orwell did not prophesy the same thing. Orwell warns that we will be overcome by an externally imposed oppression. But in Huxley’s vision, no Big Brother is required to deprive people of their autonomy, maturity and history. As he saw it, people will come to love their oppression, to adore the technologies that undo their capacities to think.*
+>
+> *What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egoism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance. Orwell feared we would become a captive culture. Huxley feared we would become a trivial culture, preoccupied with some equivalent of the feelies, the orgy porgy, and the centrifugal bumblepuppy.*
+>
+> *As Huxley remarked in Brave New World Revisited, the civil libertarians and rationalists who are ever on the alert to oppose tyranny “failed to take into account man’s almost infinite appetite for distractions.” In 1984, Orwell added, people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure. In short, Orwell feared that what we fear will ruin us. Huxley feared that what we desire will ruin us.*
+>
+> *This book is about the possibility that Huxley, not Orwell, was right.”* **― Neil Postman, Amusing Ourselves to Death: Public Discourse in the Age of Show Business**
+
+
+
+**Postman was most certainly correct in his assessment of our society in 1985.** TV was still the overwhelming method of information and entertainment for the average person. People still had newspapers and magazines delivered to their homes. Cable news had just launched. The internet was not in widespread use. Home computers were in their infancy. Cell phones for every person was a distant dream.
+
+**Orwell’s dark future had not materialized, YET. Huxley’s subtler dystopia required far fewer authoritarian measures.** The unseen psychological manipulation of the masses, as described and practiced by Edward Bernays and his sycophants, was far more effective in molding minds, designing the culture, and forming the ideas of the masses without them realizing they were nothing but lab rats in a grand experiment. Propaganda works.
+
+**Since 1985 the technological control over the masses has deepened and overwhelmed any resistance to its creeping governance of our daily lives.** The proliferation of computers, 24-hour cable TV and “smart” phones for the masses has given the unseen manipulators of the public mind, known as the invisible government, the ultimate tools for engineering our minds and deciding what will be perceived as the central beliefs guiding our daily lives.
+
+We have come to love our oppression and learned ignorance, adoring the very technologies enslaving us in trivialities, disinformation, shallow displays of virtue signaling, and eliminating our capacity to think. The masses have passively acquiesced to their oppressors by allowing technology to completely control their lives and form their opinions.
+
+**The corporate mass media, through social media platforms, the internet, and TV overwhelm the masses with useless information designed to distract and divert our attention from the subversive actions of the wealthy oligarchs pulling the strings behind the technological curtain. The truth has been and continues to be hidden behind an avalanche of irrelevant minutiae and nonsense, spewing from our Screens.**
+
+The purposeful purveyors of this garbage into the minds of the masses play to the lowest common denominator by producing disinformation designed to amuse, provoke fear, confuse, inflame desires, and kindle emotions. They most certainly don’t want citizens thinking critically, questioning the status quo, ignoring their dictates, discussing the real issues and problem confronting the country, or generating ideas which could undermine their control and potentially reduce their vast riches.
+
+I think Portman was being somewhat naïve in thinking the dumbing down of society through technological means and government-controlled indoctrination public schools was an accident. As seen in both novels, the controllers knew exactly what they were doing and why they were doing it. The Brave New World method of control has worked for decades, but the propagation of websites appealing to critical thinkers and those questioning the approved narrative has endangered this command and control structure of the Deep State.
+
+**That is why our society is now devolving towards Orwell’s vision of the future.** Battle lines began to be drawn when Snowden, Assange and other selfless patriots of freedom revealed the level of deception, disinformation, and criminality of the state and those supporting the state. Technology is now becoming the boot stomping on our faces forever.
+
+**The tyranny being inflicted upon the masses by the likes of Google, Twitter, Facebook, Amazon, and other tech behemoths on behalf of their Deep State benefactors is chilling in its depth and depravity.** The oppression from the current day Big Brothers through censorship, banning of truth tellers, demonetization of those who don’t conform, and public shaming of dissenters has replaced the soft tyranny of mental manipulation.
+
+The establishment now openly suppresses the truth through their control of all mainstream media channels and outlets. The alternate media is scorned and ridiculed as conspiracy theorists, nutjobs, and Russian collaborators. The level of fake news vomited by Deep State propagandists has reached a new level of hysteria. Dissenting viewpoints are crushed through economic penalties inflicted upon those who dare go against the approved doctrine of the state.
+
+The use of technology to control the minds of the masses has produced unintended consequences which threatens the power of the Party. **A true Surveillance State, more comprehensive than Orwell ever conceived, is operating in full view.** Trying to lock down the internet has proven to be difficult for the ruling class as more and more critical thinking, pissed off citizens congregate on truth telling websites and stir discontent among the awakening masses.
+
+The election of Trump seems to have been a lightning rod for the discontent to bubble to the surface. There is an all-out technological war being waged between the corporate oppressors and those they are trying to control. The current escalation will surely lead to all out violent war in the foreseeable future.
+
+Huxley’s soft tyranny, where we have been conditioned to obey and never consider revolution, is being replaced by Orwell’s vicious tyranny where persecution, torture and power will be on full display as this revolution begins in earnest. Portman was just early in his conclusion. **Huxley and Orwell were both right. The Party doesn’t care about us. They just use us to attain their own felonious needs. We need to break free from the chains enslaving our minds and take back our country by force.** Time is growing short. Will we meekly accept the fate of Winston Smith and John the Savage inflicted by the State or will we rise up against the technological tyranny oppressing our freedoms and liberties? The answer will decide our fate.
+
+> “Now I will tell you the answer to my question. It is this. The Party seeks power entirely for its own sake. We are not interested in the good of others; we are interested solely in power, pure power.
+>
+> We know that no one ever seizes power with the intention of relinquishing it. Power is not a means; it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power. Now you begin to understand me.” – **George Orwell, 1984**
+>
+> "One believes things because one has been conditioned to believe them. Most men and women will grow up to love their servitude and will never dream of revolution.” – **Aldous Huxley, Brave New World**
+
+*The corrupt establishment will do anything to suppress sites like the Burning Platform from revealing the truth. The corporate media does this by demonetizing sites like mine by blackballing the site from advertising revenue. If you get value from this site, please keep it running with a donation.*
+
