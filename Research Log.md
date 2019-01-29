@@ -1509,3 +1509,53 @@ https://docs.google.com/forms/d/e/1FAIpQLSdkGcbeUlMQcdRHFyx9QprQwBh77MKvUrNzCvNf
 Abstract submissions are due at 5pm on Friday, February 1st.
 Presentations last 10 minutes, followed by 2-3 minutes for Q&A. 
 The name and photo associated with your Google account will be recorded when you upload files and submit this form
+
+
+
+
+
+### 1/28/2019
+
+
+
+```R
+## Loop Level 1: loop through samples  s = 441
+for (i in 1:s){
+  wta_vec <- vector (length = R)
+  ## The  matrix used for stored the draws from multivariate Normal distributions.
+  draws <- matrix (NA,nrow = R, ncol = 19) 
+  colnames(draws)<-c('wetland','pay','cc','nm','asc','dems18','costtax',
+                     'inc1','inc2','inc3','inc4','inc5','inc6',
+                     'farm1','farm2','farm3','farm4','crp','cclake')
+    
+    
+  ## Loop Level 2 (preparation): R = 1000, draw beta vectors from multivariate Normal distributions. Ensure a different beta vector in each simulation loop
+    for (r1 in 1 : R){
+    drawbetas<- betas
+    drawbetas$Betas <- as.vector(rmvnorm(1,mean = betas$Betas, sigma = varcov_m))
+    draws[r1, ] <- drawbetas$Betas
+  }
+    
+  ## Loop Level 2: Each time use a beta vector from the draws
+  for (r in 1 : R){
+    ## new_beta is a row in the draw matrix
+    newbetas <- draws[r,]
+    pay_rp <- newbetas["pay"]
+    wld_rp <- newbetas["wetland"]
+    ## keep the ones with fixed mean, set the random means to 0
+    new_beta2<- c(0,0,0,0,newbetas[5:18],0)
+    index_i <- index [i]
+    dat_s <- dat0[i,]
+    dat_s_m <- as.matrix(x = dat_s, nrow = 1, ncol = 19)  
+    ## draw random means from exponential distribution  n_draws = 10000
+    wta_s <- -(wld_rp * rexp(rate = 1, n = n_draws) + as.vector(dat_s_m %*% new_beta2)) / pay_rp * rexp(rate = 1, n = n_draws)
+    ## take the mean value (of the rexp 10000 draws) for a single simulation loop
+    wta_vec[r] <- mean(wta_s,na.rm = TRUE)
+  }
+  ## End the simulation loop for sample i
+  WLD_WTA_ALL[i,1] <- mean(wta_vec,na.rm = TRUE)
+  WLD_WTA_ALL[i,2] <- quantile(wta_vec, 0.025,na.rm = TRUE)
+  WLD_WTA_ALL[i,3] <- quantile(wta_vec, 0.975,na.rm = TRUE)
+}
+```
+
