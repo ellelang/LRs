@@ -1548,7 +1548,7 @@ for (i in 1:s){
     dat_s <- dat0[i,]
     dat_s_m <- as.matrix(x = dat_s, nrow = 1, ncol = 19)  
     ## draw random means from exponential distribution  n_draws = 10000
-    wta_s <- -(wld_rp * rexp(rate = 1, n = n_draws) + as.vector(dat_s_m %*% new_beta2)) / pay_rp * rexp(rate = 1, n = n_draws)
+    wta_s <- -(wld_rp * rexp(rate = 1, n = n_draws) + as.vector(dat_s_m %*% new_beta2)) / (pay_rp * rexp(rate = 1, n = n_draws))
     ## take the mean value (of the rexp 10000 draws) for a single simulation loop
     wta_vec[r] <- mean(wta_s,na.rm = TRUE)
   }
@@ -1559,3 +1559,41 @@ for (i in 1:s){
 }
 ```
 
+
+
+### 1/29/2019
+
+- Simulation in WTA
+
+There are two loops involved in the KR simulation
+
+The first loop is the MLE sample space: draw from new betas from Multivariate normal distribution. 
+
+The second loop is for the the random heterogeneity space: the means of wetlands, cover crops, nms  and payment are assumed from the exponential distribution. 
+
+  
+$$
+\int \int d\text{MLE}d\Gamma = \frac{1}{R}\sum L_M\sum L_P
+$$
+
+
+- For the second loop (heterogeneity space) , if we assume other distributions for the means, for example,  lognormal distribution: 
+  $$
+  \hat{\beta} = \bar{\beta} + \bar{\sigma} z
+  $$
+  then we should draw both the parameters $\bar{\beta}$ and $\sigma$ from Multivariate normal distribution https://en.wikipedia.org/wiki/Multivariate_normal_distribution
+  $$
+  \bar{\beta} \sim mvrnorm(\mu_\beta, \Sigma_\beta)\\
+  \bar{\sigma} \sim mvrnorm(\mu_\sigma, \Sigma_\sigma)
+  $$
+  
+
+$$
+
+$$
+
+- normal / normal is a Cauchy distribution https://en.wikipedia.org/wiki/Cauchy_distribution
+  - the mean of Cauchy is undefined since the tail is tooooo fat. 
+  - the variance of Cauchy is also undefined 
+
+running a mixed logit model with normal heterogeneity in program attributes and versions with a fixed vs lognormal price parameter, and then doing the KR simulation may be more straightforward. The exponential case should we nailed down first, but I suspect that we may want to move away from it as ratios of exponentials are exponentials themselves and may have tails that are too long.
