@@ -2369,3 +2369,103 @@ Huxley’s soft tyranny, where we have been conditioned to obey and never consid
 
 *The corrupt establishment will do anything to suppress sites like the Burning Platform from revealing the truth. The corporate media does this by demonetizing sites like mine by blackballing the site from advertising revenue. If you get value from this site, please keep it running with a donation.*
 
+
+
+### 1/29/2019
+
+LME Tuesday Magazine:  <http://archive.aweber.com/ddm_membership/EieE3/h/Tuesday_English_Magazine_.htm>
+
+ 
+
+Time flies. It's the end of January!  IF you made "new year" plans BUT have not had a good start...
+
+No problem! A new month is always a good time to start  AND 
+
+The Lunar New Year (Chinese New Year) will start on February 5th--one week from today!!
+
+ Remember, "later is better than never". 
+
+ **Quit delaying** and just start that thing you were thinking of doing! 
+
+Another thing people say, "if you want something to get finished, give it to a busy person". That means, "busy people get more things done."
+
+So, if you think you're TOO BUSY to start or do something new...maybe it's actually the perfect time!
+
+A rally in Berlin (no animal farms, no glyphosate, no GM-food, no big corporations owning land and so on..
+
+- rally:  A gathering, especially one intended to inspire enthusiasm for a cause
+
+- glyphosate /ɡlaɪˈfɑset/
+- GM - genetically modified - food
+
+We had an email exchange regarding some of these photos. I think it's important that we participate in events that will make our world a better place. 
+
+And can you think of a better place than your PLATE? We have so many different things to eat, but too many people are choosing things that are EASY but not necessarily HEALTHY or CLEAN.
+
+I'm not a fan of big government--but rallying people together to share ideas: that's always a good thing.
+
+Hello, coach Shane!
+
+I am Svetlana, from Russia. Thank you very much for your lessons. They are very useful. I love your lessons. 
+
+ In the pictures, a cake that I made myself. But I'm still learning :) The second  photo shows Christmas treats. And the next photo below shows French macaroons. They're delicious! :)
+
+I would say that you are **doing a great job learning how to** make and decorate these delicious treats! And this is a great way to "learn some" English, too!
+
+ **Keep up the excellent work** and please continue to share more pictures of your baking achievements!!
+
+Those are really well-kept antiques! You take many pictures of these old cinema gadgets. I'm wondering, do you ever purchase any? Are you planning a museum of your own? Do you know how to operate any of them? **Keep us informed, please!!** 
+
+- antique: An antique (Latin:antiquus; "old", "ancient") is an old collectable item. It is collected or desirable because of its age, beauty, rarity, condition, utility, personal emotional connection, and/or other unique features. It is an object that represents a previous era or time period in human society.
+
+A little update from me. Last Saturday, the Russian Orthodox Church celebrated Epiphany. So I took several pics at our local monastery. Many people took the plunge into an ice-hole as a part of the Epiphany celebration. 
+
+- Epiphany: Epiphany is a Christian festival on the 6th of January which celebrates the arrival of the wise men who came to see Jesus Christ soon after he was born. 
+- monastery: a house for persons under religious vows especially : an establishment for monks
+- take the plunge : to do or undertake something decisively especially after a period of hesitation or uncertainty
+
+UGH!! Polar bears!! How can they stand there so casually? I would love to do that in the winter IF the water were actually **a hot spring**!!
+
+And it looks as though you did not participate in the plunge. Good. Stay healthy!
+
+Is that **giraffe** made from snow???!!!
+
+The monastery looks great in the snow! Really nice pictures. I'm sure you all had a wonderful celebration! Thanks as always, Andrey!
+
+Hi, CS! How are you doing?
+
+I'm sending you **shots of some of the New Year decorations** at my office and outside near my job. 
+
+Hi Coach Shane,
+
+**Just if you're curious:**
+
+From the ugly chrysalis the butterfly called Papilio Rumanzovia came out. Kamila named her Ladybug. She lives 7-10 days. Now is her 7th day with us.
+
+- A chrysalis is a butterfly or moth in the stage between being a larva and an adult. 
+
+The small orange butterfly called Biblis, she lived with us 16 days, when normally they live only 14 days. She's a granny butterfly. We respect her with the whole family). 
+
+BTW Morpho is still with us, and this is her 12th day. But they say they live 3-4 months, honestly I don't think that she'll live so long with us. But we'll see...
+
+Kamila is doing an excellent job raising these butterflies!! It must be a very good experience for her. And...sorry...**it's actually a great way for a child to learn about LIFE and DEATH**.
+
+Got snow... We **got hit with two pretty big snowfalls in just over a week**. LOTS of **shoveling and plowing**. I still have one deck to go. Anyone want to help? It's the deck on the side of the house where I have my barbecue grill. It is FULL of snow. I'll send a picture probably next week.
+
+Ugh...very pretty but very heavy! 
+
+Making my coffee. What sort of ingredients do you ADD to your coffee? Do you only drink it black? Let me know! If enough people share their secret coffee recipes, maybe I'll share mine!!
+
+**Brrr. (That's what we write when we want to say IT IS COLD!!)** 
+
+We feed the birds and deer. The deer get fed in the evening in those three big feed buckets. But in the afternoon, I add some sunflower seeds for the birds. The temperature was -35 at 2 in the afternoon.
+
+Tomorrow will be just as cold!!! IT IS FREEZING OUTSIDE!! Perfect weather for staying INSIDE and reading, studying, watching a movie!!
+
+- scheme: A scheme is someone's plan for achieving something. 
+  ...a quick money-making scheme to get us through the summer... 
+  They would first have to work out some scheme for getting the treasure out. 
+- paradigm: A paradigm is a model for something which explains it or shows how it can be produced. (FORMAL) 
+  ...a new paradigm of production. 
+  N-VAR: usu with supp 
+  = pattern 
