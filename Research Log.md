@@ -1571,7 +1571,7 @@ The first loop is the MLE sample space: draw from new betas from Multivariate no
 
 The second loop is for the the random heterogeneity space: the means of wetlands, cover crops, nms  and payment are assumed from the exponential distribution. 
 
-  
+
 $$
 \int \int d\text{MLE}d\Gamma = \frac{1}{R}\sum L_M\sum L_P
 $$
@@ -1597,3 +1597,37 @@ $$
   - the variance of Cauchy is also undefined 
 
 running a mixed logit model with normal heterogeneity in program attributes and versions with a fixed vs lognormal price parameter, and then doing the KR simulation may be more straightforward. The exponential case should we nailed down first, but I suspect that we may want to move away from it as ratios of exponentials are exponentials themselves and may have tails that are too long.
+
+
+
+### 1/30/2019
+
+Nlogit 6 manual Chapter 29, page 548
+
+Distributions of Random Parameters in the Model
+
+There are many distributions that can be (and have been) used for the random parameters. The most common will be the normal, which is used in the example above. Many alternatives are supported, however. Some of these should be viewed as experimental. Moreover, we note that as such, some of these choices may not perform well in a particular data set**. The normal distribution is a natural choice for a random parameter, based on ideas of individual heterogeneity and the central limit theorem.** It is difficult to motivate, e.g., the scaled beta on this basis. Some useful special cases others are described further in Section N29.3.8.) The basic distributions are specified with the following:
+
+The types are
+1 c nonstochastic bi = b
+2 n normal bi = b + σvi,vi ~ N[0,1]
+3 s skew normal bi = b + σvi + l|wi|, vi, wi ~ N[0,1]
+4 l lognormal bi = exp(b + σvi), vi ~ N[0.1]
+5 z truncated normal bi = b + σvi, vi ~ truncated normal (-1.96 to 1.96)
+6 u uniform bi = b + σvi, vi ~ U[-1,1]
+7 f one sided uniform bi = b + bvi, vi ~ uniform[-1,1]
+8 t triangular bi = b + σvi, vi ~ triangle[-1,1]
+9 o one sided triangular bi = b + bvi, vi ~ triangle[-1,1]
+10 d beta, dome bi = b + σvi, vi ~ 2×beta(2,2) - 1
+11 b beta, scaled bi = bvi, vi ~ beta(3,3)
+12 e Erlang bi = b + σvi, vi ~ gamma(1,4) - 4
+13 g gamma bi = exp(b + σvi), vi = log(-log(u1*u2*u3*u4))
+14 w Weibull bi = b + σvi, vi = 2(-logui)√.5, ui~ U[0,1]
+15 r Rayleigh bi = exp(bi (Weibull))
+16 p exponential bi = b + σvi, vi ~ exponential - 1
+17 q exponential, scaled bi = bvi, vi ~ exponential
+18 x censored (left) bi = max(0, bi (normal))
+19 m censored (right) bi = min(0, bi (normal))
+20 v exp(triangle) bi = exp(bi (triangular))
+21 i type I extreme value bi = b + σvi, vi ~ standard Gumbel
+
