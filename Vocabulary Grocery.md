@@ -2469,3 +2469,143 @@ Tomorrow will be just as cold!!! IT IS FREEZING OUTSIDE!! Perfect weather for st
   ...a new paradigm of production. 
   N-VAR: usu with supp 
   = pattern 
+
+
+
+
+
+### 1/30/2019
+
+LME 22 http://archive.aweber.com/ddm_membership/MfFh3/h/Lesson_22_How_MUCH_do_you.htm
+
+Are you a movie buff or a movie lover or a cinephile?!
+
+-   buff: You use buff to describe someone who knows a lot about a particular subject. For example, if you describe someone as a film buff, you mean that they know a lot about films. (INFORMAL) 
+  Judge Lanier is a real film buff. 
+  Any competent computer buff should be able to do it for you in a few minutes. 
+  N-COUNT: supp N 
+  = enthusiast
+- cinephile: A film or movie enthusiast.
+
+Well, they’re all BASICALLY the same. However…if you ask someone who calls themself a cinephile…they might tell you they’re different!
+
+So, let’s TRY and see if we can differentiate the three!
+
+Movie lovers: they LOVE movies! Usually popular, mainstream movies. They often go to the latest movies, watch movies on TV and buy DVDs or Bluerays. They can tell you WHO starred in WHAT! Movies are a **hobby**
+
+Movie buffs: they are a bit more serious. They usually watch a wider range of movies…often they’ll watch ANYTHING. They like to really know who starred in what, who the director was, when it was made, etc. These guys, compared to normal people, can be…different! Movies are an obsession.
+
+Cinephiles: these are the wine-drinkers of movie-watching! They are VERY proud of watching movies that no one else has ever heard of. They like artsy, low-budget, non-Hollywood films. These people are also different! Harmless, but intense! Movies are a **religion**!
+
+- artsy: Someone who is arty seems very interested in drama, film, music, poetry, or painting. People often describe someone as arty when they want to suggest that the person is pretentious. (INFORMAL) 
+  Didn't you find her a little bit too arty? 
+  ...an arty French film. 
+  ADJ-GRADED 
+  = artsy
+
+Well…those are MY definitions of each. And I’m sure many people would want to disagree with me. BUT, I’m also sure that most people would actually agree!
+
+So, which are you? Any of those three? What is your all-time favorite movie? Actor? Director? Genre? DVD or Blueray? If you have a large movie collection, please send a photo of it, maybe we’ll include it in an upcoming Tuesday’s English Magazine!
+
+-  genre genres 
+  A genre is a particular type of literature, painting, music, 
+  film, or other art form which people consider as a class because it has special 
+  characteristics. (FORMAL) 
+  ...his love of films and novels in the horror 
+  genre. 
+
+
+
+
+
+### 1/31/2019
+
+LME 23  <http://archive.aweber.com/ddm_membership/Lp8W3/h/Lesson_23_Let_s_DRINK_.htm>
+
+
+
+We might look different, we might speak different languages, we might believe in different things…but we do have ONE thing in common. We ALL eat and drink!!
+
+Today I’m going to introduce a few DRINKING verbs that you can use when you're drinking ANYTHING: tea, milk, water, beer, whiskey, etc!
+
+Since I’m a beer lover, I’ll use beer in my examples, okay?!
+
+**Nursing** a beer…
+
+If you are nursing a beer, you’re drinking it very slowly! I do this a lot—one beer can take over an hour! Sometimes two!!
+
+**Sipping** a beer . This is similar to nursing, but if someone SIPS something, it’s usually because:
+
+It’s very hot; It’s too cold; It’s too strong; It’s too bitter; It tastes bad!; It tastes VERY good!
+
+**Swigging a beer**, When you are hot and thirsty, swigging your drink is exactly what you want to do! You lift it up and take several gulps (swallows). You might even drink the whole thing. ONE POINT to remember; we tend to swig things that are in bottles or cans, not glasses or cups.
+
+**Chugging a beer**
+
+Perfect for drinking an entire glass of beer! Or water…or Gatorade…or whatever! Again, you can imagine the sound you make while drinking~ “Glug, glug, glug, glug~”
+
+- chug:  a dull explosive sound made by or as if by a laboring engine
+
+**Slamming a beer**
+
+This is what we do when we want to celebrate AND drink hard! You can slam milk…but it’s much more common to slam a beer or a shot of whiskey! You pick up the drink FAST and drink HARD and SLAM the drink back down on the table or bar!
+
+-  slam: If you slam something down, you put it there quickly and with great force. 
+  She listened in a mixture of shock and anger before slamming the phone down.
+
+There are MANY more verbs you can use when you are drinking—but I think those five are the most FUN and the most COMMON!
+
+**A quick recap:**
+
+Below, as you go to the right, your drinking motion gets faster/harder...
+
+**nursing** **->** **sipping****->**  **swigging****->** **chugging****->** **slamming**
+
+2014 is here! I wish you and your family the best! I hope that you have set goals and made plans for the New Year. I have. My first goal is to quit smoking, my second goal is to compete in **sprint-triathlons**, and my third goal is to create more videos and podcasts for you than I did in 2013. I am confident that I can achieve my goals.
+
+If one of your goals is to study English, stay with me! I promise much more free content in 2014! If you are really serious about English, then I ABSOLUTELY recommend investing in yourself and taking DDM classes.
+
+ What will you get?  You will start MASTERING American English pronunciation. You will ABSOLUTELY improve your listening skills. Your English listening comprehension will ABSOLUTELY improve. You will ABSOLUTELY gain confidence in your English speaking skills. You will learn SO MUCH about American culture and the American lifestyle, history and perspective.
+
+You will, if you want, have access to the DDM Family community! Here members ask questions about lessons and create Google Plus Hangouts to practice what we study! You will have SO many chances to talk with great DDM Family members from around the world! Most people use English, but many do use their native language to ask questions. You will, if you want, have LIVE classes with me. 
+
+This is an investment in yourself. And compared to ANY other English course online, DDM is by far the BEST "all-around American English course". As you know, you start with listening, then writing, then vocabulary, then pronunciation, then comprehension, and then background information. In EVERY lesson. And you receive 8 lessons every month. DDM is a self-study course which means you can study whenever and wherever you want. Everything on one day OR over the weekends OR a little bit every day...whenever and wherever you want!
+
+The LIVE classes are perfect for you to ask questions about the last few lessons we've studied. You can ask questions about the meaning, the background, pronunciation-anything related to DDM. And, if we have time, we can talk about ANYTHING that you want! Each LIVE class is at least one hour! You pick the best time for your schedule!
+
+The OPEN classes are for people who have a terrible schedule!! You do NOT have to worry about attending or missing a LIVE class. Also, the classes are less expensive!
+
+ 
+
+
+
+### 2/1/2019 
+
+LME
+
+- fate
+- imputation
+- depreciation
+- 
+
+LME 2014/8 <http://archive.aweber.com/ddm_membership/FZ5GD/h/Let_s_Master_English.htm>
+
+https://parmyproductionsllc.app.box.com/s/ch33ga3cdpxxqxda1jx9
+
+Hi
+
+It's the LAST week of August...is that good or bad? I'm very happy! September is the beginning of so many things in the US--school starts, American football starts, and fall (autumn) starts! September is such a great month. It is also the birth month of someone very special to me^^
+
+But, August is important...especially August 27th--that my mom's birthday! I love you, mom!! Happy birthday!!!
+
+So, did you have a chance to listen to our Let's Master English podcast 41, yet? This week's fantastic newsletter that Parmy made is down below. Just click on the picture and you can download the PDF!
+
+We talked about a LOT of stuff in this podcast...but I will give you all something special:
+
+The title of the news story is "Pinot No More". Do you understand why? It's actually a joke--a pun. There is an expensive type of wine called "Pinot Noir". It's difficult to make, that's why it is expensive. The pronunciation in America is like "pee-no no-are". Well, many **barrels** and bottles of Pinot Noir were destroyed in the earthquake...so there is "no more Pinot Noir".  "noir" and "no more" sound similar so I made the title "Pinot No More"!!! I thought I was the only genius who could think of such a brilliant title...but I discovered that 8 years ago, there was a New York Times newspaper article with the exact same title...oh, well!!!
+
+Enjoy the newsletter, enjoy the week!
+
+Your English coach,
+
+Shane
