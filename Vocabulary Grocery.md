@@ -2575,7 +2575,104 @@ The LIVE classes are perfect for you to ask questions about the last few lessons
 
 The OPEN classes are for people who have a terrible schedule!! You do NOT have to worry about attending or missing a LIVE class. Also, the classes are less expensive!
 
- 
+
+
+- The Real Resistance: Washington State Sheriffs Refuse To Enforce Unconstitutional Gun Laws<https://www.zerohedge.com/news/2019-01-29/real-resistance-washington-state-sheriffs-refuse-enforce-unconstitutional-gun-laws?from=singlemessage&isappinstalled=0>
+
+This article points out the power that armed Americans hold as a final check against tyrannical government.  I lived in Washington state for 21 years and watched as many attempts were made to limit gun rights, but failed.  Now the left has won power and they intend to remain in control and to disarm the people.  It will not work.
+
+- tyrannical: If you describe a government or organization as tyrannical, you mean that it 
+  acts without considering the wishes of its people and treats them cruelly or 
+  unfairly. 
+  ...one of the world's most oppressive and tyrannical regimes. 
+  ADJ-GRADED 
+
+Long thought to be the last line of defense between authoritarianism and freedom, sheriffs are in a unique position. As elected officials, basically nobody has authority over them – not the judges, not the Feds – no one except the people who may or may not choose to re-elect them.
+
+- sheriffs: an important official of a shire or county charged primarily with judicial duties (as executing the processes and orders of courts and judges)
+
+**What are those new gun laws in Washington?**
+
+In November, Washington voters passed a **ballot** initiative, I-1639. To purchase a semi-automatic rifle, buyers must be over 21, **undergo an enhanced background check**, must have completed a safety course, and need to wait 9 days to **take possession of** their weapon. And that’s not all. A gun owner who doesn’t store his or her weapon “properly” can be prosecuted.
+
+And that was just the beginning of the **unconstitutional** momentum.
+
+> **Feeling the wind at their backs after the ballot, gun campaigners and liberal legislators have now gone even further in the new legislative session**. Bills introduced in the last week to Washington’s Democrat-dominated legislature look to further restrict firearms. Some laws would ban high capacity magazines and plastic guns made with 3D printers. Others would mandate training for concealed carry permits, and remove guns and ammo during and after domestic violence incidents.
+>
+> Washington’s attorney general, Bob Ferguson, who proposed several of the bills, said in an email: “Now is the time to act. **Washingtonians** have made it clear that they support common-sense gun safety reforms.” ([source](https://www.theguardian.com/us-news/2019/jan/26/washington-state-gun-laws-law-enforcement-rural?fbclid=IwAR301Jmy_3eqz-KyGBIBjlYyuDU4ukVItcb2r4j6yT00nIBOVOh-xcrIQXM))
+
+- momentum: If a process or movement gains momentum, it keeps developing or happening more quickly and keeps becoming less likely to stop. 
+  This campaign is really gaining momentum. 
+  They are each anxious to maintain the momentum of the search for a solution. 
+- wind at (one's) back
+  A favorable position that encourages forward momentum (as with a ship that has the wind at its back). e.g. She really struggled in her studies last year, but she's had the wind at her back ever since changing her major.
+- mandate: When someone is mandated to carry out a particular policy or task, they are given the official authority to do it. (FORMAL) 
+  He'd been mandated by the West African Economic Community to go in and to enforce a ceasefire. 
+  The elections are mandated by a peace accord signed by the government last May. 
+  VB: usu passive 
+
+Things are getting more and more difficult for gun owners in a state that has two very different demographics.
+
+Washington is a reflection of the rest of the US.
+
+The state of Washington is similar to the United States in general. The vast majority of the population lives in a few large cities, distant from the rural and small-town folks in a lot more than just mileage. **The left-leaning cities are in direct opposition to the more right-leaning rural communities**, but the rural communities are **under the thumb** of the city voters due to numbers.
+
+- under the thumb: being controlled by sb. A term usually used to describe a person who is subservient in a relationship. 
+  -see also "under the cosh"
+
+Back when they voted on I-1639, [27 of the 39 counties were against the measure](https://results.vote.wa.gov/results/20181106/State-Measures-Initiative-Measure-No-1639-Initiative-Measure-No-1639-concerns-firearms_ByCounty.html), but because the twelve counties that voted FOR it were more populous, the initiative passed.
+
+Does this sound familiar? If it weren’t for the electoral college in national elections, we’d probably have Hillary Clinton as our president, and she’s **notoriously** anti-gun. The situation of gun owners would look very different right now if that had happened.
+
+Now the state is divided because the counties that voted against the measure are **refusing to be governed by unconstitutional laws to which they objected in the first place**
+
+And they’re supported by their sheriffs.
+
+*Some Washington law enforcement officers are refusing to enforce these laws.*
+
+Klickitat County Sheriff, Bob Songer, Republic police chief Loren Culp, and Ferry County Sheriff Ray Maycumber are among those who have publicly vowed **not to enforce the new unconstitutional gun laws**.
+
+
+
+Matt Marshall, the leader of the Washington Three Percent, is hoping to persuade other Washington counties to adopt **local second amendment sanctuary ordinances.** Next week, he meets with people in Lewis and Pierce counties to urge them to  adopt resolutions not to enforce unconstitutional gun laws.
+
+This isn’t the first time that sheriffs have stood up against unreasonable laws.
+
+As elected officials, sheriffs **have an obligation to their constituents and to the Constitution of the United States of America.**
+
+In 2013, El Dorado County Sheriff John D’Agostini kicked the US Forestry Service out of his county.
+
+
+
+This kind of action is firmly supported by the [10th Amendment to the Constitution, which reads](https://www.constituteproject.org/constitution/United_States_of_America_1992), “The powers not **delegated** to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.”
+
+*The power of county sheriffs was upheld in the Supreme Court.*
+
+In 1994, Graham County Arizona Sheriff Richard Mack and Ravalli County Montana Sheriff Jay Printz successfully **sued** the Clinton Administration **over** the Brady Handgun Violence Prevention Act.
+
+Justice Antonin Scalia, Chief Justice William Rehnquist, and Justices Sandra Day O’Connor, Anthony Kennedy, and Clarence Thomas found that the Brady Act’s attempted **commandeering of** the sheriffs to perform background checks violated the tenth amendment.
+
+- commandeer: to take arbitrary or forcible possession of
+
+> 
+
+The decision upheld the power of county sheriffs.
+
+- uphold: If you uphold something such as a law, a principle, or a decision, you support and maintain it. 
+
+*County sheriffs are the last legal line of defense.*
+
+Legally speaking, our county sheriffs are the last line of defense in the battle for gun rights.
+
+> Federal agencies do not have state powers. **Due to the Constitution’s structure of dual sovereignty**, the feds have no authority to enforce state laws. Furthermore, states cannot be compelled to enforce federal laws. ([source](https://blog.tenthamendmentcenter.com/2013/07/sheriffs-to-the-feds-you-are-on-notice/))
+
+The next option is widespread civil disobedience, which we saw recently in New Jersey.
+
+Try as anti-gun legislators and activists might, there is a difficult battle ahead for anyone who tries to disarm the American people. Between Constitution-supporting elected officials and American civilians who will not comply, the *real* Resistance seems to be ready…and armed.
+
+
+
+## February 2019
 
 
 
@@ -2609,3 +2706,45 @@ Enjoy the newsletter, enjoy the week!
 Your English coach,
 
 Shane
+
+
+
+- Washingtonians
+
+- Seattleite: A person who lives in or comes from Seattle, Washington, is called a Seattleite. This is a list of well known people who were born, lived, or grew up in the city of Seattle. This includes the deceased.
+
+  <https://www.urbandictionary.com/define.php?term=Seattleite>
+
+  TOP DEFINITION
+
+  
+
+  [Seattleite](https://www.urbandictionary.com/define.php?term=Seattleite) 
+
+  1. Any person living in, or within ten miles of The city of Seattle, WA 
+
+  2. Is easily agitated when tourist asks to see the original Starbucks, Microsoft or Kurt Cobain's house. True Seattleites do not care for these things. 
+
+  3. Considers Seattle to be the best city on Earth. 
+
+  4. Is a **pretentious** **coffee snob** due to the thousands of delicious coffee houses and rosters that surround them. 
+
+     - coffee snob
+
+       1- An individual who cares about what coffee or coffee mix drink they put in their mouth. A [coffee snob](https://www.urbandictionary.com/define.php?term=coffee%20snob) is not ok with starbucks, or Tim hotrons, or [dunkin doughnuts](https://www.urbandictionary.com/define.php?term=dunkin%20doughnuts), or mcdonalds...etc.
+
+       2- a coffee snob would rather drink water than drink old coffee. An anal coffee snob will not drink the coffee if it needs milk and anything more than 1 tsp of sugar.
+
+       3- a coffee snob supports local roasters and refuses to drink [folgers](https://www.urbandictionary.com/define.php?term=folgers), maxwellhouse, or any other pre-ground non-fresh coffee... Including instant.  
+
+  5. Any person who knows not to visit Pike Place Market on a Saturday. 
+
+  6. Any person who was disappointed by EMP (unlike the inbred hicks from across the country who come to visit it). 
+
+     - EMP: The Experience Music Project — the museum founded by Microsoft billionaire Paul Allen 16 years ago — is changing its name for the fifth time. Now it will be the Museum of Pop Culture, or MoPOP.
+
+  7. Anybody who knows that "eating dicks" means eating burgers. 
+
+  8. Any person that hates it when Californians drive through Washington and cry about the rain and the cold. 
+
+  9. Typically a city that is completely devoid of soccer moms.
