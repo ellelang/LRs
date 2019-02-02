@@ -2481,10 +2481,10 @@ LME 22 http://archive.aweber.com/ddm_membership/MfFh3/h/Lesson_22_How_MUCH_do_yo
 Are you a movie buff or a movie lover or a cinephile?!
 
 -   buff: You use buff to describe someone who knows a lot about a particular subject. For example, if you describe someone as a film buff, you mean that they know a lot about films. (INFORMAL) 
-  Judge Lanier is a real film buff. 
-  Any competent computer buff should be able to do it for you in a few minutes. 
-  N-COUNT: supp N 
-  = enthusiast
+    Judge Lanier is a real film buff. 
+    Any competent computer buff should be able to do it for you in a few minutes. 
+    N-COUNT: supp N 
+    = enthusiast
 - cinephile: A film or movie enthusiast.
 
 Well, they’re all BASICALLY the same. However…if you ask someone who calls themself a cinephile…they might tell you they’re different!
@@ -2508,11 +2508,11 @@ Well…those are MY definitions of each. And I’m sure many people would want t
 So, which are you? Any of those three? What is your all-time favorite movie? Actor? Director? Genre? DVD or Blueray? If you have a large movie collection, please send a photo of it, maybe we’ll include it in an upcoming Tuesday’s English Magazine!
 
 -  genre genres 
-  A genre is a particular type of literature, painting, music, 
-  film, or other art form which people consider as a class because it has special 
-  characteristics. (FORMAL) 
-  ...his love of films and novels in the horror 
-  genre. 
+    A genre is a particular type of literature, painting, music, 
+    film, or other art form which people consider as a class because it has special 
+    characteristics. (FORMAL) 
+    ...his love of films and novels in the horror 
+    genre. 
 
 
 
@@ -2551,7 +2551,7 @@ Perfect for drinking an entire glass of beer! Or water…or Gatorade…or whatev
 This is what we do when we want to celebrate AND drink hard! You can slam milk…but it’s much more common to slam a beer or a shot of whiskey! You pick up the drink FAST and drink HARD and SLAM the drink back down on the table or bar!
 
 -  slam: If you slam something down, you put it there quickly and with great force. 
-  She listened in a mixture of shock and anger before slamming the phone down.
+    She listened in a mixture of shock and anger before slamming the phone down.
 
 There are MANY more verbs you can use when you are drinking—but I think those five are the most FUN and the most COMMON!
 
@@ -2748,3 +2748,30 @@ Shane
   8. Any person that hates it when Californians drive through Washington and cry about the rain and the cold. 
 
   9. Typically a city that is completely devoid of soccer moms.
+
+Gastro-intestinal disorder
+
+inte
+
+irritable bowel Syndrome
+
+constipation
+
+diarrhea
+
+Pelvic Floor pain
+
+Incontinence
+
+Esophageal disorders and GERD
+
+Gastroduodenal Disorder
+
+- sick: disgusting, evil, treacherous
+
+- real: genuine, sincere,..., if a person is real, they are not wearing a mask! Most of us, at one time or another, wear a mask!!
+- Unpretentious: not arrogant/stuck up, he's down-to-earth, natural, straightforward
+- 
+
+
+
