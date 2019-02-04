@@ -2749,23 +2749,24 @@ Shane
 
   9. Typically a city that is completely devoid of soccer moms.
 
-Gastro-intestinal disorder
+- Gastro-intestinal disorder: Gastrointestinal means relating to the stomach and intestines
 
-inte
+- intestine: /ɪn'tɛstɪn/ Your intestines are the tubes in your body through which food passes when it has left your stomach.
 
-irritable bowel Syndrome
+- irritable bowel Syndrome: Irritable bowel syndrome (IBS) is a group of symptoms—including abdominal pain and changes in the pattern of bowel movements without any evidence of underlying damage.
 
-constipation
 
-diarrhea
+- constipation: the condition of being unable to get rid of waste material from the bowels easily (= being constipated)
 
-Pelvic Floor pain
+- diarrhea: Diarrhea, also spelled diarrhoea, is the condition of having at least three loose or liquid bowel movements each day. 
 
-Incontinence
+- pelvic floor pain syndrome
 
-Esophageal disorders and GERD
+- Incontinence: Incontinence is the inability to prevent urine or faeces coming out of your body. 
 
-Gastroduodenal Disorder
+- Esophageal disorders and GERD
+
+- Gastroduodenal Disorder
 
 - sick: disgusting, evil, treacherous
 
@@ -2774,4 +2775,28 @@ Gastroduodenal Disorder
 - 
 
 
+
+### 2/2/2018
+
+- platypus: an Australian animal that is covered in fur and has a beak like a duck
+- maniac: A maniac is a mad person who is violent and dangerous. 
+  The cabin looked as if a maniac had been let loose there. 
+  ...a drug-crazed maniac. 
+- ... is all the rage: is very popular, 
+- strictly: absolutely
+- animation
+- curate
+- tacky: gawdy, overly-decorated
+- make sb's toes curl
+- nauseous
+- horrid
+- sparkle
+- creeping
+- merchandise
+- a retail niche
+-  have a splendid weekend!))
+- liaison 
+- hesitation about the sight word
+- m, n, n
+- 
 
