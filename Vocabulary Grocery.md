@@ -2794,9 +2794,56 @@ Shane
 - creeping
 - merchandise
 - a retail niche
--  have a splendid weekend!))
+- have a splendid weekend!))
 - liaison 
 - hesitation about the sight word
 - m, n, n
-- 
+
+
+
+### 2/4/2019
+
+
+
+LME 25 <http://archive.aweber.com/ddm_membership/FZAMp/h/Lesson_25_Americana_Monday_.htm>
+
+So last Friday we started "Phrasal Verb Friday". **Huge success!**Thank you for all the emails. What about Mondays... How about "Americana Monday". We'll learn about America (USA) and American culture and American history. Hmm...that MIGHT sound boring to some of you, but let's see if I can make it interesting.
+
+**REMEMBER**: Learning a language is MORE than just grammar, vocabulary and pronunciation. It's deeper than that!! Let's try!
+
+In our recent DDM assignment, we learned about the **tip jar**.
+
+In the US, you’ll see these jars in all kinds of businesses…
+
+Convenience stores…Coffee shops…Take-out restaurants…Bakeries
+
+And the question is: WHY do we need to tip them?!
+
+In the USA, there are a few times when you ABSOLUTELY should be tipping:
+
+In the case of a waiter at a restaurant or a server at a bar, tipping IS considered “**common courtesy**”. It’s something we SHOULD do. And there’s a reason; *waiters and servers can legally be paid LESS than \**minimum wage***—a LOT less. Minimum wage is the LOWEST you can pay an employee—different states have different amounts. People take those VERY low paying jobs because of the tips.
+
+- common courtesy:  Courtesy is politeness, respect, and consideration for others. (FORMAL) 
+  ...a gentleman who behaves with the utmost courtesy towards ladies... 
+  He did not even have the courtesy to reply to my fax. 
+
+**Movers**. Those guys are working HARD! As long as they don’t break anything or lose anything, they should get a nice tip!
+
+**Hairdressers**. Well, I go to a barber and I’ve never tipped. But my wife tells me that you MUST tip if you go to a hair salon~
+
+**Room cleaning service at a hotel or motel**. A nice tip encourages them to keep those rooms clean. If you’re a messy person, give them a very nice tip!
+
+**Food delivery guys**! They’re driving fast to deliver your food fresh! Many times at night and in bad weather. Tip them nicely!
+
+There are MORE examples!!! But tip jars at other businesses?! Well, don’t get too worried. The typical tip would just be change. The coins you receive after paying.
+Let’s say I bought something and the cost was $4.69. I give the guy 5 dollars. He gives me 31¢ in change. I think to myself: the cashier is polite, everyone at the store is always nice, the store is clean… 
+Hey! Go ahead and keep the 31¢ in change!  
+
+Boom, I put the change in the jar! Tip jars are usually SHARED among all the employees. The money might go for a party or for lunch~ Sometimes it goes to the **“Employee of the Week”** (the best worker of the week)! But if you REALLY don’t want to tip your **barista**…just use a credit card! 
+
+- barista: Pretentious sounding word used by dejected art history and drama majors that describes their employment in order to make themselves feel better about serving coffee. <https://www.urbandictionary.com/define.php?term=barista>
+
+A quick recap: tip jar, common courtesy, minimum wage, change, Employee of the Weekcommon courtesy:  Courtesy is politeness, respect, and consideration for others. (FORMAL) 
+...a gentleman who behaves with the utmost courtesy towards ladies... 
+He did not even have the courtesy to reply to my fax. 
 
