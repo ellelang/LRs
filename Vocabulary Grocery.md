@@ -2959,6 +2959,7 @@ Have a wonderful day 😊 Don’t forget to tell someone you love that you love 
 
 ### 2/7/2019
 
+<<<<<<< HEAD
 - Did you happen to...: by any chance did you..., did you possibly...
 
 - The big night: the important night, the night I’ve been waiting for
@@ -3015,6 +3016,8 @@ Have a wonderful day 😊 Don’t forget to tell someone you love that you love 
 
 - Nosh:to snack on something...would you like to nosh on this?
 
+=======
+>>>>>>> master
 ### 2/8/2019
 
 - ex ante 
