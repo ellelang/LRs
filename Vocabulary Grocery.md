@@ -2678,7 +2678,72 @@ Try as anti-gun legislators and activists might, there is a difficult battle ahe
 
 ### 2/1/2019 
 
-LME
+LME <http://archive.aweber.com/ddm_membership/FP3Cp/h/Lesson_24_Phrasal_Verb.htm>
+
+Phrasal Verb Friday!
+
+Yes, that is NOW going to be a regular feature for Friday’s email! I might do phrasal verbs on other days, but for sure—#PhrasalVerbFriday!
+
+As you know: In order to master DAILY ENGLISH, you need to master **FOUR things**;
+
+1. Pronunciation
+2. Pronouns
+3. Phrasal Verbs
+4. Get/Got
+
+There is NO proper order—you need to master ALL of them.
+
+Today, I’m going to combine #3 and #4.
+
+ **Get + Preposition** is a VERY common phrasal verb pattern.
+
+**Get + Preposition + Preposition** is also pretty common!
+
+Here are a few common examples:
+
+Quit playing games and **get over** to the dinner table. MOVE/GO
+
+Don’t try to **get over on** me! MANIPULATE/LIE
+
+Let’s **get** this project **over** **with**. FINISH
+
+I will never **get over** her~ FORGET
+
+To **get over** difficulties, you must keep moving. OVERCOME
+
+It took me a week to **get over** my cold. RECOVER
+
+You need to **get over** your pronunciation problems. MASTER
+
+ You’ll remember that I told you:
+
+In many situations, it’s possible to VISUALIZE the phrasal verb in the context. This is true in the above examples—and I can SHOW you these phrasal verbs in my lessons. If you’re a student, ask me in next week’s AMA (Ask Me Anything) class, okay?!
+
+So, I’m going to give you five more GET + phrasal verbs. I want you to try and match the phrasal verb with the sentence! Good luck!! You’ll have to change the conjugation on two of them.
+
+·       It’s Friday night! I’m ready to **get down**! Turn up the music~~ (*dance*)
+
+·       It was so cold, I was amazed that my chickens were able to **get through** the -30 degree temperatures. (*stay alive*)
+
+·       I **get along with** John, but I do NOT like his brother Jack. (*have a good relationship with*)
+
+·       These days I’m **getting into** classical music. I used to hate it~ (*becoming interested in*)
+
+·       It’s Saturday morning…I don’t want to **get up**~~ (*rise from sleep*)
+
+·       Even though I work more than 60 hours a week, I’m just **getting by**. (*surviving financially*)
+
+The BEST way to master PHRASAL VERBS:
+
+LEARN them in real situations.
+
+USE them in real situations.
+
+ASK questions about them to a coach like me!
+
+ 
+
+You can do that by joining our classes!
 
 - fate
 - imputation
@@ -2847,3 +2912,137 @@ A quick recap: tip jar, common courtesy, minimum wage, change, Employee of the W
 ...a gentleman who behaves with the utmost courtesy towards ladies... 
 He did not even have the courtesy to reply to my fax. 
 
+
+
+### 2/6/2019
+
+LEM 27 <http://archive.aweber.com/ddm_membership/MNeOp/h/Lesson_27_Sad_news_but.htm>
+
+**TO LEARN: my condolences, I’m so sorry for your loss, my heart is with you, my thoughts are with you, my thoughts and prayers are with you and your family**
+
+- Condolence: A message of condolence is a message in which you express your sympathy for someone because one of their friends or relatives has died recently. 
+  Neil sent him a letter of condolence. 
+
+Hi ,
+
+For the next week…I may miss a few email lessons, but I’ll try my best. My mother passed away this morning—she’s not with us here on Earth, but I know she is looking down on our family and reassuring us that she is here and she is happy.
+
+- reassure:  ~ sb (about sth)=  to say or do sth that makes sb less frightened or worried: [VN] They tried to reassure her, but she still felt anxious. ◆ [VN that] The doctor reassured him that there was nothing seriously wrong.
+
+My mother suffered a great deal for a few months, but her last few weeks were much less painful. She passed in her sleep.
+
+**My dad has been her ROCK for over 50 years. And he’ll continue to protect her memory and her honor.**
+
+I’m grateful to have wonderful memories—memories that will last forever. And I promise that **I will continue to think of her and share our family’s milestones with her for as long as I live.**
+
+It’s a very sad day for my family. Every family deals with this…what can we say?
+
+My recommendation: Keep it simple. Try the following:
+
+**My sincere condolences to you and your family.** (formal, polite)
+
+**I’m so sorry for your loss.** (less formal, good for someone you know but is not a close friend.)
+
+**My heart is with you.** (good for a friend)
+
+**My thoughts are with you.** (good for anyone)
+
+**My thoughts and prayers are with you and your family.** (good for a family who has religion)
+
+Again, I’ll do my best for the next week or so. I’ll be driving to Nevada to be with my dad. Lots of driving and down time. We’ll see.
+
+But I assure you, I’ll be back. And our Year of English will continue.
+
+Have a wonderful day 😊 Don’t forget to tell someone you love that you love them!
+
+
+
+### 2/7/2019
+
+- Did you happen to...: by any chance did you..., did you possibly...
+
+- The big night: the important night, the night I’ve been waiting for
+
+- Manhattan   Project:   the   name   of   the   top   secret American scientific  project  which  later developed the atomic bomb
+
+- Condition: you medical issues/sensitivities. If someone says,  “I  don’t  eat  salt  because  of  a condition”  it  means  they  have  a  heart problem; “I don’t eat nuts because of a condition” means they’re allergic to nuts.
+
+- I’ll be on my way: I’ll leave
+
+- Recuperating: recovering, getting better/healthier/back to good health
+
+- So long: good bye, see you
+
+- Puddle: small area of “water”...kids LOVE puddles~~
+
+- Peed: urinated, went to the bathroom
+
+- It’ll come out: it can be removed, it can be cleaned
+
+- Making too much out of it: making too big a deal about it, over-reacting
+
+- A natural human function: something that the body does naturally (like fart, burp, sweat, smell...)
+
+- As I say...: like I was explaining to you, as I said earlier
+
+- Pinkeye: an infection in your eye (very common among children)My vision: ability to see
+
+- Blurry: not clear, fuzzy. Without glasses, my eyesight is VERY blurry—just like below...
+
+- impregnated: became pregnant...not a term that a “loving couple” would use
+
+- Troglodytic: a “barely human”...someone who lives like a caveman or even like a  Neanderthal... We also call those people (mostly men) knuckle draggers!
+
+  - Troglodytic: a member of any of various peoples (as in antiquity) who lived or were reputed to live chiefly in caves  2 : a person characterized by reclusive habits or outmoded or reactionary attitudes 
+  - reclusive:  A reclusive person or animal lives alone and deliberately avoids the company of others. 
+    A reclusive millionaire left his luxury home to the housekeeper he had hardly spoken to for 21 years. 
+  - outmoded: unfashionable, outdated, or obsolete. If you describe something as outmoded, you mean that you think it is old-fashioned and no longer useful or relevant to modern life. 
+    - Romania badly needs aid to modernise its outmoded industries. 
+    - What hope is there, if people in positions of power continue to promote outmoded attitudes?. 
+    - The political system has become thoroughly outmoded.
+
+  - Neanderthal: If you describe people's, especially men's, ideas or ways of behaving as Neanderthal, you disapprove of them because they are very old-fashioned and uncivilized. (adj&n)
+
+  - reactionary 
+    n.  an extreme conservative; an opponent of progress or liberalism
+    adj.  extremely conservative
+
+    Critics viewed him as a reactionary, even a monarchist. 
+
+    - Monarchist: an advocate of the principles of monarchy
+
+- Half-brother: in this case; a non-biological brother (when two divorced parents get remarried)
+
+- Nosh:to snack on something...would you like to nosh on this?
+
+### 2/8/2019
+
+- ex ante 
+- ex post
+- 
+- fate: 
+- first-best
+- consolation: a person or thing that makes you feel better when you are unhappy or disappointed
+- screaming : Seattle is by no means a cheap city, and the cost of living is rising as the years go by, but it is a screaming deal compared to the Bay.
+- https://matadornetwork.com/life/definitive-matchup-los-angeles-versus-seattle/
+- https://www.quora.com/Would-you-rather-live-in-Los-Angeles-or-Seattle-area
+- This has nothing to do with Seattle or San Diego, but I would definitely say that in your mid-20s, you should err on the side of picking the better-for-your-career job over the well-paying job. You 20s are for learning, your 30s are for earning.
+- State-of-the-art:
+- first-best solution (the cost-efficient)
+- second-best
+- ambient: Ambient sound or light is the sound or light which is all around you. (TECHNICAL) 
+  ...ambient sounds of children in the background. 
+- edge-of-field: 
+- vicinity: If something is in the vicinity of a particular place, it is near it.
+- 
+
+
+
+### 2/9/2019
+
+- bilateral: affecting reciprocally two nations or parties <eg. a bilateral treaty> <a bilateral trade agreement
+
+- Should a regulator possess good information on the costs of abatement actions, using on-farm performance  standards  appears  to  be  an attractive approach
+
+- carry out the simulation
+- 
