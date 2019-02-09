@@ -2678,7 +2678,72 @@ Try as anti-gun legislators and activists might, there is a difficult battle ahe
 
 ### 2/1/2019 
 
-LME
+LME <http://archive.aweber.com/ddm_membership/FP3Cp/h/Lesson_24_Phrasal_Verb.htm>
+
+Phrasal Verb Friday!
+
+Yes, that is NOW going to be a regular feature for Friday’s email! I might do phrasal verbs on other days, but for sure—#PhrasalVerbFriday!
+
+As you know: In order to master DAILY ENGLISH, you need to master **FOUR things**;
+
+1. Pronunciation
+2. Pronouns
+3. Phrasal Verbs
+4. Get/Got
+
+There is NO proper order—you need to master ALL of them.
+
+Today, I’m going to combine #3 and #4.
+
+ **Get + Preposition** is a VERY common phrasal verb pattern.
+
+**Get + Preposition + Preposition** is also pretty common!
+
+Here are a few common examples:
+
+Quit playing games and **get over** to the dinner table. MOVE/GO
+
+Don’t try to **get over on** me! MANIPULATE/LIE
+
+Let’s **get** this project **over** **with**. FINISH
+
+I will never **get over** her~ FORGET
+
+To **get over** difficulties, you must keep moving. OVERCOME
+
+It took me a week to **get over** my cold. RECOVER
+
+You need to **get over** your pronunciation problems. MASTER
+
+ You’ll remember that I told you:
+
+In many situations, it’s possible to VISUALIZE the phrasal verb in the context. This is true in the above examples—and I can SHOW you these phrasal verbs in my lessons. If you’re a student, ask me in next week’s AMA (Ask Me Anything) class, okay?!
+
+So, I’m going to give you five more GET + phrasal verbs. I want you to try and match the phrasal verb with the sentence! Good luck!! You’ll have to change the conjugation on two of them.
+
+·       It’s Friday night! I’m ready to **get down**! Turn up the music~~ (*dance*)
+
+·       It was so cold, I was amazed that my chickens were able to **get through** the -30 degree temperatures. (*stay alive*)
+
+·       I **get along with** John, but I do NOT like his brother Jack. (*have a good relationship with*)
+
+·       These days I’m **getting into** classical music. I used to hate it~ (*becoming interested in*)
+
+·       It’s Saturday morning…I don’t want to **get up**~~ (*rise from sleep*)
+
+·       Even though I work more than 60 hours a week, I’m just **getting by**. (*surviving financially*)
+
+The BEST way to master PHRASAL VERBS:
+
+LEARN them in real situations.
+
+USE them in real situations.
+
+ASK questions about them to a coach like me!
+
+ 
+
+You can do that by joining our classes!
 
 - fate
 - imputation
@@ -2847,3 +2912,81 @@ A quick recap: tip jar, common courtesy, minimum wage, change, Employee of the W
 ...a gentleman who behaves with the utmost courtesy towards ladies... 
 He did not even have the courtesy to reply to my fax. 
 
+
+
+### 2/6/2019
+
+LEM 27 <http://archive.aweber.com/ddm_membership/MNeOp/h/Lesson_27_Sad_news_but.htm>
+
+**TO LEARN: my condolences, I’m so sorry for your loss, my heart is with you, my thoughts are with you, my thoughts and prayers are with you and your family**
+
+- Condolence: A message of condolence is a message in which you express your sympathy for someone because one of their friends or relatives has died recently. 
+  Neil sent him a letter of condolence. 
+
+Hi ,
+
+For the next week…I may miss a few email lessons, but I’ll try my best. My mother passed away this morning—she’s not with us here on Earth, but I know she is looking down on our family and reassuring us that she is here and she is happy.
+
+- reassure:  ~ sb (about sth)=  to say or do sth that makes sb less frightened or worried: [VN] They tried to reassure her, but she still felt anxious. ◆ [VN that] The doctor reassured him that there was nothing seriously wrong.
+
+My mother suffered a great deal for a few months, but her last few weeks were much less painful. She passed in her sleep.
+
+**My dad has been her ROCK for over 50 years. And he’ll continue to protect her memory and her honor.**
+
+I’m grateful to have wonderful memories—memories that will last forever. And I promise that **I will continue to think of her and share our family’s milestones with her for as long as I live.**
+
+It’s a very sad day for my family. Every family deals with this…what can we say?
+
+My recommendation: Keep it simple. Try the following:
+
+**My sincere condolences to you and your family.** (formal, polite)
+
+**I’m so sorry for your loss.** (less formal, good for someone you know but is not a close friend.)
+
+**My heart is with you.** (good for a friend)
+
+**My thoughts are with you.** (good for anyone)
+
+**My thoughts and prayers are with you and your family.** (good for a family who has religion)
+
+Again, I’ll do my best for the next week or so. I’ll be driving to Nevada to be with my dad. Lots of driving and down time. We’ll see.
+
+But I assure you, I’ll be back. And our Year of English will continue.
+
+Have a wonderful day 😊 Don’t forget to tell someone you love that you love them!
+
+
+
+### 2/7/2019
+
+### 2/8/2019
+
+- ex ante 
+- ex post
+- 
+- fate: 
+- first-best
+- consolation: a person or thing that makes you feel better when you are unhappy or disappointed
+- screaming : Seattle is by no means a cheap city, and the cost of living is rising as the years go by, but it is a screaming deal compared to the Bay.
+- https://matadornetwork.com/life/definitive-matchup-los-angeles-versus-seattle/
+- https://www.quora.com/Would-you-rather-live-in-Los-Angeles-or-Seattle-area
+- This has nothing to do with Seattle or San Diego, but I would definitely say that in your mid-20s, you should err on the side of picking the better-for-your-career job over the well-paying job. You 20s are for learning, your 30s are for earning.
+- State-of-the-art:
+- first-best solution (the cost-efficient)
+- second-best
+- ambient: Ambient sound or light is the sound or light which is all around you. (TECHNICAL) 
+  ...ambient sounds of children in the background. 
+- edge-of-field: 
+- vicinity: If something is in the vicinity of a particular place, it is near it.
+- 
+
+
+
+### 2/9/2019
+
+- bilateral: affecting reciprocally two nations or parties <eg. a bilateral treaty> <a bilateral trade agreement
+
+- Should a regulator possess good information on the costs of abatement actions, using on-farm performance  standards  appears  to  be  an attractive approach
+
+- carry out the simulation
+- 

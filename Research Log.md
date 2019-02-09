@@ -39,6 +39,7 @@ Table of Contents**
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -1631,3 +1632,12 @@ The types are
 20 v exp(triangle) bi = exp(bi (triangular))
 21 i type I extreme value bi = b + σvi, vi ~ standard Gumbel
 
+## February 2019
+
+### 2/8/2019
+
+- state-of-the-art: currently most popular 
+- fist-best solution : cost-efficient solution
+- second-best: incentive-based
+- Since trading is allowed, this approach overcomes the issue of information asymmetry in costs of abatement actions, but since trades will be based on the linear approximation to the underlying production function, the ambient water quality target may not be met. 
+- The alternative that in principle can lead to cost-efficiency without a need for any cost information by the regulator is trading in water quality improvement credits, which relies on private optimizing behavior to minimize the cost. At the crux of the market design is the ability to set the right (explicit or implicit) trading ratio and to provide an ambient pollution constraint that ensures the attainment of the water quality goal.
