@@ -40,6 +40,7 @@ Table of Contents**
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -1637,7 +1638,37 @@ The types are
 ### 2/8/2019
 
 - state-of-the-art: currently most popular 
+
 - fist-best solution : cost-efficient solution
+
 - second-best: incentive-based
+
 - Since trading is allowed, this approach overcomes the issue of information asymmetry in costs of abatement actions, but since trades will be based on the linear approximation to the underlying production function, the ambient water quality target may not be met. 
+
 - The alternative that in principle can lead to cost-efficiency without a need for any cost information by the regulator is trading in water quality improvement credits, which relies on private optimizing behavior to minimize the cost. At the crux of the market design is the ability to set the right (explicit or implicit) trading ratio and to provide an ambient pollution constraint that ensures the attainment of the water quality goal.
+
+- but the presented issues find ready counterparts in the extant assignment for rights for nonpoint-source pollution. 
+
+- copula estimation <https://stats.stackexchange.com/questions/117253/copula-estimation>
+
+- risk management
+
+- Lower convex envelope
+
+  In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the **lower convex envelope** {\displaystyle {\breve {f}}}![{\breve  f}](https://wikimedia.org/api/rest_v1/media/math/render/svg/2ef708e585480b99e81814be96f55b33868c710f) of a [function](https://en.wikipedia.org/wiki/Function_(mathematics)) {\displaystyle f}![f](https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61) defined on an [interval](https://en.wikipedia.org/wiki/Interval_(mathematics)) {\displaystyle [a,b]}![[a,b]](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c4b788fc5c637e26ee98b45f89a5c08c85f7935) is defined at each point of the interval as the [supremum](https://en.wikipedia.org/wiki/Supremum) of all [convex functions](https://en.wikipedia.org/wiki/Convex_function) that lie under that function, i.e.
+
+
+### 2/9/2019
+
+### 2/10/2019
+
+- The ranking of preferences can be sensitive to the weighting values, producing variations in the preferred solution with small changes in the weight
+
+- constraint is binding: 
+- map of  the spatial distribution of the proportion of times an area is assigned treatment
+- partition: divide into parts, pieces, or sections; separate or apportion into sections
+- unwieldy: If you describe a system as unwieldy, you mean that it does not work very well as a result of it being too large or badly organized. 
+  His firm must contend with the unwieldy Russian bureaucracy. 
+  ...an unwieldy legal system. 
+- 
+

@@ -2959,7 +2959,6 @@ Have a wonderful day 😊 Don’t forget to tell someone you love that you love 
 
 ### 2/7/2019
 
-<<<<<<< HEAD
 - Did you happen to...: by any chance did you..., did you possibly...
 
 - The big night: the important night, the night I’ve been waiting for
@@ -3016,8 +3015,6 @@ Have a wonderful day 😊 Don’t forget to tell someone you love that you love 
 
 - Nosh:to snack on something...would you like to nosh on this?
 
-=======
->>>>>>> master
 ### 2/8/2019
 
 - ex ante 
@@ -3048,4 +3045,109 @@ Have a wonderful day 😊 Don’t forget to tell someone you love that you love 
 - Should a regulator possess good information on the costs of abatement actions, using on-farm performance  standards  appears  to  be  an attractive approach
 
 - carry out the simulation
+
+- these caveats should no serve as an impediment to more thorough consideration of...
+
+- rather, they warrant serious consideration for possible implementation by watershed managers. 
+
+- We use nutrient loads as proxies for aquatic ecosystem services
+
+- elucidate: make clear and  (more) comprehensible
+
+  2. make free from confusion or ambiguity; make clear
+
+- eutrophication
+
+- hazel
+
+- filbert
+
+- The case: the legal action
+
+- Triggers:starts, ignites (usually something “big”is started)
+
+- Charges: accusations
+
+- Anti-Semitism: hostility/prejudice against Jews
+
+- Insists:demands
+
+- Vindicated:proven innocent
+
+- A court martial: a military court that covers its own soldiers (domestic soldiers (and sometimes civilians)).Local (domestic) military laws are imposed.
+
+- Pleads guilty: admits to a court that he is/was guilty
+
+- A life sentence: a prison term that expires only when he dies
+
+- Treason:betraying your country
+
+- Aboard:on
+
+- Fellow passengers: other passengers around/with him
+
+- Subdue:bring under control, to control someone/something by force
+
+- A popular uprising:a demonstration that the majority of the public support and actively participate in. This is a picture of the popular uprising that took place in Egypt in 2011.
+
+- Topples:brings down, ends
+
+- Hardline:very strict, devout, unyielding,hardcore, diehard
+
+  - If you describe someone's policy or attitude as hardline, you mean that it is strict or extreme, and they refuse to change it. 
+    The United States has taken a lot of criticism for its hard-line stance
+
+- Tried:go to trial
+
+- Convicted:found guilty (at a trial)
+
+- A military tribunal: a military court that “tries”the enemy. International laws of war are imposed.
+
+  A tribunal is a special court or committee that is appointed to deal with particular problems. 
+
+- Promptly: immediately
+
+- A firing squad: a row of men (soldiers) that fire on a convicted person in order to kill
+
+- Set off explosives: ignite/explode a bomb
+
+- A popular uprising topples Eastern Europe’s last hardline communist ruler—Nicolae Ceaușescu of Romania. Days later, Ceaușescuand his wife are tried and convicted by a military tribunal; then promptly shot by a firing squad.
+
+
+
+### 2/10/2019
+
+- at the detriment of 
+- solicit: If you solicit money, help, support, or an opinion from someone, you ask them 
+  for it. (FORMAL) 
+  He's already solicited their support on health care reform.
+- forage: If someone forages for something, they search for it in a busy way. 
+  They were forced to forage for clothing and fuel.
+
+- imperative: If it is imperative that something is done, that thing is extremely important and must be done. (FORMAL) 
+  It was imperative that he act as naturally as possible. 
+- partition: divide into parts, pieces, or sections; separate or apportion into sections
+- unwieldy: If you describe a system as unwieldy, you mean that it does not work very well as a result of it being too large or badly organized. 
+  His firm must contend with the unwieldy Russian bureaucracy. 
+  ...an unwieldy legal system.
+- piecemeal: done, made, or accomplished piece by piece or in a fragmentary way 
+  <eg. *piecemeal* reforms in the system>
+  - if you describe a change or process as piecemeal, you disapprove of it because it happens gradually, usually at irregular intervals, and is probably not satisfactory. 
+    Instead of the government's piecemeal approach, what is needed is a radical shake-up of 16-19 education.
+- ad hoc
+- paucity
+- sheer number
+- ingenuity
+- affirm
+- culprit
+- terrace
+- inferred by
+- concomitant: Concomitant is used to describe something that happens at the same time as another thing and is connected with it. (FORMAL) 
+  New methods had to be learnt, with concomitant delays in successful production. 
+  This approach was concomitant with the move away from relying on officially recorded crime as a data source. 
+- constraint is binding
+- ...while the converse turns out to be false
+- a priori, ...
+- ever-present : adj. being present always
+- inclement: (formal) (of the weather) not pleasant; cold, wet, etc . Inclement weather is unpleasantly cold or stormy. 
 - 

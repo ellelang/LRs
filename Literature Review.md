@@ -179,5 +179,16 @@ $$
 
 
 
-### 12/14/2018
+### 02/09/2019
+
+- Limitations associated with uncertainty in model structure, the simplicity of economic cost  representation, and the level of spatial resolution of the ecohydrologic model present ample opportunities for future research. 
+
+- However, these results demonstrate the utility of an approach that integrates scientific understanding of complex systems with the practical need to see how production of nonmarket ecosystem services can be accomplished at the lowest possible sacrifice of economic inputs.
+
+- pay large dividend in ... 
+
+- bear on 
+
+- ambient
+
 
