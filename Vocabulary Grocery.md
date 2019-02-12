@@ -3117,13 +3117,12 @@ Have a wonderful day 😊 Don’t forget to tell someone you love that you love 
 
 ### 2/10/2019
 
-- at the detriment of 
+- at the detriment of : the act of causing harm or damage; sth that causes 
 - solicit: If you solicit money, help, support, or an opinion from someone, you ask them 
   for it. (FORMAL) 
   He's already solicited their support on health care reform.
 - forage: If someone forages for something, they search for it in a busy way. 
   They were forced to forage for clothing and fuel.
-
 - imperative: If it is imperative that something is done, that thing is extremely important and must be done. (FORMAL) 
   It was imperative that he act as naturally as possible. 
 - partition: divide into parts, pieces, or sections; separate or apportion into sections
@@ -3134,13 +3133,14 @@ Have a wonderful day 😊 Don’t forget to tell someone you love that you love 
   <eg. *piecemeal* reforms in the system>
   - if you describe a change or process as piecemeal, you disapprove of it because it happens gradually, usually at irregular intervals, and is probably not satisfactory. 
     Instead of the government's piecemeal approach, what is needed is a radical shake-up of 16-19 education.
-- ad hoc
-- paucity
+- ad hoc: An ad hoc activity or organization is done or formed only because a situation  has made it necessary and is not planned in advance. 
+  - 'I would accept  opportunities in TV on an ad hoc basis,' he said. 
+  - ...ad hoc committees to examine specific problems. 
+- paucity:a small amount of sth; less than enough of sth: a paucity of  knowledge / information / research
 - sheer number
-- ingenuity
-- affirm
-- culprit
-- terrace
+- ingenuity:Ingenuity is skill at working out how to achieve things or skill at inventing  new things. 
+- affirm: to state firmly or publicly that sth is true or that you support sth strongly
+- culprit:  one accused of or charged with a crime ; one guilty of a crime or a fault;  the source or cause of a problem
 - inferred by
 - concomitant: Concomitant is used to describe something that happens at the same time as another thing and is connected with it. (FORMAL) 
   New methods had to be learnt, with concomitant delays in successful production. 
@@ -3150,4 +3150,63 @@ Have a wonderful day 😊 Don’t forget to tell someone you love that you love 
 - a priori, ...
 - ever-present : adj. being present always
 - inclement: (formal) (of the weather) not pleasant; cold, wet, etc . Inclement weather is unpleasantly cold or stormy. 
+- drift plain: 
+- interquartile 
+
+### 2/11/2019
+
+- premium : A premium is a sum of money that you have to pay for something in addition to the normal cost. 
+- risk averse
+- risk neutral
+- volatile: A situation that is volatile is likely to change suddenly and unexpectedly. 
+  - There have been riots before and the situation is volatile. 
+  - The international oil markets have been highly volatile since the early 1970s. 
+- multiplicative : an element of a mathematical set that when multiplied by a given element yields the identity element 
+- adept: a highly skilled or well-trained individual **:** [EXPERT](dict://key.DD900E7D1A47994CB52F0BFC7C75D11E/EXPERT) <an *adept* at chess>
+- **in accordance with** previous conservation tillage adoption studies: 
+- reticence: the trait of being uncommunicative; not volunteering anything more than necessary
+- in the bulk of this paper
+- attenuation: reduced especially in thickness, density, or force 
+- exempt from
+- bear further discussion
+- be akin to: If one thing is akin to another, it is similar to it in some way. (FORMAL) 
+  - Cooking is a physical activity, more akin to woodwork or gardening than to reading or listening to music. 
+- draconian： Draconian laws or measures are extremely harsh and severe. (FORMAL) 
+  - ...indications that there would be no draconian measures to lower US  healthcare costs. 
+  - ...draconian censorship laws
+- at first blush： as a first impression
+- in lieu of ..in the place of **:** instead of
+- proxies
+- considerable latitude for the implementation agency
+- spatially disparate
+- tournament: A tournament is a sports competition in which players who win a match continue to play further matches in the competition until just one person or team is left
+  - selected via a binary tournament with replacement
+- amendment:An amendment is a section that is added to a law or rule in order to change it. 
+  ...an amendment to the defense bill. 
+  ...a constitutional amendment...
+- enactment： The enactment of a law is the process in a parliament or other law-making body 
+  by which the law is agreed upon and made official. (TECHNICAL) 
+  - We support the call for the enactment of a Bill of Rights.
+- terrace: Terraces are a series of flat areas built like steps on the side of a hill so that crops can be grown there. 
+  ...massive terraces of maize and millet carved into the mountainside like giant steps. 
+- sidestep: If you sidestep a problem, you avoid discussing it or dealing with it. 
+  Rarely, if ever, does he sidestep a question
+- set aside: to reserve for a purpose 
+- outlay: the act of spending or disbursing  money/money paid out
+- paramount: Something that is paramount or of paramount importance is more important than anything else. 
+  The child's welfare must be seen as paramount. 
+- propensity: A propensity to do something or a propensity for something is a natural tendency that you have to behave in a particular way. (FORMAL) 
+  Mr Bint has a propensity to put off decisions to the last minute. 
+- obscure: If one thing obscures another, it prevents it from being seen or heard properly. 
+  Trees obscured his vision; he couldn't see much of the Square's southern half. 
+- prompt: To prompt someone to do something means to make them decide to do it. 
+  - Japan's recession has prompted consumers to cut back on buying cars. 
+  - The  need for villagers to control their own destinies has prompted a new plan.
+- tandem:  in tandem (with sb/sth) a thing that works or happens in tandem with sth else 
+  works together with it or happens at the same time as it: The two systems are designed to work in tandem. ◆ Stock prices 
+  pushed sharply higher this afternoon in tandem with a rise in the dollar.
+- provocatively: serving or tending to provoke, excite, or stimulate 
+- fanciful: If you describe the appearance of something as fanciful, you mean that it is 
+  unusual and elaborate rather than plain and simple. 
 - 
+
