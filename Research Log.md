@@ -41,6 +41,7 @@ Table of Contents**
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -1670,5 +1671,10 @@ The types are
 - unwieldy: If you describe a system as unwieldy, you mean that it does not work very well as a result of it being too large or badly organized. 
   His firm must contend with the unwieldy Russian bureaucracy. 
   ...an unwieldy legal system. 
-- 
+
+
+
+### 2/12/2019
+
+A hybrid genetic algorithm for multiobjective problems withactivity analysis-based local search p. 198
 

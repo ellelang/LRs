@@ -3210,3 +3210,12 @@ Have a wonderful day 😊 Don’t forget to tell someone you love that you love 
   unusual and elaborate rather than plain and simple. 
 - 
 
+One important note on (1) is that an environmental indicator ,, can be affected by conservation actions on fields within its own watershed as well as any watershed that drains into the watershed. One contribution of our paper is that our modeling framework realistically represents such interactions.
+
+
+
+### 2/12/2019
+
+- hasten the model convergence on the optimal front.
+  - hasten: If you hasten an event or process, often an unpleasant one, you make it happen faster or sooner. 
+    But if he does this, he may hasten the collapse of his own country. 
