@@ -42,6 +42,7 @@ Table of Contents**
 
 
 
+
 $$
 \hat{U}^*_{int(b)} > 0, \hat{y}^*_{int} = 1; otherwise,\ \hat{y}^*_{int} = 1
 $$
@@ -1677,4 +1678,81 @@ The types are
 ### 2/12/2019
 
 A hybrid genetic algorithm for multiobjective problems withactivity analysis-based local search p. 198
+
+
+
+### 2/14/2019
+
+python matpotlib tutorial < https://www.datascience.com/blog/learn-data-science-intro-to-data-visualization-in-matplotlib>
+
+
+
+```python
+# Get the confidence intervals of the model
+predict_mean_ci_low, predict_mean_ci_upp = data[:,4:6].T
+
+# Data for regions where we want to shade to indicate the intervals has
+# to be sorted by the x axis to display correctly
+CI_df = pd.DataFrame(columns = ['x_data', 'low_CI', 'upper_CI'])
+CI_df['x_data'] = daily_data['temp']
+CI_df['low_CI'] = predict_mean_ci_low
+CI_df['upper_CI'] = predict_mean_ci_upp
+CI_df.sort_values('x_data', inplace = True)
+
+# Define a function for the line plot with intervals
+def lineplotCI(x_data, y_data, sorted_x, low_CI, upper_CI, x_label, y_label, title):
+    # Create the plot object
+    _, ax = plt.subplots()
+
+    # Plot the data, set the linewidth, color and transparency of the
+    # line, provide a label for the legend
+    ax.plot(x_data, y_data, lw = 1, color = '#539caf', alpha = 1, label = 'Fit')
+    # Shade the confidence interval
+    ax.fill_between(sorted_x, low_CI, upper_CI, color = '#539caf', alpha = 0.4, label = '95% CI')
+    # Label the axes and provide a title
+    ax.set_title(title)
+    ax.set_xlabel(x_label)
+    ax.set_ylabel(y_label)
+
+    # Display legend
+    ax.legend(loc = 'best')
+
+# Call the function to create plot
+lineplotCI(x_data = daily_data['temp']
+           , y_data = fitted_values
+           , sorted_x = CI_df['x_data']
+           , low_CI = CI_df['low_CI']
+           , upper_CI = CI_df['upper_CI']
+           , x_label = 'Normalized temperature (C)'
+           , y_label = 'Check outs'
+           , title = 'Line of Best Fit for Number of Check Outs vs Temperature')
+```
+
+
+
+https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0
+
+ 
+
+```python
+# List of five airlines to plot
+airlines = ['United Air Lines Inc.', 'JetBlue Airways', 'ExpressJet Airlines Inc.'',
+         'Delta Air Lines Inc.', 'American Airlines Inc.']
+
+# Iterate through the five airlines
+for airline in airlines:
+    # Subset to the airline
+    subset = flights[flights['name'] == airline]
+    
+    # Draw the density plot
+    sns.distplot(subset['arr_delay'], hist = False, kde = True,
+                 kde_kws = {'linewidth': 3},
+                 label = airline)
+    
+# Plot formatting
+plt.legend(prop={'size': 16}, title = 'Airline')
+plt.title('Density Plot with Multiple Airlines')
+plt.xlabel('Delay (min)')
+plt.ylabel('Density')
+```
 
