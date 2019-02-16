@@ -3219,3 +3219,108 @@ One important note on (1) is that an environmental indicator ,, can be affected 
 - hasten the model convergence on the optimal front.
   - hasten: If you hasten an event or process, often an unpleasant one, you make it happen faster or sooner. 
     But if he does this, he may hasten the collapse of his own country. 
+
+### 2/13/2019
+
+- A quick (unfortunate) heads up though: I don't have available funding to offer to incoming students. 
+
+  I do have grant applications in the works but nothing is guaranteed at this point.
+
+
+
+### 2/14/2019
+
+- diffuse
+
+
+
+### 2/15/2019
+
+LEM <http://archive.aweber.com/ddm_membership/2018/12>
+
+Xmas? Christmas--the short version! DO NOT READ "ex mas"!! Read "Christmas"!!
+
+
+Christmas is ONE week away! 
+
+Christmas has many meanings...different meanings to different people.
+
+ONE of those: a time to give gifts!
+
+We have a few expressions that you might like:
+
+- It's the thought that counts!
+
+We use that expression when we receive a gift that we actually do NOT like!!
+
+- It's better to give than to receive!
+
+We use that expression when we give someone a gift but that person does NOT give us a gift!
+
+
+BOTH of those expressions are true, don't you agree?! I LOVE receiving gifts...but as a person gets older, we actually want fewer things. And the things we want, usually, they are VERY expensive!
+
+A new computer. A new TV. A new car!! But giving gifts...that is REALLY the best! 
+
+Seeing the person's face "light up" with happiness! And when you get the person the perfect gift...it's GREAT!
+
+This year, 2018, my wife gave me the greatest gift in the world. A son! Mikey!! How can I do better than her? Well, I don't think I can. But I'll try to be a good husband and a good father.
+
+ Finding that perfect gift is sometimes REALLY difficult. Especially when the person is like me and says,
+"Oh, I don't need anything for Christmas~!!"
+
+But you know you MUST buy something!!
+
+Well, I'm not going to give you a list of possible gifts to buy for people...except for ONE.
+
+Give the gift of education! IF the person is interested in learning English like you are, study together! 
+
+You are giving the gift of education AND companionship! You will be encouraging each other to improve!
+And you will both be MASTERING English!!
+
+
+
+- Hi! Coach Shane  I'm also a big fan of December.  I like Christmas so much . I like the atmosphere of the Christmas season. I will buy something to decorate my house. Oh! **The cute Christmas stuff really takes me away!** I  enjoy having strawberry cake around this time of the year. This cake is delicious. I really like the month of December !ヽ(✿ﾟ▽ﾟ)ノ
+
+- Here are a few pictures of a hike
+
+I completed a few weeks ago. It was at "Volcan Baru" in Panama. It was a  3,475-meter-high hike. It was a great experience, one of those that changes your outlook on life.  It was definitely one of 2018's greatest hits! 
+
+WOW!!! That is **a MASSIVE climb**! But you called it a hike?! You're a SUPERMAN!! And the pictures are stunning! I'm really glad you shared this hike with us and I hope you share MORE of your life with us!! Not only with your regular students, but with our future students, too!! Merry Christmas, Clive!
+
+- I made this cheesecake for me and my dear friends to celebrate several goals that were achieved these days. I received an important fitness certification which is really important for my career and other course credits, too.
+
+I work in a kindergarten one day a week. I teach them **Pilates** and also English songs about the body and movements. You can see a Christmas tree that I made with them.  Happy Christmas and happy holidays to you and your family.
+
+
+
+Hi Graziella!  I am SUPER proud of you!! Not only are you taking care of yourself physically, you are continuously learning and upgrading yourself. NOT just for yourself, but for others who want to be more physically fit. AND not just for adults, but you're helping kids see the value in exercise. And NOT just exercise, but English.  Wow!! SUPER work, Graziella! And **I wish you and your family the MERRIEST of CHRISTMASES!**
+
+
+
+- This is my attempt at something a la Maroccan Tajine. Came out pretty good!!!! One notable missing ingredient was **pickled lemons**, but I’m already pickling some in the jar pictured. That’s the first of my two current projects. 
+
+Aaand THIS is the second project. **An exclusive sneak peak into** the English grammar book I’m working on. I know all of you can tell time but I’m sure not everybody in the world can!! More to come in the near future ^^
+
+
+
+Greetings, Coach Matt! I LOVE to hear your updates! The food looks...good! Pickled lemons? Hmm... Let us know how they turn out, okay? And describe the taste of your **delicious cuisine**...I'm curious! Your grammar book is going to be HUGE! I can't wait to see it. I hope you give me the honor of editing it...am I asking too much?! I wish you and Luka an absolutely wonderful Christmas! Did you prepare any gifts? Do you think Santa will deliver any to you? Merry Christmas, Coach! 
+
+
+
+- Sending you some pictures of winter in Moscow! Take care you all!!
+
+ Hi Gulya, The **Trubnikovs** are enjoying winter EXACTLY how it should be enjoyed! Outside and in the snow!!
+
+ What about hot chocolate? Keep sending pictures and MERRY CHRISTMAS
+
+- Let's get baking! Christmas in the US is a BIG cookie season. **Gingerbread men, snowballs and peanut butter blossoms.** Send pictures of your Christmas cookies.
+
+  We made the gingerbread men  **a little chocolatey** this year. Still nice and spicy though! 
+
+
+Delivering Christmas cookies. 
+
+Giving. A gift. EVERYONE loves to get Christmas cookies! Especially a week or two BEFORE Christmas!! Oh...I'm going to get fat... I've already got a special plan for 2019. A plan to help me LOSE some weight. More on that later!!
+
+Who will you pick to join with you?!!
