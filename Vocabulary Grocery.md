@@ -3324,3 +3324,62 @@ Delivering Christmas cookies.
 Giving. A gift. EVERYONE loves to get Christmas cookies! Especially a week or two BEFORE Christmas!! Oh...I'm going to get fat... I've already got a special plan for 2019. A plan to help me LOSE some weight. More on that later!!
 
 Who will you pick to join with you?!!
+
+
+
+### 2/16/2019
+
+- peculiar challenge:
+  - peculiar: if you describe someone or something as peculiar, you think that they are strange or unusual, sometimes in an unpleasant way. 
+    Mr Kennet has a rather peculiar sense of humour. 
+    Rachel thought it tasted peculiar. 
+    ADJ-GRADED 
+    = odd, strange 
+    =>peculiarly 
+    His face had become peculiarly expressionless. 
+- compliance: Compliance with something, for example a law, treaty, or agreement means doing what you are required or expected to do. (FORMAL) 
+  Inspectors were sent to visit nuclear sites and verify compliance with the treaty. 
+  The company says it is in full compliance with US labor laws. 
+  The Security Council aim to ensure compliance by all sides, once an agreement is signed. 
+- metrics
+- comply with: If someone or something complies with an order or set of rules, they are in accordance with what is required or expected. 
+  The commander said that the army would comply with the ceasefire. 
+- impervious: If you are impervious to someone's actions, you are not affected or influenced by them. 
+  She seems almost impervious to the criticism from all sides. 
+  The political system there has been impervious to all suggestions of change. 
+- crude: A crude method or measurement is not exact or detailed, but may be useful or correct in a rough, general way. 
+  Standard measurements of blood pressure are an important but crude way of assessing the risk of heart disease or strokes. 
+  Birthplace data are only the crudest indicator of actual migration paths. 
+- pertaining to: be related to
+- liability: If you say that someone or something is a liability, you mean that they cause a lot of problems or embarrassment. 
+  As the president's prestige continues to fall, they're clearly beginning to consider him a liability 
+  ... what was once a vote catching policy, is now a political liability. 
+- shirking: If someone does not shirk their responsibility or duty, they do what they have a responsibility to do. 
+  We in the Congress have our role to play, and we can't shirk our responsibility. 
+  The Government will not shirk from considering the need for further action. 
+- dwarfed: If one person or thing is dwarfed by another, the second is so much bigger than the first that it makes them look very small. 
+  His figure is dwarfed by the huge red McDonald's sign. 
+  The US air travel market dwarfs that of Britain. 
+- ventilated: If you ventilate a room or building, you allow fresh air to get into it. 
+  Ventilate the room properly when paint stripping. 
+- pit
+- latrines
+- diarrheal
+- morbidity
+- information disclosure: Disclosure is the act of giving people new or secret information. 
+  ...insufficient disclosure of negative information about the company. 
+- transboundary
+- waterfront
+- fecal coliform contamination
+- effluent:Effluent is liquid waste material that comes out of factories or sewage works. (FORMAL) 
+  The effluent from the factory was dumped into the river. 
+  All industrial chemical plants produce waste effluents. 
+  N-MASS 
+  = waste
+- stifle: If someone stifles something you consider to be a good thing, they prevent it from continuing. 
+  Regulations on children stifled creativity. 
+- cumbersome: A cumbersome system or process is very complicated and inefficient. 
+  ...an old and cumbersome computer system... 
+  The proposed regulations are ill-defined and cumbersome and could be unnecessarily costly. 
+- chlorination
+- 
