@@ -3383,3 +3383,54 @@ Who will you pick to join with you?!!
   The proposed regulations are ill-defined and cumbersome and could be unnecessarily costly. 
 - chlorination
 - 
+
+### 2/18/2019
+
+LME <http://archive.aweber.com/ddm_membership/7plKl/h/My_name_was_Coach_Shane.htm>
+
+- A climate rally in Berlin.
+
+- Wow--you are taking pictures as a protester or as part of the media?! They're very good pictures. And the topic is very serious.
+
+  Whether or not people believe in man-made climate change--I think we can all agree; we need to TAKE CARE of our environment. We need to NOT be wasteful. We shouldn't pollute. We should conserve. We should respect nature and replenish when we can. It all starts with YOU! Let's do OUR part!
+
+  - Replenish  sth (with sth) (formal) to make sth full again by replacing what has been used: to replenish food and water supplies ◆ Allow me to replenish your glass.
+    replenishment noun [U]: Computerization has enabled the automatic replenishment of stock.
+
+- Hi Coach! You asked us, where do we study? As for me: I'm always practicing indoors in quiet places. Usually at home.  Live classes too, but sometimes, especially during vacation - in the forest, on a street or in the countryside. It really depends. Down below are the most common places:
+
+At my daughter's room with her guinea pig. She loves that! (The guinea pig of course, not my daughter;)Every time I practice out loud, she perks up, starts running around, squeaks, then lies down and stares at me. Yet another place: the arm chair in the living room. More convenient, since I don't have to sit with my legs crossed all the time. 
+
+This is my Live Classes Kingdom in the basement. It's way quieter down here and nobody whooshes around;) The only downside is that internet is not that good down here and sometimes I have to stand on the chair during the whole class to catch the wifi waves through the small window:) In the last picture, I was in AE class with Coach Clive.
+
+Hi Darek, LOL!! Perhaps your daughter's guinea pig is from the US? But why doesn't your daughter like you practicing English...perhaps she is better than you?!
+
+ Yes, the chair would be the best spot! But when you have too much activity nearby, it's hard to study.  Aha! I like your Live Classes Kingdom. You are the king down there...but the king needs a **wifi router or a signal booster**!! BE CAREFUL standing on chairs and speaking English. It can be a very dangerous combination!! Thanks for the great pictures and great humor, Darek! See you in class!!
+
+
+
+I really liked your family members' photos. Your uncle and aunt look very intelligent. And I hope that medicine your dad takes will help him to overcome his cancer. I am sending some pics, I hope you find them funny! A **gypsy's** livestock **strolled** into our garden, I had to **shoo them away:)** Take care of you and your family!
+
+ Hi Andrey, I LOVED the pictures!! I can guarantee you, if my neighbors livestock strolled into my yard or garden, I would be eating them! You were too kind^^
+
+
+
+You remember I jumped my truck last week with the jumper cables? Well, it didn't work because the battery was COMPLETELY dead and the water in the battery actually froze and nearly burst the battery. So...I ended up getting a **tow truck** to pick up my truck. It's expensive but I need that truck to **plow the snow** and do other **chores** around the house. Ugh...
+
+ Send in some photos of your Christmas trees! We finally decorated our tree and it's really beautiful! We have our own **family ornaments** that have a special meaning, but I also have a few ornaments from YOU! Students have sent me a few beautiful decorations that I will treasure forever!
+
+**Homemade lasagna** tastes really good in the winter! And in the mornings? Homemade French toast with farm fresh maple syrup **is to die for**! Somebody told me that French toast is ACTUALLY German toast?!
+
+This is the bread my wife made for the French toast. It's super soft and buttery and was perfect. It will also be really good for tuna or chicken salad sandwiches! What kind of bread do you use?
+
+We had a few busy days so Mikey and I got hungry. At the local supermarket, they have a deli. Yum!! A quick bite of this and that. A chicken panini with **fluffy** fries and a 3-meat **casserole** with green beans and mashed potatoes.
+
+- A casserole is a dish made of meat and vegetables that have been cooked slowly in a liquid. 
+
+That's a stuffed airplane. I'm sending it to Mikey's friend. I hope he likes it. I really enjoy buying Christmas gifts for people...but wrapping those gifts takes a LOT of time. And a lot of tape!!
+
+ Are you playing Santa this year? Send us some pictures of you wrapping gifts! And your tree! With the decorations!! And your foods!! And describe everything!! It's a great opportunity to practice English, okay?
+
+Grandma and Grandpa **kicked Christmas off with** those presents under the tree!! Doesn't it look beautiful! All of those presents...almost ALL of them are for Mikey. I'm SO jealous~~ 
+
+No!! Of course, I'm not^^ I am grateful for the loving family. There's NOTHING better than family^^
