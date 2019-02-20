@@ -3434,3 +3434,117 @@ That's a stuffed airplane. I'm sending it to Mikey's friend. I hope he likes it.
 Grandma and Grandpa **kicked Christmas off with** those presents under the tree!! Doesn't it look beautiful! All of those presents...almost ALL of them are for Mikey. I'm SO jealous~~ 
 
 No!! Of course, I'm not^^ I am grateful for the loving family. There's NOTHING better than family^^
+
+
+
+LME 28 <http://archive.aweber.com/ddm_membership/5cNxZ/h/Lesson_28_Americana_Monday.htm>
+
+**TO LEARN: my mom’s affairs, blizzards, torrential desert rains, tread, fender-benders, a deadly pile-up, a dishwasher, bottles and nipples, public bathrooms**
+
+ 
+
+Hi ,
+
+I recently, as many of you know, traveled across the US to the state of Nevada to be with my dad. My mother passed away, so I spent time with him and we took care of **my mom’s affairs** *(things like her funeral, insurance, documents, banks…)*. It was a very sad occasion, but it was nice to spend time with my father.
+
+My dad and I had many conversations—among them, about traveling. On this trip, I drove for nearly 60 hours! I traveled through 13 states! I drove through three **blizzards** *(blinding snow storms)* and **torrential desert rains** *(very heavy rains which cause flooding)*. Driving conditions were REALLY bad.
+
+In October, I replaced my tires, so the **tread** *(see the picture below)* was great. And in Las Vegas, I had the oil changed and air filter replaced, so the engine was running smoothly.
+
+And thankfully, we traveled SAFELY.
+
+The only **fender-benders** *(small accidents where injuries are minimal if any)* I saw were in the cities. No big accidents, although there was **a deadly pile-up** *(an accident involving several vehicles and had at least one person die)* south of us on Friday. The pile-up occurred in Kansas and one woman lost her life.
+
+Our hotel rooms were decent. Only one place had a “smell”, but it wasn’t too obnoxious. Every place we stayed had **a dishwasher**(the machine that washes your dishes!) in the room and my wife loved that. Dishwashers help keep my son’s **bottles and nipples** *(milk bottles and rubber nipples for babies)* clean because of the SUPER hot water.
+
+Gas, I discovered, is cheaper where I live now than in Nevada! I paid $1.89/gallon of gas near my home—$2.89 in Nevada~
+
+We ate *fast food* on the road. I stuck to **Taco Bell** and **Subway**. My wife preferred **Panera Bread**…but we could only find one that was convenient. Mikey, he had nature’s finest—breastmilk. Mikey and his food—that’s why we didn’t fly. You cannot take liquids (milk bottles) on an airplane in the USA. Isn’t that ridiculous?
+
+**Public bathrooms**… *(toilet facilities open to the public~)* As a guy, NO problem for me. But it’s a different story for women. Overall, they weren’t too bad.
+
+Finally, coffee! I drank a LOT of **Starbucks** on the road. The triple espressos were keeping me awake. Along with my **Gorilla Rush**. **Out of the 60 hours of driving, I drove at least 57**. My wife **filled in during a few tough spots** when I was feeling **drowsy.**
+
+America, the USA, is a HUGE place! I do recommend driving in the USA. But plan carefully! If you have questions about traveling in America, let me know.
+
+ 
+
+### 2/19/2019
+
+LME <http://archive.aweber.com/ddm_membership/G6QWZ/h/Tuesday_s_English_Magazine.htm>
+
+Somebody told me driving is therapeutic.
+
+- therapeutic: If something is therapeutic, it helps you to relax or to feel better about things, especially about a situation that made you unhappy.
+
+I agree. For me, it is a form of meditation. Not city driving! Country driving. Down roads with no other cars. Maybe some animals. Lots of fields. Forests. A bridge. A barn. A lonely stop sign.
+
+For me, it's soothing. Comforting. Therapeutic. When you need some PEACE...where do you go?
+What do you do? Do you have a special place?
+
+I would LOVE to see a picture. If you share your pictures, I'll share mine, okay?
+
+- Aha!! Evgueni is out with his family enjoying a winter carnival
+- Carnival: A carnival is a public festival during which people play music and sometimes dance in the streets. 
+
+Football is NOT ONLY an American sport--it's very popular in Canada, too. The rules are slightly different, but just a tiny bit. But Canadian Football Cookies?! WOW! I'm a fan!
+
+Hi Evgueni, thanks for sharing such FUN pictures with us! **Keep them coming!!** 
+
+- Hi everyone!  My fresh pics! I went out **cross-country skiing**  at Brumal park. Do you ski? 
+
+ Hi Andrey! I LOVE cross-country skiing. When I was a teenager, I even **raced a little**. Actually, I **intend on** teaching Mikey how to race when he gets older. There are THREE types of skiing that are very popular--do you know them? Send an email if you know what they are!
+
+- intend on doing sth. / to do : If you intend to do something, you have decided or planned to do it.
+
+- Luka is a **cutie** but also a fighter when attacked. He has **fought off** a Husky-sized Husky mixture before, was more than ready to fight an Amstaff and was wounded in fights at least twice. Once it **required stitches.**
+
+Thankfully, the great majority of dogs are friendly with him and **he’s free to be just a cutie most of the time ^_^**
+
+The new skateboarding season **is taking shape** but do NOT worry... I don’t have time to learn tricks anymore because.
+
+I’m drawing!!!! You like these glasses? Well, I’m kind of ambivalent about them. That’s why...
+
+- Ambivalent: If you say that someone is ambivalent about something, they seem to be uncertain whether they really want it, or whether they really approve of it. 
+  She remained ambivalent about her marriage. 
+
+I’m relearning perspective (I studied it when I was in high school). Look at my freehand though (drawing straight lines without a ruler). 10 weeks in and the progress is there. I wouldn’t be able to do it without you^^
+
+ I found a course on it for $12... **Took some looking to find this stuff at that price** but it came as a side effect of browsing **heaps of drawing tutorials**. The year was 1994 but these things haven’t changed since the **Renaissance**!
+
+- heaps of times
+
+Matt's English (grammar) Book will be just as perfect as the recipe for Tajine that a student shared with me. You better believe it! 
+
+Hello Coach Matt,  You are not sharing the recipe? How SELFISH! And WHY are you pushing Luka into fights? STOP that!!
+
+And it's true...drawing hasn't changed much since the Renaissance!! So funny!
+
+Be careful on the skateboard and keep doing what you're doing!
+
+
+
+- That's my mom and dad! In love for half a century.
+
+Mom's favorite meal. Cheeseburgers and fries. Dad makes THE BEST. It's strange; there is nothing special in his hamburger recipe, but he always makes them taste PERFECT.
+
+Driving out to Nevada was TERRIBLE. Emotionally it was very tough, but the road conditions were atrocious. The road you see above--the speed limit is 75 MPH (120 KPH). But NO ONE was driving that fast on this day. I was keeping the speed at about 45 MPH (70 KPH).
+
+- atrocious: If you describe something as atrocious, you are emphasizing that its quality is very bad. 
+  I remain to this day fluent in Hebrew, while my Arabic is atrocious. 
+
+Drank many Starbucks **caramel macchiatos** on the road! In an email lesson a few weeks ago, we learned about TIP JARS. Remember? Here's a Starbucks where they are asking you:
+
+Who is better? Cardi B or Nicki Minaj? You add money (your tip) to the cup you prefer. I added NOTHING!
+
+Selling cookies in the bitter cold. This was at a gas station in Nebraska. It was SUPER cold and very windy.  But when I saw **Girl Scout cookies for sale**...I could NOT resist!! My dad's favorite kind are peanut butter cookies. Mom's favorites were the mint cookies.
+
+- scout: A scout is someone who is sent to an area of countryside to find out the position of an enemy army. 
+  They set off, two men out in front as scouts, two behind in case of any attack from the rear. 
+  - scout as a verb: If you scout somewhere for something, you go through that area searching for it. 
+    I wouldn't have time to scout the area for junk.  / A team of four was sent to scout for a nuclear test site.  / I have people scouting the hills already. 
+    
+
+I bought the mint cookies. SO delicious! **Supporting #GirlScoutsoftheUSA**
+
+Three generations of men. I talk with my dad every day now...but being there with him was the best. I miss you dad. 
