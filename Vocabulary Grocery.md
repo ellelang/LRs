@@ -3548,3 +3548,140 @@ Selling cookies in the bitter cold. This was at a gas station in Nebraska. It wa
 I bought the mint cookies. SO delicious! **Supporting #GirlScoutsoftheUSA**
 
 Three generations of men. I talk with my dad every day now...but being there with him was the best. I miss you dad. 
+
+### 2/20/2019
+
+LEM <http://archive.aweber.com/ddm_membership/L87HZ/h/Lesson_30_Wednesday_Wisdom_.htm>
+
+How about some **Wednesday Wisdom** regarding learning English?!
+
+We get a LOT of email every day. And today I want to share a common WORRY that we get:
+
+*… in my job I frequently deal with people who don’t speak Italian, so we have to communicate in English. I always try moving the conversation to email because I’m not confident with my spoken English. Actually…I’m ashamed to speak* *☹*
+
+*Thank you*
+
+*D in Italy*
+
+**Well, here’s our answer. This is Mic’s letter to Diego…**
+
+Hi, D in Italy! 
+
+Here are two tips for you to succeed: 
+
+1. **LOSE THE FEAR** of making mistakes!
+
+In other words, work *little by little* on getting rid of that shame. In fact, WELCOME them. **Mistakes that don't kill you** **will make you stronger**! 
+
+1. **JOIN US**! 😊
+
+Seriously! We aim to show "the truth" about learning a language.
+
+The truth is: Spoken language doesn't follow the rules of Written language.
+
+**Speaking is NOT writing.**
+
+**Writing is NOT Speaking!**
+
+Speaking is like a play—it’s happening in the moment. It’s LIVE. You can always rehearse before the real event, but you only get one chance to do it LIVE!
+
+Writing is like a movie—it’s NOT live. You can try things out and experiment and do it again and again. When you’re confident, then you send it out.
+
+**The rules ARE different!**
+
+With those two tips AND perseverance, I can't see why you couldn't get past the hurdle! We’re here to help you. Let’s do it!
+
+- Perseverance/ˌpɝsə'vɪrəns/  is the quality of continuing with something even though it is difficult. 
+  N-UNCOUNT 
+  = persistence
+
+### 2/21/2019
+
+LEM 31<http://archive.aweber.com/ddm_membership/ASgsZ/h/Lesson_31_DIRTY_Restaurants.htm>
+
+When you are away from home around lunchtime, where do you like to eat?
+
+When I lived in Korea, the BEST places for lunch were small restaurants that actually don’t look like they’re very clean. In Korea they call them “Driver Restaurants” or “Gisa Sikdang”. They are VERY popular with taxi drivers, hence the name! And I absolutely LOVED them!!
+
+We have them in the USA, too. The “nice” name for those restaurants is a “**diner**”. But the more common name is a **greasy spoon**!
+
+Why do we call them **greasy spoons**? Because when they bring you a fork, spoon and knife; one of them (often the spoon) is still dirty!!! GROSS!
+
+But those restaurants have the best food.
+
+ Just make sure you don’t look TOO closely. You might find it kind of dirty~~ **Hygiene** (cleanliness) is not as important as taste~!! Send us a picture of YOUR favorite greasy spoon and tell us what their BEST food is!
+
+Have a super lunch^^
+
+### 2/22/2019
+
+LEM 32 <http://archive.aweber.com/ddm_membership/Dr5RZ/h/Lesson_32_I_made_a_MISTAKE_.htm>
+
+Phrasal Verb Friday!
+
+Today let’s focus on **MAKING A MISTAKE**~
+
+We all make mistakes. Some people make more mistakes than other people, right? What about you?!
+
+Of course, the important thing: Learn from our mistakes.
+
+ But in reality, many of us REPEATEDLY make the same mistakes. If you are repeatedly making mistakes in English—you need a COACH! 
+
+So, the next time you make a mistake, try using one of these expressions: 
+
+**I flubbed up.**    (SAFE in all situations—usually not a serious mistake)
+
+**I mucked up.**    (SAFE in all situations—usually not a serious mistake)
+
+**I messed up.**    (SAFE in all situations—could be a simple OR a serious mistake)
+
+**I screwed up.**   (SAFE in MOST situations. Use it with friends/acquaintances. Frequently a serious mistake)
+
+**I f’d up.**              **[I effed up]** (NOT SAFE in MOST situations. If you use it, use it only amongst close friends. The “f’d” is short for “fuc*ed”. Use it when you REALLY screw up!)
+
+ 
+
+- Regroup: reorganize
+
+- Purged: gotten rid of
+
+- They arrived at the conclusion...: they concluded
+
+- Carbon dioxide: carbon dioxide is made up of carbon and oxygen.
+
+- Comes in: is necessary, must be mentioned/talked about, enter ~
+
+- As it often tends to...: like it usually does
+
+- In such matters: in 
+
+- such cases, in situations like these
+
+- Accelerates: increases
+
+- The rate of respiration: the speed of breathing how many breaths do you take in 
+
+  one minute? That is your  breathing rate or your  rate of respiration
+
+  
+
+- The bulky matter: in this case, fat
+
+  Something that is bulky is large and heavy. Bulky things are often difficult to move or deal with
+
+- Composed of: made up of
+
+- Atoms: the tiny building blocks of everything around us. they’re mostly air, of  course!
+- Exhaled: breathed out
+- Facilitates: helps
+- Shedding pounds: losing weight, getting rid of kilograms
+- A number of...: several, many
+- Details: points, factors
+- The process: the fat losing process
+- Getting to the bottom of...: finding the **ROOT cause**/reason/factors for..
+- Found: discovered
+- Factor: reason
+- Determining: figuring out
+- In short: in a nutshell, in brief, to put it simply, without going into too much detail
+- At large: this is ONLY a “joke” in this case—it’s a pun which is contrasting “short” and  emphasizing  the  subject  of  “weight  loss”  which  is  usually  an important subject for “large” people
+- Fat: the actual molecules
