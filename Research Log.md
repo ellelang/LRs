@@ -1756,3 +1756,60 @@ plt.xlabel('Delay (min)')
 plt.ylabel('Density')
 ```
 
+
+
+### 2/28/2019
+
+Marginal Effects: https://www3.nd.edu/~rwilliam/xsoc73994/
+
+Marginal effects are also called instantaneous rates of change; you compute them for a variable
+while all other variables are held constant. The magnitude of the marginal effect depends on the
+values of the other variables and their coefficients.
+
+https://www3.nd.edu/~rwilliam/stats3/margins02.pdf
+
+As Cameron & Trivedi note (p. 333), “An ME [marginal effect], or partial effect, most often measures the effect on the conditional mean of y of a change in one of the regressors, say Xk. In the linear regression model, the ME equals the relevant slope coefficient, greatly simplifying analysis. For nonlinear models, this is no longer the case, leading to remarkably many different methods for calculating MEs.”
+
+Marginal effects are popular in some disciplines (e.g. Economics) because they often **provide a good approximation to the amount of change in Y that will be produced by a 1-unit change in Xk.**  With binary dependent variables, they offer some of the same advantages that the Linear Probability Model (LPM) does – they give you a **single number that expresses the effect of a variable on P(Y=1).**  
+
+•Personally, I find **marginal effects for categorical independent variables easier to understand and also more useful than marginal effects for continuous variables**
+
+•The ME for categorical variables shows **how P(Y=1) changes as the categorical variable changes from 0 to 1,** after controlling in some way for the other variables in the model. 
+
+•With a dichotomous independent variable, the marginal effect is the difference in the adjusted predictions for the two groups, e.g. for blacks and whites.
+
+•There are different ways of controlling for the other variables in the model. We will illustrate how they work for both Adjusted Predictions & Marginal Effects.
+
+https://www.statalist.org/forums/forum/general-stata-discussion/general/1298992-coefficient-interpretation-and-marginal-effects
+
+  Dear Statalisters,
+
+I am using a Poisson model (no fixed effects) and I have a question that is not directly related to this model. So, I guess that even someone not familiar with count data models might be able to help.
+
+Cameron & Trivedi (Microeconometrics using Stata - Revised edition - page 576) use an example where the dependent variable is the number of doctor visits (0, 1, 2, 3, ...) and one independent variable of interest is the years of education (EDUCYR). They run a Poisson model. The coefficient of EDUCYR is 0.03 and in order to interpret this number they take the exponential and say:
+" **One more year of education is associated with doctor visits increasing by the multiple exp(0.03)=1.030 "**. 
+
+In the next paragraph, they calculate the Average Marginal Effect (AME) using the **margins, dydx(\*)** command. The AME is 0.202 and they say that " One more year of education is associated with 0.202 additional doctor visits ".
+
+Therefore, my question is: What is the difference between these two interpretations? What does the expression "*increases by the multiple of*" mean in practice? The above two interpretations are very different from each other. I encounter a similar problem with my results, and so I really need to know which of the two to use.
+
+Thank you all in advance.
+
+Best,
+Nikos  
+
+What is the difference between a Poisson and an Exponential distribution?
+
+https://math.stackexchange.com/questions/1536497/what-is-the-difference-between-a-poisson-and-an-exponential-distribution
+
+As A.S.'s comment indicates, both distributions relate to the same kind of process (a Poisson process), but they govern different aspects: **The Poisson distribution governs how many events happen in a given period of time, and the exponential distribution governs how much time elapses between consecutive events.**
+
+By way of analogy, suppose that we have a different process, in which events occur exactly every 10 seconds. Then the number of events that happen in a minute (i.e., 60seconds) is deterministically 66, and the amount of time that elapses between consecutive events is, of course, deterministically 10seconds.
+
+In contrast, in a Poisson process with a mean rate of one event every 10seconds (i.e., λ=1/10), the number of events that happen in a minute is not deterministically 6, but it has a *mean* of 6. The exact distribution is given by the Poisson distribution:
+
+
+
+Example of exponential distribution
+
+https://courses.lumenlearning.com/introstats1/chapter/the-exponential-distribution/

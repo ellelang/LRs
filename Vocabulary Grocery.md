@@ -3786,3 +3786,19 @@ Read the full story.
 
 Think of the relative ease
 
+
+
+### 2/25/2019
+
+- cyber culture: 
+-  toddlers
+
+
+
+### 2/28/2019
+
+
+
+- A memo (formal name memorandum) is a business document used for communication within a company or between two companies. Their purpose is to convey information in a relatively short but formal document which can be sent out to a number of relevant people. 
+- compose, constitute, comprise
+- 
