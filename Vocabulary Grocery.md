@@ -3793,12 +3793,256 @@ Think of the relative ease
 - cyber culture: 
 -  toddlers
 
+LME 34 <http://archive.aweber.com/ddm_membership/P3DkJ/h/Lesson_34_Coin_Problems_.htm>
 
+Hi ,
+
+Americana Monday!
+
+Piggy Banks! 
+
+Nearly everyone in America has a piggy bank. I had several. My first piggy bank was actually a beagle. My grandpa gave it to me—he had a real beagle and I loved it!
+
+- beagle beagles 
+  A beagle is a short-haired black and brown dog with long ears and short legs. It is kept as a pet or sometimes used for hunting. 
+
+Now I use a candy dish as a piggy bank. It'll take a year, I guess, to fill up nicely. So, the question is—what do you do with your excess change? What can you do if you’re **drowning in** change?!
+
+- drowning in :
+
+A few options:
+
+- Stash it: If you stash something valuable in a secret place, you store it there to keep it safe. (INFORMAL) 
+  We went for the bottle of whiskey that we had stashed behind the bookcase. 
+  Andrews had stashed money away in secret offshore bank accounts. 
+
+Put it in jars and buckets and garbage cans and forget about them! Good luck moving them!
+
+- Tip it
+
+Every time you get change, dump it in the tip jar! 
+
+- Spend it
+
+Count out the coins when paying the cashier. The people behind you will hate you—but hey! Money is money!
+
+- **Cash it in**
+
+Take it to the bank and deposit it or exchange it.
+
+
+BUT…problem.
+
+Many banks will only take coins IF you have an account. And many banks will only take the coins if they are rolled (putting them into little paper tubes like below). AND STILL, some banks will charge you!
+
+COINSTAR!
+
+You can find these coin counting machines in most big stores like Walmart. They’ll take care of ALL your coins. For a fee. Typically 10%!!! To me, that’s not a fee, that’s STEALING! OR…be real nice and just select the DONATE option and give it all away to your favorite charity.
+
+ BONUS SECRET:
+
+Use a **self-checkout machine** at a store and TAKE YOUR TIME adding your coins to it! Go at a time when there aren’t many customers and no one but the store manager will be mad!
+
+A quick recap: stash it, tip it, spend it, cash it in, go to Coinstar, go through the self-checkout
+
+Show us some support! I work REALLY hard to create great content for you all. 
+
+**Your help is greatly appreciated**! Please look through the following links and again, THANK YOU!!
+
+
+
+### 2/26/2019
+
+LME Tuesday Magazine <http://archive.aweber.com/ddm_membership/661lJ/h/Tuesday_s_English_Magazine.htm>
+
+My dad called me today
+
+on an iPad...
+
+My mom was the iPad expert and my dad was ALWAYS off to the side doing his thing! My mom used FaceTime, played Angry Birds and loved texting us!
+
+Now Dad is **taking up the reins**. He's learning how. He's teaching himself with the aid of a book. Of course, I'm coaching him a little, too!
+
+- rein: Reins are the thin leather straps attached round a horse's neck which are used to control the horse. 
+
+Mikey's birthday is tomorrow, so we are VERY happy that we will be able to FaceTime dad! Birthdays without family...that's not right. And even though we are **SO FAR APART, modern technology--FaceTime--brings us together!**
+
+- so far apart
+
+Just like YOU and ME! It's so wonderful that I can be your English coach and you can be where you are!
+
+- Hi Shane! I’m studying English--our new lesson, but the internet connection at the Generator Hostel in Amsterdam is not enough. Next week I’ll be ready, though!  Please say hello  to all my classmates.
+
+ Hi Evgueni! Are you in a CHEMISTRY LABORATORY or a BAR?!
+
+Actually...they are both kind of similar, aren't they!
+
+I am constantly amazed at how you are able to constantly travel around the world and LOOK SO DAMN GOOD! Don't you **get jet-lagged?** I get tired just thinking about it!!
+
+- Oh, Victor! What a fantastic picture! Your granddaughter will cherish that picture forever! I hope that Mikey makes me a grandpa, too. I'm going to encourage him to get married YOUNG! Maybe when he's 20!! Is that too young, Victor?
+
+- Hi Coach Shane, I’m Sidney Filardo from Brazil. Here are some photos of my wife Mirian and I. They are from the end of 2018 when we were visiting my son Thiago in London, Canada. We tried the cold weather over there. Our pets:  the Yorkshire is Cacau, and the gray one is Toy.
+
+I absolutely LOVE getting to know my readers and their families! Everyone looks SO happy. Every smile is an energy boost!  I'm jealous of one thing...your family has SO many DOGS! I have NONE! Do you have other pets? Have you always had dogs? I hope your family has a WONDERFUL year! OH...how did you like the COLD Canandian weather?!! It's a bit different from Brazil!
+
+- Oh my god, this topic! Greasy Spoons!
+
+   In China you can find the “greasiest spoons” for sure!
+
+  I am hungry:)
+
+ Hi Kore,  LOL!! That last place looks very clean!! Oh, but the food in those places, usually, is SO good. I would NEVER go into the kitchen though. Some things, we do not need to know.
+
+- Hi, I hope that you are well. Losing the most important part of the family is always painful, **but we must carry on.** Coach I thought about you, I like your work and want to help you. But for me, PayPal is difficult. Is there another way? "
+
+Hi Johan,
+
+WHAT kind of fish is that?!
+
+Yes, Johan, the mother is THE most important part of the family. Thank you^^ And I also want to thank you for your interest in helping us out. We DO need help! The best way to help: tell people about our lessons. Next--use our links at the bottom. They really help. And when PayPal is inconvenient, DON'T WORRY! If you want to join classes, you can use things like Western Union or MoneyGram, too. **But otherwise, Johan, just keep enjoying our email lessons, the podcasts and YouTube videos, okay? And PLEASE share them with anyone interested!**
+
+- We are studying a Seinfeld episode in DDM which they talk about CALZONES! And since I have the greatest wife in the world, she made me HOMEMADE CALZONES! 
+
+  Italian sausage, spinach and mozzarella calzones!  To my Italian friends--how do they look?
+
+   Make one and share the picture with us!
+
+  **Someone once told me...When you're going through rough times, make sure you eat well. And I should add: Eat well with family by your side.**
+
+   
+
+### 2/27/2019
+
+
+
+LME 35 <http://archive.aweber.com/ddm_membership/8Ya0J/h/Lesson_35_Quiz_Time_It_s.htm>
+
+Hi ,First of all: Happy Birthday, Mikey!! It’s my son’s FIRST birthday😊
+
+ Okay, let’s study!! Wednesday Words…a quiz!
+
+ Using the articles A, AN and THE are tricky. Confusing! Annoying!! But for native English speakers—using them is easy. We don’t even think about it. It’s natural. So, how can you LEARN how to use articles?
+
+Read and pay attention.
+
+Listen and pay attention.
+
+Use them and have a coach (teacher) tell you when you are wrong.
+
+If you are taking an English class—especially if you are in DDM or PIRF—start paying attention to every article. The only way to LEARN them is to figure them out.
+
+ANYWAY…it’s confusing☹ I know. But again, the ONLY thing you can do…practice.
+
+ So, here’s a short paragraph. I want you to insert the CORRECT article. Do your best. I will put the ANSWERS in the link below. I won’t explain the answers—YOU figure it out.
+
+ Choose the correct article (A/AN/THE) for each blank!
+
+
+           fairy-tale country of Liechtenstein is                   only nation to be located completely in         Alps. At 62 square miles,                     German-speaking microstate is “double-landlocked” between coast-less Switzerland and Austria.                          richest country in               world, Liechtenstein is                      constitutional monarchy led by Prince Hans Adam II, who rules                     population of about 38,000. You can join                  royal family and all their subjects for             beer in                gardens of picturesque Vaduz Castle every year for                 national holiday, Staatsfeiertag, on August 15.                    fair and fireworks follow                     celebration.
+
+The fairy-tale country of Liechtenstein is the only nation to be located completely in the Alps. At 62 square miles, the German-speaking **microstate** is “double-landlocked” between coast-less Switzerland and Austria. The richest country in the world, Liechtenstein is a **constitutional monarchy led by** Prince Hans Adam II, who rules a population of about 38,000. You can join the royal family and all their subjects for a beer in the gardens of picturesque Vaduz Castle every year for the national holiday, Staatsfeiertag, on August 15. A fair and fireworks follow the celebration.
+
+ 
+
+QUIZ TIME
 
 ### 2/28/2019
 
+LEM 36 <http://archive.aweber.com/ddm_membership/H4HnJ/h/Lesson_36_A_crazy_but.htm>
 
+**TO LEARN: ships, battleships, cruise ships, cargo ships, ship, shipping ships, the Blue Marlin**
+
+Sometimes languages can be fun. And today I’m going to show you one of those times!
+
+ What are these?
+
+
+They’re **vessels**—or more commonly—ships.
+
+What do ships do?
+
+- **Battleships** are used in war.
+
+- **Cruise ships** are used for tourism
+
+- **Cargo** ships are used for hauling things. Instead of “haul” we can also say “ship”. So, cargo ships ship things.
+
+
+To ship (to haul) means to MOVE something from A to B. We could call cargo ships shipping ships, right? Instead of “Cargo ships move things” we could say “Shipping ships ship things.”
+
+A ship that ships cars—we could call it a “car-shipping ship”. So, in the picture below we could say, “This vessel is **hauling a load of cars.**” Or, “This shipping ship ships cars”.
+
+
+A ship that ships coal—a coal-shipping ship. We could say, “**This vessel is hauling coal.**” Or, “This shipping ship ships coal.”
+
+
+What kind of ship do you think this is?
+
+
+It’s a ship-shipping ship!! It’s called the **Blue Marlin**. It ships ships and other HUGE things. Here it is shipping an oil drilling platform!
+
+
+Here’s your challenge! Can you DESCRIBE WHAT IS HAPPENING in this picture?
+
+
+Here’s the PRECISE sentence:
+
+**The Blue Marlin ship with a load of other cargo vessels is at sea moving its stuff.**
+
+But here it is again in a FUNNIER version!
+
+**A ship-shipping ship shipping shipping ships ships ships!**
+
+ A quick recap: ships, battleships, cruise ships, cargo ships, ship, shipping ships, the Blue Marlin
+
+ 
 
 - A memo (formal name memorandum) is a business document used for communication within a company or between two companies. Their purpose is to convey information in a relatively short but formal document which can be sent out to a number of relevant people. 
 - compose, constitute, comprise
 - 
+
+## March 2019
+
+### 3/1/2019
+
+LME 37 <http://archive.aweber.com/ddm_membership/MP7gJ/h/Lesson_37_Phrasal_Verb.htm>
+
+TO LEARN: call up, phone up, hang on, hang up, call back, hang up on SMO
+
+ Hi ,
+
+Phone-related phrasal verbs!! How many do you see in the little paragraph below?
+
+>  Today I called up my dad and as soon as he answered he said, “Hang on!” and then he hung up. Then he phoned me up and did it again! So, I called him back and told him NOT to hang up on me again!
+
+SIX!
+
+ Today I **called up** my dad and as soon as he answered he said, “**Hang on**!” and then he **hung up**. Then he **phoned** me **up** and did it again! So, I **called** him **back** and told him NOT to **hang up on** me again!
+
+ And those six phrasal verbs are SUPER common. We use them every day. I want you to use them, too.
+
+**To call up**: to call someone
+
+**To phone up**: to call someone
+
+**To hang on**: to wait
+
+**To hang up**: to end the phone call
+
+**To call back**: to call someone AGAIN
+
+**To hang up on SMO**: to end the phone call abruptly/rudely!
+
+ We use **UP** to “intensify” (strengthen/stress) the main verb.
+
+**ON** is used to imply “continuation” or “not stopping” the main verb.
+
+**BACK** means to “main verb AGAIN” 
+
+Make sentences using those verbs. Here are a couple more examples.
+
+- Today I **called up** my dad. I will **phone** him **up** again on Sunday.
+- While on the phone, I asked John to **hang on** because I needed to turn off the TV.
+- When I call someone, I usually **hang up** after it rings for five times.
+- My wife left a text message asking me to **call** her **back**.
+- Don’t **hang up on** me—it’s very rude.
