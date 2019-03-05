@@ -4046,3 +4046,29 @@ Make sentences using those verbs. Here are a couple more examples.
 - When I call someone, I usually **hang up** after it rings for five times.
 - My wife left a text message asking me to **call** her **back**.
 - Don’t **hang up on** me—it’s very rude.
+
+
+
+### 3/4/2019
+
+LME 38<http://archive.aweber.com/ddm_membership/2019/03>
+
+TO LEARN: spring ahead, Daylight Saving Time, DST, Standard Time, fall back, Summer Time, Benjamin Franklin
+
+ Hi , This Sunday it begins. Chaos! Many countries around the world CHANGE their clocks in the spring and fall—but the USA does it differently than most~
+
+We “**spring ahead**” in the springtime in the USA—it’s called **Daylight Saving Time** (**DST**)! The second Sunday in March is the time Americans change their clocks one hour ahead (spring ahead). And that allows us more time in the evening to enjoy the sunlight—we’re “saving” daylight!
+
+In November, the USA goes back to **STANDARD TIME**. The clocks go back. We “**fall back**” on first Sunday in November.
+
+In Europe—they call it **SUMMER TIME**. It begins on the last Sunday in March and ends on the last Sunday in October. Much easier to remember if you ask me~~
+
+The map below shows you three things. In red, the countries that **HAVE** Daylight Saving Time. In grayish-pink, countries that have **HAD** DST, but not anymore. And in dark gray, countries that have **NEVER** had DST.
+
+**Benjamin Franklin**—one of the USA’s Founding Fathers—**is rumored to** have created the idea of DST. He joked that people would save on candle-burning if they simply woke up earlier in the summer!
+
+Most history books will tell you that the Germans and Austrians were the first to use it in 1916. HOWEVER, a small town in Canada, what’s known today as Thunder Bay, was the first to use it back in 1908!
+
+**Does your country have DST? When does it start?** 
+
+A quick recap: **spring ahead,** **Daylight Saving Time****,** **DST****,** **Standard Time****,** **fall back, Summer Time, Benjamin Franklin**
