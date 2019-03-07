@@ -4072,3 +4072,86 @@ Most history books will tell you that the Germans and Austrians were the first t
 **Does your country have DST? When does it start?** 
 
 A quick recap: **spring ahead,** **Daylight Saving Time****,** **DST****,** **Standard Time****,** **fall back, Summer Time, Benjamin Franklin**
+
+
+
+
+
+### 3/6/2019
+
+When you're lost...
+
+the lighthouse keeps the light on for you.
+
+The lighthouse does a few things:
+
+1. It shows you where you are.
+
+2. It shows you where problems are.
+
+3. It guides you through tough places.
+
+4. It's a familiar friend.
+
+5. It gives you confidence.
+
+6. It's the first sight after a long journey.
+
+7. It's the last sight on the start of a journey.
+
+
+That is what I want to be for you.
+
+I want to be your English lighthouse. As you study English, YOU have to do the work. But I'll be there coaching you along the way. Like a lighthouse.
+
+
+
+- Happy birthday, Mikey. This February 27, 2019 , my grandson Jean is born. I am so happy.
+
+CONGRATULATIONS!!! And Mikey is REALLY happy to have a **birthday-buddy** in France!!
+
+I hope that Jean and Mikey **grow up to be tremendous men**. And Achille, too!! He has the extra important job of being **a big brother**. How lucky both guys are. How lucky YOU are, Nour-Eddine!!
+
+Hi happy DAD & MOM)))
+
+Happy birthday to your little son, Mikey!!!
+
+- **Hurray** Hurray Hurray!!!
+
+Oh I want to wish to my nephew and his mom and dad, first of all, to **be healthy and have a long happy life)!** 
+
+And my little boy Mikey:
+
+**M**- be a real Man!
+
+**I**- be Intelligent and have a very Interesting life
+
+**K**- be Kind
+
+**E**-  Easy-going
+
+**Y**- and stay always Young, no matter how old you are!  
+
+(this is advice for the future, when you'll be a 100!))))
+
+Have a GREAT DAY today and further)
+
+Gulya & Alex
+
+ 
+
+Hi Gulya! 
+
+Thank you SO much! The card is perfect and the **words of advice to Mikey--a treasure!!**
+
+**Our kids are growing up in the SAME generation. In different countries...but under the same stars!**
+
+I know that you and Alex are wonderful parents--my wife and I will do our best to be great parents, too!
+
+To our future!!
+
+ 
+
+ 
+
+***Coach Shane***
