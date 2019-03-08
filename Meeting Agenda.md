@@ -287,3 +287,20 @@ colnames(draws)<-c('wetland','pay','cc','nm','asc','dems18','costtax',
 
 - The parameters for observable heterogeneity should not be called "fixed parameters". They are individual specific parameters. In the Nlogit6 output, the name "fixed" means the means of these random parameters are fixed.   
 - How you might use the uncertainty of WTA at a specific location to say something about practices/locations which may be robust to cost assumptions?
+
+
+
+## March 2019
+
+### 3/6/2019
+
+Dear Committee,
+
+Thank you so much for allowing me to pass the general exam and giving me the opportunity to continue my study in the Ph.D. program! That really means a lot to me!! 
+
+I appreciate your precious time and invaluable feedback for my research proposal! In the next stage, I will follow the logic in the proposal to write up my thesis. Following your suggestions, I will dig deeper into the landowner survey data, learn more about the ecosystem services valuation,  and study the dynamic changes and conservation timeline issues!  The suggestions and feedback from all of you are treasures for me, so if you have any advice at any time, please let me know!
+
+Trevor, I hope you will get better soon!!
+
+Thank you so much again!
+

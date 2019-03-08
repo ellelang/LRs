@@ -4136,9 +4136,7 @@ And my little boy Mikey:
 
 Have a GREAT DAY today and further)
 
-Gulya & Alex
-
- 
+Gulya & Alex 
 
 Hi Gulya! 
 
@@ -4150,8 +4148,71 @@ I know that you and Alex are wonderful parents--my wife and I will do our best t
 
 To our future!!
 
- 
 
- 
 
-***Coach Shane***
+- LOL!!! You are my BIG BROTHER **when it comes to being** a father! And I absolutely LOVE your picture! I can't wait to teach Mikey how to shave!! I'll be sure to share a picture of that day!
+
+Your picture is FANTASTIC!! Thank you for sharing!
+
+- Thank you for your birthday wishes, Anita! Mikey received a few cards from relatives, but I must say; your card is the BEST! Why? Because it's **made for a one-year-old baby!** Mikey sees the card and he starts smiling right away!! Mikey says, "Thank you SO much, Auntie Anita!!
+
+
+
+Time to **hit the store!** February 27th was Mikey's birthday and it was COLD!! -17 Celsius! Fortunately, him and I are **polar bears** and we **THRIVE in the bitterly cold weather**. More COLD! More SNOW! More ICE! Just give us some hot chocolate, too! (Did you see that we have **matching shirts?! Black & Red checkered button-downs!)**
+
+I'm at a store called Menards. They sell EVERYTHING you can imagine when it comes to your home. **Building supplies, sinks, grass seed and food!**
+
+ And **birdseed**, too! Do you see WHO is **perched on** the top rack of the birdseed section?!!
+
+The little bird is living in the bird feed **aisle!** **What a genius!**
+
+Chili and cornbread. This is a HUGE thing in America. And my wife is a great cook. **Her chili is perfect (a bit on the spicy side) and her cornbread is amazing (not too sweet)**. But...the combination for me...Just so-so. I'm not sure why SO many Americans LOVE this food combination. Do you have some popular food combinations in your country? If so, PLEASE take some pictures and show us. **DON'T GOOGLE IMAGE!!**
+
+
+
+### 3/6/2019
+
+LME 40 <http://archive.aweber.com/ddm_membership/7f5E3/h/Lesson_40_See_Look_Look.htm>
+
+**TO LEARN: see, look, look at, watch**
+
+One of the BEST parts of DDM—answering my students’ questions. And a lot of their questions start with:
+
+**What’s the difference between…**
+
+And I absolutely LOVE those questions. I love to explain NOT ONLY the difference in meaning, but **the difference in nuance!** “Nuance” means HOW something is used or WHY one word is better than the other word.
+
+So, today, I have FOUR words (all verbs) for you—what’s the difference between them.
+
+**SEE** – to fill our eyes with! **Usually unintentional, sometimes intentional—something ENTERS your vision!** Also, it refers to your visual ability.
+
+- At night, I see the stars.
+- In the jungle, I see lots of green
+- I want to see a movie.
+- I can see very well.
+
+**LOOK** – to use our eyes
+
+- Don’t look—it’s a surprise!
+- Look! He’s running away!
+
+**LOOK AT** – to focus our eyes at something or someone
+
+- Look at my **fat tummy!**
+- Don’t look at the sun.
+- Are you looking at those women?
+
+**WATCH** – to LOOK AT something that is moving!
+
+- I’m watching TV. (the TV doesn’t move, but the images on the screen do)
+- I like watching sports.
+- **Watching my son grow is wonderful!**
+
+https://parmyproductionsllc.app.box.com/s/p8j1faw630k6bpj5y6ee3n4uql0gq5jr
+
+
+
+### 3/7/2019
+
+From our experience, Hugo’s documentation may be a little **daunting to read and digest** for beginners
+
