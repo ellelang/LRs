@@ -4216,3 +4216,120 @@ https://parmyproductionsllc.app.box.com/s/p8j1faw630k6bpj5y6ee3n4uql0gq5jr
 
 From our experience, Hugo’s documentation may be a little **daunting to read and digest** for beginners
 
+LEM 41<http://archive.aweber.com/ddm_membership/NCud3/h/Lesson_41_Common_SLOGANS.htm>
+
+It’s a slogan that EVERY American knows. It’s taught to children in elementary school by firefighters! It means:
+
+- **STOP**: if there’s a fire, STOP what you are doing!
+- **DROP**: if you smell smoke, DROP down to the floor!
+- **ROLL**: if your clothes are on fire, ROLL in order to put out the fire!
+
+**Slogans** are phrases that SOUND GOOD, are EASY to MEMORIZE and have an IMPORTANT MESSAGE. Slogans are **catchy**—
+
+- to be catchy means they are easily memorized and used.
+
+Here are a few more catchy slogans that most Americans know:
+
+Better safe than sorry! (Be SAFE at work!)
+
+Click it or ticket! (wear your seat belts!)
+
+
+Don’t be a fool, use the proper tool.
+
+
+When in doubt, check it out. (double check your medicines.
+
+
+Only YOU can prevent forest fires.
+
+
+Take a bite out of crime. (report crimes and criminals to the police)
+
+
+Friends don’t let friends drive drunk.
+
+
+Stop the texts. Stop the wrecks.
+
+- To wreck something means to completely destroy or ruin it. 
+  He wrecked the garden. 
+
+### 3/8/2019
+
+LME 42 <http://archive.aweber.com/ddm_membership/KC6u3/h/Lesson_42_Phrasal_Verb.htm>
+
+**TO LEARN: getting dressed, dress down, dress up, dress up SMT, dress SMO down**
+
+ Let’s talk about getting dressed. Wearing clothes.
+
+Lots of people in America love Fridays because it’s a chance to **dress down** even at work. To “dress down” means that you do NOT have to **wear the typical business suit or dress to the office**. You can NOT wear blue jeans and a t-shirt, but you can just wear slacks (dress pants) and a regular button-down shirt.
+
+Of course, Monday through Thursday you need to dress up, but on Fridays you can dress down.
+
+Since I work at home—I can dress down every day! Actually, the only day I dress up is when I go to church! When I do leave the house though, I dress up a little. Not a suit, but a nice pair of pants and a nice shirt.
+
+Did you know that you can also **dress up a resume?** You could dress up anything, actually! To “dress up” can also mean to “make something look nice/pretty”! Below, the resume on the left is “boring” but the resume on the right is much better—it’s dressed up!
+
+
+I dress up my Email lessons to you with different colors and pictures!
+
+And when I was in the army—I saw an entire group of soldiers get dressed down for running inside during the **national anthem**! Yes, to “dress someone down” means to YELL AT someone. In the military, when the national anthem is played, soldiers must stand at attention and **salute the US flag.**
+
+- salute: if you salute someone, you greet them or show your respect with a formal sign. Soldiers usually salute officers by raising their right hand so that their fingers touch their forehead
+
+
+Don’t worry, though, this usage of “dress down” is NOT common 😊
+
+ A quick recap: getting dressed, dress down, dress up, dress up SMT, dress SMO down
+
+
+
+- the exorbitant excise tax of 38%! 
+- **Prior to** admittance your driver license is scanned into their database and I can just imagine the **many prying eyes who may gain access to that information.**
+- Immediately we noted their local accents, which **sparked a conversation about** “where are you from?”. 
+- What was interesting is that Ed, while focusing in on this young woman’s speech patterns, **he had trouble placing from where she hailed….** New Hampshire, and interestingly, she intimated that when she first moved to Venice, she hated that people would frequently comment about her unusual New England accent. 
+- When I asked why, she exclaimed that she didn’t want people to think she was “a hick from the sticks”. I assured her that she did not present herself as an uneducated “hick”. 
+  - hick:  you refer to someone as a hick, you are saying in a rude way that you think they are uneducated and stupid because they come from the countryside. (INFORMAL) 
+- My memories of Venice Beach go back to a short stay I did in about 1977 – ’78. Venice to me was cool in some aspects, but so odd in many others. My memories include skate-boarders **in abundance** (not so common elsewhere at the time), people **dance-roller-blading**, serious muscle-builders showing off their weight-lifting **prowess** on the boardwalk, as well as freaky **hair-dos** and and **style of attire** that **were far ahead of their time**…..now these sights are almost universal around the country, especially in college towns. **California always the trend-setter.**
+  - prowess: [U] (formal) great skill at doing sth: academic / sporting / technical prowess ◆ He was complimented on his prowess as an oarsman.
+  - freaky: If someone or something is freaky, they are very unusual in some way. (INFORMAL) 
+    This guy bore a really freaky **resemblance to** Jones. 
+    ADJ-GRADED = weird, strange
+  - attire: [U] (formal) clothes: dressed in formal evening attire
+- One of the more **pleasant aspects** of re-connecting with Ed was to see an old friend who took his life and health seriously. **The results show a man, same age as me, in good health and content with where he is in life at the approach of the senior years.** I still surprise my self when I say things like “approach of senior years”! It is a pleasant optimism. Contrast to the growing list of old friends, many of whom were **mutual friends of Ed and I** back in the day, who didn’t make it to their sixtieth birthday. It was **refreshing** to reflect on **respective life choices** and **the relationship they have to longevity.** **Truth be told**, the **barrage of news** that so many old pals had passed in such a short period of time was a bit depressing.
+  - refreshing : You say that something is refreshing when it is pleasantly different from what you are used to. 
+  - respective life choice 
+  - truth be told
+  - barrage: ~ (of sth) **a large number of sth**, such as questions or comments, that are directed at sb very quickly, one after the other, often in an aggressive way: a barrage of questions / criticisms / complaints ◆ the media's barrage of attacks on the President's wife
+- I return to blogging and discover that in one of the recent WordPress updates the entire format has changed. I’ve not quite figured out how to get back to the previous set-up. Until then I am having trouble posting pictures within the articles. Hope I can figure it out, because I don’t care for this layout.
+
+
+
+It’s been two decades since I last visited the “*Golden State*” and even longer since I was on planet L.A. On my most recent trip I decided to change my travel route to Jinan, China. As regular readers know I have always **flown out of** Newark into Beijing, then high-speed train to Jinan….and **it is an arduous journey**, particularly at my age. There are now direct flights into Jinan from Los Angeles. I thought I would try this **route** and see if it would be more convenient to travel via L.A. on future trips. In terms of **avoiding the hassle of getting through Beijing**, skipping the **overnight hotel stay** and not having to take the train as the last part of the journey going to Jinan it should be easy. There is no doubt that **departing out of Jinan International is a breeze.** It is a small airport with very short lines and virtually **no waiting going through security before boarding.** However, getting to L.A. **as the first leg of the trip** is not without its own issues and going this route requires one over-night stay in a hotel in Los Angeles. There are a few benefits though…..More on that later.
+
+- arduous: Something that is arduous is difficult and tiring, and involves a lot of effort. 
+- hassle:  A hassle is a situation that is difficult and involves problems, effort, or arguments with people. (INFORMAL) 
+
+Some context to help understand **the dynamic of** America’s east coast -v- west coast competitive viewpoint, or is it **a clash of lifestyles**? As a native of the east coast, I had youthful dreams of *the Golden State* — Sunny beaches, **laid-back lifestyle,** fewer crowds, more modern cities, more youthful **populace**, etc. Conversely, some folks who grew up on the “*left coast*“, especially Californians, have aspirations of reaching their dreams in NYC – the competitive **hustle and bustle** of Wall Street, the Manhattan f**ashion scene**, and **some may be drawn to D.C.** if they are aspiring politicos. There is also **a sort of rivalry** between the two coasts related to **which place is nicer to live, more hip, less stodgy, etc.** It is important to point out that the demographics of the U.S. have **been in constant flux**, but generally speaking, starting with my generation, **there has been a massive flow of people from the northeast to the west-southwest.** California has **absorbed** much of that migration.
+
+In my youth, I couldn’t wait to get out of New Jersey. It was too crowded, **too restrictive in its political thinking, there was a sense that it lacked innovation, and more**. So, I moved west. I lived in Colorado, a state still **dear to my heart** in some ways – mostly **nostalgic**. I also lived and worked in Arizona, a very popular place for retirees seeking sunshine and long warm seasons, but summers are too damn hot for many who migrate there. Montana is another place **I was drawn to for its sheer wildness and rugged lifestyle.** Wide open spaces, plenty of good fishing and hunting and a **general attitude of the populace that it’s best to mind your own business.** Understandably though, many wealthy Californians have moved to areas of the Pacific Northwest and mountain states as part of the “white-flight” **away from the ghetto-ization of many areas in the “*Promised Land*“.** Sadly as Californians have emigrated to states like Washington, Oregon and Montana, they have demanded many of the government type services they received in California. This has **had an adverse effect on real estate costs, and worse, it has driven up property taxes.**
+
+For a very long time California has had a reputation for innovation, trend-setting **bordering on a bit of** **kookiness**…. **“*The land of fruits and nuts*”** (and we are not taking about agricultural products) is another nickname. In American politics there is a popular saying that **“*as California goes, so goes the nations.*”** This **comes from that trend-setting for which the state is known**. One example is the traffic law which permits turning right at a red light, after a stop. Across the nation, before the 1970s, the standard was that stopping at a red light meant that no one could proceed until the light turned green. **California amended that for the sake of creating better flow of traffic and it works well.** **Virtually** everywhere in the U.S. that “California standard” has **been adopted as an acceptable traffic rule – unless it is otherwise marked as prohibited.**
+
+Some of the more notable businesses and novelty products that originated in California; [Weatherby rifles](https://en.wikipedia.org/wiki/Weatherby), sailboats by [Hobie Cat](https://www.hobie.com/about-us/), surfing, skateboarding and [hoola-hoops.](https://en.wikipedia.org/wiki/Hula_hoop) The aerospace industry grew and developed in large part based in California, as well as the **boom in technology fostered within Silicon Valley.** And of course, the trend toward a more healthy life-style and the attraction to more outdoor activities like camping, biking and hiking were all popularized in California before they **caught on** in the nation and many other parts of the world. The state of California has also had it share of **odd-ball** ideas, particularly in recent years. They even elected [Jerry (“*Governor Moonbeam”*) Brown](https://en.wikipedia.org/wiki/Jerry_Brown), again, after a 28 year **hiatus**. While there remain strong **enclaves** of economic prosperity throughout California, there are also signs of societal **fraying at the edges.** I noted a tremendous number of **homeless encampments** as I **Uber*ed* around the city.** These various camps were not occupied by just a few **vagrants**, but, rather dozens and dozens of tents. Some under bridges, others on the **fringes** of the freeway or in industrial areas. **The signs of social disorder are showing in no small scale.**
+
+Another progressive move; California has now fully legalized cannabis for recreational use. They were not the first state to pass such legislation, though they were the first state to pass legalization of cannabis for medical use, quite a few years ago. **From the stink of the hotel hallway I think it is safe to say that business is booming in the herb industry!** Funny. It reminded me of visiting Amsterdam.
+
+Online and in the many shops selling cannabis there is an abundance of product variety; f**rom edibles, to concentrates, oils, cbd products for topical treatments to tinctures…and then there is the wide selection of just plain old herb.** From seeds to clones, or grams for personal consumption **all the way up** to pounds of weed with all the latest, **ass-kicking hybrid genetics**. It’s a beautiful thing! They even offer delivery on demand!
+
+Having now check-out the cannabis scene in Colorado and California, I think it is safe to say there is no putting this **genie** back in the bottle. I **concur with** the growing **sentiment** among those state’s inhabitants. The Feds are going to have to get on board. Ah! But there is still a lot of law on the books at federal level that does not recognize cannabis as anything other than a “Schedule I Drug” with no medical value. Additionally, the current Attorney General for the United States, Jeff Sessions is long-time drug warrior. Apparently, AG Sessions would rather chase after weed-smokers than look into the abundance of criminality surrounding the Clinton Foundation, William J. Clinton, Hillary R. Clinton, et.al.
+*Amended – 11/8/18 – It’s funny how things can change in just a week. The dearly loathed Jeff Sessions has tendered his letter of resignation and President Trump has accepted it. Perhaps the nation may move forward with more rational drug policy.
+
+Neither is the Fedgov amenable to people of free will exercising their cognitive abilities and disregarding the notion that the ***Almighty State*** knows what is best for their ~~chattel~~ …er, I mean citizens. This is where I get a little **foggy.** So how does this play out over time? Way back in the 1980s when California passed the nations first medical marijuana (cannabis) law, the Feds refused to recognize the state’s right to make such law. As expected they came in with very heavy hands (and boots) and put a lot of the early entrepreneurs out of business. So we shall see how it goes this time….my bet is they will see it all as **a new cash cow and look to take their cut of the action.**
+
+*Additionally amended – 11/8/18 – There are rumblings of Trump legalizing cannabis at the federal level! Wow! With Sessions gone from D.O.J. it could happen. I think it would be wise to allow happen and [here is an article from Reason Magazine](http://reason.com/blog/2018/11/07/its-time-for-congress-to-acknowledge-the) that makes the case for Congress to get with it.
+
+ 
+
+- chattel: Chattels are things that belong to you. (OLD-FASHIONED)  They were slaves, to be bought and sold as chattels.  N-VAR 
