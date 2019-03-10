@@ -4285,6 +4285,8 @@ Don’t worry, though, this usage of “dress down” is NOT common 😊
 
 
 
+### 3/9/2019
+
 - the exorbitant excise tax of 38%! 
 - **Prior to** admittance your driver license is scanned into their database and I can just imagine the **many prying eyes who may gain access to that information.**
 - Immediately we noted their local accents, which **sparked a conversation about** “where are you from?”. 
@@ -4333,3 +4335,292 @@ Neither is the Fedgov amenable to people of free will exercising their cognitive
  
 
 - chattel: Chattels are things that belong to you. (OLD-FASHIONED)  They were slaves, to be bought and sold as chattels.  N-VAR 
+
+
+
+### 3/10/2019
+
+- It was a big feast for our soul 
+  - feast : A feast is a large and special meal. 
+    Lunch was a feast of meat and vegetables, cheese, yoghurt and fruit, with unlimited wine. 
+    The fruit was often served at wedding feasts. 
+
+After the short visit with my old friend in Los Angeles, I **caught an overnight flight** direct to Jinan. It was cold and the air quality was quite bad when I arrived. The long flight always **wipes me out** and I need a day (at least) to **adjust to** the 13 hour time difference from home.
+
+Echo knew I was eager to have the delicious, local roast chicken from Mi Jia Chicken and I knew we had one more ticket to go before we got a free bird. I woke from an afternoon nap and was told the chicken would be delivered soon and rice and greens were almost ready. Wow, nice treat! And that order of chicken delivered was the 10th ticket = free chicken next time!
+
+I spent most of January in Jinan this year. Early in the month, we visited the Shandong Provincial Museum and our friend Jennifer was so kind to provide an English speaking tour guide. I was pleased when I discovered that this was the same guide who had given me a tour, **along with** some of Team Q members, about three years ago. You can read about that visit by following this link.
+
+One of the highlights of this visit to the museum was the **Exhibition of Unearthed Cultural Relics** from the Ming Mausoleum of Zhu Tan. It was interesting to see relics from this time period.
+
+- relic: an object, a tradition, etc. that has survived from a period of time that no longer exists: The building stands as the last remaining relic of the town's cotton industry. ◆ The pictures on the walls were relics from the days before her marriage.
+- Mausoleum: A mausoleum is a building which contains the grave of a famous person or the graves of a rich family. 
+
+Another exhibit showed the remains of Shandong Big Man.
+
+
+This fellow lived several millennia ago in what is now called Shandong Province. He measured over 185 cm. which is quite remarkable for that time period. Evidence of food abundance at that time in the ancient world.
+
+There was also an exhibition of mostly photographs **documenting the role of Chinese laborers involved in World War One.**
+
+The museum was the only cultural activity in Jinan this trip. We did try to walk after dinner several times each week, though air quality was a concern and face-masks were necessary.
+
+As part of my continuing **rehabilitation** from hip surgery, we initially had a plan to take a **side trip** to Thailand, but we **decided against that idea due to time constraints.** To fly to Bangkok from Jinan is about 5 hours (not including the time to get to the airport and through security checks). From Bangkok to the island of Phuket takes another 2 hour flight and then a ferry ride. Instead we had an extended weekend visit to Hainan Island. Hainan is a popular **resort area** in the South China Sea and only about 3 hours fly time.
+
+Returning to Jinan after our beach holiday, the air quality was so bad that our flight from Sanya was delayed 5 hours. The **cabbie** who drove us from the airport to the house reported that the day before all flights into Jinan were diverted to Qingdao. It really is **remarkable** when the air quality is so poor that visibility at the airport is **diminished to the degree** that planes can not land or **take-off**.
+
+
+I had a wonderful meal celebrating my birthday with Team Q members! During that dinner, our dear friend Judy graciously shared a short speech about the value of time. **It is far too easy to allow such a precious resource to slip away. Consciously use your time positively, productively and wisely. Time flies, but you are the pilot!**
+
+Another Spring Festival dinner celebration with Echo’s family and other meals with friends. I always enjoy getting together with family and friends in Jinan! Most of my students were preparing to take off and visit with family. **Attending to their filial duty** – to return home and **pay respect to family elders** continues as a **deeply rooted cultural requirement.** Before the **exodus** for the holiday, we did have time for a couple of games of scrabble with Team Q. And Hot-Pot lunch with the girls from Echo’s office, now **affectionately** referred to as Team Cute!
+
+- filial: (formal) connected with the way children behave towards their parents: filial affection / duty
+- exodus: ~ (from ...) (to ...) (formal or humorous) a situation in which many people leave a place at the same time: the mass exodus from Paris to the country in the summer ◆ The play was so awful that there was a general exodus from the theatre at the interval.
+
+
+The foundation of Hot-Pot is the broth. This one is seasoned with garlic cloves, whole dried dates, leeks and haw-berry.
+
+
+To the broth there are several ingredients added and cooked. A selection of **various fungi**.
+
+
+Thinly sliced meat, usually beef or lamb.
+
+The broth is brought to a boil and the various ingredients are added. Tofu, vegetables, noodles and almost anything can be put into the broth. Everything cooks in minutes and then each person at the table **scoops out their meal.**
+
+***
+
+**Stay tuned for upcoming articles** about a couple of side trips out of Jinan to Qingdao and Hainan Island.
+
+…Looks like **this year is off to a busy start!**
+
+- If cooking time is too long, the yolk egg looks gray-green. More importantly, the **ferrous ion** in yolk can produce chemical reaction with sulfur ion, forming sulfide ferrous brown **precipitate**. Thus it will **interfere with ion absorption.**
+- More importantly the information can also allow me some degree of **introspection**. 
+- My favorite picture from Sanya was the sunrise over Yalong Bay. From the low level **grayish clouds**, rising through yellow, with yellow-orange turning to orange-red, to **slate gray** above and finally a **bluish cyan.** **Such a soothing array of delicate hues.** Nice way to start the day!
+  - hue: (literary or technical) a colour; a particular shade of a colour: His face took on an unhealthy whitish hue. ◆ Her paintings capture the subtle hues of the countryside in autumn.
+     (formal) a type of belief or opinion: supporters of every political hue
+
+
+
+Instead of traveling more than 5 hours by air, to a beach resort in Thailand, we chose to visit the Chinese resort Island of Hainan. Only three hours of flying and **no hassle** with international customs. We had been told by a friend whose daughter attends university in Thailand that the customs lines in Thailand are very long and move very slowly.
+
+During our short stay the weather was pleasant, not too hot, but warm enough to **feel the heat of the sun even as a refreshing breeze blew in from the sea**. Water temperatures were comfortable in the pool and in Yalong Bay. January is the coolest month of the year, though the water temperature of the sea remains a constant 20C (68F) year round. Some folks prefer warmer water. I especially liked the layout of the hotel pool. It was a massive structure with 3 waterfalls and irregular shaped upper and lower pools surrounded by tropical plants. We **staked a claim** on a set of **lounge chairs** to relax in the sun.
+
+The view from the balcony of our room was lovely, especially in the early morning. I’m an early riser and I caught this pic at around 6:45.
+
+Sunrise on Yalong Bay.
+
+In the evenings we enjoyed a couple of walks along the beach. Sadly, cigarette smokers carelessly **snub their cigarette butts in the sand** and it makes for an **unsightly litter** on what would otherwise be a beautiful seaside beach. It is shameful that **inconsiderate people** can make a lovely resort area look **crappy**.
+
+During this trip we had a few unhappy food experiences. I am not a big fan of buffets for any meal, but the breakfast buffet was included as part of the hotel package we had booked and we had no luck finding better options nearby. On the first day at breakfast I noted that the **egg offerings** of boiled or fried were not appealing at all. It seems standard in China to fry eggs in too much oil and to allow the egg to brown/burn. I learned in my culinary education, which was heavily influenced by Classic French Cuisine, “any degree of browning is a degree of burning.” …..and I think it is fair to say that the French are recognized for having perfected the art of egg cookery.   The other option of a boiled egg was also overcooked in the extreme.
+
+The proper way to boil an egg; Start with fresh eggs. The eggs should be at room temperature. Place the eggs in a sauce-pot adequate for the task, add cold water to cover and plenty of salt to aid in peeling the shell. Cover with a lid, **place on the fire** and when the water begins to boil, **reduce the heat to simmer** and set a timer for 11 minutes (at sea level). When the eggs are done, quickly remove from the heat. Pour off the hot water and **run cold water over the eggs** for a few minutes. When they are cool enough to handle, peel and serve. The yolk of the eggs should be bright yellow. There should be no gray or green color around the yolk of the egg.   
+
+Here is a link from my beloved Culinary Institute of America to learn more about egg cookery.
+
+Apparently, no one knows this method in all the fancy hotels I’ve stayed throughout China, because every boiled egg I have seen has a gray-green looking egg yolk, indicating they have been cooked for probably 20 minutes or more….tasteless and dry. The next couple of days, my dear Lao Po **diligently** instructed the breakfast cooks on the proper way to scramble eggs with some green onions and a bit of cheese (my favorite) without burning them. She is so good! The rest of the buffet line was just **blah**. The selection of breads was boring. There was only one type of cheese. Much of the fruit was not **fully ripe**, which is a real pity given that we were in the tropics! And much of the hot food was not kept hot. Part of the problem is that none of the **chaffing dishes** had covers to retain the heat from the steam table. The other problem with uncovered serving dishes on a buffet line is one of **sanitation**. I find it particularly **unsettling** that many people in China do not cover their mouths when coughing or sneezing. This presents a serious health concern when it occurs near food. **Coughing and sneezing near uncovered food creates an opportunity for communicable disease to spread**….**everything from the current strain of influenza to Hepatitis or worse.**
+
+Another disagreeable food experience included a crab house where you select fresh seafood from the open-air market on the boardwalk nearby. Then you bring the fish to the restaurant and they will cook according to your preferences, along with some veggies and rice or noodles. Seemed like an interesting concept, right? It was not inexpensive, but unfortunately, the quality of preparation and the degree of cleanliness (plates, glasses and table area) **were both lacking.**
+
+Finally, on our last night, we tried a BBQ buffet at another hotel only to be entirely disappointed with that meal! Similar issues with cold food because it was left uncovered, poor selection and dirty dishes and tables.
+
+It is funny, **in an odd way**, to have so many unpleasant dining experiences on just one short holiday. We are usually pretty good at finding interesting and good quality places to eat, but this trip was bad luck in threes! **The tendency to critique food and service is something that comes from my years working in the Foodservice and Hospitality Industry.** Sometimes critical review can be **perilous** to an enjoyable dining experience or holiday **get-away.**
+
+- perilous: (formal or literary) very dangerous: a perilous adventure / journey
+
+Perhaps the lesson is that while it may be easier and slightly more convenient to book hotel plans with the big international chains, like Sheraton, Marriott, Hyatt, etc., experienced travelers may find better value in the less well known places- **off the beaten path.** It may take a bit more time and research to find such places, but the experience could very well turn out to be better all the way around. Lessons learned.
+
+- off the beaten path:  not known or popular with many people
+
+Based on the languages commonly posted on menus and hotel notifications, Sanya seems to **cater to** a mix of Russian, Korean and Chinese tourists. There were quite a few Russian couples and families with children staying at our hotel.
+
+- cater: ~ (for sb/sth) to provide food and drinks for a social event: [V] (BrE) Most of our work now involves catering for weddings. ◆ [VN] (AmE) Who will be catering the wedding? 
+
+
+
+Qingdao is a seaside city with a **thriving** deep water port. The port is ranked as the number eight busiest shipping port in the world!
+
+As a port city it has always **held strategic importance in terms of international commerce**. The city has also been **a point of contention between ambitious foreign powers**. In the early 20th Century, both Japan and Germany had gained interest and investment in Qingdao and the surrounding region, as explained in the following **excerpt** from Encyclopedia Britannica:
+
+“ In 1897 the German government, which had ambitions in this area, **dispatched a force to occupy Qingdao;** the next year it forced the Chinese government to pay an **indemnity** and to grant Germany a 99-year lease on Jiaozhou Bay and the surrounding territory, together with railway and mining rights in Shandong. Qingdao was declared a free port in 1899, and **modern port facilities were installed;** a railway was built to Jinan in 1904. **A modern European-style city was laid out, and a variety of industries were founded.** A branch of the **Imperial Maritime Customs** was established to control the trade of the coast as far south as the new port of Lianyungang in Jiangsu province. In 1914, when Japan declared war on Germany, **its prime purpose was the capture of Qingdao**; the port **capitulated** after a **blockade** in November. The Japanese continued to occupy the city until the Washington Conference of 1922, when the port was returned to China. During that period, however, the Japanese had built up a strong position, both in Qingdao itself and in the Shandong **hinterland**.”
+
+So while Qingdao was not exactly a colony of Germany, **there was substantial German influence in the early development of the city.** Today there remains evidence of that period in time **visible through much of the local architecture**……..While walking near the beach we even met and briefly chatted with a couple of Germans who were there to tour the city.
+
+For lunch after we arrived downtown from the train station, Echo found a Gramma’s Home restaurant and we went for their delicious **braised chicken!** This chicken is different than the **famed** roast chicken in Jinan. This chicken is braised and there remains a good amount of braising liquid in the bottom of the cooking vessel. The juice from the bird is delicious over rice! Nice find. We have enjoyed this restaurant chain since first eating in one in Beijing with Vivian and Julia. Service is fast, prices are reasonable and the food is good. **Follow the link above to read all the great reviews on Trip Advisor.**
+
+- famed: If people, places, or things are famed, they are very well-known. 
+
+
+Not the best weather for **sunbathing**! Maybe we can revisit in summer and catch these 3 cuties in their bikinis.
+
+Echo’s friend, Nikita met us after lunch and was kind enough to be our driver for the remainder of the stay.
+
+
+Morning had an opportunity to take her little Cookie to visit the sea for the first time in her 3 years of life!
+
+
+We found a greenhouse / coffee house. No one wanted coffee so late in the afternoon, but inside the greenhouse were **reminders of the flowers that will come in the warmer months.**
+
+Not surprisingly, the weather was cold and a bit windy. There was a group of men playing soccer on the beach, but the month of January is not really ideal for beach activities. I’m sure that during the warmer months this place would be **jam-packed** with Chinese visitors as well as many international tourists.
+
+**The daylight hours slip away quickly in January. Before we knew it the sun was setting and it was time to leave the beach.**
+
+The morning of our beach visit, we searched for a place that offered Western style breakfast. We found one around the corner from the place we were staying. **To my delight**, I share with you word of my very first scrambled eggs in China, cooked to perfection! Wagas was the name of the place –sounds like a Russian gas company, but the eggs were terrific and the breads were quite good too. Finally, someone in China **adept at** cooking eggs without burning them. I was so happy. I should have **snapped a pic,** but I was so excited I forgot.
+
+------
+
+Flying out of Beijing to JFK is not the usual way home from Asia for me.  Newark International is the easiest major airport to access when traveling internationally.  I am told that Philadelphia is easy access for folks in NEPA also, though I’ve never flown out of Philly.  
+
+Our plan was to arrive JFK and spend a day and a half in Manhattan with Lily and family doing a few **NYC highlights; museums, sightseeing, dinner, etc.** Unfortunately, I was not feeling well before I left China. Then, **adding in the marathon of getting up on the day of travel at 4:30 AM to take a taxi to the train station, high-speed train to Beijing, then taxi to the airport and fly 14 hours and a dozen time zones (without eating anything during the flight), I was tired and irritable by the time we checked into the hotel….and very hungry.** We all hurried out to catch a taxi to have some of the famous chicken at[ Pio-Pio’s](https://www.piopio.com/locations/upper_west_side.html). The chicken and potatoes saved me from starvation but by morning I hadn’t slept well and I was still exhausted. Knowing that my own bed was just a mere two hours away, I simply wanted to get there and sleep. And so we did….**.but not without some difficulties with respect to getting out of Manhattan**.
+
+We set out from the hotel by taxi to PABT. Shortly after we arrived, it was discovered by one member of the party (not me!) had …hmm misplaced a cell phone. Fortunately, the iPhone feature of “*Find my phone ”* came in to play. The individual who had lost their phone called and discovered that a very kind person found it in the back of the cab. So, now the excitement begins, as we must find a man named Joe somewhere near East Central Park walking his mother’s dog and carrying the missing iPhone! This was achieved at some expense involved in taxi fare **to and fro**, but the honest citizen, Joe in NYC refused to accept a **C-note** for his kindness…..thereby elevating him to an even more noble status. Thank you, Joe!
+
+- to and fro: **in one direction and then in the opposite direction:**
+- C-note: A one-hundred dollor bill. C stands for "centum" the Latin word for 100. The word "note" actually come from the bill it's self. 
+
+Ah, but our adventure to leave Manhattan was only beginning. We returned by taxi to PABT to catch the next bus home. Tickets for the 8:30 AM bus to DWG, we waited, boarded at 8:20 and off we went…only to get stuck in a traffic jam, **due to an apparent car crash blocking the [LincolnTunnel](https://en.wikipedia.org/wiki/Lincoln_Tunnel).** The driver had no choice but to **head way downtown to** the [Holland Tunnel](https://en.wikipedia.org/wiki/Holland_Tunnel) and this resulted in an added 60 minutes to what had become the*escape from Manhattan!*
+
+Later, after we were halfway across the **swamps** of Jersey, the driver **encountered another traffic jam** in the vicinity of Routes 280 and 46. Fortunately, the driver **was knowledgable of the local road system and asked for a passenger vote on a couple alternate routes.** We all agreed to keep the **bus rolling**. Due to the first traffic jam it was clear that we would be arriving at our destination more than an hour later than scheduled. Yes, keep rolling. Please.
+
+- swamp
+
+  If you are swamped by things or people, you have more of them than you can deal with. 
+  He is swamped with work. 
+  The railway station was swamped with thousands of families trying to flee the city. 
+
+I was disappointed that I didn’t have a chance to spend time with Lily and her family, but **I would not have been very good company in such a fatigued condition.** Next time, Lily!
+
+*FOR ANYONE PLANNING A TRIP TO NYC*
+
+Here are a few places well worth visiting during a trip to New York City; 
+
+The top recommendation I offer for any visitor to NYC is the Metropolitan Museum of Art. You can read about the [MET here](http://english-speak-english.com/the-met-sculpture-garden/), and[ here](http://english-speak-english.com/met-sculpture/), an[d here](http://english-speak-english.com/a-day-trip-to-nyc/) and [here](http://english-speak-english.com/ugolino-sons/)….. The collection is extensive and impossible to absorb all in one visit, but i**t is a terrific introduction to the world of art and culture available in the New York Metro area.** 
+Go here for info[ about Manhattan ](http://english-speak-english.com/manhattan-island/)with good links for transit info.
+
+Across [Central Park ](http://english-speak-english.com/central-park-new-york/)to the west is an easy walk to find the American Museum of Natural History
+[Hayden Planetarium](https://www.amnh.org/our-research/hayden-planetarium) is around the corner. I believe these two attractions are must see places if you have kids / teens.
+
+- planetarium: A planetarium is a building where lights are shone on the ceiling to represent the planets and the stars and to show how they appear to move. 
+
+[MoMA ](http://english-speak-english.com/moma-and/)is another popular destination if you are a fan of Modern Art. It’s a small museum and gets crowded early. Grand Central Station is not far away and worthy of exploration. In fact, all of the places mentioned above are within walking distance (weather permitting).
+
+Lunch or dinner choices are abundant within all budgets and interests in taste. If you are using a smart phone while traveling, get on TripAdvisor, read some reviews and you can usually find something to like.
+
+
+
+------
+
+January in Jinan is a little bit warmer than here, so it was better for my hip **mending** to avoid the **extreme cold of a Pocono winter.** Away I went, but not before shutting down the house water and heating systems. Turning off the water-heater saves a lot of money on the electric bill, as does keeping the heat at lower temperature. When there isn’t anyone staying in the home, I can leave the room temperature set around 45 degrees Fahrenheit. This room temperature would be very uncomfortable if I were home, but while I am away, as long as my water pipes don’t freeze everything should be good. As an extra precaution I also shut off the main water flow into the home. I had three taps open while I shut off the water. This should be sufficient to drain most water out of the pipes. Probably one of the worst things to happen while away, **a burst water pipe can result in major water damage in the home. Taking a small precaution like shutting off the water could save thousands of dollars in repairs.**
+
+Turning on again:
+
+After turning the power back on for the water heater and the major appliances the house began to warm. It takes about an hour to fully warm the hot water tank. Electric heat is simply a matter of flipping on a breaker switch. Electric baseboard heaters are quick to warm the house. They do tend to get a bit dusty. Turning on my main water supply from the well on my property requires that I climb down under the house and **hunker across the cellar floor** for about 15 yards. There, to flip the lever and listen for the flow of water returning through the pipes and on to the **faucets** and shower heads that I left open. Whoosh! All systems go. Now it’s just a matter of letting water run to get any sediment out of the dormant pipes and wait for the heat to take effect.
+
+- dormant: not active or growing now but able to become active or to grow in the future: a dormant volcano ◆ During the winter the seeds lie dormant in the soil.
+
+The car was kept inside the garage – unheated but protected from rain, **sleet** and snow. It started right up after one month of not running. That’s always a welcome sound.
+
+Now, back to my regular schedule. **Hoping the finals weeks of winter go out gently. So many details to get working on. From garden planning, house cleaning, follow-up new business opportunities and more. Happy to be home after a hectic schedule for nearly a month and a half.**
+
+- hectic: A hectic situation is one that is very busy and involves a lot of rushed activity. 
+
+------
+
+Go here for [Lesson I](http://english-speak-english.com/a-new-feature/), and here for [Lesson II](http://english-speak-english.com/special-difficulties-lesson-ii/)
+Special difficulties
+Lesson III
+
+A)  Made in, Made of, Made from, Made by
+
+**Made in** (a country) It was *made in* Japan.
+
+**Made of** (a material) The tea pot is *made of* silver.
+
+**Made from** (a number of materials) Glass is *made from* sand and lime.
+
+**Made by** (someone) This cake was *made by* my sister.
+
+B)  In each sentence, **be** combines with a different adverb.  Each combination has a different meaning.
+
+He *will be away* for two months.
+I’m going out now.  I w*ill be back* at four o’clock.
+If anyone telephones, tell them *I’ll be out* all day.
+Call me tomorrow.  I *will be home* all day.
+She is in a bad mood.  It’s best to *leave her be*. (Do not disturb)
+
+------
+
+### Dictionary result for grammar
+
+/ˈɡramər/*noun*
+
+1. the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and **morphology** (including inflections) and sometimes also phonology and semantics. Synonyms: syntax, rules of language, morphology, semantics
+   - a particular analysis of the system and structure of language or of a specific language.
+   - a book on grammar. plural noun: **grammars**“my old Latin grammar”
+   - a set of actual or presumed prescriptive notions about correct use of a language. “It was not bad grammar, just dialect.”
+   - **the basic elements of an area of knowledge or skill.”the grammar of wine”**
+   - COMPUTING a set of rules governing what strings are valid or allowable in a language or text.
+
+Well, I never intended to use this blog as a tool for teaching grammar, but grammar is important and in the interest of helping you, dear reader, to [improve you can follow this link ](https://nationaldaycalendar.com/national-grammar-day-march-4/)on a regular basis.
+
+Go here to learn some “[Quick and Dirty Tips](https://www.quickanddirtytips.com/education/grammar/grammar-girls-editing-checklist)” from Grammar Girl. The following link will inform you of [who else is celebrating](https://www.quickanddirtytips.com/see-whos-celebrating-national-grammar-day) National Grammar Day.
+
+Here’s a link to help grow your vocabulary – [Word of the Day](https://www.dictionary.com/e/word-of-the-day/).
+Finally, this link to [Grammarly: Free Writing Assistant](https://www.grammarly.com/). It’s a cool app that can help you to improve your writing.
+
+------
+
+I*f you want to live a happy life tie it to a goal not to people or things*.
+**Albert Einstein**
+
+Who knew there were [81 TED talks on motivation](https://www.ted.com/talks?topics%5B%5D=motivation)? Now you do!….and plenty of articles about what it is and [how to scientifically maximize it](https://jamesclear.com/motivation).
+
+**Motivation**  
+
+If honesty is to prevail, it is important to admit 
+that a lack of motivation can cause one to quit.
+Sometimes it may be due to circumstances beyond our control. 
+Yet it is hard to argue with anyone whose virtues extol.
+
+- extol: If you extol something or someone, you praise them enthusiastically. 
+  Now experts are extolling the virtues of the humble potato. 
+  They kept extolling my managerial skills. 
+  VB 
+
+Other times it may be hampered by the weather.
+It’s best to start and never say never.
+It can be the hardest thing to find even if you don’t procrastinate.
+Yet often times we say it can wait.
+
+Then, there may be times when it simply can not be found.
+It can come and go, like the **turning of the tides ebb and flow .**
+Now and again and from time to time, it may be high or sometimes low.
+It can be **too many irons in the fire** or not enough to inspire.
+**No one can give it to you. It comes from within.**
+It has everything to do with choices, goals and priorities.
+And when you find it you may grin.   
+
+Here is a [very good link to learn about how to start an exercise program and stay motivated.](https://www.helpguide.org/articles/healthy-living/how-to-start-exercising-and-stick-to-it.htm)
+
+I’ve had some trouble getting motivated to **resume my exercise program** since returning from travel. One thing I have found to be true is on the days when I have low motivation, but I push myself to go and work-out anyway, I always come back **feeling better both physically and mentally.** So I encourage anyone to keep going. And remember; No pain no gain!
+
+------
+
+Wondering. We all do it. The two songs are interesting contrasts to **ponder**. The musings in the first song speak of youthful love. Simplicity, idealism and a sense of ease. **A curious feeling of wonderment at what the future may hold.**
+
+- ponder: If you ponder something, you think about it carefully. 
+  I found myself constantly pondering the question: 'How could anyone do these things?'. 
+
+Contrast to the revisiting of the same musical tune, yet with more **foreboding** lyrics and written years later.
+
+- foreboding: Foreboding is a strong feeling that something terrible is going to happen. 
+  His triumph was overshadowed by an uneasy sense of foreboding. 
+
+Thoughts of a future in which o**ver-population, environmental degradation, government corruption, cultural decay have brought a darker world reality than that seen through eyes of youthful dreaminess.** Perhaps a **metaphor** representing the maturing relationship and the stresses of the outside world, not so ideal, have tested love that was once young and innocent. The relationship **endures the trials** of life’s reality. Wondering will a child be **conceived**. **In spite of the challenges and difficulties the relationship suffers / the troubles facing the world, there is always a ray of hope**. The wish to have an opportunity to **procreate**, to teach. It is an **instinctive drive** among all animals. **The chance to dream of a brighter future is an element of humanity that sometimes needs particular care and attention. For without the cultivation of dreams and some element of hope life can be quite dark at times.**
+
+- endure:  (written) to experience and deal with sth that is painful or unpleasant, especially without complaining. Synonym: BEAR
+  [VN] They had to endure a long wait before the case came to trial. ◆ She could not endure the thought of parting. 
+- trial: A trial is an experiment in which you test something by using it or doing it for a period of time to see how well it works. If something is on trial, it is being tested in this way. 
+  They have been treated with this drug in clinical trials. 
+  I took the car out for a trial on the roads. 
+
