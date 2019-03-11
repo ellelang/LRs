@@ -4550,7 +4550,7 @@ She is in a bad mood.  It’s best to *leave her be*. (Do not disturb)
 
 ------
 
-### Dictionary result for grammar
+grammar: 
 
 /ˈɡramər/*noun*
 
@@ -4624,3 +4624,75 @@ Thoughts of a future in which o**ver-population, environmental degradation, gove
   They have been treated with this drug in clinical trials. 
   I took the car out for a trial on the roads. 
 
+
+
+------
+
+DDM 184:
+
+- Loyalty:to STRONGLY support/follow/get behind someone/something
+
+- To any one ~: to any single/particular ~
+
+- Hard  to  justify:  difficult  to  make  a case   for,   difficult   to legitimize
+
+- Rooting for ~: cheering for, backing
+
+Get right down to it: get down to the main point/fundamentals, look at the root(s)
+
+To beat: to defeat
+
+Having  trouble  VERB+ing:  having  a  hard  time  doing  something,  having  a difficult time accomplishing something
+
+Getting rid of ~: passing off ~, selling ~, giving away ~
+
+Super  Bowl:  American  football’s  championship  game.  This  year  it  will  be February 1, 2015. The game is always held on a Sunday.
+Row  F:  that  would  be  the  6throw  up  from  the  field—very  close  to  the  game; excellent (and very expensive) seats
+
+**Hobnobbing**: to hang out with “rich”or “elite”people (people “better”than you)
+
+Canadian football: similar to American football, but not as good!
+
+Airfare: the cost of airplane tickets
+
+Sleeping  arrangements:  how  people  are  to  sleep.  We  also  talk  about  seating arrangements. I’ll explain in the Explanation Video!
+
+Depressing: makes me depressed, saddens/stresses me
+
+Crashing: going to a private party without being invited
+
+Gals: girls, ladies, women
+
+conquest: 
+
+Out  on  the  town:  enjoying  the  town  (shopping,  eating,  having  coffee,  etc.) spending money
+
+Gabbing: talking, chatting
+
+Getting a makeover: getting a professionally done make-up and hair job. Women often have a makeover on their wedding day. They usually look like someone else~
+
+How can I thank you?!: I can’t thank you enough, thank you SO much
+
+A  label  maker:  a  machine  that  makes  label  stickers  with anything you want printed on them
+
+Risk: a popular board game...yes, it is a game of “world conquest”!
+
+**Tamper with ~: bother ~, mess with ~, touch ~**
+
+Switzerland:  Switzerland  was politically  neutral in WWI and WWII.
+
+Engaged in ~: to actively participate in something (usually a fight or a competitionor a debate)
+
+**Epic:** spectacular, amazing, awesome
+
+Struggle: battle, fight
+
+World domination: control over the world
+
+Winner-take-all: the winner gets everything (the loser gets nothing!)
+
+Don’t look at me: don’t accuse me (of being untrustworthy)
+
+Fall out: leave (a military expression telling the soldiers that they can leave (for the day))
+
+- brush up speaking on my own, though.

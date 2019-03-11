@@ -1813,3 +1813,17 @@ In contrast, in a Poisson process with a mean rate of one event every 10seconds 
 Example of exponential distribution
 
 https://courses.lumenlearning.com/introstats1/chapter/the-exponential-distribution/
+
+
+
+## March 2019
+
+### 3/10/2019
+
+```latex
+@misc{cnm6,
+title = {6 Cleaning Products You Should Never, Ever Mix},
+howpublished = {\url{https://www.goodhousekeeping.com/home/cleaning/tips/a32773/cleaning-products-never-mix/}},
+note = {Accessed: 2019-03-09}}
+```
+
