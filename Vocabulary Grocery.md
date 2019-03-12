@@ -4696,3 +4696,47 @@ Don’t look at me: don’t accuse me (of being untrustworthy)
 Fall out: leave (a military expression telling the soldiers that they can leave (for the day))
 
 - brush up speaking on my own, though.
+
+
+
+### 3/11/2019
+
+LME 43 <http://archive.aweber.com/ddm_membership/Bu3F3/h/Lesson_43_Luck_of_the_Irish.htm>
+
+America has a special day coming up. By the name of the day, you might not think it’s American…but trust me! America, especially the younger people (college-age and up) LOVE this day.
+
+
+This is considered an Irish holiday—relating back to St. Patrick who, among other great things, **is rumored to have gotten rid of ALL the snakes in Ireland.**
+
+
+But it has been much more popular in the USA than Ireland. Well, more popular NOT because of its **Catholic roots,** but because of a few other reasons:
+
+We can watch a parade!
+We can make everything green—that’s Ireland’s national color! We even turn our rivers green~
+
+We can wear GREEN! And don’t forget your **shamrocks!**
+
+- The Shamrock:
+  - This is a symbol of Ireland, it is called a Shamrock or a clover
+  - It has religious significance as St. Patrick used it to teach people about religion
+  - A four leaf Shamrock is called a 4 leaf clover and is supposed to bring luck to whoever finds one.
+
+
+We DRINK a lot of green beer, Irish whiskey and Guinness!
+
+
+Yes, it’s a party holiday in the USA—and there will be a LOT of green beer drinking, green shirt wearing Americans **this coming Friday and Saturday…and a few on Sunday**, too!
+
+St. Patrick’s Day is March 17th of every year. You don’t have to be Irish to celebrate it—just be full of happiness and wish everyone the BEST of LUCK!
+
+- May your pockets be heavy and your heart be light,
+
+  May good luck pursue you each morning and night,
+
+  Happy Saint Patrick's!
+
+
+
+
+A quick recap: St. Patrick’s Day, St. Patrick, snakes, parade, green, shamrock, Guinness
+
