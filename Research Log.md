@@ -1827,3 +1827,41 @@ howpublished = {\url{https://www.goodhousekeeping.com/home/cleaning/tips/a32773/
 note = {Accessed: 2019-03-09}}
 ```
 
+
+
+### 3/13/2019
+
+Hugo academic theme https://themes.gohugo.io/theme/academic/
+
+- Files at  C:\Users\langzx\Desktop\exampleSite\content\home: set up the pages!'
+- Post folder  at C:\Users\langzx\Desktop\exampleSite\content:
+- In the "Post" folder,  C:\Users\langzx\Desktop\exampleSite\content\post, each folder is a post
+  - Poster 1: "Getting-started" : C:\Users\langzx\Desktop\exampleSite\content\post\getting-started
+  - Poster 2:  "Jupyter" : C:\Users\langzx\Desktop\exampleSite\content\post\jupyter
+
+- In the "Poroject" folder, C:\Users\langzx\Desktop\exampleSite\content\project, each folder is a project
+  - Project 1: "Internal-project"  C:\Users\langzx\Desktop\exampleSite\content\project\internal-project
+  - Project 2: "External-project"  C:\Users\langzx\Desktop\exampleSite\content\project\external-project
+
+- In the "publication" folder C:\Users\langzx\Desktop\exampleSite\content\publication, each folder is a publication
+  - Publication 1 "clothing-search": C:\Users\langzx\Desktop\exampleSite\content\publication\clothing-search
+  - publication 2 "person-re-id" : C:\Users\langzx\Desktop\exampleSite\content\publication\person-re-id
+
+- In the "tutorial" folder, each "xxxx.md" file are the pages
+
+- To set the menu, edit the "menus.toml" at 
+
+  C:\Users\langzx\Desktop\exampleSite\config\_default
+
+  - To add pdf, copy your resume/CV to `static/files/cv.pdf` and in the "menus.toml" add: 
+
+    ```
+     [[main]]
+     name = "CV"
+     url = "files/cv.pdf"
+     weight = 70
+    ```
+
+    
+
+  

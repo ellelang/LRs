@@ -4896,3 +4896,76 @@ Daddy's eating **calzones** and Mikey LOVES watching the **stringy cheese!** Mik
 Oh, calzones are NEW for me! We learned about them in DDM, too!! You really should join us!
 
 It will CHANGE your LIFE in SO MANY WAYS!
+
+
+
+### 3/13/2019
+
+LME 45 <http://archive.aweber.com/ddm_membership/N5aL3/h/Lesson_45_USA_English_and.htm>
+
+TO LEARN: hood, bonnet, trunk, boot + 10 MORE!
+
+ 
+
+In our current DDM lesson (#557), we studied the word HOOD and carburetor. Two common words regarding cars, right?
+
+- Hood
+- carburetor
+
+We ALL should know what HOOD means, but carburetor is more technical—you don’t really need to know that word. It’s a part of the engine—if you like cars, though, you should know it!
+
+We talked about this AND many more in the lesson. If you are NOT a member yet, JOIN. I'm having a super special LUCKY sale right now.
+
+Back to HOOD. That’s the metal part that covers the engine, right?
+
+
+But wait a minute…in the UK, they say something different! They call the hood a **BONNET!** In the US, a bonnet is for a little girl!
+
+
+It gets crazier.
+
+What’s the “back” of the car called—the place you can open and put a suitcase or maybe find a **spare** tire?
+
+- spare: You use spare to describe something that is not being used by anyone, and is therefore available for someone to use.
+
+
+In the US, we call it a trunk. But those crazy Brits—they call it a boot! In the US, a boot is something that you put on your foot!
+
+
+British English and American English have a LOT of differences! Learning them can be fun… BUT it could really cause problems for ESL learners, too. If you ask me, American English is SO much easier AND logical when compared to British English!! But what do you think?
+
+
+Here’s a small quiz focusing on CARS and driving and streets. You must choose the word that is common in the USA, not the UK! Okay?
+
+https://parmyproductionsllc.app.box.com/s/f3ve9dsnv3olvpcbcwqffiutbhlxqg3l
+
+My engine died and I had to call a _______. It cost me over $100!
+breakdown truck   B. **tow truck** (If one vehicle tows another, it pulls it along behind it)
+
+Be sure to use the _______ when you are crossing the street, okay?
+**crosswalk**               B. zebra crossing
+Fill your tank with _______. I did yesterday and it cost me almost $40.
+petrol                     B**. gas**
+You can park your car in the _______ across the street. It’s free.
+car park                  B. **parking lot**
+I think a kid’s first car should be a _______. Why waste a lot of money on a new one?
+banger                    B. **junker** (used car)
+I live at the end of a _______, so there’s NO traffic noise. I love it.
+**dead-end**                B cul-de-sac
+_______ is always a problem during New Year’s Eve. Don’t do it.
+Drink driving         B. **Drunk driving**
+I hate driving close to those giant _______. I get scared~
+**18-wheelers**           B. juggernauts (A juggernaut is a very large truck. (mainly BRIT) )
+I rarely _______ slow drivers anymore. As I get older, I realize that I’m **in no hurry of getting to my final destination!**
+**pass**                        B. overtake
+Walk through the _______ if you want to get to the other side of that busy street.
+subway                   **B. underpass**
+
+
+A quick recap: hood, bonnet, trunk, boot, + 10 MORE!
+
+ 
+
+JOIN us and start mastering your English speaking! Take advantage of BOTH DDM (our listening class) and PIRF (our speaking class). Our LUCKY sale ends on SUNDAY.
+
+ 
