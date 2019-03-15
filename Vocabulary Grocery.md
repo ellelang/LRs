@@ -5017,3 +5017,11 @@ That means “shut up”! Your mouth is a hole…it’s a hole where you can put
 
 Which PIE idiom is your favorite?! And just a reminder—I have a **SWEETIE PIE** deal for you! Join both **DDM & PIRF** for an amazing price. 
 
+
+
+### 3/15/2019
+
+- legitimate
+- epistemic
+- 
+
