@@ -4696,3 +4696,276 @@ Don’t look at me: don’t accuse me (of being untrustworthy)
 Fall out: leave (a military expression telling the soldiers that they can leave (for the day))
 
 - brush up speaking on my own, though.
+
+
+
+### 3/11/2019
+
+LME 43 <http://archive.aweber.com/ddm_membership/Bu3F3/h/Lesson_43_Luck_of_the_Irish.htm>
+
+America has a special day coming up. By the name of the day, you might not think it’s American…but trust me! America, especially the younger people (college-age and up) LOVE this day.
+
+
+This is considered an Irish holiday—relating back to St. Patrick who, among other great things, **is rumored to have gotten rid of ALL the snakes in Ireland.**
+
+
+But it has been much more popular in the USA than Ireland. Well, more popular NOT because of its **Catholic roots,** but because of a few other reasons:
+
+We can watch a parade!
+We can make everything green—that’s Ireland’s national color! We even turn our rivers green~
+
+We can wear GREEN! And don’t forget your **shamrocks!**
+
+- The Shamrock:
+  - This is a symbol of Ireland, it is called a Shamrock or a clover
+  - It has religious significance as St. Patrick used it to teach people about religion
+  - A four leaf Shamrock is called a 4 leaf clover and is supposed to bring luck to whoever finds one.
+
+
+We DRINK a lot of green beer, Irish whiskey and Guinness!
+
+
+Yes, it’s a party holiday in the USA—and there will be a LOT of green beer drinking, green shirt wearing Americans **this coming Friday and Saturday…and a few on Sunday**, too!
+
+St. Patrick’s Day is March 17th of every year. You don’t have to be Irish to celebrate it—just be full of happiness and wish everyone the BEST of LUCK!
+
+- May your pockets be heavy and your heart be light,
+
+  May good luck pursue you each morning and night,
+
+  Happy Saint Patrick's!
+
+
+
+
+A quick recap: St. Patrick’s Day, St. Patrick, snakes, parade, green, shamrock, Guinness
+
+
+
+### 3/12/2019
+
+LME Tuesday magazine <http://archive.aweber.com/ddm_membership/7xUG3/h/Tuesday_s_English_Magazine_.htm>
+
+
+
+Divide and conquer.
+
+- conquer ['kɒŋkə]: If one country or group of people conquers another, they take complete control of their land. 
+
+It's a very effective strategy in WAR and POLITICS.
+
+Divide the soldiers, you weaken them. Divide the people, you weaken them. Then you attack. 
+
+But most of us are NOT fans of war or politics, right? I'm not! 
+
+But still, "divide and conquer" can be useful.
+
+When I want to TEACH something, I use a "divide and conquer" strategy. I do that in DDM and PIRF.
+
+In DDM, I divide English into THREE parts:
+
+Sentence analysis (phrases, idioms, phrasal verbs, grammar)
+Pronunciation of Americans (native speakers)
+Nuance (culture, history, background information)
+
+- nuance: a subtle difference in meaning or opinion or attitude
+
+In PIRF, I divide English into FOUR parts:
+
+Pronunciation (Perfect American pronunciation)
+Intonation (sentence stress)
+Rhythm (speed, volume, pauses)
+Flow (speaking from "heart" not "head")
+
+I divide my classes...THEN
+
+I have my students ATTACK.
+
+And together...
+
+We CONQUER!
+
+
+
+- Hi Coach!
+
+  How are you doing?
+
+  Recently I went with my sister to a beagle get-together! It's an event which takes place every weekend. It helps the dogs  **blow off some steam**. The beagles are super stoked--they run around, play and sometimes argue with each other.
+
+  - blow off: to refuse to take notice of, honor, or deal with : IGNORE <decided to blow off two billion viewers ― Harry Homburg> b : to end a relationship with 
+  - steam:  If you run out of steam, you stop doing something because you have no more energy or enthusiasm left. (INFORMAL) 
+
+  After two hours of that madness, they're dead tired!
+
+Me and Glock. My sister also has a cat - Uzi. Glock and Uzi have been raised together since they were little. Glock jumps on furniture (or tries) together with Uzi, and Uzi goes outside for a walk together with Glock.
+
+I tried to talk her into naming them Smith and Wesson, but she didn't agree. Bummer...
+
+Hi Darek! 
+
+Easy--just get two more dogs. Or some combination. Boom! Smith and Wesson!! Also, Glock and Uzi are EXCELLENT names!
+
+I LOVE beagles. My grandpa had one when I was little. I don't remember his name, but it was when I was about 4 years old. Even back then, he was a really old dog. But so sweet!
+
+Did you train Glock? And do Glock and Uzi really take walks together?!! On a leash?!!!
+
+
+
+- Hi Shane
+
+  My city of birth is Tlemcen. It is an Algerian city which has been around even long before the Roman conquest in 32 AD. The interesting thing, despite it being in Africa and near the Mediterranean, every year it snows there!
+
+  Unfortunately, I don't have any pictures to share, but I found some recent pictures of the city and the surrounding area on the internet--lots of snow! It’s not your kind of snow, but it's still African snow.
+
+Hi Nour-Eddine! 
+
+WOW!! I NEVER would have guessed that it snowed REGULARLY and A LOT in Algeria. I know it gets cold, I know you might get some snow...but NOT that much! The pictures look very nice! Next time, I hope you share some of your pictures from Algeria and your hometown!
+
+- Hi! Coach Shane!
+
+  I'm a new DDM student--I joined in January and it's amazing! A lot of work and not much time, but I am doing my best to finish all these incredible DDM lessons. Thank you! My goal is to be much better in English. And your lessons AND your daily emails are helping me to learn English as a HABIT. And I know that's SUPER important.
+
+   
+
+
+Hi Vasily!  
+
+Another **cross country skier!** I can't wait to j**oin you out on the trails**~~ And I'm SUPER happy that you are enjoying DDM. 
+
+If I had had DDM-style classes when I was studying Korean...ugh! I would have learned SO much faster and SO much more! Keep studying hard and when you get a chance, join me in a LIVE class, okay? This week I don't have LIVE classes, but next week I have a full schedule!
+
+- What's up, Coach Shane?
+
+   Above are some Brazilian safety slogans.
+
+  The first means "Good people also kill. If you drive, forget the cell phone."
+
+  The second means "Road safety" "There's always someone waiting for you." 
+
+
+Hi Joao! 
+
+Two POWERFUL slogans. Thank you for sharing, Joao. I'm sure there are lots more, too. 
+
+SO...everyone else?!! Don't be SHY about sharing photos!!
+
+I really want photos YOU take, but sometimes we can use GOOGLE images, too! (I know, I usually use Google images in my newsletters!!!)
+
+ 
+
+- One night I wanted some Ramen. So I made Ramen. It looks much better than it tasted. The seaweed **was past it’s Use By date** but I didn’t get sick.
+
+  Still drawing lines, circles and perspective exercises. I’ll draw a real picture real soon because both you and me have gotten tired of lines and circles I’m sure.
+
+  Back to drawing real things!!! That’s my dog Luka. A 10-second **sketch** before he moved.
+
+Hello Coach Matt,
+
+WOW!! I recognized Luka IMMEDIATELY. That means...you're getting DAMN good! 
+
+Hey, if you want to have really good noodles--you should ask my wife for her secret recipe. It's so good...you might go crazy! Love the updates, Coach Matt! 
+
+ 
+
+- Shopping. Mikey is using his new birthday gift for the first time. A **baby-backpack**! Believe me...the kid is getting heavy!
+
+Lunch. This is Angie--she's a neighbor **from up the road.** She joined us on our recent shopping trip. 
+
+She's enjoying a delicious beef hot dog at Costco!
+
+In our current DDM, we are talking about Costco! So, if you're a DDM VIP student and you have some questions about Costco--FIRE AWAY!
+
+We have had SO much snow this winter. **Another FOOT of snow** on Sunday. Tomorrow they say another six inches. I have NO place to put the snow~~ I even **got stuck with my truck while plowing!**! 
+
+Do you see the icicles hanging off the eaves on the top of the picture?! Very nice picture--thank you, honey!
+
+- icicles: a pendent spear of ice formed by the freezing of dripping water
+- eave: the lower border of a roof that overhangs the wall ― usually used in plural
+
+I was worrying about the roof on my garage. With so much snow, it might collapse. I'll **keep you updated**~~
+
+I haven't seen Paul in a while. He runs the farm where we get our milk, beef and pork. He's a GREAT farmer who does EVERYTHING by hand. I mean EVERYTHING!
+
+All that firewood there is for his workshop, milk house and **chicken coop**. He's got a wonderful farm. **I would LOVE to one day have such a thing~~**
+
+Daddy's eating **calzones** and Mikey LOVES watching the **stringy cheese!** Mikey is growing a lot of teeth, but he's still not good at chewing. Yet. Maybe in a year he'll be sharing calzones with me!
+
+- stringy: (of meat) full of sinews; especially impossible to chew
+
+Oh, calzones are NEW for me! We learned about them in DDM, too!! You really should join us!
+
+It will CHANGE your LIFE in SO MANY WAYS!
+
+
+
+### 3/13/2019
+
+LME 45 <http://archive.aweber.com/ddm_membership/N5aL3/h/Lesson_45_USA_English_and.htm>
+
+TO LEARN: hood, bonnet, trunk, boot + 10 MORE!
+
+ 
+
+In our current DDM lesson (#557), we studied the word HOOD and carburetor. Two common words regarding cars, right?
+
+- Hood
+- carburetor
+
+We ALL should know what HOOD means, but carburetor is more technical—you don’t really need to know that word. It’s a part of the engine—if you like cars, though, you should know it!
+
+We talked about this AND many more in the lesson. If you are NOT a member yet, JOIN. I'm having a super special LUCKY sale right now.
+
+Back to HOOD. That’s the metal part that covers the engine, right?
+
+
+But wait a minute…in the UK, they say something different! They call the hood a **BONNET!** In the US, a bonnet is for a little girl!
+
+
+It gets crazier.
+
+What’s the “back” of the car called—the place you can open and put a suitcase or maybe find a **spare** tire?
+
+- spare: You use spare to describe something that is not being used by anyone, and is therefore available for someone to use.
+
+
+In the US, we call it a trunk. But those crazy Brits—they call it a boot! In the US, a boot is something that you put on your foot!
+
+
+British English and American English have a LOT of differences! Learning them can be fun… BUT it could really cause problems for ESL learners, too. If you ask me, American English is SO much easier AND logical when compared to British English!! But what do you think?
+
+
+Here’s a small quiz focusing on CARS and driving and streets. You must choose the word that is common in the USA, not the UK! Okay?
+
+https://parmyproductionsllc.app.box.com/s/f3ve9dsnv3olvpcbcwqffiutbhlxqg3l
+
+My engine died and I had to call a _______. It cost me over $100!
+breakdown truck   B. **tow truck** (If one vehicle tows another, it pulls it along behind it)
+
+Be sure to use the _______ when you are crossing the street, okay?
+**crosswalk**               B. zebra crossing
+Fill your tank with _______. I did yesterday and it cost me almost $40.
+petrol                     B**. gas**
+You can park your car in the _______ across the street. It’s free.
+car park                  B. **parking lot**
+I think a kid’s first car should be a _______. Why waste a lot of money on a new one?
+banger                    B. **junker** (used car)
+I live at the end of a _______, so there’s NO traffic noise. I love it.
+**dead-end**                B cul-de-sac
+_______ is always a problem during New Year’s Eve. Don’t do it.
+Drink driving         B. **Drunk driving**
+I hate driving close to those giant _______. I get scared~
+**18-wheelers**           B. juggernauts (A juggernaut is a very large truck. (mainly BRIT) )
+I rarely _______ slow drivers anymore. As I get older, I realize that I’m **in no hurry of getting to my final destination!**
+**pass**                        B. overtake
+Walk through the _______ if you want to get to the other side of that busy street.
+subway                   **B. underpass**
+
+
+A quick recap: hood, bonnet, trunk, boot, + 10 MORE!
+
+ 
+
+JOIN us and start mastering your English speaking! Take advantage of BOTH DDM (our listening class) and PIRF (our speaking class). Our LUCKY sale ends on SUNDAY.
+
+ 
