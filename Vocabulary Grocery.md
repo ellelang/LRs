@@ -4969,3 +4969,51 @@ A quick recap: hood, bonnet, trunk, boot, + 10 MORE!
 JOIN us and start mastering your English speaking! Take advantage of BOTH DDM (our listening class) and PIRF (our speaking class). Our LUCKY sale ends on SUNDAY.
 
  
+
+### 3/14/2019
+
+LME 46 <http://archive.aweber.com/ddm_membership/KeaKZ/h/If_you_miss_our_SALE_TOUGH.htm>
+
+**TO LEARN: pi, pie, as American as apple pie, as sweet as pie, a sweetie pie, a finger in every pie, a pie in the sky, shut your pie hole**
+
+Did you know today is a special day? It’s PI day! Not “pie” day, but “pi” day. March 14th…3/14…3.14!! Oh, that math thing related to circles~~
+
+And to celebrate Pi Day…I thought I would introduce some PIE-related idioms! (By the way, “pi” and “pie” are pronounced the same!)
+
+Americans LOVE **pie**, and most people believe that apple pie is an American invention. But that is very doubtful! ANYWAY, we have this expression:
+
+That means that ~ is 100% American!! Typical American!
+
+**Wearing shorts in the wintertime?**
+
+**That’s as American as apple pie!**
+
+
+Here’s an easy one:
+
+**She’s as sweet as pie! Or She’s a sweetie pie!**
+
+Use that when you want to describe someone or something as perfectly pleasant!!
+
+What about this one:
+
+**He has a finger in every pie~**
+
+We use that idiom when we want to describe someone as doing SO MANY different things. Sometimes we use it as a **compliment**, but we can also use it to **criticize** someone. You have to know the context to know if it’s GOOD or BAD!!
+
+**Everything bad that happens in the USA…it’s Putin’s fault. He has a finger in every American pie!** 
+
+If something is a “**pie in the sky**”…
+
+It’s just a dream. A fantasy.
+
+**Coach Shane’s goal of becoming a basketball star is just a pie in the sky~~**
+
+Let’s finish with a RUDE one! DON’T USE THIS AT WORK!
+
+**Shut your pie hole!!**
+
+That means “shut up”! Your mouth is a hole…it’s a hole where you can put pie! So if someone tells you to shut your pie hole…shut up!!
+
+Which PIE idiom is your favorite?! And just a reminder—I have a **SWEETIE PIE** deal for you! Join both **DDM & PIRF** for an amazing price. 
+
