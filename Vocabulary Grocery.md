@@ -5023,5 +5023,135 @@ Which PIE idiom is your favorite?! And just a reminder—I have a **SWEETIE PIE*
 
 - legitimate
 - epistemic
-- 
 
+LME 47 <http://archive.aweber.com/ddm_membership/9U5x3/h/Lesson_47_Phrasal_Verbs.htm>
+
+**TO LEARN: sign in, sign out, sign for, sign away, sign off, sign up**
+
+Phrasal Verb Friday is here! It’s also the **Ides of March** (if you’re a Shakespeare fan!!) But NO Shakespeare, today! Let’s master 6 phrasal verbs using SIGN! The first thing I want you to recognize is the verb SIGN!
+
+“to sign” can have several meanings, but the MOST COMMON is “to write your name”.
+
+If we add a preposition—how will that influence sign. Let’s take a look!
+
+**SIGN IN**
+
+If you arrive at a big meeting or at a hotel or are visiting someone who’s in the hospital, you cannot simply enter. You have to first sign in. You have to **write your name** on a list/computer and then you can **go in**—join the meeting/get your room/see the patient.
+
+ **SIGN OUT**
+
+Of course, when you leave a place where you have signed in—you have to sign out! Too easy! But, at the library you can also sign out a book. You show the book to the library, **give them your name** and then **take** the book **out**!
+
+**SIGN FOR**
+
+When the deliveryman comes to your door with a big box for you—he sometimes asks you to **sign for the box**. By **writing your name** on his device, you are accepting **responsibility** **for the box**.
+
+**SIGN AWAY**
+
+When I joined the army many years ago, my mother was very angry. She thought I was signing away my life. She thought I would end up in a war and die and she would never see me again. I was signing my name to a contract and going away forever~ Fortunately, I came back! I love you, mom^^ I **signed my name** to a military contract and **gave away my right** to my life!
+
+**SIGN OFF**
+
+Before I sign off tonight… (**sign my name** at the bottom and **say goodbye** and **turn off** my **computer**!)
+
+**SIGN UP**
+
+…I want to remind you to sign up for our SALE! **Put your name** in our system and you will be subscribed to our class and we will **update** **you** with new **lessons** and hangouts!
+
+A quick recap: **sign in,** **sign out****,** **sign for****,** **sign away****,** **sign off****,** **sign up**
+
+ 
+
+DDM 185
+
+U-2:  a US military spy  plane that  first  flew  in 1955 
+
+Air defenses:  weapons  used  to  protect  the  skies above your country
+
+Overfly:fly over!
+
+Hostile territory: enemy lands
+
+Take imagery: take pictures
+
+CIA: Central Intelligence Agency—America’s spy agency
+
+Admitted:confessed to, acknowledged
+
+Sightings: visualizations, reports
+
+Crafts:ships, planes
+
+Put in the air: flew
+
+Nugget:a    small    but    valuable    piece    of information...like  a  nugget  of  gold  is  a small but valuable rock of gold!Brought to the public’s attention: made public, announced to everyone
+
+Via Twitter: on Twitter
+
+Getting in on ~: participating in something (that is very popular)
+
+Coming in at #1:coming in at number one, in first place, the most popular...
+
+Devoted to: that exclusively talks about, which only deals with
+
+UFOs: unidentified flying objects
+
+Flurry:a LOT of activity/sightings
+
+Utilizing:using, flying
+
+As it flew...: because it flew..., since it flew...60,000 feet:18.2 kilometers
+
+Back then: back in the 50s and 60s
+
+Powers:Gary Powers, a CIA U-2 pilot who was shot down and captured by the USSR!
+
+Got shot down: was shot down(destroyed) by air defenses
+
+
+
+DDM 186
+
+~ make great gifts: are wonderful gifts, are nice to give/receive as a gift
+
+Recycled: to take something and use it again
+
+**An homage**:a public display of respect
+
+- Homage is respect shown towards someone or something you admire, or to a person in authority. 
+  Palace has released two marvellous films that pay homage to our literary heritage. 
+  At his coronation he received the homage of kings from Wales, Northumbria and Scotland. 
+
+How about that?: Isn’t that nice?, that’s very nice
+
+Tube  socks:  socks that  go  up  high  on  the  leg that were  very popular in the 70s and 80s! (I still like them)Dental work: things done to your teeth by a dentis
+
+tVelvet:a thick, soft fabric...very smooth
+
+**Drape myself in** ~: cover myself in/with. Athletes will often drape themselves in their country’s flag when the win.
+
+Socially acceptable: if it could be done in public without anyone’s disapproval
+
+The view: “what” you can see when you look out your window. If you look out my window, you can see a building—not a very nice view! 
+
+An  eligible  receiver:  an  expression  that  comes  from  American football; a player that can “legally” catch the ball...in this case; a man who can “legally” date the woman!Confiding in him: talking to him about personal matters (private things)
+
+- illegible -- eligible
+- illegible: Writing that is illegible is so unclear that you cannot read it. 
+- eligible: Someone who is eligible to do something is qualified or able to do it, for example because they are old enough. 
+
+In captivity: in zoos, in laboratories
+
+Bizarre: crazy
+
+Harrad experiment: George is referring to “The Harrad Experiment” which was a movie back in the “hippie generation”—the movie dealt with “free adult relationships”  which  coincided  with  the  “sexual  revolution”  which happened in the US in the late 60s and early 70s.
+
+A check: the bill...usually we’d say “the check” not “a check”
+
+To work this out: to resolve this issue, to solve this problem
+
+Cozy: warm and nice and soft. Many people would describe this as a cozy living room...
+
+Ensconced:to  be  comfortably  and  securely  seated/settled!  This  dog  is  fully ensconced!
+
+- Ensconce: (formal) if you are ensconced or ensconce yourself somewhere, you are made or make yourself comfortable and safe in that place or position
