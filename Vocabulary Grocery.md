@@ -5155,3 +5155,79 @@ Cozy: warm and nice and soft. Many people would describe this as a cozy living r
 Ensconced:to  be  comfortably  and  securely  seated/settled!  This  dog  is  fully ensconced!
 
 - Ensconce: (formal) if you are ensconced or ensconce yourself somewhere, you are made or make yourself comfortable and safe in that place or position
+
+
+
+### 3/18/2019
+
+LME 48 <http://archive.aweber.com/ddm_membership/6Asvp/h/Lesson_48_Americana_Monday_.htm>
+
+**TO LEARN: Dr. Seuss, a pen name, nom de plume**
+
+It’s Americana Monday. If you want to learn American English—you HAVE TO learn about the culture and history of the USA, too.
+
+In PIRF lesson 199 [*(our speaking class)*](https://www.letsmasterenglish.com/signup/pirf/), we talked about the state of Massachusetts. In Massachusetts, we learned a little about the **Dr. Seuss** museum.
+
+Dr. Seuss is a man who wrote MANY children’s books. He is responsible for making MILLIONS of American children fall in love with reading!
+
+Actually, he wasn’t a real doctor and Seuss was his middle name. But many authors use **a pen name** (*nom de plume* [French—but we use that word in America, too]—an adopted name used by authors), right?!
+
+Dr. Seuss wrote books that children loved for several reasons. Among them…
+
+- They are fun to read. A funny style of poetry.
+- They are fun to look at. They have great illustrations.
+- The characters are funny and do silly things.
+- Many of the characters are NOT humans.
+
+There are more reasons, too. But I think those four reasons are BIG! And some of Dr. Seuss’s BIGGEST books were:
+
+I read them all. But—if I had to choose THREE?
+
+I would definitely choose…actually, I already chose it!
+
+
+Many of these books have been translated into other languages.
+
+But I wonder how well they can translate simple children’s rhymes into another language effectively…
+
+Have you ever read a Dr. Seuss book? In your language? Did you like it? Was it your book or your child’s? Are they popular in your country? Send me a picture!
+
+ I’ll finish today’s lesson with my own Dr. Seuss-styled poem.
+
+**English can be fun.**
+
+**English can be nice.**
+
+**English can be easy**
+
+**If you follow my advice~**
+
+A quick recap: **Dr. Seuss,** **a pen name****,** **nom de plume**
+
+------
+
+Even after spending the month of January in Jinan, winter was slow to vacate the Poconos. Late season cold temperatures dipping below zero (Fahrenheit) and [March that “came in like a lion](https://www.farmersalmanac.com/the-truth-behind-in-like-a-lion-out-like-a-lamb-2867)“, these were weather issues I did not want to deal with. I maintained a steady course of exercise by going to the gym and doing stretching. On alternate days I continued with floor exercises using the large bands for resistance training and building my core. Feeling stronger each week, I could feel the stability return to my center and especially my hip. It’s now 8 months past my surgery and I feel pretty good.
+
+- vacate: If you vacate a place or a job, you leave it or give it up, making it available for other people. (FORMAL) 
+  He vacated the flat and went to stay with an uncle. 
+  He recently vacated his post as NHS Personnel Director. 
+
+A special treat in the night sky this week; As the [Vernal Equinox ](https://en.wikipedia.org/wiki/Equinox)arrives **signaling the official start of spring,** we will experience not only a Full Moon, but it will be a “[Super Moon](https://earthsky.org/human-world/what-is-a-supermoon)” too! [Earth and Sky News has the detail](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-vernal-or-spring-equinox?utm_source=EarthSky+News&utm_campaign=45d667a46e-EMAIL_CAMPAIGN_2018_02_02_COPY_01&utm_medium=email&utm_term=0_c643945d79-45d667a46e-393960477)s.
+
+- vernal equinox: (astronomy) the equinoctial point that lies in the constellation of Pisces
+
+If you can’t get out to see it wherever you are you could[ take a look through the Virtual Telescope Project](https://www.virtualtelescope.eu/webtv/).
+Whatever you do, just remember that each one of us has a limited time here on this **mortal plane.** There are only so many full moons, not to mention Super Moons, and **celestial events** we may have opportunity to witness during our lives. **Better get out and enjoy your life, because before you know it the clock runs out and the game is over.**
+
+- mortal: that cannot live for ever and must die: We are all mortal.
+
+- celestial: 
+
+  - Celestial is used to describe things relating to heaven or to the sky. (LITERARY) 
+    ...the clusters of celestial bodies in the ever-expanding universe...
+
+  -  If you describe something as celestial, you mean that it is wonderful. 
+    ...a chocolate cake with an apricot filling and celestial effect on the taste buds. 
+    ADJ-GRADED 
+    = heavenly
+
