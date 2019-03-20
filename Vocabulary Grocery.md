@@ -1,5 +1,3 @@
-
-
 **Table of Contents**
 
 [TOC]
@@ -5230,4 +5228,118 @@ Whatever you do, just remember that each one of us has a limited time here on th
     ...a chocolate cake with an apricot filling and celestial effect on the taste buds. 
     ADJ-GRADED 
     = heavenly
+
+### 3/19/2019
+
+LME Tuesday Magazine <http://archive.aweber.com/ddm_membership/8MJgp/h/_The_Spring_has_started_.htm>
+
+
+
+Don't give up. 
+Just take a break. 
+
+Vacations from something are often TOO long! After a vacation from work--sometimes we feel even MORE tired! But an afternoon off...three- or four-day weekend! Paradise. 
+
+But we want more!! But too much is NO good!! Balance~
+
+Just like when you study English. **Taking some time off** is GOOD. It gives your brain a chance to rest. 
+
+But it also makes your brain stronger so when you come back, you're really good! But too long off...it feels like you go back to ZERO!!
+
+Balance. Take a break. Enjoy YOUR life.
+
+Then get back to the grind (work!). When is your next break? For how long? What will you do? Let me know and share some pictures!
+
+- grind: boring activity. (informal) an activity that is tiring or boring and takes a lot of time: the daily grind of family life ◆ It's a long grind to the top of that particular profession.
+
+Hi Coach Shane,
+
+ 
+
+Last year my wife Sandra and I celebrated St. Patrick’s Day in Prague, **Czech**. We drank **Guinness,** green Beer and wore green clothes. It was a very nice evening and I almost forgot about it. Thank you for reminding me of that funny day.
+
+- Czech: Czech means belonging or relating to the Czech Republic, or to its people, language, or culture. 
+
+Hi Hardy!  
+
+Excellent pictures!! You two look so happy! I've heard the Czech beer is really good. Is it better than German beer? And what about Guinness--did you like it? It's quite different, isn't it? I hope that **I can make it to Europe one day**. If I go, I can't wait to try the beers and sausages!! Perhaps we can share a beer together!
+
+
+
+- As you know, Coach, I am a Pilates and Yoga teacher. 
+  - Pilates: /'pailət/
+
+In these photos, you can see my Pilates class. And below is my cat Emily. She studies English with me every day but she doesn't like to speak at all.
+
+Emily is really curious and sometimes she gets in trouble because of that. Have a nice weekend
+
+Hi Graziella! 
+
+Wow! You've got a full house of students! I must **confess**, Graziella, I tried yoga for a little bit...
+
+ It was MUCH harder than I thought it would be.
+
+ I wish I could find a good instructor on YouTube or something. Something for old guys like me. Not too tough. Slow. Easy. Any recommendations?!
+
+What about your **hubby?** Does he practice yoga?
+
+ Emily looks adorable! If she gets into serious trouble, tell her to speak only in English and the police might let her go because she's a silly American!
+
+
+
+- In a buffet restaurant, my wife’s sister, her son and daughter.
+  All of our birthdays are in March, so we celebrate them together in **a lump-birthday party** (ｰ ｰ;)
+  Oops! My nieces’s birthday is in July. But no problem.
+
+  I changed her diapers 30 years ago. We’re family.
+  We enjoyed Chinese, Italian, Japanese, and Greek dishes along with some desserts. Moussaka was very good ! 
+
+This is a soft serve ice cream server. I love ice cream. You can eat this as much as you want.  And I ice creamed out.(>_>)
+
+The next day my wife made traditional Japanese dishes for me.
+
+They were very easy on my stomach and all very healthy.
+
+① Rice with grated yam paste topped with “Nori” seaweed flakes (the green stuff)
+
+② Grated salmon pickled in *sake lees*
+
+③ Natto (99% of American dislike this. I eat every day.)  with grated radish
+
+④ Steamed cabbage with Ponzu sauce （made of soy sauce with citrus juice）
+
+⑤ Oriental pickling melon pickled in *sake lees*
+
+⑥ Grated radish
+
+⑦ Soy sauce
+
+Country Hajime (Japan Aomori pref. Hirakawa City) 
+
+( ^_^)/~~~
+
+ALL of you in MARCH? Wow!! Christmas time in the country is a special time for moms and dads!!!
+
+The food at the buffet sounds great. But, to be honest...I'm a country guy, too. And HOME-COOKED meals are just the best, right? Those traditional Japanese dishes sound really, really good. You and I are blessed to have such good cooks in the house! It must be our **country appeal**!
+
+ I have never heard of "sake lees" so I spent a lot of time on Google to figure it out. I fully understand it now. I will look forward to sampling some of this food soon. Just as I want to go to Europe to eat, I want to go to Japan to eat, too! And drink! Together? Let's do it!
+
+- Avocados. They're as big as my head! And they're SUPER delicious!  I picked these from the tree in my yard!
+
+
+Hi Coach Paul, As big as your head? Really? WOW!!
+
+ Avocados are TOO expensive here in the USA. At least where I live in the country~ And they're SO nutritious. I buy one occasionally. I wish I could buy more. Actually, I wish we could have an avocado tree in the yard. But it's too dang cold! SEND ME A BOX!!
+
+- Using my kid as a grocery basket. Two lemons in his hood. Mikey's first job is as a SHOPPING CART!!!!
+
+Mystery animal! My neighbor said it could be a bear! But I'm thinking a **raccoon**. Do you have any expertise **in animal tracks**. Can you guess what that is? Help us out!!
+
+The snow is STARTING to melt. We are going to have a LAKE in our driveway. It's going to be terrible. I'm talking with the neighbor. She lives up on a hill, so drainage (water run-off from snow melting) is not a problem. It will be for us. Not our house, but a problem for the driveway and garage~ Ugh!
+
+I'm spring cleaning. Cleaning out the garage. I have to make sure things are NOT going to get too wet. Over the next month or two, I will have a lot of melting snow and the garage will take on some water. I have a radio **blasting** in the background. Foreigner is singing their great song called Jukebox Hero! I love that song. Do you know it?
+
+I could use your help. Mikey is still too little to work. Maybe next year, right? He'll be two. Two is old enough to start working, right? Maybe I should tell my wife to have one more child. If we have one more, do you think we'd have a boy or a girl? Should I have another kid? Hmm...questions, questions, questions!
+
+
 
