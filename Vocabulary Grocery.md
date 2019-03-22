@@ -5343,3 +5343,97 @@ I could use your help. Mikey is still too little to work. Maybe next year, right
 
 
 
+### 3/20/2019
+
+LME 50 <http://archive.aweber.com/ddm_membership/55PBp/h/Lesson_50_One_of_the_BEST.htm>
+
+**TO LEARN: Why doing dictation might help your English.**
+
+ Have you been to my [**Daily Dictation channel on YouTube**](https://www.youtube.com/user/dailydictation/)? It’s the perfect channel for you to test your listening ability. Some lessons are easy—others are really tough! But they are ALL short. 5-20 seconds. Super short!
+
+I started having my students do dictation many years ago. It’s a “game” to see how good your listening skills are.
+
+**If your understanding of a situation is perfect**, **you should be able to write down what was said**, right? But **THAT** is the problem! Students feel confident in their listening ability. They feel that they understand the situation.
+
+**But dictation is TOUGH!**
+
+The words…the grammar…the idioms…the nuance!
+
+The same thing happened to me in Korea. I could watch a TV drama and have a VERY good understanding of what was happening…but I couldn’t even write ONE sentence of the dialogue perfectly.
+
+So, I started dictating. I would have Korean friends check and show me my mistakes.
+
+What happened?
+
+I started **NATURALLY** learning grammar and learning vocabulary and learning idioms!
+
+And because I was **watching TV** dramas—I could see the body language and really **catch the speaking tone**—I learned about **nuance**!
+
+Nuance, everyone, is KEY for advanced level students. Nuance—being able to “read between the lines”. Being able to understand the “unspoken meaning” of words and phrases and body language!
+
+All of that helped me master Korean in a very short period of time.
+
+After 25 years in Korea, I was STILL learning something every day. But when you get to the advanced level in any language—THEN you realize how much you don’t know!
+
+> The more I learn, the more I realize I don't know
+>
+> - Albert Einstein
+
+**Doing dictation** forces you to SLOW DOWN. It forces you to analyze your mistakes. It teaches you how native English speakers speak. It forces you to THINK TWICE about grammar and structure. It shows you words and phrases that seem illogical—unless you have a coach!
+
+Doing dictation is a very good path to English mastery. Any language, actually.
+
+I encourage you all to try my Daily Dictation channel. I just uploaded our [399th Challenge](https://www.youtube.com/watch?v=Ksu1m4pb-aA)! It’s pretty easy~ [DD 398](https://www.youtube.com/watch?v=GMHBhNnswxw) was TOUGH!
+
+If you like those lessons, then you should [join my DDM classes](https://www.letsmasterenglish.com/signup/ddm/).
+
+They’re the BEST classes for intermediate and advanced students. Why study boring stuff when you can study the best stuff PLUS it’s **never boring**?!
+
+[I’ll see you in class!](https://www.letsmasterenglish.com/signup/ddm/)
+
+
+
+### 3/21/2019
+
+LME 51 <>
+
+TO LEARN: off the beaten path, ~ galore**
+
+Hi ,
+
+Our new PIRF assignment #202 (our speaking class) has so many excellent phrases, idioms and phrasal verbs that Americans use all the time. And what’s really cool—every month we study about a different state. So far, we’ve studied about **Vermont and Massachusetts—and this month we’re studying Montana.** ([you really should join PIRF!](https://www.letsmasterenglish.com/signup/pirf/)).
+
+Anyway, here are two excellent phrases from our current lesson—my gift to ALL of you!
+
+If something is **off the beaten path**, it means it is **located in an area that** **most people don’t go** OR **don’t know about**.
+
+My home is off the beaten path. *(it’s located in a place where FEW people ever go)*
+
+When I travel, I like to go off the beaten path. *(I like to go to places where few tourists ever go)*
+
+The restaurant is off the beaten path. *(the restaurant is located far from other restaurants)*
+
+**Rock paintings galore**
+
+- You use galore to emphasize that something you like exists in very large quantities. (INFORMAL, WRITTEN) 
+  You'll be able to win prizes galore. 
+  ...a popular resort with beaches galore and a large marina. 
+
+I really like this expression. It means there are **an ENORMOUS AMOUNT of whatever** you’re talking about. In the phrase above, LOTS and LOTS of rock paintings!
+
+In my backyard, we have deer galore. *(we have a HUGE number of deer visiting my backyard every day)*
+
+In my refrigerator there is beer galore! *(I have MANY cans and bottles of beer in my refrigerator. Would you like one?!)*
+
+I have lessons galore! *(I have SO MANY lessons—come and join me, you will never be bored!)*
+
+ 
+
+Tomorrow is Friday! I have FOUR LIVE classes tomorrow and a new DDM Lesson video to make—very busy! But busy is good! Oh, and tomorrow is Phrasal Verb Friday—so a new lesson for you, too!
+
+ 
+
+A quick recap: **off the beaten path****,** **~ galore**
+
+ 
+
