@@ -5437,3 +5437,50 @@ A quick recap: **off the beaten path****,** **~ galore**
 
  
 
+### 3/22/2019
+
+LME 52 <http://archive.aweber.com/ddm_membership/I5s5p/h/Lesson_52_Phrasal_Verb.htm>
+
+**TO LEARN: keep off, lay off, go off, stay off**
+
+ In our listening class (DDM 558 and DDM 560), we’re talking about the numerous benefits of coffee. And we came across a few phrasal verbs that NEED some clarification.
+
+**Keep off**
+
+**Lay off**
+
+**Go off**
+
+**Stay off**
+
+Now, I ALWAYS tell students, to study ONLY the phrasal verb is…useless. You need to put the phrasal verb into a sentence. And to find the DIFFERENCE between meanings, we need to make “the same sentence with different phrasal verbs”. So…
+
+**I need to keep off coffee.**
+
+**I need to stay off coffee.**
+
+**I need to lay off coffee.**
+
+**I need to go off coffee.**
+
+Now…let’s look at the differences!
+
+I need to **keep off** coffee… **I need to avoid coffee**. NUANCE: I had been drinking coffee but stopped a week ago AND I need to continue NOT drinking coffee. Probably a doctor told you to stop drinking coffee.
+
+I need to **stay off** coffee. **I need to continue avoiding coffee**. NUANCE: I stopped drinking coffee a week ago and I need to continue NOT drinking coffee. You realize benefits from NOT drinking coffee
+
+I need to **lay off** coffee. **I need to stop drinking coffee**. NUANCE: I drink coffee—but I need to stop. It’s somehow bad for me (yellow teeth, blood pressure, too expensive)
+
+I need to **go off** coffee. **I need to quit drinking coffee**. NUANCE: I’m addicted to coffee and it’s not good for me so I need to quit. A doctor may have told you to STOP drinking coffee
+
+So, we can see that KEEP OFF and STAY OFF are really similar. Many times they’ll be used “the same way”. But, there could be a nuance difference—it depends on the context (the situation).
+
+Also, to GO OFF and LAY OFF are very similar. Again, they’re often used in the same situation. There MIGHT be a nuance difference depending on the situation.
+
+How do you know which to use?
+
+**JUST USE THEM!**
+
+If you say something wrong or something strange—you will see the expression of the American!
+
+Oh, by the way, I LOVE coffee! What about you?!! Send us a picture of YOU enjoying a coffee and studying English!!
