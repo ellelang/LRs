@@ -5484,3 +5484,86 @@ How do you know which to use?
 If you say something wrong or something strange—you will see the expression of the American!
 
 Oh, by the way, I LOVE coffee! What about you?!! Send us a picture of YOU enjoying a coffee and studying English!!
+
+
+
+
+
+DDM 187
+
+- Sup: “daily English”for “What’s up?”which is a common greeting among many Americans
+- Close:good friends, tight
+- Bro:short for brother
+- Revealed:told (a secret)
+- Daily Mail: a UK newspaper
+- While pointing out ~: while adding, while bragging
+- Stronger than ever: the best, tighter than ever
+- Pet names: names we give to people we have affection for—our girl/boyfriends and wives/husbands!
+- Paraphrase:to quote someone BUT to deliberately (and sometimes unknowingly) change the words
+- A clown question: a stupid question. A question that only a clown would ask.
+- Assertion: something that someone says VERY confidently (they absolutely believe what they say is true)All-around: overall
+- Press outlets: media businesses
+- Not entirely clear on ~: to not understand ~ fully (100%)Took to the internet: went to the internet, used the internet
+- Clarity:to see/understand the term “bro”more clearly
+- Telegraph: 
+- Stumbled upon: accidently found, inadvertently found/discovered
+  - If you stumble while you are reading aloud or speaking, you make a mistake, and have to pause before saying the words properly. 
+    ...his voice wavered and he stumbled over the words at one point. 
+- Walked away with the impression ~: left (the Urban Dictionary) with the understanding
+- ~Insulting:saying something bad about someone
+- Crowd-sourced: something that is fed/built/sustained by “the crowd”. “The crowd”refers to the general public. Wikipedia is crowd-sourced. If you add comments to our BOX.com site (like Julia did in last week’s DDM), you are building our content—our content is becoming “crowd-sourced). People who sponsor me on Patreon are participating in crowd-sourcing to fund our website/podcasts/videos/classes!
+- Reference tool: tools (books, sites) used to check facts/meanings/usage. A dictionary is a reference tool/bookInterpretations:definitions
+- Characterize it as ~: describe/define it as ~
+- A reference to ~: being related to ~
+- Often-inebriated: frequently drunken
+  - inebriated: / ɪˈnibrɪət/ Someone who is inebriated has drunk too much alcohol. (FORMAL) 
+    Scott was obviously inebriated by the time the dessert was served. 
+- Not-too-bright: dumb
+- To regard someone as ~: to think of someone as ~As close as family: just like a family member
+- Given the pictures: if we look at the pictures
+- Makes sense: is logical
+- Duo:pair
+- To get along famously: to have a very good/strong/solid friendship. In the UK, “famously”commonly means “excellent”or “great”Laughing it up: laughing a lot, having a good time
+- A world summit: a meeting where world leaders gather
+
+### 3/23/2019
+
+- Disk jockey
+  - jockey: A jockey is someone who rides a horse in a race.  N-COUNT 
+- full circle
+
+DDM 188
+
+- The super: the **superintendent**, the apartment manager. 
+- He’s got no...: he hasn’t got any..., he doesn’t have any...
+- The little people: the regular people, the working class, thecommoners
+- Are you through?: are you finished?
+- ~ is off: has been canceled
+- Found out: discovered, realized
+- To postpone: to delay, to put off
+- It’s over: it’s finished, it’s done, it is no more, it has been canceled
+- Ask for ~ back: ask there cipient to return the gift
+- A grace period: a trial period, a period of time (a few days, a few weeks) that a seller gives the buyer IN CASE THEY DO NOT LIKE the product. This  is  very  common  with  credit  cards—if you  pay  your  balance before the end of the month, they do not charge interest--that’s the grace period (the time before the end of the month)
+  - period: peer~ y~uh~d 
+- Vaguely:a little bit
+- Familiar with: understand
+- Concept: idea, notion
+- A point: a valid argument, a truth, a truism!
+- Barely:hardly, just
+- Run:manage, take care of
+- It turns out...: I thought NOT POSSIBLE but is POSSIBLE
+- Heading over to ~: going to
+- Figure out    a    way...:    create    a solution/situation/scenario
+- in order to...
+- Siegfried    and    Roy: two    famous German  magicians that entertain visitors in Las Vegas with their magic!
+- Trick:magic
+- Pickle breath:   George   is   eating   a pickle, so when he breathes out (exhales) you can smell pickle!! Gross~~Being neighborly:  being  a  nice  neighbor,  visiting  to  say  hi,  visiting  to  chat, visiting to give you some freshly baked cookies
+- To hang out: to be together, to do something together
+- Shoot the breeze: to chit-chat
+- Pack it up: get your stuff together
+- fusion food
+- dessert: [dɪ'zɜːt] n.  a dish served as the last course of a meal
+- desert [dɪ'zɜːt] : arid land with little or no vegetation
+- world: 
+- word
+
