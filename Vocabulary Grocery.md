@@ -5567,3 +5567,185 @@ DDM 188
 - world: 
 - word
 
+
+
+### 3/25/2019
+
+LME 53 
+
+TO LEARN: Learn about American names & how to pick one!
+
+Do you like your name? Do you think there’s a better name than yours? Do you have an English name?
+
+
+I know a LOT of English students and I’ve always been surprised that many of them (the ones who speak English) have an English name. Some names are really good—but some names are really…old-fashioned!
+
+Having an English name can be a good idea. The biggest reason, it’s easier for Americans to remember. But choose wisely! If you choose a strange name…people might…
+
+
+Names change with the times. A popular name in 1950 might not be so popular in 2019!
+
+It’s probably the same in your country.
+
+My name “Shane” was suddenly popular in the late 1960s. Most likely because of the 1953 movie called Shane! The kids that saw that movie in 1953 were starting families in the late 60s and early 70s—so they chose that name!
+
+
+But some names, especially for the guys, haven’t changed much in a hundred years. Here are the top five names for boys in…
+
+1920    John        William          Robert      James      Charles
+
+1950    James      Robert           John          Michael    David
+
+1980    Michael    Christopher   Jason        David       James
+
+2010   Jacob       Ethan             Michael     Jayden     William
+
+
+A LOT more variety for girls…
+
+1920    Mary        Dorothy         Helen        Margaret Ruth
+
+1950    Linda       Mary              Patricia     Deborah Barbara
+
+1980    Jennifer   Amanda         Jessica      Melissa    Sarah
+
+2010   Isabella    Sophia           Emma       Olivia       Ava
+
+ 
+
+Personally, I like the traditional names! That’s why I chose Michael for my son’s name! If I am blessed and have another child…what should I name him or her? Hmm!!
+
+Oh, by the way, **March 27th is National Joe Day in the United States!**
+
+
+Joe is a name that “everyone likes”! The image of a “Joe” is—he’s a regular guy, a good guy, a great friend. So, if you don’t like your name, on March 27th, feel free to introduce yourself as Joe! People might start liking you more…or they might think you’re crazy!
+
+
+So if you were going to pick an English name, what would I recommend?
+
+ Well, I’m a traditional guy. A conservative guy! I recommend choosing one of the top five names for boys/girls in the year that you were born! And this is the perfect internet site for you!
+
+https://www.ssa.gov/oact/babynames/top5names.html
+
+
+
+### 3/26/2019
+
+Some say seize the day... 
+
+I say **punch today in the face!** 
+
+ Sometimes we need to be a little more aggressive.
+
+With yourself, at least. Be tough.
+
+ Raise your expectations. You know that you CAN do it. Focus. Determination.
+
+ TOUGH.
+
+ Punch today in the face as soon as you wake up.
+
+ Start your day like a championship boxer. And every time you meet a problem.
+
+ Punch it in the face.
+
+ Of course--if the problem is a person, do NOT punch the person in the face!!!
+
+ So--here's a question:
+
+ **What problem are you going to punch in the face today? Are you going to punch tomorrow morning in the face?**
+
+ If you have a smart phone, set an ALARM and name the ALARM--PUNCH today in the FACE!
+
+ Let's do it!
+
+- Hello Coach Shane,
+
+ I've never ever read Dr.Seuss's books. I've never heard anything about him in my country.
+
+ When I was a child I watched "Sitio do Pica Pau Amarelo" based on a book written by Monteiro Lobato. He was the most famous writer of children's books in Brazil. Above you can see some books from him. And I included his photo as well. Have a good one!
+
+God bless you and your family!
+
+Hi Joao! 
+
+ I just looked on Amazon to see if they have any of his books translated into English. 
+
+ NONE! 
+
+And that is probably a tragedy! American children, I'm sure, would love to read his books, too!
+
+Thank you for sharing!
+
+- Trying to help Chinese people with their English is REALLY tough from the USA!
+
+ If I were in China, it would be much easier! 
+
+Unfortunately, the ONLY service that is "easy" for a non-Chinese speaker to use is Weibo. They have many resources in English. But the other services do not. It's REALLY frustrating!
+
+ And I tried AliPay--but I need a Chinese bank account/address to do that! So I checked to see how I could register a business in China! I need AT LEAST $50,000!!!!
+
+ My income is not even that much!
+
+ Fortunately, students in China CAN join my classes and watch my videos and pay, too!!
+
+ We have all the solutions! We just need more marketing! And...in the future, I will make sure it is EASIER for students in China!
+
+ We have a WeChat group and they can help anyone in China get started on our lessons. Our WeChat group leader is: farfarawaysc
+
+ And to pay for classes, almost all of our Chinese students use PayPal, but we do have several that use Western Union and one who uses MoneyGram. 
+
+UGH!! We're trying!!
+
+ Oh, and your daughters are SUCH CUTIES!!! How old are they? Do you teach them English?!
+
+ 
+
+ Hi CS, I was SO busy and couldn’t speak but I took two photos  without your permission!! I thought you might like them--cool memories!  Good day and take care, Gulya. 
+
+I REALLY like the pictures!! You and Alex are ALWAYS super busy! I'm REALLY impressed with both of you. 
+
+ You both work. Four children. You are both in [DDM ](https://www.letsmasterenglish.com/signup/ddm/)VIP and [PIRF](https://www.letsmasterenglish.com/signup/pirf/) VIP. You both do the assignments. AMAZING!
+
+- No art this time because I need more time. Working in some fundamentals and it’s boring. Give me more time please ^_^ Meanwhile, **some shots of** Warsaw I took on my one-and-a-half-hour walk with Luka on an especially nice day not long ago.
+
+My neighborhood. Today it looks different because we had snow and a thunderstorm...yes!
+
+About **two miles westward of** my neighborhood.
+
+The train station. We found it by accident.
+
+**Me outside the bar “Bag Of Bones” to attend a lecture on anatomy.** Sadly, now that I’m inside the guy isn’t gonna make it here tonight.
+
+Hello Coach Matt,
+
+The pictures are great! I REALLY love to see around the neighborhoods in other cities and countries. 
+
+ It REALLY looks like **spring has sprung in Warsaw.** The trees are still bare--but the grass is pretty clean.
+
+ How did Luka hold up on that marathon walk? Did Luka go to the bar with you for the lecture? Did you have a few beers?!
+
+- I baked a chicken. YUMMY! Some potatoes, corn and green beans **on the side. Oh...what a satisfying meal!** My wife was happy that she didn't have to do anything for a change!
+
+So, LOTS of deer. But...this time of year is actually very dangerous for the deer.
+
+ It's the **"starvation period"**. The snow has **a thick, icy layer on top**. It's difficult for the deer to **break through** to find things to eat. Also, it's difficult for the deer to **run through-**-it hurts their legs.
+
+ But it's PERFECT for predators like **coyotes and wolves.** They hunt deer this time of year and it's easy for them to catch the little fawns.
+
+ I think many of the deer that visit us, though, are doing okay. We have food for them, and the area is FULL of their **trails and bedding** areas. Also, coyotes and wolves don't like getting too close to "humans"!
+
+ So far...I think they're surviving the starvation period. It will take about three more weeks for SPRING to really be here and THEN the deer will be fine.
+
+DADDING. Yes, **I made a new VERB!** My boy LOVES watching me. He imitates me. Makes sounds like me. Eats when I eat. Laughs when I laugh.
+
+ He is a mini-me.  So I have to be VERY careful. Always.
+
+ I'm always DADDING!!
+
+Melting patches. The daytime temperatures are warm enough to melt the snow and the nighttime temperatures are cold enough to FREEZE the melt.
+
+ Actually, that's good. We have a LOT of snow. If the snow melts TOO FAST, then we could have flooding. NOT a good thing. So far, the melt is going nicely.
+
+ I look forward to being able to say...Spring is here! 
+
