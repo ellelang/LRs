@@ -5749,3 +5749,61 @@ Melting patches. The daytime temperatures are warm enough to melt the snow and t
 
  I look forward to being able to say...Spring is here! 
 
+### 3/27/2019
+
+**TO LEARN: downtown, versatile, adjective, adverb, noun**
+
+ Hi ,
+
+In our DDM 561 lesson, we talked a lot about **DOWNTOWN**! We learned the difference between downtown, midtown and uptown. We learned about a song that focuses on downtown. We talked about what we like to do when we are downtown!
+
+ And we discovered…
+
+The word DOWNTOWN is actually very **versatile**—*you can use it in several ways*.
+
+Downtown can be an **adjective**, an **adverb** or a **noun**.
+
+As you know, adjectives *describe nouns*. Adverbs *describe verbs*. And a noun is a person, place or thing.
+
+Those are the simple definitions. Not too difficult.
+
+ BUT…can you use the word **downtown** in each situation?! I’m going to show you several usages of the word downtown and I will tell you HOW they function. After that…I have a mission for you!
+
+ I like going **downtown**. **Adverb**
+
+I like shopping **downtown**. **Adverb**
+
+I like the **downtown** area. **Adjective**
+
+I like shopping **in** the **downtown** area. **Adjective**   
+
+I go **downtown**. **Adverb**  
+
+I work **downtown**. **Adverb**   
+
+I love **downtown**. **Noun**
+
+I like looking around in the shops **downtown**. **Adverb**   
+
+I like looking around in **downtown** shops. **Adjective**   
+
+I live in the heart of **downtown**. **Noun**   
+
+I own a building in **downtown**. **Noun**   
+
+ 
+
+How did you do? In my DDM class, I talked about each of those sentences and I reminded our members:
+
+**To MASTER usage, you need to USE the words!**
+
+ But just using the words is NOT enough. How do you know if you are doing it right?  
+
+You need a coach. You need someone to tell you whether you’re right or wrong. You’re lucky because I’m a coach!
+
+
+Join us, get coached and start MASTERING English!
+
+We are having our annual SPRING SIGN-UP during the last week of April. We’ll have special memberships available. **More as the weeks progress!**
+
+ A quick recap: downtown, versatile, adjective, adverb, noun
