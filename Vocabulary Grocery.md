@@ -5807,3 +5807,135 @@ Join us, get coached and start MASTERING English!
 We are having our annual SPRING SIGN-UP during the last week of April. We’ll have special memberships available. **More as the weeks progress!**
 
  A quick recap: downtown, versatile, adjective, adverb, noun
+
+
+
+### 3/28/2019
+
+TO LEARN: packed to the brim, a surge, the mother of all ~
+
+Hi ,
+
+Our newest listening lesson DDM 561 **is PACKED TO THE BRIM (completely full) of excellent phrases and idioms that Americans use EVERY day!**
+
+- brim: The brim of a hat is the wide part that sticks outwards at the bottom. 
+
+But unless you know them and are able to use them…they’re tough!
+
+So, the DDM students learn them, practice them AND use them! It’s the only way to master them!
+
+I’ll introduce a few to you, okay? These expressions were spoken within 30 seconds of each other:
+
+- We see a surge~
+
+- packed to the brim
+
+- If history is any guide~
+
+- We’ll see some spillover.
+
+- The mother of all mail days!
+
+- Guess who signed up!
+
+All six are SUPER common in daily English. How many of those expressions have YOU used?
+
+Probably none… My students? ALL of them!
+
+They learned them with me. And the next time they hear them, they’ll probably recognize them. And once they start recognizing the expressions, they’ll want to use them. And only by using the expressions can they master them!
+
+Learning is just one step. Mastering is a step-by-step process. And that’s what I help them with EVERY lesson—mastery! You should join us!!
+
+So, back to those six expressions—what do they mean? How can we use them? In this email lesson, I’ll teach you two of them!
+
+**We see a surge~**
+
+This means that “we will see/experience/have” a “SUDDEN and HUGE increase”.
+
+Right before Valentine’s Day, there’s a SURGE in chocolate sales.
+
+My computer is plugged into a **SURGE protector—**just in case we have an electrical problem.
+
+When I drink coffee and take my Gorilla Rush, I feel a **SURGE** in my brain and I am able to do a TON of work!!
+
+Can you make a sentence using surge? DON’T JUST COPY ONE ON THE INTERNET!! Make your own!
+
+**The mother of all mail days!**
+
+“The mother of all” means the “biggest/best/worst example of all ~” It does NOT mean that “it is the mom”!!!
+
+In our lesson, “the mother of all mail days” meant “the BUSIEST mail day of the year”. The busiest mail day of the year is NOT Christmas…it’s NOT Valentine’s Day! It’s Mother’s Day!!
+
+The hamburger below—it’s the mother of all hamburgers!
+
+The truck below…wow! That’s the mother of all monster trucks!
+
+A diamond ring! It’s the mother of all gifts for your wife!
+
+There are SO MANY idioms and phrases in English. And every day there’s a new one! Or we take an old expression and make it new by changing a word~
+
+The only way to LEARN is to be surrounded by English AND to be coached!
+
+A quick recap: **packed to the brim****,** **a surge****,** **the mother of all ~**
+
+
+
+### 3/29/2019
+
+**TO LEARN: dozen, paid off (FOUR meanings)**
+
+ LME 59
+
+It’s Phrasal Verb Friday! Again, with inspiration from DDM 561! We have over **TWO DOZEN** (one dozen = 12, two dozen = 24) phrasal verbs in that assignment! Like I tell my students, Monday lessons are REAL DAILY ENGLISH!
+
+One of the phrasal verbs was…
+
+**Paid off**
+
+I’ve told you guys before; the problem with phrasal verbs is ONE phrasal verb can have several different meanings~ You remember, right?
+
+Now since the verb has the word PAY…it should be related to MONEY, right?
+
+Yes! It often is related to money, but not always as I will show you. “Pay off” has FOUR meanings that I could think of. There might be more!!
+
+Here are the possible definitions:
+
+- **bring a BENEFIT** *(often NOT about money!)*
+
+Taking a nap **paid off**—I feel great!
+
+Studying all night **paid off**. I passed the exam 😊
+
+- **repay a debt/loan** *(usually about money!)*
+
+I will **pay off** my credit card debt next January.
+
+I don’t have any money to **pay off** my loan~
+
+- **bribe** *(usually about money!)*
+
+The student tried **paying off** the teacher for a good test score.
+
+The politician is rich because he was **paid off**.
+
+- **give employees a termination payment before a business closes—pay them the money they are owed** *(about money!)*
+
+The workers are demonstrating because they weren’t **paid off**.
+
+I can’t **pay off** the employees—I’m broke. They’re going to go crazy~
+
+The first two examples are THE MOST COMMON. I recommend that you practice those two usages a lot, okay?
+
+And to finish out today…a quick quiz! It’s easy! Get the **verb tense** and KNOW the **specific meaning** in the following four sentences!
+
+The workers will be **paid off** before the factory closes.
+
+I tried to **pay off** a cop~
+
+Studying with Coach Shane has really **paid off**.
+
+I won’t **pay off** my house until 2024.
+
+
+
+A quick recap: **dozen****,** **paid off** **(FOUR meanings)**
