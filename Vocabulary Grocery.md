@@ -5939,3 +5939,71 @@ I won’t **pay off** my house until 2024.
 
 
 A quick recap: **dozen****,** **paid off** **(FOUR meanings)**
+
+
+
+DDM 189
+
+Operation    Desert    Storm:    the    name    of    the operation/battle/war the US started in order to stop  Saddam  Hussein’s  seizure  of  Kuwait(1990-1991).Coalition:group of like-minded countriesWithdrawing:leaving (especially for military forces)Lifts off: takes off
+
+Cape  Canaveral,  Florida:  home of  the  Kennedy Space Center
+
+Turns out   to   be:   ends   up   being, ultimately becomes
+
+Tragedy:horror
+
+Disintegrates:breaks     down     into nothing,    breaks    completely apart
+
+On re-entry: as it re-entered the Earth’s atmosphere
+
+Prohibition: the time in America when alcohol was completely banned (illegal)
+
+Takes effect: starts, kicks off
+
+Barring:stopping
+
+Repealed:canceled
+
+Facing:in the face of
+
+Growing:increasing
+
+Unrest:civil angst, demonstrations, protests
+
+Shah: king
+
+Flees into exile: runs away from one’s country and is not wanted back
+
+Fundamentalist:a very conservative religious group that takes the word from their Holy book as literal(completely true)Regime:government—especially a non-democratic government
+
+Ayatollah: a very high-ranking Shiite Muslim cleric (religious leader)
+
+Seized: taken by force
+
+
+
+DDM 190
+
+- What a ~: that ~ was great (BUT, it could be negative, too!! You have to watch the expression/intonation)
+- Cinch:hold, secure
+- Concerned:worried
+- Flap:flow, blow, move freely. These flags are flapping in the breeze...
+- In the breeze: in the light wind that you create while walking around the house!
+- Manipulation:
+- Outfit:the clothing that you wear (especially clothing that goes together)
+- Dressing up: wearing something special
+- Come as you are: not worried about what you are wearing
+- Abomination:an absolutely HORRIBLE thing
+- Merry:jovial, a very happy person
+- I’ll give him that: I’ll agree that he is ~, Even though I don’t like him I will accept that he is ~ (the“~”is something good)
+- Plant:any potted green! From grass to flowers to cacti
+- Tiff: argument~
+-  smooth things over: will patch things up, will resolve our issues, will solve our problems
+- Out of the blue: all of the sudden
+- Mae West:a famous actress from the early and mid-1900s. 
+- She was famous for “talking  dirty”!Her  famous  line  was “Come up and  see   me sometime?”
+- Going downtown: have a physical relationship...this is an expression that Elaine is making to mimic the style of speech (suggestive style of speech) that Mae West used.
+- Impacted molar: a wisdom tooth that is blocked by another tooth (or teeth) so it causes great pain~This picture is EXTREME!!
+- Using A as a springboard to B: taking advantage of A in order to B
+- Sex romp: a physical relationship will little or no emotional attachment
+- move it out of here ==> outta here 
