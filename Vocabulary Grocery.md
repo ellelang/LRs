@@ -5944,7 +5944,13 @@ A quick recap: **dozen****,** **paid off** **(FOUR meanings)**
 
 DDM 189
 
-Operation    Desert    Storm:    the    name    of    the operation/battle/war the US started in order to stop  Saddam  Hussein’s  seizure  of  Kuwait(1990-1991).Coalition:group of like-minded countriesWithdrawing:leaving (especially for military forces)Lifts off: takes off
+Operation    Desert    Storm:    the    name    of    the operation/battle/war the US started in order to stop  Saddam  Hussein’s  seizure  of  Kuwait(1990-1991).
+
+Coalition:group of like-minded countries
+
+Withdrawing:leaving (especially for military forces)
+
+Lifts off: takes off
 
 Cape  Canaveral,  Florida:  home of  the  Kennedy Space Center
 
@@ -5998,7 +6004,7 @@ DDM 190
 - I’ll give him that: I’ll agree that he is ~, Even though I don’t like him I will accept that he is ~ (the“~”is something good)
 - Plant:any potted green! From grass to flowers to cacti
 - Tiff: argument~
--  smooth things over: will patch things up, will resolve our issues, will solve our problems
+- smooth things over: will patch things up, will resolve our issues, will solve our problems
 - Out of the blue: all of the sudden
 - Mae West:a famous actress from the early and mid-1900s. 
 - She was famous for “talking  dirty”!Her  famous  line  was “Come up and  see   me sometime?”
@@ -6006,4 +6012,18 @@ DDM 190
 - Impacted molar: a wisdom tooth that is blocked by another tooth (or teeth) so it causes great pain~This picture is EXTREME!!
 - Using A as a springboard to B: taking advantage of A in order to B
 - Sex romp: a physical relationship will little or no emotional attachment
+  - romp
 - move it out of here ==> outta here 
+
+### 3/20/2019
+
+- amendment: An amendment is a section that is added to a law or rule in order to change it. 
+  ...an amendment to the defense bill. 
+  ...a constitutional amendment... 
+
+- repeal:
+- sale-- > sey yil
+- hostage: 
+- embassy
+- seized: 
+
