@@ -6015,15 +6015,48 @@ DDM 190
   - romp
 - move it out of here ==> outta here 
 
-### 3/20/2019
+### 3/30/2019
 
 - amendment: An amendment is a section that is added to a law or rule in order to change it. 
   ...an amendment to the defense bill. 
   ...a constitutional amendment... 
-
 - repeal:
 - sale-- > sey yil
 - hostage: 
 - embassy
 - seized: 
+
+
+
+## April 2019
+
+### 4/1/2019
+
+LME 58:
+
+Hi, April Fools!! Just joking!! Sorry~~!!
+
+Oh, I feel bad for teasing you! But—I’m teasing you for a good reason. Because it’s **April Fools’ Day**…also spelled **April Fool’s Day** and **April Fools** **Day**!
+
+This is an OLD “holiday”! And different cultures have different ideas about how it began. In many Spanish speaking countries, in fact, they celebrate this “holiday” on December 28th!
+
+Whether you “celebrate” this holiday in December or today, one thing is certain: some people LOVE it and some people HATE it!! Me? I like it
+
+In the US, it’s common **to pull pranks**—*to make jokes*—on people. Like I did to you! If the person “believes our prank”, then we shout “**April Fool**!” That makes the **prankster** (me) feel good and the victim (you) feel bad or embarrassed or even angry!
+
+- pranks: a trick that is played on sb as a joke: a childish / silly prank ◆ The incident was a prank that went wrong.
+  **prankster** noun: Student pranksters have done considerable damage to the school buildings.
+
+Don’t be angry!!
+
+Here are some classic April Fools pranks that have been pulled around the world! Can you share one with us?
+
+
+
+Which of those four was your favorite? I thought the selfie-shoe was brilliant! But the Swiss **hoax** (joke/prank) was excellent, too! And 1967 was the year I was born! Great year😊
+
+- hoax:  something intended to deceive; deliberate trickery intended to gain an advantage
+  v.  subject to a playful hoax or joke
+
+A quick recap: **April Fools’ Day****,** **pull pranks on SMO****,** **April Fools!****,** **prankster****,** **hoax**
 
