@@ -6060,3 +6060,99 @@ Which of those four was your favorite? I thought the selfie-shoe was brilliant! 
 
 A quick recap: **April Fools’ Day****,** **pull pranks on SMO****,** **April Fools!****,** **prankster****,** **hoax**
 
+
+
+### 4/2/2019
+
+LME
+
+Step up your game.
+
+Everyone wants something MORE in their life.
+
+Some want more money. Some want more time.  Some want more chances. Some want more education. Some want better health. Some want a nicer home. Some want a nicer family. Some want better friends. Some want better food. Some want more peace. Many want a lot of those things. Maybe all!
+
+Go for it. Do it. Really.  The key is "DO".
+
+You are reading this email on the internet. That means you have some money. You have some time. You have some education. With those three things--anything is possible.
+
+But you must DO something.  Wishing and hoping and wanting...not productive. 
+
+But, being productive is DIFFICULT. It might be one of the most difficult things in the world for a lot of people. These days, for me, exercise is something I need to do and I think about doing and I plan to do... but...
+
+[embarrassed] ...I'm not doing it enough.
+
+I should be active at least three days a week, I'm lucky to be active one day a week. No time to "feel bad". Much better to DO it. I recently started a 30-day Challenge. It's not about exercise! It's about work. I'm currently on Day 9. And I'm doing great. BUT IT IS NOT EASY!!
+
+I'm waking up at 5am in order to have the time to do it. I HATE WAKING UP AT 5AM!!!
+
+But I'm really enjoying DOING the challenge. And I think it will really benefit me (and you!).
+
+Do it.  If you want to improve something in your life.
+
+STEP UP your game. DO IT. Okay...wow~! Enough chitchat!Let's start this newsletter! 
+
+- Lesson 52 - coffee topic...
+  I don't care for coffee. When I have a busy day and need to get into the zone, I drink **yerba mate** - it's an herb which contains caffeine. It keeps me awake and helps me to stay focused much longer than coffee.
+
+ This herb doesn't grow in Poland, so stores have to import it from South America. But it's pretty cheap.
+
+ To drink yerba mate, you need a bombilla (a special straw) and a gourd (a special cup). Also, the water needs to be at the proper temperature and you have to pour it in a proper way... It's a whole ritual! But I'm not much of a yerba-ritual-lover, I simply drink it out of normal mug.
+
+ One important thing: I don't recommend it if you're looking for something tasty to drink:)
+
+ Some people say it tastes like licking an **ashtray** or like chewing dried weeds!! I remember the first time I tasted yerba -- it grossed me out. But over time I got used to it. Also, it's not good for your **vocal cord**s, so I'm having a bit of a hard time when practicing my English out loud - caffeine dries the vocal cords~~
+
+Hi Darek! 
+
+ I've heard good things about yerba tea, Darek. But I guess I will NOT recommend it to English learners!!! My students--including you--NEED to speak out loud! The louder the better! Thank you for sharing, Darek. And SUPER job on the English writing!
+
+- Hi, Coach Shane! It's great to get your daily letters! I would like to participate in  the LIVE classes, but I'm going to work a bit more on the amazing DDM lessons to gain a little more confidence for the LIVE classes : 
+
+
+I had my first bike trip of the year a couple days ago and should say...It's NOT warm outside). I listened to DDM during the trip. I know you have similar conditions where you live and I hope you **have a real and blooming spring** soon! And that the deer will be okay, too! Bye bye!
+
+Hi Vasily! 
+
+ YES!! We've had a few warm days, but today we got more SNOW!! I think, though, by tomorrow it will be gone. The forecast looks warm. That is good news for me, my wife AND the deer!
+
+I LOVE the snow, I LOVE the winter...but I'm ready for spring! And perhaps a little biking this year, too. And FISHING! With Mikey! Can't wait^^
+
+And judging by your English letter, I'd say your English is very good--SO JOIN THE LIVE CLASSES!
+
+This weekend I hope to see you in my AMA classes (Friday night and Saturday morning), okay?
+
+Hi, my name is Vlad. You can call me Coach Vlad! I'm going to lead a new Action English class!
+
+ 
+
+Action English?
+
+It's a freestyle conversations/discussion class with a focus on current issues and trending topics.
+
+The course is for advanced students! We already have two students joining me--I'd love for you to join me, too!
+
+My class is on Fridays at 10pm LA time (that's Saturday 1pm Beijing time or Saturday 8am in Moscow). We have a limit of 5 students, so hurry!
+
+
+Coach Vlad! 
+
+ 
+
+I'm really happy to welcome you to the LME family! You're going to be GREAT!
+
+  This is Coach Vlad's FIRST English class with people from around the world. He is going to be nervous! He'll be using new technology...I'm really excited for him! I remember my first class...wow!
+
+If you are interested in joining Coach Vlad, send an email to HELP@LetsMasterEnglish.com
+
+Again, there is a LIMIT on the number of students and he already has two!
+
+
+
+- Have you met Country Shane? Country Shane was over for the LME Podcast and it was his first time seeing Mikey in many months. Mikey was SCARED of Country Shane because his beard grew so much. And that Irish red hair...Mikey thought he was the devil! Eventually, though, he gave Country Shane a nice hug!!
+
+- Running errands.  Getting pine shavings for my chickens! And since spring is here--the local store has CHICKS for sale! Chicks are so soft and tiny...eventually, though, they turn into little dinosaurs!!
+
+Ham, sauerkraut, mashed potatoes and lots of peas and corn! YUMMY! And check out my shirt...VERY cool!
+
+- sauerkraut: 
