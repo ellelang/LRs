@@ -6156,3 +6156,51 @@ Again, there is a LIMIT on the number of students and he already has two!
 Ham, sauerkraut, mashed potatoes and lots of peas and corn! YUMMY! And check out my shirt...VERY cool!
 
 - sauerkraut: 
+
+### 4/3/2019
+
+LME 60
+
+Remember I told you about the **FOUR IMPORTANT THINGS**you need to master in order to be comfortable with daily English?
+
+**Pronunciation**
+
+**Pronouns**
+
+**Get/got**
+
+**Phrasal Verbs**
+
+There is NO special order—**you need to know ALL of them**.
+
+Today in our DDM VIP lesson, a student asked a question about the pronoun “it” in the following section:
+
+*I’m gonna ask you some personal questions. I’m sorry if I touch a nerve, but I think **it**’ll help with the case.*
+
+The person speaking was a police detective and he was investigating a stolen car. But the POINT of the question…
+
+**“Shouldn’t the detective have said THEY and not IT?”**
+
+Ooh, great question! Right?
+
+And doesn’t “it” actually refer to “some personal questions”? If so, then YES! The detective should have said THEY!!!
+
+**But**…the detective was NOT referring to the personal questions! He was referring to **THE INFORMATION** that **he would** **glean**(collect, gather) FROM the personal questions.
+
+“It” refers to “information”!!
+
+**Oh…but HOW do we know that?**
+
+Exactly!
+
+That is why I tell students—**you NEED to master pronouns**!
+
+Americans FREQUENTLY use pronouns without EVER using the noun they are referring to! Ugh~~
+
+Yes, that is frustrating!
+
+That’s why a class like DDM is SO DAMN GOOD!! You should join.
+
+Do it!
+
+Have a super day! I’ll see you tomorrow!
