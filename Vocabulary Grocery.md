@@ -6204,3 +6204,48 @@ That’s why a class like DDM is SO DAMN GOOD!! You should join.
 Do it!
 
 Have a super day! I’ll see you tomorrow!
+
+
+
+### 4/4/2019
+
+LME 61
+
+Thursday, April 4 
+
+**TO LEARN: grout, gross mold, disgusting black stuff, brownish-black, caked-on grime, icky crud, gunk, nasty shower muck**
+
+On Thursdays I create [a new speaking assignment for my PIRF ](https://www.letsmasterenglish.com/signup/pirf/)VIP students. Tonight’s assignment was “Giving Advice—How to clean grout!”
+
+**Grout** is that white stuff between tiles like in the picture below.
+
+Anyway, when you are SPEAKING (or writing!), do you want to use the same word over and OVER and OVER again? No!
+
+It’s best if you can use a few different words that mean the same thing. But learning something like that is NOT easy…unless you take my classes!
+
+In this new speaking assignment, I did that.
+
+I first used the phrase “**gross mold**”: --> *disgusting black stuff* like in the picture below!
+
+Then I used some different phrases which meant the same thing. Check them out:
+
+**Brownish-black, caked-on grime**
+
+**Icky crud**
+
+**Gunk**
+
+**Nasty shower muck**
+
+All of those phrases refer to the SAME THING. But because we used different words, it’s MUCH MORE FUN to say and MUCH MORE INTERESTING to listen to!
+
+Upgrading your English from beginner to intermediate REQUIRES that you start learning a variety of expressions that you can use in the same/similar situations.
+
+Upgrading your English from intermediate to advanced REQUIRES that you recognize when Americans do it and you LEARN THEM as they speak!
+
+[That’s what we do in my classes. We upgrade your English. Join and start upgrading TODAY](https://www.letsmasterenglish.com/signup/)!
+
+By the way, in the lesson we really do learn how to EASILY clean grout!
+
+A quick recap: **grout****,** **gross mold****,** **disgusting black stuff****,** **brownish-black, caked-on grime****,** **icky crud****,** **gunk****,** **nasty shower muck**
+
