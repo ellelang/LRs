@@ -6249,3 +6249,93 @@ By the way, in the lesson we really do learn how to EASILY clean grout!
 
 A quick recap: **grout****,** **gross mold****,** **disgusting black stuff****,** **brownish-black, caked-on grime****,** **icky crud****,** **gunk****,** **nasty shower muck**
 
+
+
+### 4/6/2019
+
+LME 64
+
+**TO LEARN: go through—EIGHT usages!**
+
+Several weeks ago, we learned a little about the PHRASAL VERB **to go through**. It is a SUPER common phrasal verb and we have it in our assignments a LOT. It came up in our new [DDM ](https://www.letsmasterenglish.com/signup/ddm/)563 assignment
+
+> "Alright." And now I feel for them because I thought they were weak. They're not weak. They're doing the best they can in the world that I didn't, I didn't have to **go though**. Like when I was a kid-and a lot of use were kids, you know, we didn't know anything, so we could do stuff. Like, we were still like debating seatbelts. Like, we know what was in the newspaper. 
+
+This phrasal verb can have several meanings. I’ll introduce EIGHT common usages to you. Yes—EIGHT!!
+
+- To experience
+- To experience a hardship
+- To pass through something
+- To search for something INSIDE something else
+- To be approved
+- To spend money
+- To interview
+- To try
+
+ 
+
+Wow!! That’s a lot! Let me show you some examples of each, okay?
+
+ 
+
+- **To experience**
+
+What sort of things do you go through throughout your day?
+
+We all go through a lot of different things in college.
+
+- **To experience a hardship**
+
+I went through a divorce last year.
+
+I hope you don’t go through a battle with cancer.
+
+- **To pass through something**
+
+We had to go through a tunnel in order to drive from London to Paris.
+
+The mouse went through a maze to find the cheese.
+
+ 
+
+- **To search for something INSIDE something else**
+
+I went through this book and found some really good information.
+
+I’ll go through the drawer and find a pencil.
+
+- **To be approved**
+
+The project went through last night at the meeting.
+
+I hope my loan application goes through.
+
+- **To spend money**
+
+I went through $300 at the grocery store.
+
+How much money do you go through each month?
+
+- **To interview**
+
+I made it! After going through 10 different people, they hired me!
+
+We have five candidates to go through.
+
+- **To try**
+
+I went through five different beers before I found one that I liked.
+
+After going through all of Coach Shane’s different lessons, I chose to sign up for DDM!
+
+So, now you’ve had a chance to go through this email—what do you think?!
+
+In order to MASTER phrasal verbs—you need EXPERIENCE. You have to go through situations where you are hearing and using these phrasal verbs!
+
+A quick recap: **to go through****—****EIGHT usages**
+
+ 
+
+Have a SUPER weekend! I’ll be back on Monday
+
+  
