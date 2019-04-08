@@ -6339,3 +6339,11 @@ A quick recap: **to go through****—****EIGHT usages**
 Have a SUPER weekend! I’ll be back on Monday
 
   
+
+### 4/8/2019
+
+- wrangle: wrangle wrangles wrangling wrangled 
+  If you say that someone is wrangling with someone over a question or issue, you mean that they have been arguing angrily for quite a long time about it. 
+  The two sides have spent most of their time wrangling over procedural problems. 
+  A group of MPs is still wrangling with the government over the timing of elections. 
+- 
