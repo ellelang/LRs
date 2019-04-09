@@ -6346,4 +6346,51 @@ Have a SUPER weekend! I’ll be back on Monday
   If you say that someone is wrangling with someone over a question or issue, you mean that they have been arguing angrily for quite a long time about it. 
   The two sides have spent most of their time wrangling over procedural problems. 
   A group of MPs is still wrangling with the government over the timing of elections. 
-- 
+
+
+
+LME 63
+
+**TO LEARN: mogul, wizard, surgeon, gruesome, opponents, Loser buys beer!**
+
+Do you ever play board games? Are they still popular?!
+
+When I was a kid, I had about ten different board games. I’ll list a few and show you pictures—maybe you have the same ones in your country!
+
+**Monopoly!**
+
+Everyone played this game—and my mom was the champion. She always believed that she could have become a real estate **mogul***(someone who is rich and powerful—in this case, a rich and powerful land and building owner)!
+
+**Battleship**
+
+What a great game—but you needed two people to play. I lived in the country as a kid and didn’t have many chances. BUT—when I played, I was a true military **wizard** *(genius)*!
+
+**Operation**
+
+I didn’t own this game, but I played it a few times. It was SO cool. Maybe if I had actually owned one, I would have become a **surgeon***(a doctor who treats people by cutting into the body* 😱*)* instead of an English teacher.
+
+**Checkers**
+
+Super easy but so much fun. I used to play this with my grandpa every time he visited. I think he let me win a lot!!
+
+**Clue**
+
+This was another super game that I didn’t own but loved to play. If you are familiar with this game…it’s actually quite **gruesome***(horrible—gross)*!
+
+**LIFE**
+
+Oh, I really loved this game, too. It was all about…LIFE! And when I was a kid, I REALLY looked forward to starting my own independent LIFE! Now I have my own independent life…I can tell you, real life is more exciting than the game of LIFE! Anyway, it was fun!
+
+Finally…last but not least!
+
+**Scrabble**
+
+This was and still is my favorite board game. I still play it with my wife. And, of course, I always win. I guess this is the reason I became a teacher! NO DICTIONARIES—except to check on my **opponents***(the people I am playing against)*!
+
+Oh, there are SO many more board games. But those are a few of my old favorites. What about you?
+
+Oh, by the way, April 13th is National Scrabble Day in the USA! If you’re in my neighborhood, let’s play a game! **Loser buys beer** *(the person who loses the game MUST buy beer for everyone else)*!
+
+A quick recap: **mogul****,** **wizard****,** **surgeon****,** **gruesome****,****opponents****,** **Loser buys beer!**
+
+Have a SUPER week! I’ll be back tomorrow with our English Magazine😊
