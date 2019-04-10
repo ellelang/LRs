@@ -6389,8 +6389,152 @@ This was and still is my favorite board game. I still play it with my wife. And,
 
 Oh, there are SO many more board games. But those are a few of my old favorites. What about you?
 
-Oh, by the way, April 13th is National Scrabble Day in the USA! If you’re in my neighborhood, let’s play a game! **Loser buys beer** *(the person who loses the game MUST buy beer for everyone else)*!
+Oh, by the way, **April 13th is National Scrabble Day** in the USA! If you’re in my neighborhood, let’s play a game! **Loser buys beer** *(the person who loses the game MUST buy beer for everyone else)*!
 
 A quick recap: **mogul****,** **wizard****,** **surgeon****,** **gruesome****,****opponents****,** **Loser buys beer!**
 
 Have a SUPER week! I’ll be back tomorrow with our English Magazine😊
+
+### 4/9/2019
+
+- surrogate: be used as a surrogate for sth.
+
+You use surrogate to describe a person or thing that is given a particular role because the person or thing that should have the role is not available. 
+Martin had become Howard Cosell's surrogate son
+
+- dispersion
+
+Dispersion is the spreading of people or things over a wide area. (FORMAL) 
+The threat complicates military planning, forcing greater dispersion of their forces. 
+
+- vicosity
+
+Viscosity is the quality that some liquids have of being thick and sticky
+
+- encroachment: 
+
+  1: to enter by gradual steps or by stealth into the possessions or rights of another 
+  2 : to advance beyond the usual or proper limits <the gradually encroaching sea> 
+
+- ember: The embers of a fire are small pieces of wood or coal that remain and glow with heat after the fire has finished burning
+
+- displacement: Displacement is the removal of something from its usual place or position by something which then occupies that place or position. (FORMAL) 
+
+  - No barrier prevents our gradual, purposeful displacement of tradition. 
+
+- automata: An automaton (pronunciated /ɔːˈtɒmətən/)(plural: automata or automatons) is a self-operating machine, or a machine or control mechanism designed to follow automatically a predetermined sequence of operations, or respond to predetermined instructions. 
+
+- convoluted: If you describe a sentence, idea, or system as convoluted, you mean that it is complicated and difficult to understand. (FORMAL) 
+
+- ad hoc: An ad hoc activity or organization is done or formed only because a situation has made it necessary and is not planned in advance. 
+
+- **orchestrated** behavior: If you say that someone orchestrates an event or situation, you mean that they carefully organize it in a way that will produce the result that they want. 
+
+- flocks of birds or schools of fish.
+
+- traverse: If someone or something traverses an area of land or water, they go across it. (LITERARY) 
+  I traversed the narrow pedestrian bridge.
+
+- overland 
+
+- quadruple 
+
+LME
+
+
+My wife gets very angry when I tell her not to worry so much.  How about you?
+
+Worrying doesn't get you anywhere.  We all worry...but don't let worry CONSUME you.
+
+When I think about something and start to worry, I immediately think:
+
+OKAY! Yes, that might happen. That would not be good. WHAT can I do right now that might prevent that from happening? And IF it happens, what will I do?
+
+By planning on PREVENTION and by planning on WHAT'S NEXT--you can cut your worrying time down. A lot. And life suddenly doesn't seem so bad.
+
+Be PROACTIVE. Act BEFORE things happen. Have yourself prepared BEFORE things happen.
+
+Well, that's what I try to do. I'm not always successful, but I try.
+
+And I worry less. Which allows me to work more!
+
+PROACTIVE!
+
+You are being proactive right now with your English. What else are you being proactive with?
+
+Let me know!
+
+And by the way, our SPRING sale is coming up. The last week in April! If you've been waiting for a great opportunity to join our classes, perfect! 
+
+**Stay tuned**! 
+
+- Tuned:
+
+- I couldn't remember the name of this game, but it was fun!
+
+I joined a club recently that had a lot of foreign members. 
+
+I thought it was a language exchange club, but it's not. It's for people who want to play board games! It's hard to follow all the rules, but I got second place two times out of three different games.  I will keep going to the club, but the community is already very **tight** it will take time to get close to them. But I'm doing my best!
+
+Hi Jiwon!  I'm proud of you! Jiwon works SUPER hard in DDM and PIRF. And now he's found a GREAT place to practice English "real-time" in Korea! Keep going, don't win all the time and soon you will also become a member of their **tight-knit** community! Keep it up, Jiwon!
+
+- tight-knit
+
+Hi Coach Shane!
+
+ Alex watched your LIVE class when you were with Mikey (he showed me Mikey. He hadn't see him in a long time. Mikey **charmed** him. Good boy, Mikey)
+
+- charm: If you charm someone, you please them, especially by using your charm
+
+Hi Gulya!  Just as you said, they grow up SO fast! Mikey's getting heavy! And he's **starting to throw stuff!** I love it!!
+
+I'm excited to tell everyone that Gulya will soon become COACH GULYA!! We are going to be starting a DDM RUSSIA very soon. It's for Russian students who are NOT completely ready for English-Only DDM. Gulya will be their coach and her job is to be the BRIDGE. She will help Russian speakers get used to DDM and eventually join our English-Only LIVE classes! 
+
+We have the DDM BRAZIL with Coach Paul--he does the same thing!
+
+If anyone is interested in joining DDM with Coach Gulya or Coach Paul, please let us know!
+
+- Hi! How are you doing? BTW, good spring weather is here. So I commenced my MTBing. The first workout was on Saturday in the country, the second on Sunday in the city--both in the evening. Hope you like'em. Take care, see ya! 
+
+  - commence: When something commences or you commence it, it begins. (FORMAL) 
+    The academic year commences at the beginning of October. 
+    They commenced a systematic search. 
+
+  Hi Andrey!  WOW!! I'm jealous! We still have snow...in fact, we're supposed to get MORE snow tomorrow~It will be at least a month before I can get out on my bike. These days, though, I'm riding my road bike on my indoor trainer with Zwift! Do you Zwift?
+
+  Are there any Zwifters out there? Let me know! Keep it up, Andrey! I'm not far behind you!!
+
+
+- This is Santa Cecilia Farm - Cajuru - São Paulo - Brazil
+
+ Hello Coach Shane, I like coffee as much as the English enjoy tea.
+
+ I am from Brazil.I was born in São Paulo. In my home town, coffee farms **emerged** from the 19th century and then the city developed from this trade. Today these farms are tourist spots.
+
+Would you like a cup of Brazilian coffee coach Shane? Have a nice weekend!
+
+Hi João,  I would LOVE some Brazilian java!! I know about Colombian coffee...I did NOT know about Brazilian coffee. I'll look for some online! If I make it to Brazil, let's have a cup together!!
+
+- punch today in the face
+
+  Hi Andrey, Andrey is another SUPER STAR DDM and PIRF VIP student. Full-time job, too.
+
+  How does he do it? He **PUNCHES every day in the face. BOOM! He seizes the day.** He does it. He has power and determination. And he's a really cool guy! Keep punching, Andrey!
+
+
+- Family outing. Our FIRST spring walk. Mikey wasn't TOO excited... But I was.
+
+   It was a short walk--the **air is still pretty crisp and the humidity is high with all the melting snow.** There will be better days soon!
+
+
+Getting advice is good! I called my dad to **ask for some pointers on** how to cook hamburgers right out of the freezer. He gives great advice!
+
+First **grilling** of the year. Wonderful!! I love cooking with FIRE!
+
+Good burgers. Good times.  I cooked 14 hamburgers! I ate one. My wife had one. Six more meals are waiting for us in the freezer!!
+
+Wife made me lunch before I went back to my work. Simple joys!  
+
+Why do I have children's toys next to me?
+
+Mikey LOVES to put his toys on the table. He puts them there, then takes them down. Then puts them back. Then takes them down...Simple joys!!
