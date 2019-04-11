@@ -6538,3 +6538,11 @@ Wife made me lunch before I went back to my work. Simple joys!
 Why do I have children's toys next to me?
 
 Mikey LOVES to put his toys on the table. He puts them there, then takes them down. Then puts them back. Then takes them down...Simple joys!!
+
+### 4/10/2019
+
+- hexagonal
+
+- stratovolcano: 
+
+  Since we are in Seattle, let’s use some DEMs of our friendly, neighborhood stratovolcano, Mount Rainier (**AKA** Tacoma or Tahoma). Can we calculate long-term and recent glacier elevation/volume change?
