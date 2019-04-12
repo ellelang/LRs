@@ -6541,8 +6541,51 @@ Mikey LOVES to put his toys on the table. He puts them there, then takes them do
 
 ### 4/10/2019
 
-- hexagonal
+- hexagonal: having six angles and six sides 
 
-- stratovolcano: 
+- stratovolcano:  a volcano composed of explosively erupted cinders and ash with occasional lava flows
 
   Since we are in Seattle, let’s use some DEMs of our friendly, neighborhood stratovolcano, Mount Rainier (**AKA** Tacoma or Tahoma). Can we calculate long-term and recent glacier elevation/volume change?
+
+LME 65
+
+TO LEARN: umbrella/brolly, stroller/pram, wellies/rainboots, settee/loveseat, duvet/blanket, box/TV, knackered/tired, knock off/call it a day
+
+Hi ,
+
+Let’s study a few more differences between American English and British English! Again, we will focus on vocabulary!
+
+Those British **blokes** are lucky—thanks to Hollywood (movies, TV shows and music)—they’re quite informed when it comes to American English.
+
+But them ‘mericans…they don’t speak British English very good!
+
+But I do! Kind of! And my wife does! So she helped!!
+
+Let’s go with the theme of April, shall we?
+
+During this spring month, one thing you will certainly need is a **brolly.** And when I’m out with Mikey in his **pram**, I had best wear some **Wellies**.
+
+And if you said that in America, they would have NO idea what you were talking about. Before I translate that, let me continue.
+
+My wife doesn’t enjoy walking in the rain. She’d rather sit in front of the box all day. She covers herself with the **duvet** which hangs on the back of our **settee**, too.
+
+If it were sunny outside, I’d definitely sit in the garden. Of course, I’d have my **secateurs** at my side. This all after my Sunday **carvery!**
+
+Whew! I’m knackered! Time to knock off^^
+
+- knackered: extremely tired
+- knock off: to stop doing something 
+
+What was all of that above?! Just a day in the life of a guy like me in the UK! Let me tell you what his American counterpart…erm…ME! Let me tell you want I would say:
+
+During this spring month, one thing you will certainly need is an **umbrella**. And when I’m out with Mikey in his **stroller**, I had best wear some **rainboots**.
+
+My wife doesn’t enjoy walking in the rain. She’d rather sit in front of the TV all day. She covers herself with the blanket which hangs on the back of our **loveseat**, too.
+
+If it were sunny outside, I’d definitely sit in the yard. Of course, I’d have my **clippers** at my side. This all after my Sunday **brunch**!
+
+Whew! I’m tired! Time to call it a day^^
+
+Did you get all that? Remember, CHOOSING either British or American English is YOUR CHOICE! But I guarantee, if you focus on American English, people around the world will have a much easier time understanding you!! Except if you live IN the UK!!
+
+A quick recap: **umbrella/brolly**,** **stroller/pram**, **wellies/rainboots**,** **settee/loveseat**, **duvet/blanket**,   box/TV**,  knackered/tired**, **knock off/call it a day**
