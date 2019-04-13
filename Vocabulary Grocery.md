@@ -6589,3 +6589,13 @@ Whew! I’m tired! Time to call it a day^^
 Did you get all that? Remember, CHOOSING either British or American English is YOUR CHOICE! But I guarantee, if you focus on American English, people around the world will have a much easier time understanding you!! Except if you live IN the UK!!
 
 A quick recap: **umbrella/brolly**,** **stroller/pram**, **wellies/rainboots**,** **settee/loveseat**, **duvet/blanket**,   box/TV**,  knackered/tired**, **knock off/call it a day**
+
+
+
+### 4/11/2019
+
+- Egregious: Conspicuously bad or offensive. See Synonyms at flagrant.
+- displacement
+
+LME 66
+
