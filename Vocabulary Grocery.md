@@ -6599,3 +6599,135 @@ A quick recap: **umbrella/brolly**,** **stroller/pram**, **wellies/rainboots**,*
 
 LME 66
 
+**TO LEARN: tricky, thrive,** **hacks**
+
+I just finished making the Lesson videos for PIRF 204—it was a speaking assignment about giving advice. Great lesson but the RHYTHM was really **tricky** *(difficult)*. My students will soon master it!
+
+Anyway~
+
+In that lesson, we had a word which is SUPER common in the US. We use the word when people want to find easy, fast ways to improve their lives.
+
+- When they want to exercise for a shorter amount of time.
+- When they want to gain more benefits from their exercise.
+- When they want to eat foods that help their bodies **thrive***(get/stay strong)*.
+- When they want to lose weight without giving up ice cream.
+- When they want to master a language in 30 days.
+- When they want to become excellent at golf in 30 days.
+
+And for EVERY one of these desires…there’s a method and a coach out there ready to help! They offer **hacks**.
+
+Hacks are shortcuts. But VERY effective shortcuts.
+
+For example, people that exercise to lose weight usually go to the gym. Do a little stretching, walk or jog on the treadmill, lift a few weights and go home. They repeat the process two, three maybe five times a week.
+
+The results?
+
+For most people…not very good. And then they give up.
+
+That’s why we have HACKS. Hacks are quick tricks we can do to obtain our desire!
+
+An exercise coach will teach you “a fitness hack”. In fact, I have a fitness hack that I do—I’ve talked about it before. It’s called Nitric Oxide Dump. You can learn more here!
+
+Nowadays in the US, ketosis is a new HACK for people who want to lose weight. I don’t know much about it…but it’s SUPER popular. Here’s a guy that teaches all about ketosis!
+
+When it comes to learning a language, Benny is a guy who has successfully hacked several languages! Do you know about Benny? I normally wouldn’t promote another teacher…but he’s MORE than just English. Plus he’s Irish! You can find out more about Benny here!
+
+The hack we learned about in our PIRF class was…how to EASILY clean **grime** from the g**rout and caulking** in your bathrooms and kitchens! It really was an amazing and simple and fast HACK that works!
+
+- grime: the state of being covered with unclean things
+- grout: Grout is a thin mixture of sand, water, and cement or lime, which is used to 
+  fill in the spaces between tiles that are fixed to a wall.
+- caulking:  a waterproof sealant and filler that is used in building and repair to 
+  make watertight
+
+If you want to know how, join PIRF! Anyone who joins with this button below, I’ll give you that lesson. It was a HARD lesson—but really good!
+
+That’s it for today! Tell me about some hacks that you use—send a picture if you can!
+
+A quick recap: **tricky****,** **thrive****,** **hacks**
+
+### 4/12/2019
+
+LME 67
+
+It’s Phrasal Verb Friday and we’ve got a great one for you today!
+
+Once again, this phrasal verb comes from Monday’s DDM assignment (#564). For VIP students, I have a special bonus assignment. Actually we have two! One is for speaking and the other is for writing. The speaking bonus is called EVC—**Everyone’s Vocabulary Challenge**.
+
+The challenge is: I pick 4 or 5 phrases and words from the assignment and then the student must use them WITH the SAME NUANCE in a sentence. Usually the students do a great job…but sometimes I find a really tough one!
+
+And on Monday I found a tough phrasal verb: **run on**
+
+Why is run on tough? Because it can have SEVERAL meanings and I want the students to use the SAME meaning as in the assignment!
+
+Here are the possible meanings and sentences for **run on**:
+
+- To never end… /to last much longer than expected
+
+After we changed the clocks for DST, the daytime **runs on** forever~
+
+How long is this class going to **run on** for?
+
+- To talk and talk about something BORING
+
+I could **run on and on** about my love for nature!
+
+I hate it when people **run on** about their kids~
+
+- To be fueled/powered by
+
+I wish my house only **ran on** solar power.
+
+I’m going to invent a car that **runs on** water.
+
+
+
+Which TWO of the following are NOT phrasal verb forms of run on?
+
+1. The meeting **ran on** until 6pm.
+2. My brother loves to **run on** about fishing~
+3. He’s so fast he can run on water.   *ON WATER is a prepositional phrase*
+4. My car **runs on** hydrogen.
+5. The business is running on a farm. *ON A FARM is a prepositional phrase*
+
+
+
+DDM 191
+
+- Protections: barriers, barricades
+  - barricade: a barrier (usually thrown up hastily so as to impede the advance of an enemy)
+
+- Revealed: published, made public
+
+- Compiled from...: made up from, created based on
+
+- Gathered: researched, brought together
+
+- Featured: showcased, highlighted, talked about
+
+- Stem from: come from, are rooted in
+
+- Primarily: basically, mostly, pretty much, essentially
+
+- Variations: slight changes, versions
+
+- The number one spot: the highest ranked, the number one, the most popular/common
+
+- Took: had, was placed in
+
+- The top spot: the number one spot, number one...Takes: comes in at, is
+
+- qwerty: the first six alphabet keys on a standard keyboard (from the top right)
+
+- Respectively: in that order
+
+- Suggests: recommends
+
+- Choose: pick, select, create, make
+
+- Special letters: special characters, punctuation marks
+
+- Advise: suggest, recommend
+
+- Various: different
+
