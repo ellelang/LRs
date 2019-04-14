@@ -6696,38 +6696,47 @@ DDM 191
 
 - Protections: barriers, barricades
   - barricade: a barrier (usually thrown up hastily so as to impede the advance of an enemy)
-
 - Revealed: published, made public
-
 - Compiled from...: made up from, created based on
-
 - Gathered: researched, brought together
-
 - Featured: showcased, highlighted, talked about
-
 - Stem from: come from, are rooted in
-
 - Primarily: basically, mostly, pretty much, essentially
-
 - Variations: slight changes, versions
-
 - The number one spot: the highest ranked, the number one, the most popular/common
-
 - Took: had, was placed in
-
 - The top spot: the number one spot, number one...Takes: comes in at, is
-
 - qwerty: the first six alphabet keys on a standard keyboard (from the top right)
-
 - Respectively: in that order
-
 - Suggests: recommends
-
 - Choose: pick, select, create, make
-
 - Special letters: special characters, punctuation marks
-
 - Advise: suggest, recommend
-
 - Various: different
+
+### 4/13/2019
+
+DDM 192
+
+- Peephole: the hole in your front door that allows you to see out while other people cannot see in. Actually, I don’t have a peephole on my door, do you?!Fisheye:  the  term  used  to  describe “what you see” out of a peephole! It seems to have a very wide view compared  to  a  human’s normal vision
+- **Confession**:  a  secret  that  “must  be” told/revealed  in  order for the person to feel “free” or “guiltless”
+- Super Bowl fever: when someone is very excited about the Super Bowl (all their thoughts are about the Super Bowl), you can say “they have Super Bowl fever”...a type of sickness! Me? I have fishing fever! I am very excited about fishing in the area around my new home!!
+- **Gloating over**: bragging about in an overly happy way—usually bragging about “your win” and “someone else’s loss”
+  - If someone is gloating, they are showing pleasure at their own success or at other people's failure in an arrogant and unpleasant way. 
+- Rearranged:  re-aligned,  reorganized.  Have  you  ever  rearranged  your  LIFE  for another person? If not, wait until you have a child!!
+- Unwittingly: unknowingly, inadvertently 
+  - inadvertently: by accident; without intending to: We had inadvertently left without paying the bill.
+- A major commitment: a very important/mature promise/obligation
+- Shouldering half the load: taking half the load/responsibility, doing half the work
+- Leave well enough alone: to NOT touch something...to not “adjust” something that is working “good enough”. I’ll give you a good example in the Explanation video^^
+- Taking over: conquering
+- Ain’t: isn’t, aren’t, am not, does not...
+- Having me over: inviting me over (as a guest)
+- Scalping: illegally  selling  tickets  to  an  event  usually  for  a  very  high  price  and usually outside the venue (stadium/theater)
+  - scalp: If someone scalps tickets, they sell them outside a sports ground or theatre, usually for more than their original value
+- Towing: taking your car (because it is illegally parked, broke, destroyed, unpaid for) with a tow truck
+- cactus: (plural cactuses or cacti ) a plant that grows in hot dry regions, especially 
+  one with thick stems covered in SPINES but without leaves. There are many 
+  different types of cactus.
+- ensconced:  if you are ensconced or ensconce yourself somewhere, you are made or make yourself comfortable and safe in that place or position
 
