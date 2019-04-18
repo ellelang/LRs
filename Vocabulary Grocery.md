@@ -6719,24 +6719,318 @@ DDM 191
 DDM 192
 
 - Peephole: the hole in your front door that allows you to see out while other people cannot see in. Actually, I don’t have a peephole on my door, do you?!Fisheye:  the  term  used  to  describe “what you see” out of a peephole! It seems to have a very wide view compared  to  a  human’s normal vision
+
 - **Confession**:  a  secret  that  “must  be” told/revealed  in  order for the person to feel “free” or “guiltless”
+
 - Super Bowl fever: when someone is very excited about the Super Bowl (all their thoughts are about the Super Bowl), you can say “they have Super Bowl fever”...a type of sickness! Me? I have fishing fever! I am very excited about fishing in the area around my new home!!
+
 - **Gloating over**: bragging about in an overly happy way—usually bragging about “your win” and “someone else’s loss”
+
   - If someone is gloating, they are showing pleasure at their own success or at other people's failure in an arrogant and unpleasant way. 
+
 - Rearranged:  re-aligned,  reorganized.  Have  you  ever  rearranged  your  LIFE  for another person? If not, wait until you have a child!!
+
 - Unwittingly: unknowingly, inadvertently 
+
   - inadvertently: by accident; without intending to: We had inadvertently left without paying the bill.
+
 - A major commitment: a very important/mature promise/obligation
+
 - Shouldering half the load: taking half the load/responsibility, doing half the work
+
 - Leave well enough alone: to NOT touch something...to not “adjust” something that is working “good enough”. I’ll give you a good example in the Explanation video^^
+
 - Taking over: conquering
+
 - Ain’t: isn’t, aren’t, am not, does not...
+
 - Having me over: inviting me over (as a guest)
+
 - Scalping: illegally  selling  tickets  to  an  event  usually  for  a  very  high  price  and usually outside the venue (stadium/theater)
+
   - scalp: If someone scalps tickets, they sell them outside a sports ground or theatre, usually for more than their original value
+
 - Towing: taking your car (because it is illegally parked, broke, destroyed, unpaid for) with a tow truck
+
 - cactus: (plural cactuses or cacti ) a plant that grows in hot dry regions, especially 
   one with thick stems covered in SPINES but without leaves. There are many 
   different types of cactus.
+
 - ensconced:  if you are ensconced or ensconce yourself somewhere, you are made or make yourself comfortable and safe in that place or position
 
+  
+
+### 4/15/2019
+
+LME 68
+
+**TO LEARN: the Lady of Paris, outside of, Easter eggs, Easter basket, treats, baked ham, hot cross buns**
+
+
+
+It’s Americana Monday—time to learn a little about those Yankees and their country and culture! Since I’m a Yank, I’m very qualified to teach!
+
+But first, my condolences to the people of France. Especially as the Church’s most Holy of celebrations draws near…
+
+We know you will bring back **the Lady of Paris** *(**Notre Dame**)*. Oddly…isn’t that what Easter is all about?
+
+This coming Sunday is Easter Sunday! Of course, it’s a huge religious holiday for Christians…but **OUTSIDE OF** *(excluding)*religion, there’s a lot of other things happening on Easter Sunday! And the fun almost entirely focuses on the children!
+
+It wouldn’t be Easter without **EASTER EGGS**! And there’s so much to do with those eggs. During the week before Easter, children gather at dinner tables everywhere and wait for mom to hard-boil some eggs! Then they **PAINT EASTER EGGS**
+
+Mom takes the eggs away to give to the Easter Bunny—Peter Cottontail. And on Easter morning, Peter returns the eggs in a basket BUT hides many of them all over the house and even outside. So children go on an **EASTER EGG** **HUNT**!
+
+While on the hunt, children are really hoping to find an **EASTER BASKET**, too! Oh! The basket with a green grass pillow is overflowing with delicious **TREATS** like **CHOCOLATE-COVERED BUNNIES**, **MARSHMALLOW PEEPS**, **CREAM-FILLED CHOCOLATE EGGS** and **JELLY BEANS**!
+
+After all the hunting is done, it’s time for the **EASTER EGG ROLL**! Kids take an egg and do one of two things:
+
+1. If there’s a hill, they go to the top of the hill and roll their eggs down. The egg that rolls the farthest is the winner and the kid gets a prize.
+2. If there’s no hill, kids push their eggs on the lawn with a stick. They race from one point to another. The person who first crosses the finish line with their egg is the winner and gets a prize!
+   - lawn: an area of ground covered in short grass in a garden/yard or park, or used for 
+     playing a game: In summer we have to mow the lawn twice a 
+     week
+
+That’s not all! After all of this…it’s time for **EASTER GIFTS**! Not all families do this, but mine did. There was always a new shirt, pants and a pair of shoes. But as a child, clothing gifts are boring! No problem—there was always one more special gift. Since Easter is in the spring—every year I looked forward to a spring-themed gift! Some of the great gifts I received were a **tricycle** (when I was really young), a bicycle (when I was a bit older), **a baseball glove and ball**, a soccer ball, even **fishing gear**!
+
+Then it was time to go out and play with the new gifts! YES!
+
+And when we came home—**EASTER DINNER**! **BAKED HAM**, potatoes, carrots, asparagus! And for many families, but not mine, **HOT CROSS BUNS**! Yummy!!
+
+Wow…what an exhausting but also wonderful day!
+
+If you’re celebrating Easter, I hope you have a wonderful day. Please send us some pictures, okay?
+
+And don’t forget, everyone: our **SUPER SPRING SALE** is coming up and starts the day after Easter! Read these emails to find out more details.
+
+A quick recap: **the Lady of Paris,** **outside of****,** **Easter eggs****,** **Easter basket****,** **treats****,** **baked ham****, hot cross buns**
+
+
+
+### 4/16/2019
+
+Stay on track.
+
+We have all set goals. But we haven't achieved all of our goals.  But we have set them. But setting goals is NOT enough. We need to move. Action.
+
+And you know the expression... No pain, no gain.
+
+We often hear about someone who succeeded and they look so happy...so young...it seems so easy for them. RARELY is that true.
+
+I have achieved a few of my goals. I competed in an international triathlon in 1989. I was a top performer. Everyone thought I was a natural athlete.
+
+NOT AT ALL! I prepared INTENSELY for that competition. And for the six months before the race, I was exercising AT LEAST 5 hours a day. Very intense exercise. And I was very careful about my diet and my sleep. I had NO life outside of work and exercise.  I stayed focused. I gave up little luxuries. I achieved my goal. It was great! But it was so hard. So much pain.
+
+I finished my university education in three years. The average American graduates from a 4-year university in six years. I did it in three. My GPA was not great, but is was above a 3.0 (B).
+
+Again, I was focused. I stayed on track. I worked 30+ hours a week, went to summer school and night school as well as day school. I was on the universities cycling team and a member of AISEC.
+
+I had ZERO social life! But I achieved my goal. I was done with college and it was time to work in the REAL world! It was tough. Lots of pain.
+
+But I stayed on track.
+
+I started my online teaching business in 2013. Most businesses fail within 5 years. Every month I struggle to pay my coaches and pay my bills. But I am focused.
+
+I will stay on track. I will not give up. I will endure through the pain.
+
+Stay on track. Whichever track you have chosen... Whichever goal you have set... ACTION. 
+
+Stay on track. No pain, no gain.
+
+Stay on track. Achieve. You will be a happy person! And you will be SO much better than what you were!
+
+- Hi! Thanks for the new LME! Loved it! As to Zwift, I actually haven't heard about it until now.
+
+ Zwift looks cool but I don't think it's very popular in Russia.
+
+ I'm sending another couple of fresh pics! I'm there as a baby sitter... U know, I'm not only an action figure 🤣
+
+On the 2nd pic my sis with another girl (her friend).
+
+ Thx for your time. Best
+
+Hi Andrey!  Not popular YET! It's really cool! You need to have YOUR OWN baby, Andrey! But if you like babysitting, let me know. My wife and I would LOVE to have a date night!!
+
+ 
+
+- Hi Shane, how are you doing these days? We are in my husband's friend's home for a family party. Those five kids come from five different families, including my kid. They are all in kindergarten now but my kid is the oldest. Guess who is my son / daughter?
+
+ Wow, the salmon is really delicious! My husband made it! He is a wonderful cook! Next time I'll show you more pictures about the food he has cooked. Have a nice day!^^
+
+Hi Sally!  I have NO idea which is your child! But they all look very **engrossed** in their "thing"!! Are they friends? Do they go to the same schools? I'm guessing they go to different schools!
+
+- engrossed: giving or marked by complete attention to
+
+ And that salmon looks TERRIFIC! I have heard that Chinese husbands are often GREAT cooks. You are a lucky woman! Please share more pictures AND tell us the recipe for that salmon dish!
+
+-  Hi Coach Shane!
+
+  Greetings! I'm Alam Safiq. I live in Dhaka, **Bangladesh**.
+
+  I am 48 years old and a proud father of two kids.
+
+   I just love your YouTube videos and podcasts. I don't have much time to watch because after my 9-to-5 job, I must tutor my two kids! But whenever I get time, I try to follow your lessons. They're just fantastic. You are the best online teacher I have ever seen because whenever you teach, your teaching comes **from the core of your heart.** That's why it touches my heart, too.
+
+   All my love and best wishes for you and your beloved Mikey, brother!
+
+   In your picture, I saw that the ice was melting. But here spring ended on 13th April! Summer arrived on 14th April which is the first day of Bangla Calendar year (Pohela Boishakh). This colorful festival is a very special day for us.
+
+  I sending some photos and in one picture you will see me at the coffee house of my office.
+
+   With warm regards,
+
+   
+
+Hi Alam!  It looks VERY peaceful and quiet at your workplace! Is it a university? And your children are lucky to have the best tutor in the world! So many parents are unable to help out their kids...**what a treasure it is** to be a part of their education!
+
+ Coffee...you just reminded me that I want a little more coffee! Right now it's 9pm...is it too late for coffee?  We are still a LONG way away from summer, but the current temperature is 7 degrees Celsius. VERY nice for us!! I'm sure, though, your summers are MUCH hotter than ours! Stay cool! And send more pics!
+
+- Spring has come.
+
+  Cherry blossoms are here and the new **fiscal** year started. I found these tiny, pretty petals at the entrance of my subway station. The station attendant said these branches were given to them from Hirosaki city. The city (my office is there) is very famous for its “Cherry Blossom Festival”. The expected peak bloom is around late April.The scenery of 2,600 cherry trees in full bloom is amazing. 
+
+  - fiscal: involving financial matters
+
+  The little white boards (at the bottom) say (to whom it may concern) “Congratulations on entering schools!” “Congratulations on the start of your work!”
+
+  **The new school year and fiscal year begin in April in Japan**. The cherry blossoms reminds us of the new starts and also make us exhilarated. Cherry blossoms are loved by every Japanese person.
+
+  - exhilarated: If you are exhilarated by something, it makes you feel very happy and excited. (FORMAL) 
+
+  Hi Hajime,  And me, too! Americans LOVE the cherry blossoms. And we have a beautiful festival in Washington DC--thanks to JAPAN!! You gifted us the cherry trees many years ago and they have become a part of our life, too!
+
+   I had NO idea that the fiscal year in Japan begins in April. For everyone? Amazing. In America, it can really vary. But regardless, we ALL pay our taxes in April!! Yuck!
+
+  And school in the US begins in the fall! Usually late August or September. Very different! 
+
+  Thanks as always for sharing not only great pictures, but great information, too. THIS is why I love teaching English. I get to learn SO much about SO many different places around the world!
+
+   
+
+- From a museum in Berlin. Cupid (or Amor, is the god of desire, erotic love, attraction and affection immortal) with Psyche (goddess of the soul mortal). After Psyche married Amor, she became immortal too like her husband...
+
+  From Berlin too, this time Pan (the goat-god is the god of the wild, shepherds and flocks) is comforting Psyche.
+
+  One more beautiful art piece from Berlin
+
+  Hi Sergej, Ah...what beautiful art. Cultural treasures. I NEED to go to a museum. It's been YEARS since I've seen art. Especially such rich art~
+
+  **Keep us posted on the ongoings in Germany.** And keep sending in the beautiful art pictures and their descriptions. Thank you, Sergej!
+
+  
+
+- Hi Gulya, I love the pictures you snap of Mikey and me at the end of our LIVE classes! He was in a good mood that day! To be honest--his mommy was off camera making him laugh!! Thanks, always! Are you getting ready to be a new coach? Your day is coming in June!!
+
+
+- 14 inches of snow but it's finally coming to an end. Can you believe it? 35 centimeters of HEAVY, WET snow last week Thursday. It's now Tuesday night--most of that snow is gone. But the ground is SO wet!! I'm ready for SPRING! And the deer want to eat natural food--not our food!!
+
+  Martha Stewart forever! Well, I learned something from her. The EASY way to break apart and husk garlic. Put the WHOLE bunch in a steel mixing bowl and cover that bowl with another steel mixing bowl. Then SHAKE. And SHAKE. And SHAKE!
+
+  **Voila!** Magic! The garlic is ready to be trimmed, rinsed and added to your food! Eat more FRESH garlic! It's REALLY healthy!
+
+  Fishing season starts soon.  Every state is different. This year I will be taking Mikey. I'm SO excited. Not really because I'm taking my son fishing...The real reason...
+
+   I will be able to use TWO **FISHING POLES!!** YES!! 
+
+  I should have another child! Maybe I will... Then I'll be able to use THREE fishing poles next year. And if we have twins... FOUR!! YES!!! Ugh...back to work~
+
+  
+
+### 4/17/2019
+
+LME 70 
+
+Hi , In last DDM assignment—we had a BIG problem.
+
+I give students a bonus lesson called EVC: Everyone’s Vocab Challenge.
+
+The idea; use the words and phrases that I have chosen from our assignment. Make sentences with those words and phrases but use them with the same nuance!
+
+An example. I gave the students the word **resume.**
+
+Now, in the assignment we knew that resume meant to start again…but if your English is really good, you know that another definition of resume is a document that shows your education and work history—a CV!
+
+So, according to my rules, students should be making sentences with **resume** that mean to start again, right? Yes! So, which of the following is WRONG?
+
+- The project will resume tomorrow.
+
+- I sent my resume to the project manager.
+
+It’s the RED one, right?!
+
+Back to our last DDM assignment: I gave the students the phrase **got to**.
+
+The assignment basically had the sentence:
+
+I got to play in parks by myself *when I was nine years old*.
+
+ So…PROBLEM. What is the meaning/nuance of **got to**?
+
+Is it the same as **I got to go to the bathroom**?  **Maybe!**
+
+Is it the same as **I gotta go to the bathroom**? **No!**
+
+Is it the same as **I have to go to the bathroom**? **NO!**
+
+Is it the same as **I was permitted to go to the bathroom**? **YES!!**
+
+Wait…this is really tricky!
+
+Here’s the solution: **got to** has TWO meanings!!
+
+1. **Must, have to, need to, have got to**
+
+I got to swim in the ocean.
+
+I gotta swim in the ocean.
+
+I’ve got to swim in the ocean.
+
+I've gotta swim in the ocean.
+
+I have to swim in the ocean.
+
+I must swim in the ocean.
+
+I need to swim in the ocean.
+
+1. **Was allowed to, was permitted to, had the chance to, was able to**
+
+I got to swim in the ocean! *(yesterday/last year/in the past)*
+
+I had the chance to swim in the ocean last year!
+I was allowed to swim in the ocean last year!
+I was permitted to swim in the ocean last year!
+
+I was able to swim in the ocean last year!
+
+In the assignment, **the KEY to the nuance was** “when I was nine years old”.
+
+ 
+
+IF you wanted to use the nuance of **#1**, you need to say this:
+
+**I had to play in parks by myself when I was nine years old.**
+
+And you REALLY need to emphasize HAD!
+
+Otherwise, the nuance is **#2**!
+
+**I got to play in parks by myself when I was nine years old.**
+
+**Bonus information: When we use nuance #2, we** **NEVER** **say or write “gotta”! Got it?!**
+
+I’m guessing that many of you are still UNCLEAR about this.
+
+Yes! It’s confusing!
+
+But my DDM students are now masters! It takes practice AND it takes a great coach…like me!
+
+If you’d like to get that specific assignment, you can get it here:
+
+You**’ve got to** join us!
+
+And you **get to** join us at a discount at the end of the month!
+
+The **Super Spring Sale** is coming in less than a week!
+
+A quick recap: **resume,** **got to** **VS** **gotta**
