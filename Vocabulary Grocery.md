@@ -7034,3 +7034,42 @@ And you **get to** join us at a discount at the end of the month!
 The **Super Spring Sale** is coming in less than a week!
 
 A quick recap: **resume,** **got to** **VS** **gotta**
+
+
+
+### 4/18/2019
+
+LME 71
+
+**TO LEARN: Holy moly!, Holy cow!**
+
+It’s Thursday! Let’s go with something EASY today, okay?! Yesterday was tough. But thank you very much for the emails of appreciation!
+
+When you see something amazing…something wonderful…even something shocking, what do you say?
+
+Be careful! Don’t use bad words!!
+
+I’m going to teach you two phrases that are GREAT! And if you have an American friend, they’ll laugh and probably ask you, "WHERE did you learn that phrase?!"
+
+They are: Holy moly!, Holy cow!
+
+If you watch the recent Hollywood movie called SHAZAM, you will hear one of these expressions! Which one? They are both fun expressions and they’re really fun to say! Don’t worry about their origins—they mean
+
+**WOW!!**
+
+**Oh, my God!!**
+
+**Look at that!!**
+
+Holy moly! That’s a beautiful house!
+Holy cow! Look at that sunset!
+
+Holy moly! That was a SUPER movie!
+
+Holy cow! Coach Shane gives us SO much for free!
+
+Holy cow! That’s a lot of food!
+
+Holy moly! I am TIRED~!!
+
+A quick recap: **Holy Moly!****,** **Holy cow!**
