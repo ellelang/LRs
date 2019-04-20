@@ -7073,3 +7073,40 @@ Holy cow! That’s a lot of food!
 Holy moly! I am TIRED~!!
 
 A quick recap: **Holy Moly!****,** **Holy cow!**
+
+
+
+### 4/19/2019
+
+DDM 192
+
+ain't:  has not; have not. "they ain't got nothing to say"
+
+DDM 193
+
+-  And then at the end, if you’re looking for a job we’re going to be able to take you and put you in an amazing job.
+
+gadget:  /'gædʒɪt/ A gadget is a small machine or device which does something useful. You sometimes refer to something as a gadget when you are suggesting that it is complicated and unnecessary. 
+...sales of kitchen gadgets including toasters, kettles and percolators. 
+
+mortgage: /'mɔrɡɪdʒ/ (there is no 't' sound here)
+
+Fundamental:basic, important, essential, crucial
+
+Coding:writing the “language”of computers/the internet
+
+Apps:short for applications—usually used to describe the software used on smartphones
+
+A project-based approach: “hands on”studying compared to “theory-based approach (textbook-only studying)Practical lessons: real-life lessons, lessons (problems) that occur every day~ blow me away: shock me, amaze me, stand out
+
+iOS: the operation system for Apple gadgets
+
+Mortgage: a loan for a house (the loan is usually paid back monthly over 20 or more years)
+
+Take things a step further: we go beyond that, we do more than just that, we go the extra mile
+
+Challenges:contests, tests
+
+Mission:a long-term goal (hope) of a company/organization/individual
+
+That matters: that is important
