@@ -7183,10 +7183,6 @@ Next week it begins!!
 
 
 
-
-
-
-
 ### 4/20/2019
 
 - nomad  ['nəʊmæd]
@@ -7198,3 +7194,57 @@ Next week it begins!!
   She lives a frugal life. 
 
   
+
+- Annihilation [ə‚naɪə'leɪʃn]: complete destruction of something
+
+- Beaten:defeated
+
+- A sitting duck: an easy target
+
+- A road apple: horse droppings
+
+- Stuff:belongings,    things,    household goods
+
+- Feeble:weak—like an infant or a sick elderly person
+
+- Put the  hurt  on  ~:  put  the  squeeze  on  ~,  be  physical  with  ~, physicallyconfront/persuade/assault ~
+- Hand it over: give it to me (put it in my hand)
+- Some gift: what a gift! Once again, this expression could be positive as well as negative—you have to watch the person saying it. In this case? It was negative.Work:operate, function
+- Peel off: fall off. We use this expression to describe something that has been stuck or  glued  on  to  something  else...but  over  time,  it  starts  to  become “unstuck”or “unglued”. Wallpaper and stickers will peel off!
+
+
+
+- Stereo:audio  system  (CD  player,  tape deck, record player, amplifier, tuner...)
+
+- VCR:  Video  Cassette  Recorder...do  you still have one?!! (ce sat)
+
+- Besides: Anyway
+
+- essays ['eseɪ]
+
+- Impound yard: the place the tow trucks take illegally parked car sand trucks
+
+- Stalling:delaying the game, buying time, wasting time
+
+- Built a stronghold: built up defensive units/structures
+
+- Driven ~ out of ~: forced ~ out of ~. The city noise drove me out of the city and into the country!
+
+- Teetering on the brink of ~: sitting right on the edge almost ..., balancing precariously on the edge of ~. This  truck  is  teetering  on  the brink of destruction!
+
+- precariously
+  - precarious: of a situation) not safe or certain; dangerous: He earned a precarious living as an artist. ◆ The museum is in a financially precarious position
+
+- Filling:a hole in your tooth (a cavity) that is drilled, cleaned and “filled”with a variety  of  things—gold for  rich  people!  NEVER  GET  MERCURY FILLINGS. They can be very bad for your health.
+- Enchanting:wonderful, charming, delightful
+- Drop by: stop over, pay a short visit, drop in
+- Get out of this: escape this (impending bad situation)
+- Wild:crazy, bizarre
+- Ménageà Trois: a relationship between three adults~
+- ~ is into it: is interested in it, is game, is for it
+- Streak of luck: a series of lucky events
+- Move over: slide over, scooch over
+- At all: even a little, just a tiny bit
+- Show up: arrive
+- Freebies:items that can be had for FREE!! For people interested in DDM, I give out 8 freebies (8 free lessons!). For people interested in PIRF, I give out 3 freebies!
+
