@@ -7110,3 +7110,91 @@ Challenges:contests, tests
 Mission:a long-term goal (hope) of a company/organization/individual
 
 That matters: that is important
+
+LME 71
+
+**TO LEARN: show up, show off, show around, come over, show out**
+
+ Phrasal Verb Friday is here! What can I teach you today…
+
+How about a little story.
+
+**My neighbor showed up today in order to show off his new truck. He drove to his new farm in order to show me around the place. He loves to show off. The next time he comes over, I’ll show him out immediately!**
+
+Wow!! Great story, huh?!
+
+In that story, **how many phrasal verbs** can you find?
+
+showed up…show off…show around…show off…show out
+
+Right?
+
+And one more: come over!!
+
+But today let’s focus on the **SHOW + PREPOSTION** phrasal verbs, okay?
+
+**To show up**: to arrive
+
+My brother showed up late to our party.
+
+I usually show up to work at 8 am
+
+**To show off**: to brag about something
+
+He loves to show off his muscles!
+
+She loves to show off her new nails.
+
+- Brag: If you brag, you say in a very proud way that you have something or have done 
+  something. 
+  He's always bragging about his prowess as a cricketer. 
+
+**To show around**: to give a tour
+
+My dad will show you around the Grand Canyon.
+
+We’ll show you around the school!
+
+**To show out**: to take the person to the door/exit
+
+Don’t leave without letting me show you out.
+
+He showed out the guy who was being loud!
+
+Okay, one more!
+
+**To come over**: to visit
+
+Can you come over on Sunday?
+
+I love it when my grandma comes over😊
+
+SHOW phrasal verbs are SUPER common—can you make a few examples of those phrases?
+
+And remember… 
+
+**If you’re** **NOT USING** **phrasal verbs,**
+
+**you will** **NOT** **be** **LEARNING** **phrasal verbs!**
+
+That’s why you should be in my classes—we give you the chance to use phrasal verbs ALL THE TIME!!
+
+Next week it begins!!
+
+
+
+
+
+
+
+### 4/20/2019
+
+- nomad  ['nəʊmæd]
+  n.  a member of a people who have no permanent home but move about according to the seasons 
+
+- frugal
+
+  People who are frugal or who live frugal lives do not eat much or spend much money on themselves. 
+  She lives a frugal life. 
+
+  
