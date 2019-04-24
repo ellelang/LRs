@@ -7248,3 +7248,223 @@ Next week it begins!!
 - Show up: arrive
 - Freebies:items that can be had for FREE!! For people interested in DDM, I give out 8 freebies (8 free lessons!). For people interested in PIRF, I give out 3 freebies!
 
+
+
+### 4/22/2019
+
+LME 73
+
+Okay, how about our lesson? Well, in our newest DDM VIP (568) we’re learning about **a pie stand**.
+
+If you EVER see a pie stand while driving in the USA, you should stop and get one!
+
+A pie stand is usually just a table next to the road with a homemade sign that says “**Homemade Pies For Sale**!”
+
+Oh…they can be SO delicious!
+
+But we have all sorts of “stands” in the US!
+
+The common ones are **fruit stands** and **veggie stands**, right?
+
+And my most successful stand was a **nightcrawler stand**! I made big money! Nightcrawlers are BIG worms—perfect for fishing. I sold a dozen for 75 cents!
+
+And in the fall…**pumpkin stands** **galore** (galore: everywhere)! Mostly for decorating!
+
+What about in your country? What kinds of stands are popular for kids to run? Did you ever have a stand? Send pictures, please!!
+
+A quick recap: **pie stand****,** **fruit stand****,** **veggie stand****,****lemonade stand****,** **nightcrawler stand****,** **pumpkin stand****, galore**
+
+
+
+### 4/23/2019
+
+LME Tuesday
+
+ 
+
+Roll with the punches. 
+
+Sometimes life is great. Sometimes life is TOUGH. 
+
+Like a boxer, if you can **roll with the punches**, you'll live to fight another day. 
+
+For a boxer, *roll with the punches* means *move your body away from your opponents punches so they don't hurt you as much*. 
+
+If you punch me in the belly, I should be stepping backwards as you hit me--your punch will be less effective. 
+
+Life can throw punches, too.  
+
+Things go bad at work. At home. Your health. School. Children. Parents. Your wife/husband. Your plans. Your day. Your dinner!
+
+So many punches! To rich people and poor people. To the good people and the bad people. To all of us.
+
+That's life. And it can really be tough on some people.  Really tough. 
+
+So for those people, I'm thinking of you. I want you to roll with the punches. I want you to get back up and fight another day. 
+
+One thing that really helps me roll with the punches... 
+
+When I get punched, the first thing I used to ask was: 
+
+**Why are these things happening to me?** 
+
+And then I would feel like a victim...helpless...sad. And it's true, right?
+
+But I have learned to CHANGE MY WORDS.
+
+By changing words, you can change your life. 
+
+Now, when life punches me I ask:
+
+**Why are these things happening FOR me?** 
+
+This thing has happened so that I can improve some part of my life.
+
+But what and how?
+
+Boom. My focus goes to the future. What happened was some kind of lesson that will prepare me better for the future. 
+
+ROLL with the punches. Okay? 
+
+And if English is punching you...JOIN! 
+
+Our SUPER SPRING SALE is happening RIGHT NOW!
+
+- Hello! Shane! I am a new guy here and this is my first time attending LME. Thank you for this community. I want to share my life in the countryside.
+
+The photo below is of a snail we eat. Of course, we parch them first. It might not look that appetizing, maybe!
+
+The other two photos I took are from the Qingming Festival in my hometown. 
+
+My life is now at a turning point. I am a senior in college and it's time to graduate. My major is Russian but I'm uncertain about the future. I'm not yet fluent in Russian. I signed up the TOEFL exam for this coming June. Maybe mastering English can bring me more chances and challenges. Thank for reading!
+
+Hi Liying! 
+
+I love snails. Cooked, of course! With a spicy sauce. Yummy! Great with noodles and beer! 
+
+Russian? Spasibo! We have a LOT of Russian students in DDM and PIRF--I hope you can make some friends! And mastering languages will ALWAYS open up new opportunities for you. Russian is great, so is English. 
+
+I wish you the BEST of luck and study hard!
+
+- Hi Coach!
+
+ I wish you and your family all the best during the Easter holidays!
+
+Thanks for DDM & PIRF!
+
+Wow!! Our FIRST and ONLY Easter card! We loved it and we thank you from the bottom of our hearts!
+
+It was Mikey's first Easter...he's just interested in the fun stuff! I hope you and your family had a wonderful Holiday, too!
+
+ See you in class, 
+
+ Coach Shane
+
+- Prowler Luka resting after a day of prowling
+  - prowl: If an animal or a person prowls around, they move around quietly, for example 
+    when they are hunting. 
+
+JUST made it. I’m topping off the tank every time I get gas from here on out.
+
+Barbecued me some Kabob the other day. I went too far with the Turmeric, though.
+
+- kabob:  cubes of meat (as lamb or beef) marinated and cooked with vegetables usually on a skewer
+- Turmeric: Turmeric is a yellow spice that is used to flavour food such as curry.
+
+AND book. I’m on the computer now learning the ropes. I’ll be showing actual book material from now on but it might take some more time (it’s complex). Stay tuned ^_^
+
+How do you like my new shades? Better than the glasses I wear to work. But I don’t need swag with you as much as I need performance!!
+
+- swag: walk as if unable to control one's movements
+
+Coach Matt. XOXO
+
+ 
+
+
+Hello Coach Matt,  
+
+Our **ultra** COOK ET! English Teacher! You in your shades and Luka together...two hungry prowlers on the loose. Look out ladies, here comes trouble!
+
+Oof...you're going to animate your book using a computer and not by hand? Wow...that sounds like a LOT! And the barbecue...true man-style!
+
+Have a SUPER week, Coach!
+
+- The sign says: Welcome to Oushuku Hot Springs Resort “Red Windmill”.   We arrived all in one piece after AMA. It was a two and half hour’s drive from home.  Thank you! We stayed here overnight enjoying dinner, breakfast and, of course, bathing in the hot springs.But my main purpose was the “**hot stone bath/bedrock bath.**” 
+
+This is the hot stone bath.
+
+ You lie down on the hot stones and are heated up gently like a sunny-side up egg! I prefer a soft yolk! Your whole body gradually heats up and sweats very slowly.
+
+Below is the Red Windmill's specialty—a sauna room filled with radon mist--very low level radiation! And you breathe in deeply. It's scientifically proven to have no bad effect on your body! But it makes your entire body feel good. It helps your metabolism, blood circulation and makes all your body cells get younger. It works on your diet, too.
+
+Thirty minutes later and I looked like a soaked wet dog. If I shook my body, terrible things would happen.(´⊙ω⊙`)
+
+ Supper served. 
+
+You can see “sashimi” or raw fish, “ Sansai” or mountain vegetables and two hot pots (pork and Japanese blue crab) with tiny cooking candles. The dishes were presented beautifully, delicious and also very healthy. 
+
+This is our regular inn. We stay here three or four times a year. Now, my body feels stronger and my mind is very clear. I feel like a newborn baby !
+
+ ( ^_^)/~~~
+
+Love LME,
+Country Hajime. XOXO
+
+ 
+
+Hi Hajime,
+
+What a FANTASTIC weekend! Rejuvenating and invigorating...and delicious! 
+
+- Rejuvenate: make younger or more youthful
+- invigorate: give life or energy to
+
+If I visit Japan again in the future, I will have SO many things to do. And right now...I really want to eat Japanese food!! Ugh! Sashimi! Where are you?!
+
+Thanks always, Hajime! See you in class!
+
+- Hi Coach Shane! 
+
+  Again I want to say: you are a lot more than an English teacher! You inspire people.
+
+  You inspire me to go forward! 
+
+  It seems like your winter doesn't want to start :) Here in Tambov, Russia, we already have spring!  
+
+  Me and my wife Marina found a beautiful park in suburbs and there a lot of snowdrops--the beautiful flowers! The ground is covered with them:)
+
+   Thank you for your amazing work! I wish you a **blooming spring** and good fishing with Mikey!  Bye-bye!
+
+- Hi Vasily,
+
+  WOW!!! I've never seen those flowers. They really are beautiful. A carpet of flowers in the spring forest. Excellent photos! 
+
+  Our spring is finally starting...but NO flowers yet. I'm expecting a dandelion maybe tomorrow. If one pops up, I'll share it next week!! 
+
+  Thank you so much, Vasily!
+
+  - dandelion: A dandelion is a wild plant which has yellow flowers with lots of thin petals. When the petals of each flower drop off, a fluffy white ball of seeds grows. 
+
+" 
+The neighbor brought over these old apples she picked from last fall. What the heck am I going to do with them?
+
+Give them to my wife! 
+
+And she'll give them to the deer! They LOVE apples!
+
+Easter is coming! I have to prepare some Easter eggs for Mikey! I'm using food coloring to color the eggs. The food coloring I bought is "all natural"... and it is not doing a very good job coloring the eggs!! But at least it's healthy, right?! 
+
+Hey! Mikey's FIRST Easter basket is ready. His mommy made him the basket--homemade!! What a super job! And I dyed the eggs...not too bad! The rest of the stuff is traditional candies and chocolates. We studied those a few emails ago, remember?!!
+
+Mikey's first basket! And is that the Easter Bunny behind Mikey?! I'm not sure if Mikey really likes his basket. And to be honest...I will let him eat NONE of it! It's all mine!
+
+Maybe next year!! Ha!!
+
+Finally a dry driveway. It's been MUDDY for a few weeks with all the melting snow. Mikey and I are out for a little walk. He's wearing Michael Jordan socks that his Auntie Ana bought him! Yes...Mikey needs a little brother or sister!! Maybe the Easter Bunny will bring one!! Ana--did you go to the Foreigner concert? I am also a HUGE fan! My favorite song is Jukebox Hero!!
+
+I hope everyone has a fantastic week! Enjoy the weather, enjoy your friends and family.
+
+ROLL WITH THE PUNCHES!
+
+And join our classes! 
