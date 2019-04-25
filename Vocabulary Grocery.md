@@ -7468,3 +7468,92 @@ I hope everyone has a fantastic week! Enjoy the weather, enjoy your friends and 
 ROLL WITH THE PUNCHES!
 
 And join our classes! 
+
+
+
+### 4/24/2019
+
+LME 75
+
+In our current DDM lesson ([DDM 568—which you can get if you join DDM VIP now!](http://letsmasterenglish.com/sale/ddm)), we had this small section which had ALL of that: idioms, phrasal verbs, culture, nuance!
+
+Let’s take a look at that part of the assignment. At the bottom of this email I attached the MP3 of me reading it.
+
+What you are looking at is **the description of what is happening in the video**. There was no dialog. But with these descriptions, DDM students learn SO MUCH! And I explain EVERYTHING in our lesson!
+
+Let’s take another look…
+
+The colors show a relationship between words.
+
+The blue words are all about HOW Newman (the character) is moving.
+
+The yellow words are all related to light.
+
+The green words are all related to a farmhouse.
+
+Each of those words has a special “nuance” to it. And that’s what I explain in our DDM lessons.
+
+ 
+
+The first part of every DDM lesson is **dictation**. Listening and writing down a few sentences.
+
+The second part is about **pronunciation** and **listening skills**.
+
+But the third part is the **explanation**. And THAT is where we talk about EVERYTHING the video means and says.
+
+These lessons are without a doubt the GREATEST English lessons for students who want to master English!
+
+- My students feel **COMFORTABLE** with English.
+- They start to feel **CONFIDENT** with English.
+- They start to **SOUND** like Americans!!
+- They start to understand how Americans **THINK**!
+- Many students even **DREAM** in English!!
+
+When I was in Korea, my students had to pay a language school over $100 each month for HALF of what I do in DDM now! And in Korea, you had to come to my school! If you were sick or on vacation or busy or on a business trip—**YOU LOST**!
+
+Now you can study at home, the office, school, the beach, while driving, on a plane…ANYWHERE! You can study alone or with friends or with another one of our students or with one of our coaches! Online (streaming/LIVE) and offline (students can download EVERYTHING)! You **NEVER LOSE** a lesson.
+
+And my students are all different in how much **time** they invest.
+
+- Some students only listen to the MP3 files when they commute. That’s it! MAYBE on the weekend they’ll watch the assignment videos (those are about 3-5 minutes long).
+- Other students only listen to the Explanation part of my lessons—they just want the culture and background and nuance.
+- Other students get serious and spend an hour a day on the lessons. They realize the value of constant practice and their improvement is amazing.
+- Beginning students usually just focus on the dictation and the pronunciation. After they build those skills, they start watching the explanation videos.
+
+Everyone has their own style. Everyone has their own goal. But one thing everyone knows, **DDM is the best** class to master English. *Ugh!! I wish I had had a DDM for the Korean language!!*
+
+Little secret: We are starting to make DDMs for students of different languages. More on that in the future!!
+
+OH! Another little secret: We do have **DDM** classes for beginners in **Brazil**. And in June, we will also have **DDM Russia** and **DDM China**! The perfect start for students who might be afraid of 100% English. Our country coaches are native speakers of Portuguese, Russian and Chinese—so it is an excellent chance to start “slowly”.
+
+Anyway, I’ve had LOTS of questions this week about our classes so I thought I should give a little explanation. Today, a little about DDM!
+
+If you have questions, email us: [HELP@LetsMasterEnglish.com](mailto:HELP@LetsMasterEnglish.com)
+
+Better yet, join us! And you can join me in a LIVE class and ask your questions directly!
+
+A couple more questions I should answer now so people can take advantage of our low prices today:
+
+**Students in China?** We have lots! If you have questions about downloading or payments, just email us and we will help!
+
+**Students in Iran and Turkey**…**no PayPal**! **No problem**! Just email us and we’ll help you! We have students from EVERY country…almost. No one from North Korea, **BUT** I did have a North Korean student who was living in the USA! No excuses!
+
+And if **$20 is too expensive**?!! Then **stick with our free lessons** on YouTube until you can join us!
+
+As you know, this sale is special because several of my classes are being closed.
+
+DDM OPEN, DDM LITE, DDM LIVE,
+
+PIRF OPEN, PIRF LIVE…
+
+NO MORE!
+
+They are all closing and after May we will accept NO NEW STUDENTS. Students who are already registered can stay.
+
+DDM VIP, PIRF VIP and DDM ELITE…
+
+CLOSED!
+
+ There will be no more open enrollment. Only students who have been in our classes for more than one year will be invited to join.
+
+BIG changes for sure.
