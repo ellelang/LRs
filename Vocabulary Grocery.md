@@ -7556,4 +7556,60 @@ CLOSED!
 
  There will be no more open enrollment. Only students who have been in our classes for more than one year will be invited to join.
 
-BIG changes for sure.
+BIG changes for sure.`		`
+
+
+
+### 4/25/2019
+
+LME 76
+
+It’s Thursday—I’ve been SO busy with work. Besides making our DDM and PIRF lessons, I have a TON of other work, too. As some of you know, having your own business is nice…but the problem is: you NEVER really have a day off!
+
+No complaints!
+
+But one thing about me: I do NOT like to **multitask**. Multitasking is doing more than one thing at one time.
+
+**Feeding Mikey, talking on the phone and cooking dinner at the same time!**
+
+I will forget to feed Mikey until he cries and I will burn dinner!!
+
+**Answering emails, editing a video and creating a new assignment at the same time.**
+
+If I do that, it will take me two hours.
+
+If I do those things separately, I can finish in one hour.
+
+And that’s my problem today! I’ve been working on our Social Media sites and planning free videos and podcasts for the month of May and doing a lot of administrative work…
+
+And I just remembered—I need to do our Daily Email!!
+
+**What should I teach????**
+
+Ugh…I’ve got **too many irons in the fire**.
+
+I’ve got too many plates in the air…
+
+**I’m TOO BUSY!!!**
+
+**BOOM!** Yeah! I’ll teach those two idioms!
+
+**I’ve got too many irons in the fire!**
+
+A blacksmith puts iron into a hot fire, then he removes it and shapes into something useful. A professional blacksmith will usually only have one or MAYBE two pieces of iron in the fire at one time. While he works on one piece of iron, the other heats up. If the other heats up too much, it loses its shape and is no good! DON’T DO TOO MANY THINGS AT ONE TIME!
+
+**I’ve got too many plates in the air!**
+
+A professional plate spinner can actually have several plates spinning in the air at one time. But have you ever tried? Even ONE PLATE is tough! JUST FOCUS ON ONE THING AT A TIME!
+
+Well, I hope this has been a useful email lesson for you all! Two great expressions and a little background to them!
+
+And advice—reduce your multitasking! Life will be better!!
+
+DON’T FORGET—our SUPER SPRING SALE is on now. The sale ends on May 2nd, but the current [DDM VIP](http://www.letsmasterenglish.com/sale/ddm) and [PIRF VIP](http://www.letsmasterenglish.com/sale/pirf) prices will go up a little on April 27th! HURRY!
+
+If you have questions, email us: [HELP@LetsMasterEnglish.com](mailto:HELP@LetsMasterEnglish.com)
+
+A quick recap: **multitask****,** **I’ve got too many irons in the fire****,** **I’ve got too many plates in the air**
+
+ 
