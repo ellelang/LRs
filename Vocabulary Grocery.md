@@ -7613,3 +7613,190 @@ If you have questions, email us: [HELP@LetsMasterEnglish.com](mailto:HELP@LetsMa
 A quick recap: **multitask****,** **I’ve got too many irons in the fire****,** **I’ve got too many plates in the air**
 
  
+
+### 4/26/2019
+
+**TO LEARN: I’ll show you 11 verbs and verb phrases—let’s find a phrasal verb for them all!**
+
+Wow—I have a GREAT lesson for you today. We’re combining a very common verb with a very common preposition.
+
+But before I tell you what it is, check out the following sentences:
+
+I can’t wait to **move and groove** **(dance)** on the dance floor tonight! Disco, baby!!
+
+He’s shooting at us! **Duck** **(lower your head/body)**!
+
+Failing the test really **made me feel sad**.
+
+I need to **concentrate** and study.
+
+Did you **dictate** **(write)** what the professor said?
+
+I have a hard time **swallowing** big Vitamin C tablets.
+
+When you **arrive**, let’s go to a nice restaurant.
+
+Please **give me that plate** from the top shelf.
+
+Can I **be excused** **(leave)** from the table, daddy?
+
+Tell that cat to **come down** from there. The top of the refrigerator is dirty!
+
+I’ll never **memorize all** the definitions. There’re too many~
+
+That band can really **play some nice music**.
+
+ 
+
+In **BOLD**, I highlighted some verbs and partial phrases. In **RED**, I gave you the simple definition of some of those verbs.
+
+BUT…this is Phrasal Verb Friday. I want YOU to change ALL OF THOSE VERBS **into phrasal verbs**!
+
+NO! Not phrasal verb**S**…**into** **a** **phrasal** VERB! Just one! Yes!
+
+**ONE phrasal verb** can be used in ALL of those sentences!
+
+I’ll make this quiz MORE fun! The first person to send me the answer—
+
+**ONE FREE MONTH of LME WEEKLY LIVE!**
+
+You’ll get 4 DDM lessons, 1 PIRF lesson and you can join ALL of the LIVE classes including my AMA (Ask Me Anything) LIVE classes in May!
+
+That’s a $37 value! For free!
+
+Of course, we’re having a sale now and the sale prices are SO excellent! Go check them out here!
+
+And seriously, to master English you **NEED** to master phrasal verbs and there is **NO better class than DDM**. No joke. JOIN. Today!
+
+I will send you guys **the answers tomorrow**!! Good luck!
+
+Once more! Our SUPER SPRING SALE is on now. The sale ends on May 2nd, but the current DDM VIP and PIRF VIP prices will go up a little on
+
+**April 27th**!
+
+HURRY! **That’s tomorrow!** **Saturday!!**
+
+Get serious. Join VIP now!
+
+
+
+DDM 195
+
+- ~ is out on $300 bail: ~ was arrested and put in jail BUT the judge agreed to let him OUT of jail until his trial IF he pays “bail”. “bail” is an amount of money which “guarantees” that the person arrested will come back to court (that he won’t run away). If the person comes back to court, he receives his bail money back. If the person does NOT come back to court, he loses the bail money. For serious crimes, bail can be over a million dollars!
+- Charged with ~: the police say he is guilty of ~ 
+- Criminal mischief: intentionally damages property not fully owned by himself—that’s one definition! Here are some examples:
+- That big of a deal: it is not as serious as people think
+- Knocked down: destroyed
+- Piled into: dumped into, put into, stacked into
+- Dumpsters: large trash bins
+- A permit: legal permission to do something (a business permit)
+- Martin Luther King Day: a holiday celebrating the civil rights leader’s birthday. It’s always the 3rd Monday in January
+- Bulldozer: this
+- Foundation: the base of the building/structure
+- Upset: angry, distraught, sad
+- Estranged: married but living separately
+
+
+
+### 4/27/2019
+
+DDM 196
+
+Draft: the choosing of someone/something. This commercial is directly comparing itself to the NFL draft—America’s pro-football draft. Every spring, the NFL teams choose new players from college graduates and also trade players with other teams. In this commercial, the countries are choosing their “mascot” animal or plant!
+
+Issues: problems
+
+A locker room guy: a team player, a guy who hangs with his team before, during and after the game!
+
+Uh-oh: the exclamatory sound we make when something bad has happened or is about to happen~ makes tons of sense: ~ was a very logical/intelligent choice/selection
+
+Rich soil: fertile, having lots of nutrients
+
+Ideal: best, perfect
+
+Humiliate: embarrass
+
+Barbarians: “wild” (nomadic) and uncultured warriors that were especially brutal on the outskirts of the Roman Empire!
+
+I can’t wait to...: I look forward to..., I’m very excited about ...ing
+
+Mercy: forgiveness, kindness
+
+Scone: they’re like a biscuit you can buy at KFC but they usually have some fruit in them (strawberries or blueberries). They would not be considered food for a leader of barbarians!
+
+Crossed: made angry, angered, infuriated
+
+A jetpack:basically a rocket that you wear like a backpack!Bask in my glory: enjoy the power/radiance of my greatness!!
+
+hare: 
+
+On your mark: get to your position
+
+Get set: get into your starting stance and do no move
+
+CAW!: the sound made by large birds like crows, parrots and ravens
+
+Road kill: an animal that has been killed by a car
+
+Deal me in: let me play cards with you, include me in your card game
+
+Plot twist: where the story suddenly changes into an unforeseen direction. The end of the classic movie “Planet of the Apes” had a shocking plot twist.
+
+Read ‘em and weep: a poker expression meaning, “Look at my winning cards and cry because you lost!”
+
+Hair-raising power: something so powerful/ shocking/amazing that the hair on your arm or back of your neck actually stands up!
+
+
+
+With the next pick in the first draft ever, Australia selects the kangaroo.Yes!I like that pick.
+
+Get up, hops,jump vertical...Brazil selects the sloth. Off-the-field issues. Not a locker room guy.
+
+The United States selects wheat. Wheat.
+
+Madagascar selects lemur.
+
+China—ginkgo biloba. 
+
+Botswana selects the zebra. (a lion licks his chops)
+
+Uh-oh. And with the next pick we have a trade: Mauritius has traded for the dodo bird! (it keels over...) And Mexico selects...(cut to a polar bear wearing a sombrero...)Beach. Beach. Beach! Beach!...the avocado! Great pick. Love it. That makes a ton of sense.Rich, volcanic soil.Perfect weather. That’ll make avocados from Mexico the ideal year-round snack. Grown with love (I changed this AFTER making the Answers video! Thanks to you guys for catching it!) since the beginning of time. Avocados from Mexico^
+
+
+
+DDM 197
+
+- Organism:a living “thing”!Genetically modified: the genes (DNA/RNA) have been changed by man (science)
+- Combine:mix
+- Specific:particular
+- Feature:trait, characteristic
+- Entails:involves
+- Engineering:genetically modifying,creating genetically modified
+- Toxic:poisonous 
+
+- Bugs:insects
+- Crops:harvested plants (usually veggies)
+
+- Widely used: commonly used
+
+- Processed foods: foods that are “made”in a factory...Soda:pop, fizzy drinks, soda pop, coke
+
+- Juice:fruit juices
+
+- Camouflaged:hidden, unbeknownst
+
+  - Camouflaged: made invisible by means of protective coloring
+
+- Franken food: food that has been created from “different parts”just like Frankenstein was created!
+
+  - Frankenstein: 1. an agency that escapes control and destroys its creator
+    2. the monster created by Frankenstein in a gothic novel by Mary Wollstonecraft Shelley (the creator's name is commonly used to refer to his creation)
+       - gothic: of, relating to, or resembling the Goths, their civilization, or their language b : TEUTONIC, GERMANIC c : MEDIEVAL 1 d : UNCOUTH, BARBAROUS 
+
+- GMO labeling: having a label on a product that specifically says whether or not it has any GMO ingredients
+
+  
+
+- Legally mandated: made into a law, forced legally
+
+mandated:
