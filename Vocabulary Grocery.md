@@ -7800,3 +7800,56 @@ DDM 197
 - Legally mandated: made into a law, forced legally
 
 mandated:
+
+### 4/29/2019
+
+LME 78
+
+**TO LEARN: diehard fan, quote, May the fourth be with you!, May the force be with you!**
+
+Hi ,
+
+A HUGE thing that the USA is well-known for…movies! Hollywood makes some of the world’s most loved movies. And they’ve been doing that for a LONG time!
+
+
+Join us! Okay?! Now, back to the movies…
+
+What are some of your favorite movies over the years?
+
+I’m a **diehard** **fan** *(an absolute, 100% fan)* of **Diehard**! And I really like the **Matrix**, too. But just the first one. **Wall Street** was great—so was **Karate Kid**!
+
+Michael J. Fox was perfect in not only his **Back to the Future** series, but also in **Secret of My Success**! Oh! I can’t forget about **BIG**!!
+
+The **Wizard of Oz** is a movie that I will have Mikey growing up and loving—along with the original **Mary Poppins** and **Chitty Chitty Bang Bang**!
+
+But the reason I want to talk about movies today is…
+
+**Star Wars**!
+
+This was a movie—a series—that began back when I was in elementary school. ALL of my friends saw this movie and even today, 40 years later, they can still **QUOTE** *(recite/recall/say lines from)*the movie!!
+
+But believe it or not…I never saw it. None of them!! However, there are two **lines** that I’m very familiar with:
+
+**I am your father!**
+
+And
+
+**May the force be with you!!**
+
+The first line was the shocking truth that Darth Vader was actually Luke Skywalker’s father!!
+
+The second line was a greeting! It was used to wish another person “Good luck!” The force was “the good guys” and they were fighting evil!
+
+And on May 4th, 2019…if you are a Star Wars fan…you MUST tell EVERYONE you meet:
+
+**May the FOURTH be with you!!**
+
+(May the FORCE be with you!!)
+
+May 4th is National Star Wars Day in the USA!!
+
+But May 4th is TOO LATE to to join our classes during this sale!!! Do that today!
+
+A quick recap: **diehard fan****,** **quote****,** **May the fourth be with you!****,** **May the force be with you!**
+
+May the fourth be with you! 😊
