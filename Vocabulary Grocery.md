@@ -7853,3 +7853,133 @@ But May 4th is TOO LATE to to join our classes during this sale!!! Do that today
 A quick recap: **diehard fan****,** **quote****,** **May the fourth be with you!****,** **May the force be with you!**
 
 May the fourth be with you! 😊
+
+
+
+### 4/30/2019
+
+
+
+Be kind.
+
+They might be having a tough day...According to my wife, the kind of LOVE I give is "tough love". Not the hugs and kisses and nice words. Not the encouragement, understanding and support.
+
+I say things like:
+
+Be tough. It'll be okay. Learn from it. It's good experience.
+
+ ALL true! But not very...warm.
+
+ I need to remind myself EVERY DAY that sometimes people do not want advice...they don't want direction...They just want a hug.
+
+ Not easy for a guy like me. But I'm a guy that can do anything. So I try. UGH...it's not easy!
+
+But I try. More and more. What more can I do. Recognize the problem and try and fix the problem.
+
+ As an English coach I'm much nicer.
+
+If you want a nice English coach, ([**we're having a sale!**](http://www.letsmasterenglish.com/sale)), you would be lucky to have me!!
+
+But my wife might tell you a different story. I don't worry, though. I know what I need to do. Be kinder.
+
+ Sometimes people are just having a tough day. Sometimes people just need a hug. Hugs to my wife first...then all of you!
+
+- This is a painting from the very famous German artist Emil Nolde.
+
+It is modern art, do I like it? Absolutely, I love a lot of yellow
+
+
+Hi Sergej! 
+
+The art exhibits **go on**!! Sergej, to be honest, I'm NOT a fan of modern art. I DO love art from the Renaissance period, though.
+
+Any painter or sculptor who can make something look real...WOW! They are the real magicians in life. 
+
+BUT--I do love all of the painting and art you share with us! Keep sharing, please! And add your two cents (opinion!).
+
+- Hello, Coach Shane!
+
+  The first day of spring in Iran is called **Norooz**. Here I am in Golestan Province. It is perfect in spring. These yellow flowers are **rapeseed which will be made into canola oil**. In the picture with water bubbles, guess what? It's a spider's web with **dew** on it.  And the ladybug above--so nice!
+
+
+  Love LME,
+
+  Mozhgan. XOXO
+
+Hi Mozhgan! 
+
+You must have a REALLY good camera! I am NOT a fan of insects, but I do love nature. Fantastic pictures! I hope that **your spring continues to blossom like the beautiful flowers!!** 
+
+- Hi Coach Shane!
+
+  Mikey is looking so stylish with those socks:) 
+
+  It was a busy, crazy week but I **rolled with the punches** as you taught us last week.
+
+  My wife and I had a short bike trip on one day and the next day I went on a big one alone. 
+
+   Have a nice time and a very productive week. I love when your daily lessons show up in my inbox! 
+
+   Love LME,
+
+  Vasily. XOXO
+
+Hi Vasily! 
+
+Wow!! You're SO lucky to be exploring nature already! Where I am--we just had another snowfall! But soon, it will be perfect weather and I will get out there and explore! With my son and wife, of course. But not on bike...after a few years! Keep sending the joy.
+
+ 
+
+-  Hi!
+
+  My name is Gulya and I'll be starting LME Russia for beginner DDM and PIRF students.
+
+  I am a mother, wife and a teacher. I am REALLY nervous but I am also VERY excited to help anyone who is interested in mastering English.
+
+  I have been with Coach Shane for several years--and I am very proud that he is trusting me to be a coach!!
+
+  Let's do it, everyone! Let's master English
+
+Hello Coach Gulya,
+
+ You're going to be an EXCELLENT coach. I am very proud of your (and your husband's!) incredible dedication and mastery of English. **Not only will you be a great asset to our team, you will be** helping the new generation become Masters of English
+
+Spasibo!! 
+
+
+
+" 
+
+- Hi! My name is Lan--I'll be starting LME China for beginning DDM students. And eventually PIRF, too!
+
+ I have many years of teaching experience--but never under the guidance of an American coach!  I am very excited to help other Chinese students build their confidence in English. I will do my best!!
+
+ Hi Coach Lan,
+
+ I am also very happy to welcome you to our team! We've been working so hard to help students in China with English--the Great FIREWALL of China makes it very difficult! But we know that you will be a great asset not only to us, but to the English students in China!! Let's Master English!
+
+- Finally from Coach Shane
+
+Weekly call. That's my dad. My old man! Mr. Peterson!! Every week, at least once, we **talk on FaceTime.** He loves to see Mikey. Especially when Mikey either CRIES or LAUGHS!!!
+
+Taco John's for #TacoTuesday! Oh yeah! My wife and I had a little business in town today. SO, I took advantage of a special deal--Taco Tuesday at Taco Johns!! Delicious!! 
+
+It used to be...two tacos for 99 cents! But I ended up spending 5 bucks for four tacos!  
+
+Inflation? And my wife ordered a taco salad...
+
+It doesn't look that appealing, but according to her, it was fine!! Yes! Maybe we'll come back
+
+Welcome to the Midwest.
+
+Taco Bell? Boo~~ Taco John's! Yes!
+
+Actually...Taco Bell is tastier~~
+
+Spring is here. A nice gift from some relatives. Believe it or not, this is the FIRST time for Mikey to see flowers!! He **was really taken with the pretty colors of the tulips and irises**! 
+
+And I **was really taken with the chocolates**!
+
+I had four of them before my wife took them away.
+
+Where are they...
