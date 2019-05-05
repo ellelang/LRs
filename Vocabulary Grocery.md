@@ -7948,8 +7948,6 @@ Spasibo!!
 
 
 
-" 
-
 - Hi! My name is Lan--I'll be starting LME China for beginning DDM students. And eventually PIRF, too!
 
  I have many years of teaching experience--but never under the guidance of an American coach!  I am very excited to help other Chinese students build their confidence in English. I will do my best!!
@@ -7983,3 +7981,202 @@ And I **was really taken with the chocolates**!
 I had four of them before my wife took them away.
 
 Where are they...
+
+
+
+## May 2019
+
+### 5/1/2019
+
+**O LEARN: non-fiction, genres, seminal, fiction, made-up**
+
+
+
+Hi , It’s Wednesday—time for some Wednesday English Learning Wisdom—all about what kind of BOOKS you should read!
+
+**But first**, ONE correction and ONE announcement:
+
+**CORRECTION:**
+
+Coach Lan, our new coach for the upcoming DDM CHINA, wanted to emphasize that she has English teaching experience, but NOT YEARS! I promised her that I would correct that.
+
+**ANNOUNCEMENT:**
+
+Our Super Spring Sale finishes in a few hours. This will be your LAST CHANCE to join the following classes:
+
+**DDM VIP** and **PIRF VIP**: From June, they will **ONLY** be offered to students who have been with us for **over one year**.
+
+**DDM OPEN** and **PIRF OPEN** are **disappearing**.
+
+DDM LIVE…PIRF LIVE…DDM LITE…**they’re gone**.
+
+In June we’ll have a new system—but I guarantee, if you join this month, you’ll be receiving better benefits! JOIN US!
+
+SUPER SPRING SALE - CLICK & JOIN ME!
+
+
+Your lessons never go away. Study when you want. We have a massive LIVE class schedule for VIP students—and it will grow! But this is your last chance to join fresh!
+
+Okay, now to today’s lesson:
+
+**Coach Shane, what books should I read?**
+
+I get this question A LOT! And my short answer is:
+
+Read books you like!
+
+But let me give you a better answer!
+
+IF you read English AND you need a dictionary next to you, I absolutely recommend that you read books in English that you HAVE ALREADY READ in your native language!
+
+
+Don’t go looking for something new—most students will never finish the book. At least with a book you already know in your language, it’ll be much easier to go through the entire book AND you will start relying on the dictionary more and more.
+
+IF you read English and you SOMETIMES need a dictionary, but you don’t want to read something you already read—then my recommendation is NON-FICTION (writing based on facts and real things and real people) books.
+
+
+If you like science, read a book about science.
+
+
+Read a biography or an autobiography.
+
+
+Read about sports or hunting or business.
+
+Actually, **one of the easiest genres (type/category/theme of book)** is…SELF-HELP books! And personally, I recommend Tony Robbin’s two seminal (in this case; self-help books that influenced nearly every self-help book sold today) books:
+
+
+I have a TON of great non-fiction books. And if you look carefully, they’re all REALLY different!
+
+
+Finally, the last step: read books that look good to you OR read books written by the same author. This includes FICTION (stories created/imagined by the author). Fiction books are much more difficult because of vocabulary, nuance, background, culture…they can REALLY be tough.
+
+What about children’s books and books like Harry Potter?
+
+
+IF you have first read them in your language, go ahead. If you haven’t—your head might explode because of the NEW words and MADE-UP (created) words you find in so many books for young readers! Let the kids read the kids' books, okay?!
+
+
+What about audiobooks?
+
+Really? Is your listening that good? Is DDM easy for you? If you say YES! Then go for it! Especially if you have the hardcopy PLUS the audio PLUS the translated version—excellent combination!
+
+That’s my advice for you guys! I hope it works for you😊
+
+And ONE MORE, ONE FINAL time…JOIN us. Our Super Spring Sale ends in a few hours…tick-tock, tick-tock, tick-tock! Click the clock to join!
+
+### 5/2/2019
+
+LME 81
+
+**TO LEARN: resent, re-sent, resign, re-sign**
+
+ Hi ,
+
+Thursday’s Thoughts…
+
+Did you see the four word **TO LEARN** up above. They’re four DIFFERENT words. They have different meanings and are pronounced differently!
+
+This happens sometimes in English—especially for nouns and verbs. The spelling is the same, but the **noun version** has one pronunciation and the **verb version** has a different pronunciation.
+
+I want to **record** the lecture.
+
+Usain Bolt set a new world **record**.
+
+However, it’s not common for **both words** to be **verbs**…which is the case today. Two verbs with completely different meanings! And they're pronounced differently, too! Let me show you an example for each:
+
+**I resent the email.**
+
+**I want to resign.**
+
+In SPOKEN English, there would be ZERO misunderstandings. But in written English—those two sentences could cause HUGE problems. 
+
+What does the word “resent” mean?
+
+For most people, as soon as they see “resent” they think “hate/dislike”.
+
+What about resign?
+
+Again, for most people, they would understand it to mean “retire” or “quit”.
+
+BUT…they could mean COMPLETELY different things!
+
+I resent the email. à I sent it AGAIN! Did you receive it?
+
+I want to resign. à I want to SIGN AGAIN. I want to sign another contract with you!!
+
+Like I said, when SPEAKING, they sound very different—I attached an MP3 file so you can hear the difference.
+
+But when writing…BE CAREFUL!
+
+My suggestion:
+
+If you want to tell the person you have sent the email again:
+
+**I re-sent the email.**
+
+If you want to tell the person you would like to sign the contract again:
+
+**I want to re-sign.**
+
+ 
+
+If you do that, there will be NO confusion and life will be good!
+
+Finally, I want to give all of our new students a warm welcome! We sent out new lessons today—if you signed up but didn’t get lessons, LET US KNOW!
+
+
+
+### 5/3/2019
+
+LME 82
+
+**TO LEARN: step up**
+
+Hi ,
+
+OH NO! I forgot the MP3 file yesterday! Don’t worry, if you check at the bottom of this email, you will see that
+
+I re-sent it!
+
+Thanks^^
+
+Okay, it’s Phrasal Verb Friday—and we have an excellent verb to learn.
+
+In our newest DDM LESSON (569), we are studying a wonderful story about “the American Dream”. There are SO many things that we are learning, but for you guys, I have chosen ONE special phrasal verb:
+
+**To STEP UP**
+
+This verb is getting more and more common these days and its **basic definition is “to volunteer”**.
+
+But it’s MORE than just volunteer.
+
+It means to ACCEPT a difficult challenge, to RISK failure and/or embarrassment and/or loss FOR the possible benefit to yourself and others.
+
+Many people TALK about how they could do something, they CRITICIZE about how something could be done better or how someone is so stupid. They TALK about great ideas and DREAMS…but they never DO.
+
+Why?
+
+Because they know…doing MIGHT mean failure.
+
+So they continue in their lives just talking and criticizing…and after a while, they **grow bitter and the only other friends they have are other people who only talk and criticize.**
+
+But DOers are different. People who DO, GROW. **But with growth, comes change.**
+
+And a lot of people are afraid of change. Because when something big changes in your life…EVERYTHING ELSE changes, too.
+
+Risky. Scary. Not easy.
+
+Is there something in your life that you need to STEP UP to?
+
+STEP UP and DO it. Change your life. It’ll be better—but the changes might hurt. Are you strong enough to STEP UP?
+
+You’re never too old. You’re never to slow. You’re never too late.
+
+**The best time to STEP UP is yesterday. The second-best time to STEP UP is right now.**
+
+STEP UP!
+
+I’ll see you at the top!
+
+> Step up to the challenge, believe in yourself, and do what it takes. Right now is a great time to start. -- www.livelifehappy.com
