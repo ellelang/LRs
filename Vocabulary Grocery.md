@@ -8180,3 +8180,38 @@ STEP UP!
 I’ll see you at the top!
 
 > Step up to the challenge, believe in yourself, and do what it takes. Right now is a great time to start. -- www.livelifehappy.com
+
+
+
+### 5/4/2019
+
+DDM 198
+
+- Strap: a  strip  of  cloth/leather  that  is  used  as  a handle...but  in  this  case  Jerry  means this: 
+  - Cloth 
+  - Clothe:  [kləʊð]
+  - Clothes: [kləʊðz]
+  - Close
+  - Clause
+  - Cloze
+- I don’t get: I don’t understand that
+
+- Crutches: when  you  hurt  or  leg  or  foot,  you  might need crutches!Toupee:should I get a toupee? Do you think that hair is his real hair?
+
+- A rubber band:
+- Waterskiing:Don’t give me ~: don’t say nonsense to me, don’t give me that nonsense
+
+- Chemotherapy:a  very  intense (and  often  traumatic/debilitating) treatment  for cancer which involves very toxic (powerful—essentially poisonous) drugs
+
+- Pig:a slob...BUT, it is also a pejorative (negative, mean) word to describe/call a cop (a policeman, a law enforcement officer)
+- Litterbug:a person who litters (throws trash on the ground)
+- Fled:past tense of “flee”which means “to run away”
+- I swear: I promise
+- In bad shape: very unhealthy...it can be “physical health”as well as financial or mental  or  emotional health.  It could  also refer  to  your  car  or  your computer when it is NOT in good condition!!
+- One’s deathbed: it literally refers to “the bed” that you die in...but it can also just refer to “the time RIGHT BEFORE a person dies”
+- Swore me to secrecy: made me promise to never tell
+- Better off...: in a much better situation
+- Let him have it: give him a piece of your mind, let him know HOW ANGRY you were
+- Mm-hmm: yep, that’s right
+- Who is he not to...: who does he think he is by NOT..., does he think he is better than you/more important than you?
+- That’s what I’m saying: exactly, I completely agree
