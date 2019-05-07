@@ -8215,3 +8215,47 @@ DDM 198
 - Mm-hmm: yep, that’s right
 - Who is he not to...: who does he think he is by NOT..., does he think he is better than you/more important than you?
 - That’s what I’m saying: exactly, I completely agree
+
+
+
+### 5/6/2019
+
+LME 83
+
+**TO LEARN: commercialized, mother-in-law, stay-at-home mom,**
+
+
+
+It’s Americana Monday! One of America’s MOST IMPORTANT days is less than one week away.
+
+It’s this Sunday. It’s always the 2nd Sunday in May. The original idea was to have a special day to celebrate “the person who has done more for you than anyone in the world”.
+
+The first American-style Mother’s Day was in 1908. It became a national holiday by 1911. And it soon became very **commercialized**…NOT the founder’s intention. To be “commercialized” means to focus TOO MUCH on **spending money** to celebrate **rather than** focusing on the person and doing something **from the heart**.
+
+And it is Mother’s Day NOT Mothers’ Day. The celebration is for YOUR mother—not everyone’s mother!! Focus on your mom!
+
+Not even your **mother-in-law** (your wife/husband’s mother)!!
+
+This will be my first Mother’s Day since my mom passed away in February. It’ll be a sad day…but I will do something VERY special for her.
+
+And for all of you.
+
+I’ll be making a special LME Podcast featuring my mom’s favorite songs. Most of the songs were popular in the 60s since she was born in 1949. It’s going to be really great and I hope that you all will like it. 
+
+Of course, on YouTube and on iTunes I cannot include the music. BUT, if you’re one of our LME members (DDM, PIRF, AE or LME WEEKLY) or a patron, you will be able to download the full version.
+
+Normally, on Mother’s Day, you MUST buy a card for mom
+
+And flowers and chocolates are highly recommended, too. I bought my mom chocolate covered strawberries last year!!
+
+Dinner is always a good thing! My mom loved Outback Steakhouse! What about your mom? 
+
+Mother’s Day and Father’s Day are separate in the USA. I think that’s good! Moms often spend all their time raising the kids while dads are out working. So, moms should get a special day just for themselves!
+
+I know that nowadays many moms and dads both work—I wish that wasn’t the case. That’s just my opinion. Mikey is really lucky—his mom is a **stay-at-home** mom and she is terrific. I don’t know, but I’m guessing that Mikey has bought his mommy a special gift for Mother’s Day. I wonder what is…
+
+What about in your country? When is Mother’s Day? Parents' Day? What are common gifts? What did you do last time? PLEASE, if you can, send us pictures!!
+
+To every mom out there—HAPPY MOTHER’S DAY!!!
+
+A quick recap: **commercialized****,** **mother-in-law****,****stay-at-home mom**
