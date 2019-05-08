@@ -8259,3 +8259,115 @@ What about in your country? When is Mother’s Day? Parents' Day? What are commo
 To every mom out there—HAPPY MOTHER’S DAY!!!
 
 A quick recap: **commercialized****,** **mother-in-law****,****stay-at-home mom**
+
+### 5/7/2019
+
+
+"Life is either a daring adventure or nothing at all."
+
+Helen Keller 
+
+These days, I'm not taking any "dangerous" adventures! But, there are a few things I have decided to do.
+
+1. Run a 5km run with Mikey in October.
+
+2. Learn about oils and soaps. Homemade stuff.
+
+Really different things...for no big reason. But just to keep me active, keep my mind active and keep my "adventurous spirit" happy!
+
+What new adventures are you **embarking on?** 
+
+TELL US and share some pictures!
+
+"Hanaikada” (**floral raft**) is so beautiful. These are cherry blossoms (petals) that have fallen onto the water.  This is the outer **moat** of Hirosaki Park and the Hirosaki Cherry Blossom Festival was held until May 6.
+
+- moat: a deep and wide trench around the rampart of a fortified place (as a castle) that is usually filled with water 
+
+Cherry blossoms are the Japanese national flower.We love cherry blossoms so much. Because they bloom and fall gracefully in a short period of time. This gracefulness leaves us with a sense of the **“samurai”** spirit.
+
+- samurai: a Japanese warrior who was a member of the feudal military aristocracy
+
+On this day, Japan’s new emperor takes the throne after his father abdicates. Because of that, the “**Heisei** “ era which has lasted for 31 years comes to an end and the new “**Reiwa**” era begins. We use both the Japanese and Western calendars in daily life differently.
+
+- abdicate: give up, such as power, as of monarchs and emperors, or duties and obligations
+
+Country Hajime
+
+Japan
+
+Hi Hajime! 
+
+Absolutely beautiful! I've been lucky enough to see streets lined with cherry trees. But Japan is truly the home of such beauty! 
+
+I hope to see them up close and personal one day!
+
+ And congratulations on the new era! May he **preside over peace and prosperity for ages to come!**
+
+- preside: act as president
+
+Hi Shane 
+
+ With my wife, we started our big trip in the United States. DDM and PIRF helped me a lot to understand and talk with people. I’m still following all the  lessons but I don’t have time to do the assignments. I’ll do those when I come back home.
+
+Our first stop was Washington DC. The first American I spoke to was the Customs and Border officer. He was nice and very welcoming, like all people we met until now. 
+
+Washington DC is wonderful. Many museums, monuments, parks and all have free access. 
+
+ The Wharf DC where we had delicious seafood
+
+- wharf: a platform built out from the shore into the water and supported by piles; 
+  provides access to ships and boats
+
+Smithsonian National Air and Space Museum &Washington Monument
+
+- monument: a structure erected to commemorate persons or events
+
+Our next stop will be Philadelphia.
+
+ Hi Nour-Eddine! 
+
+I'm SO proud of you both! Your wife must be very proud of you as you guide her effortlessly through the numerous ENGLISH minefields everywhere!
+
+- minefield: something resembling a minefield especially in having many dangers or requiring extreme caution <a political minefield>
+
+The pictures are fantastic! What sort of seafood did you have? Did you meet the president? 
+
+In Philadelphia, will you see the Liberty Bell? Benjamin Franklin's house?
+
+ Hi ...thank you so much! In my country, Mother's Day falls on March 21 every year and father's day on June 6. We always  celebrate both days every year, but alas my parents have passed.
+
+Hi Azza, 
+
+ Though they've passed, they're still with us! Just like my mom! **We will always keep them with us as we strive to make them proud!** Thank you for sharing, Azza!
+
+ Sorry, I **roughed it up** a little. That first shrimp was goo~~ood. The second one (pictured) was a perfect match as were the other **tempura-ed ingredients** of this wonderful Tendon bowl at the “Nippon Kan” restaurant here in Warsaw. Accompanied by a tasty pickle and a bowl of Miso soup, it made for an outstanding celebratory meal. What was I celebrating?
+
+I’ve worked out the art style for my English grammar book!! That was almost the most difficult part! Now it’s coming together and this page is by now polished off. Can you guess what this page explains? It’s the first one of many^^
+
+**Stay tuned for more updates!** I’m doing all my work at the computer now. See you in class!!!
+
+Hello Coach Matt,
+
+The courage of the young!  You have taught yourself a LOT as you prepare your book! I look forward to being able to edit it!!!
+
+And Luka...looking bored. You need to get away from the computer and go play frisbee with Luka!!
+
+- frisbee: A frisbee is a light plastic disc that one person throws to another as a game. (TRADEMARK) 
+  N-COUNT 
+
+And regarding Japanese food...is there BAD Japanese food? I don't think so!
+
+Making chicken chasseur and chicken paprikash out of one whole chicken. 
+
+- chasseur:  HUNTER
+- paprikash
+
+On the left, chicken chasseur and on the right, chicken paprikash. What do you think my French/Hungarian students?
+
+Enjoying my Chicken paprikash  with noodles. And a beer. And...who is that little child next to me?!!
+
+Made chocolate chip cookies for the neighbor. Driving them out to her place. There were too many so I kept 8 for myself!
+
+We all need a break. A  well-deserved coffee break~And a baba for Mikey! He goes EVERYWHERE with his daddy!!
+
+- baba: a small cake leavened with yeast
