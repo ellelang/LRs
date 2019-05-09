@@ -8371,3 +8371,45 @@ Made chocolate chip cookies for the neighbor. Driving them out to her place. The
 We all need a break. A  well-deserved coffee break~And a baba for Mikey! He goes EVERYWHERE with his daddy!!
 
 - baba: a small cake leavened with yeast
+
+  
+
+### 5/8/2019
+
+LME 85
+
+**TO LEARN: fit in, puzzle piece, uniform, a square peg, round pegs, concept, the spice of life**
+
+Wednesday’s Words & Wisdom.
+
+I read an article yesterday where the writer said that nowadays, people just want to **FIT IN**.
+
+And I was wondering how “wise” that was. And I also thought, “Hey, I should teach that phrasal verb on Friday!”
+
+But I’ve decided to talk about FIT IN today—and together we can decide how WISE *fitting in* is, okay?
+
+First of all, to FIT IN means to “fall into place, to conform”.
+
+The **puzzle piece** fits in. Now we have a full picture. We are **uniform** (one).
+
+Very nice, right?
+
+But…doesn’t that mean…that YOU were NOT a full picture? If everyone were wearing the same uniform, would that make things better?
+
+What if you were **a square peg** and you had to fit in with all the other **round pegs**?
+
+Wow! You’re a hero…
+
+But what about you? You are not a PEG! You are not a...
+
+Do you remember the game Tetris?
+
+Great game!! But, basically the entire concept (idea) of the game was about fitting in. And what happens when you fit in?
+
+You disappear.
+
+Don’t fit in. Be yourself. That doesn’t mean IGNORE everyone else, it just means *be yourself*! Teach that to your kids.
+
+Difference is **the spice of life**! Difference is *what makes life interesting and tasty*! Sometimes it’s too spicy…sometimes too bland. But if everything were McDonald’s, life would really suck!
+
+A quick recap: **fit in****,** **puzzle piece****,** **uniform,** **a square peg****,** **round pegs****, concept,** **the spice of life**
