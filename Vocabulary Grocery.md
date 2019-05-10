@@ -8413,3 +8413,53 @@ Don’t fit in. Be yourself. That doesn’t mean IGNORE everyone else, it just m
 Difference is **the spice of life**! Difference is *what makes life interesting and tasty*! Sometimes it’s too spicy…sometimes too bland. But if everything were McDonald’s, life would really suck!
 
 A quick recap: **fit in****,** **puzzle piece****,** **uniform,** **a square peg****,** **round pegs****, concept,** **the spice of life**
+
+
+
+### 5/9/2019
+
+
+
+**TO LEARN: homophones**
+
+Hi ,
+
+Thursday’s Somethings…
+
+In our current PIRF assignment (PIRF 207), I taught the students that the words THAN and THEN typically have the SAME pronunciation in daily English. They both sound like “then”. The SHORT A in “than” changes. We actually have a LOT of those words in American English.
+
+Try these four sentences—how do they sound?
+
+ 
+
+They’re there in their car.
+
+You’re yearning for your Yerba!
+
+I’ll walk down the aisle on the Isle of White.
+
+I’m to wear a tutu size 2, too, on the Tulip Dew Tour from Altoona to Tupelo.
+
+ 
+
+Despite the different spellings—the same sound was repeated a lot! The first sentence has three words that CAN be pronounced the same, the second has two words that usually sound the same, the third sentence has three and the fourth sentence has four words (actually, 3 if you look at spelling!).
+
+ 
+
+They’re there in their car.
+
+You’re yearning for your Yerba!
+
+I’ll walk down the aisle on the Isle of White.
+
+I’m to wear a tutu size 2, too, on the Tulip Dew Tour from Altoona toTupelo.
+
+ 
+
+Those words are **HOMOPHONES**. Homophones are words that sound the same despite their different spellings. And, of course, their meanings are different, too.
+
+I’ve attached an MP3 file so you can have fun reading those sentences! Have fun and challenge your friends 😊
+
+ 
+
+A quick recap: **homophones**
