@@ -8463,3 +8463,120 @@ I’ve attached an MP3 file so you can have fun reading those sentences! Have fu
  
 
 A quick recap: **homophones**
+
+
+
+### 5/13/2019
+
+LME 88
+
+
+
+**TO LEARN: Scots, every Tom, Dick and Harry, US OPEN, favored to win, locals, working-class stock, upset, a huge sensation, etiquette, on and on and on, links**
+
+ 
+
+Hi ,
+
+It’s Americana Monday—and Americans are loving SPRING for several reasons. One of them…golf starts up again!
+
+ While the modern game of golf is considered an English game—the **Scots** *(people from Scotland)* are very proud of their gentlemen’s sport! It’s America that brought the game to **every Tom, Dick and Harry** *(everyone)*! Because of one man.
+
+
+
+In 1913, a 20-year-old amateur was allowed to play in the **US OPEN** tournament *(golf championship)* in Massachusetts. Two British golfers were **favored to win** *(expected to win)*. The young boy? No one but a few **locals** *(people from the local area)* knew his name and no one cared. He was not the typical *rich player*—he was of **working-class stock** *(from a family who had regular jobs—often in a factory or a store)* and didn’t even have nice golf equipment.
+
+Well, he ended up WINNING! His victory is considered the greatest **upset** *(a victory by someone no one expected)* in golf’s history. And it was because of him—a young, amateur boy of working-class stock with used clubs and used golf balls—that golf instantly became **a huge sensation** *(very popular)* for every class of American.
+
+And since, its popularity has only grown!
+
+But it’s still called a “gentleman’s game”. Why?
+
+Because the players are rich, right?!
+
+NO!
+
+Because of the **ETIQUETTE**. Golfers must *follow very strict rules* and how they *behave* is extremely important. Silence always during play, safety first, absolutely NO cheating, keep the course in perfect shape, dress appropriately…the rules go **on and on and on***(etcetera)*!
+
+Golfers pride themselves with having excellent manners! And that is why it’s considered a “gentleman’s sport”!
+
+NO!
+
+Because of the **ETIQUETTE**. Golfers must *follow very strict rules*and how they *behave* is extremely important. Silence always during play, safety first, absolutely NO cheating, keep the course in perfect shape, dress appropriately…the rules go **on and on and on***(etcetera)*!
+
+- Etiquette:  ['etɪket]  Etiquette is a set of customs and rules for polite behaviour, especially among a 
+  particular class of people or in a particular profession. 
+  This was such a  great breach of etiquette, he hardly knew what to do. 
+
+Golfers pride themselves with having excellent manners! And that is why it’s considered a “gentleman’s sport”!
+
+A quick recap: **Scots****,** **every Tom, Dick and Harry****,****US OPEN****,** **favored to win****,** **locals****,** **working-class stock****,** **upset****,** **a huge sensation****,** **etiquette****,****on and on and on****,** **links**
+
+ 
+
+### 5/14/2019
+
+Tomorrow is another day. If today went horribly, it doesn't matter. I know, sometimes we have a lot of bad days. BUT...remember. YOU are the author of your story. Finish the bad chapter, and start creating a new chapter. Seriously--if you find yourself in a situation that you don't like. CHANGE IT.
+
+Are there risks? Of course! What if change means...quitting my job? No income! Ending my relationship?
+
+All those years...children... Yes, sometimes the bad chapters are really bad. And the solution to them is SO difficult. I have been in both of those situations. And I've made both of those horribly difficult decisions. You can find a way.  Write your chapter. Take control of your life. You are responsible... You are responseABLE. You are ABLE to respond to any situation ANY way you want. You have that ability.
+
+Changes in your life start with changes in yourself. Start creating a new you--start writing a new chapter! I did. Finishing the old chapter was TOUGH. But I survived. Everyone did. And I'm so much happier. Everyone is. WOW...too heavy! Let's start this newsletter! 
+
+- Hello！I have received your DD 81! It is helpful. I always watched your videos on bilibili instead YouTube
+
+  because of the Great Firewall of China.
+
+But now I can watch your videos on YouTube! I followed your channel a few days ago and I watched your newest videos. I was surprised at the change from then to 2019...time runs fast. 
+
+Thank you so much for finding me on YouTube. I know it is TOUGH for students in China. We started a Weibo site and we'll try and get a bilibili site going, too! But I'm really glad you were able to connect via YouTube!! Keep studying hard!
+
+- Hi coach,
+
+  I'll  share with you some pictures that I took in my mother's house. It was Easter and we were preparing a traditional meal for this holiday.  It is called "Panada". The outside is made with a special type of dough and for the inside, we added potatoes and meat, green peas, dried tomatoes, garlic, parsley and olive oil. My mother and my daughter are in these photos making" Panada". After you closed it with a lid made with dough, everything goes into the oven for about two hours. Hugs and Kisses 
+
+
+Hi Graziella! 
+
+ 
+
+Wow. WOW! WOW!! Well, I emailed you to ask if your dear mother would share her recipe. I hope she will! It is something that my wife and I absolutely want to try. And the flower designs with dough...what a beautiful touch! I imagine they tasted heavenly! And THREE generations making them together. THAT is what family is all about! I hope your daughter gets married and has a baby then I want a picture with FOUR generations!! Thank you so much for sharing, Graziella!
+
+- Here are some pictures of a Costume Tango Ball in Buenos Aires last March. Marlene and I went to this party. It was very interesting. Our American friends were with us.
+
+
+Hi Sidnei!  I want to see you and Marlene DANCING! If you ever take a video of you two dancing--please share it with me! It would be great! And I must say, you are quite the costume party participant! You are much braver than I!! Thanks always, Sidnei!
+
+- Hi Coach Shane!!! Do you recognize these places in the pictures? Yes, this week I’m in Chicago for a medical congress. My wife is a doctor and I’m just tagging along! 
+
+  
+
+Hi Paulo!  YOU are super lucky! Your wife has to attend a boring conference, but you get to tour the city!! 
+
+But wait...did she skip the convention?!! It looks like you both had a great time visiting a LOT of different places! MORE than I! I think I should hire YOU as a tour guide! I wish I were closer to Chicago--I would have ABSOLUTELY loved having a beer with you! One day!
+
+- Hi Coach, In China, Mother’s Day is also the second Sunday in May. 
+
+  On that day, we take the heavy burden off mom’s shoulders.  Fathers and children do all the household chores, including cooking meals. Moms can **kick back** and go out for a movie or a massage. And the common gifts are also things like flowers and cards. 
+
+  Last year, I bought my mom a foot bath machine, which is a very popular gift for the elderly in China.  Add water and herbal powder into it. After 15 minutes’ heating, you can put your feet in it and then enjoy a relaxing foot bath for half an hour. And I also bought her some flowers.
+
+  And because I wasn’t at my parents’. I made my dad take her out for dinner in a fine restaurant.  That's all I did last Mother's Day.
+
+  Have a great day,
+
+  Bonita
+
+Hi Bonita,  You're an excellent daughter! The gifts are wonderful and I can feel your love for your mother in your words! And it looks like your father did a good job finding a very nice restaurant for dinner! I'm sure your mother had an excellent day--I hope you'll be able to be with her next year!
+
+- Fishing season started. Getting minnows...
+
+
+Mikey is watching me bait a hook. I'm using minnows. After THREE outings...I only got ONE bite! No fish~ But I will NOT give up! Mikey and I will be back out there!
+
+- outing: An outing is a short enjoyable trip, usually with a group of people, away from your home, school, or place of work
+
+Mikey and I don't have a boat, so we have to fish from the docks. Mikey is watching the boy who's sitting in his dad's boat.  One day Mikey will ask me for a boat...
+
+ 
