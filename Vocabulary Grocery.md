@@ -8466,6 +8466,116 @@ A quick recap: **homophones**
 
 
 
+### 5/10/2019
+
+LME 86
+
+**TO LEARN: throw off (9 usages!), in context**
+
+In DDM 571, we’ve come across an excellent phrasal verb: to THROW OFF.
+
+This verb can have SEVERAL usages. Here are NINE!!! 
+
+By pinching my nose, I was able to **throw off** my sense of taste. I ate the onion as though it were an apple! **CONFUSE**
+
+Because I wasn’t able to see which direction the sun was setting in—I was **thrown off** course and got lost. **MISDIRECTED**, **MISLED**
+
+My investment in Apple stock keeps **throwing off** dividends! **GENERATING**
+
+
+
+DDM 199
+
+
+
+- A complete with B: A which includes B 
+- A dozen: 12
+- ~ will sneak up on you: ~ will surprise you, ~ will suddenly appear, ~ will appear out of nowhere
+- Ideal:perfect, the best
+- It beats ~: it’s better than ~
+- Gosh:wow, my god, my goodness
+- Put A together: organize A 
+- The dead of winter: the peak of winter
+- For the rest of ~: for the remainder of ~Itching for...: hoping for..., hankering for..., wanting ~
+- Treadmill:a running machine
+- Stationary bike: this
+- Group:club, team, organization
+- Enough is enough: “this”will NOT be tolerated any more 
+- Option: alternative
+- A huge following: a lot of people that admire ~, a lot of fans
+- The DC region: the area around Washington DC
+- A sense of ~: a feeling of
+- Cabin fever: the frustration of being STUCK inside your home because of inclement (bad) weather
+- Transformed:changed
+- Subterranean: underground 
+- Winter-weary: sick and tired of winter! Tired of winter
+- ~Sick of ~: very annoyed with ~, very annoyed to see ~
+- Slick:slippery
+- Thrilled:very happy, excited
+- Fitness level: “how fit”someone is. My fitness level is okay...I couldn’t run a marathon but I could ride a bike 100 km!How is your fitness level?
+
+
+
+DDM 200
+
+- Given it away: inadvertently/accidentally told everyone the secret 
+  - advertently: in a careful deliberate manner
+- Read your face: saw “it”in your face—he would have been able to SENSE that you were “keeping a secret”just by the way you looked
+- Poker face: the game of “poker”requires that good players NEVER change their “face”during  a  game.  So,  when  the  player  had  GOOD  cards  and when  the  player  has  BAD  cards—the face  stays  the  same.  If  your face changes, then other people will know what cards you have and you  will  probably  lose!  So,  somebody  who  does  NOT  show what they have or what they are thinking has a poker face.
+- Stagnating: starting to stagnate...to become boring, dull, uninteresting
+- I have to say...: I must say, I feel that I need to speak out (about what you said)
+- I take exception to that: I disagree with that
+- Like: the same as
+- Cruise around: tool around, drive around, go around 
+- I’ve considered that: I’ve thought about that
+- Get in touch with ~: contact ~
+- Jujyfruits: a brand of candy
+
+
+
+- Peculiar:strange, weird 
+
+- Hurt:disappointed
+
+- To confide in me: to tell me your secrets, to trust me with your information
+
+  - confide: If you confide in someone, you tell them a secret.
+
+    I knew she had some fundamental problems in her marriage because she had  confided in me a year earlier.
+
+- Frankly: to be honest/blunt
+
+  - blunt: If you are blunt, you say exactly what you think without trying to be polite. 
+    She is blunt about her personal life.
+
+- Two pair: a poker hand where you have two pairs—two sevens and two nines! It’s a good hand, not great, but pretty good.
+
+- The whole table knows: everyone (playing poker) knows1979 
+
+- Dodge Diplomat: this oldie!!
+
+- A church zone: an area where there is a church
+
+- Scofflaw: someone who flagrantly disregards (ignores) a law
+
+  - flagrantly: conspicuously offensive 
+
+- Piled up: accumulated, amassed
+
+- Pursued:chased, went after
+
+- Give me the slip: slip away, escape
+
+- Time and time again: again and again
+
+- A clean look: a clear look, a good look...to see “someone”clearly (enough to describe)
+
+- White whale: something that you chase and chase and chase...but never get. Moby Dick was a white whale.Thanks to you: because of you
+
+- Eyepatch: something pirates love
+
+
+
 ### 5/13/2019
 
 LME 88
@@ -8580,3 +8690,54 @@ Mikey is watching me bait a hook. I'm using minnows. After THREE outings...I onl
 Mikey and I don't have a boat, so we have to fish from the docks. Mikey is watching the boy who's sitting in his dad's boat.  One day Mikey will ask me for a boat...
 
  
+
+### 5/17/2019
+
+DDM 201
+
+- Google Ventures:one of the companies under the GOOGLE umbrella—it’s focus is investing in companies that will become big/successful in the future
+- What he deems best:what he thinks is the best
+- Oftentimes:more likely than not, usually
+- He opts to DO SMT:he chooses to DO SMT
+- Extend the funding:further investment
+- Extend lives:lengthen the lives of humans
+- A year or two here and there: the occasional (here and there) discovery of a medicine/treatment that results in an extension of one or two years to the human life
+- His view of what’s possible:his opinion of the actual possibility 
+- In the arena of ~:in the area of, in the study of 
+- Cheating death:defying death, not dying 
+- Significantly larger scale: would be dozens of years or more (would be much bigger)
+-  The search for making A attainable:the quest/goal for having A usable to all people. 
+- Lifespan:the amount of years (on average) a human (any living thing) can live~ 
+- picked up momentum:become more popular/main stream
+  - momentum: an impelling force or strength
+- Living sciences-related **endeavors [ɪn'devə]** :business that are related to “life science” (biology)
+- Recipients:companies that receive funding/investments from Google Ventures
+- Enterprise: a business/company/firm
+- **Diagnosis [‚daɪəg'nəʊsɪs**] :determining and defining an ailment 
+  - ailment: an often persistent bodily disorder or disease; a cause for complaining
+- Alternative routes:other/newer methods of handling disease/treatment/ diagnoses [‚daɪəg'nəʊsɪz]/ nutrition...
+- The practice of A: the way of doing A 
+- Tumors:an abnormal growth of tissue—a tumor may be cancerous. This mouse has a tumor on its back:
+- Obsolete: history, something no longer used, old school, non-existent...for many people, newspapers are becoming obsolete
+- Exec: short for “executive”—a high-ranking person in a company
+- Assembled a team:put together a team
+- Noted: famous, highly-regarded
+- Futurist: a person who predicts the future (a type of philosopher)Verbal support: NOT written support, only oral support
+- Ultimately: eventually, in the end
+- avatar [ˌævə`tɑr; ˌævəˋtɑ:]: a new personification of a familiar idea
+- Alzheimer: /a:lts-hai-me~z/
+
+DDM 202
+
+- My meter’s up: the time has expired on my parking meter.  Parking  meters  allow  a  certain amount  of  time  for  which  you  can park—see the picture:...
+- opening up: will become free/available
+- Bucks:dollars
+- Living a lie: living a life that is FULL of lies!
+- Flat out: completely, absolutely
+- Tell me about it: I completely agree, I know
+- Soul sister: in this case; you think EXACTLY like me—it’s as if we were twins!
+- Common courtesy:   something   that   we   normally   do   which   is   considered courteous—holding the door for someone
+- The upper  hand:  the  advantage,  control, the superior position
+- Tag:a game where one child has to touch another child and so on and so forth!
+- Pair of bullets: a pair of aces!
+- A flush:  all  five  cards  having  the  same  suit!  There  are  four  suits—hearts,diamonds, clubs and spades
