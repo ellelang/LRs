@@ -8576,6 +8576,8 @@ DDM 200
 
 
 
+
+
 ### 5/13/2019
 
 LME 88
@@ -8689,7 +8691,110 @@ Mikey is watching me bait a hook. I'm using minnows. After THREE outings...I onl
 
 Mikey and I don't have a boat, so we have to fish from the docks. Mikey is watching the boy who's sitting in his dad's boat.  One day Mikey will ask me for a boat...
 
+
+
+ ###  5/15/2019
+
+
+
+LEM 91
+
+
+
+**TO LEARN: alliteration**
+
+Hi ,
+
+Thursday’s Say Somethings…
+
+When it comes to learning a language, there’s a LOT to learn! We were actually talking about this subject in our recent DDM lesson. My ddm student Mahmoud made the perfect list:
+
+**Listening** **Speaking****Reading****Writing****Thinking**
+
+Depending on what your goals are with the language—your focus might be different. But if your main goal involves **listening** and **speaking**, then I have some VERY good advice.
+
+**Master your pronunciation!**
+
+It helps NOT ONLY with your speaking, but your listening, too!
+
+Remember, if your pronunciation is bad…NO ONE will understand you!
+
+Not good.
+
+**So, how do you master pronunciation?**
+
+As you already know, the best way is with me. I’ll coach you! PIRF is the perfect class for you to join if speaking is important to you.
+
+My favorite thing to do with my students: Give them “sentences” to practice in order for them to master certain pronunciation points.
+
+My favorite style of sentence uses…**alliteration**. *A series of words with the same sound at the beginning*. 
+
+If my student has **a TH problem**, I give them a sentence like this:
+
+**That thing that Thelma thought was thick is thin.**  
+
+Maybe it’s **a W problem**:
+
+**Willie will want one with Wally’s wonderful wasabi on wheat.**
+
  
+
+Maybe it’s **an R/N problem**:
+
+**Right now, Ron really reads read, need and lead really nicely.**
+
+Do you see how the SAME sounds are repeated again and again? Like a tongue twister for some people!
+
+**To all my students: Practice these sentences and recite them to me in next week's AMA classes! Let's perfect your pronunciation^^
+
+Making and practicing sentences like these is EXCELLENT for learning how to master your pronunciation problems. 
+
+A quick recap: **alliteration**
+
+### 5/16/2019
+
+LME 92
+
+**TO LEARN: strike down, strike up, strike out**
+
+ 
+
+Hi ,
+
+ In our newest DDM lesson, we learned the phrasal verb “**to strike down**”.  As usual, this verb can have several meanings/usages!
+
+ 
+
+The court **struck down** the law.  *(decided a law was NO LONGER legal!)*
+
+He’s **striking down** on the ball, so he never gets a home-run. *(hit at a downward angle)*
+
+Cancer **struck him down** when he was young. *(killed him, made him very ill)*
+
+  Let’s have fun—what if we use the opposite of **down**? **UP**. What meanings/usages can we find?
+
+ 
+
+**Strike up** the band!  *(start a musical performance)*
+We **struck up** a nice conversation~  *(begin a conversation with someone out of the blue)*
+
+If you **strike up** on the ball, you'll hit a home run! *(hit at an upward angle)*
+
+
+
+Since we had baseball in their twice *(strike DOWN on the ball and strike UP on the ball)*…what if we change the preposition to **OUT**? More baseball? Yes! And what else?
+
+John **struck out** in the baseball game. *(swung at AND missed the ball three times)*
+
+I hope he doesn’t **strike out** with Sally. *(get turned down)*
+
+I **struck out** on my own at 18. *(started to live independently)*
+
+The monkey **struck out** at me with no warning! *(attacked (physically and/or verbally))*
+
+A quick recap: **strike down****,** **strike up****,** **strike out**
+
+
 
 ### 5/17/2019
 
@@ -8737,7 +8842,38 @@ DDM 202
 - Tell me about it: I completely agree, I know
 - Soul sister: in this case; you think EXACTLY like me—it’s as if we were twins!
 - Common courtesy:   something   that   we   normally   do   which   is   considered courteous—holding the door for someone
+  - Courteous: ['kɜːtjəs] Someone who is courteous is polite and respectful to other people. 
 - The upper  hand:  the  advantage,  control, the superior position
 - Tag:a game where one child has to touch another child and so on and so forth!
 - Pair of bullets: a pair of aces!
 - A flush:  all  five  cards  having  the  same  suit!  There  are  four  suits—hearts,diamonds, clubs and spades
+
+### 5/18/2019
+
+- Reputation:image
+- Tackling:trying to solve/resolve
+- Tough issues: controversial topics/problems
+- Taking on ~: tackling ~
+- Campaign:an   operation/event   that   tries   to   bring   attention   to   a   certain plight/hardship/cause...an “advertising campaign”is a method to “teach the public”about a certain product that will “solve their problems”
+- Encourage:persuade
+- Talks:discussions
+- Urging:suggesting that, pushing
+- Baristas:coffee-makers...the people who “make”your coffee at the coffee shops.
+- Broach:bring up
+- Initiative: campaign
+- Launched:started, kicked off
+- Ad:advertisement
+- The text: the words, the letters
+- Against a ~ background: on a ~ background, superimposed over a ~ background
+  - superimposed: to place or lay over or above something <superimposed images> <superimposed a formula on the stories> 
+- Much like it: just like it, very similar to it
+- Edition:issue, copy
+- Companywide:throughout the company,all over thecompany
+- Engage:start
+- With regard to: regarding, when it comes to, in the area of
+- Prior to: beforeImplementation:launchingParticularly:especially
+- Those:people
+- Greatly: very much, largely
+
+- Resulting:concurrent (as a result of)
+- Tensions:civil unrest
