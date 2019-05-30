@@ -1,4 +1,4 @@
-**Table of Contents**
+*Table of Contents**
 
 [TOC]
 
@@ -8877,3 +8877,540 @@ DDM 202
 
 - Resulting:concurrent (as a result of)
 - Tensions:civil unrest
+
+### 5/20/2019
+
+LME 93
+
+TO LEARN: blooming, pussy willows, spring foraging, fiddleheads, sprout of a fern, mushroom hunter, wild raspberries, wild strawberries, honeyberries**
+
+Hi ,
+
+Happy Monday! Spring is FINALLY here—the snow is 100% gone and flowers are even **blooming**. SOME trees are growing leaves, but most are just showing off their **pussy willows**!
+
+And it’s the season for **spring foraging**! Hunting the forests and fields for delicious gifts from Mother Nature! Are you a forager? What’s a forager? A person who goes out in nature and looks for things like berries, mushrooms and **fiddleheads**! Right now, it’s fiddlehead season. On the right (below) are fiddleheads.
+
+- FORAGE: the act of searching for food and provisions
+- fiddlehead: one of the young unfurling fronds of some ferns that are often eaten as greens ― called also *fiddlehead fern*
+
+A fiddlehead is the **sprout of a fern**—basically, a baby fern! Ferns are excellent producers of oxygen. 
+
+You have to pick fiddleheads just at the right time. If you’re too late—they don’t taste good. There are many ways to cook them. Do you eat them in your country? I know they're popular in Korea! Below—American style!
+
+I have a few students in Russia who are excellent **mushroom hunters**! My neighbor is great, too. Below are morel mushrooms.
+
+- morel: Any of various edible mushrooms of the genus *Morchella*  and related  genera, characterized by a brownish spongelike cap.
+
+ And me? I am lucky to have **wild raspberries** and **wild strawberries** growing near my house. But I’ll have to wait until late May or June before I can start foraging for them!
+
+Oh—and **honeyberries**! They’re SO delicious. They’re not wild where I live, but there’s a farm nearby where I can pick them! Problem…MOSQUITOES! By the time the berries are ripe for picking, the mosquitoes will be out looking for my blood!
+
+What about you? Do you forage for anything this time of year? Tell us! Share some pictures!!
+
+ A quick recap: **blooming****,** **pussy willows****,** **spring foraging****,** **fiddleheads****,** **sprout of a fern****,** **mushroom hunter****,** **wild raspberries****, wild strawberries,** **honeyberries**.
+
+
+
+### 5/21/2019
+
+LME Tuesday Magzine
+
+New project...A big purchase...Chaos at home...
+
+One thing that I have learned over the past...half century!
+
+Relax.
+
+I'll give you an example. Let's go back in time--you know YOUR history, right? So, while I think about my history, you think about yours, okay?
+
+Let's go back to...10 years ago. May 21st, 2009. 11 pm. You had something on your mind on that day. At that time. Remember? Think about it...
+
+OF COURSE YOU DON'T REMEMBER! It's done. It's gone. It's past. It's over.
+
+So, if you are sitting here now with a worry. Something heavy on your mind...
+
+YOU GOT THIS. You will take care of it. You will overcome it. You got this.You can handle it. You will solve it. It's true. We learn, we accept responsibility, we move on. We got this. Let's go.
+
+- 4/05/19 my daughter's (Samira) birthday. She is 2 years old already. Can you believe it...Oh how great that I have all of them. It's not easy stuff but I am happy :)
+
+As you want your second  kid- I want another, too! Yeah Coach Shane, recently I made your dreaded pumpkin steamed **manty** and I would like to share with you my team of helpers- Samira and Kamila, we are making **pelmeni!**
+
+Thank you CS, Take care!
+
+Gulya
+
+Hi COACH Gulya!  Yes--Coach Gulya! She and Vlad will become our first DDM RUSSIA coaches starting in June! And I'm so excited. But, more importantly, look at those two angelic chefs! Kamila and Samira are doing such an excellent job. I only regret that I am unable to taste those delicious dumplings.  As I have said before--they do NOT sound very appetizing to me--BUT! If a child makes them with such **eagerness and love,** HOW could I refuse?
+
+One day I hope to make it to Russia--I'm expecting to taste these!
+
+- Hi Shane,This past week we visited Philadelphia. We followed the trail of the United States’ birth. 
+
+  We saw so many sites : 
+
+  -The Declaration House (Thomas Jefferson’s house where he drafted the Declaration)
+
+  **declaration**: a statement that is emphatic and explicit (spoken or written)
+
+  -Benjamin Franklin’s home
+
+  -The Liberty Bell … and much more.
+
+  We enjoyed visiting Reading Terminal Market in Philadelphia and having the best cheese steak **hoagie**.
+
+hoagie:  large sandwich on a long split roll with any of a variety of fillings (as meatballs or cold cuts, cheese, lettuce, and tomato) ― called also grinder hero hoagie Italian 
+
+Hi Nour-Eddine! 
+
+YOU look SO HAPPY! How was your Philadelphia Cheese Steak Hoagie?
+
+It really is famous...but I'll let you in on a little secret: I have NEVER had one!
+
+ However--I intend to. I love cheese. I love steak. **My family's roots go back to Pennsylvania during the Revolutionary War...**I must return to my roots and have a PHILADELPHIA CHEESE STEAK HOAGIE! Keep us updated! I hope you two are having a wonderful time!!
+
+- Macaroni and Cheese!!! I’d always wanted to make it and finally the day has come.
+
+**Macaroni** is a kind of pasta made in the shape of short hollow tubes. 
+
+A sandy lot across the road from my home. The highrise in the distance is where I go to the gym.
+
+Hi Coach Matt,  Why so serious?!!  Oooh...don't look up that YT video or you'll regret it. But how could I resist since you had that expression WHILE you were wearing that t-shirt!
+
+If you want the clip...HERE. BUT I warned you. Matt, my wife said your mac & cheese looked burnt. I disagree. It does look well-done, but not burnt.
+
+ Dude...get your proteins. You're a young man, pack more meat on those arms and legs. Prepare to defend your future bride. Prepare to show your future children the power of... Why so serious, Coach Shane?!!Thanks always, Coach Matt!
+
+- Hi, Coach Shane! You and Mikey are looking great! 
+
+  We have been in Moscow for two days. There are so many sights to see. So many activities at the same time in different spots! Two days definitely are NOT enough to see them all. However, here are my pictures. The first picture - **the Kremlin** of course.
+
+   The second one - Six Appeals - an a **cappella** band from Illinois, U.S. Near you!
+
+  - cappella: without instrumental accompaniment
+
+  These guys are participating in an a cappella performance and they really get down!
+
+  We met them while walking around the Red Square.
+
+  The third picture - Marina loves flowers and doesn't care about The Big Theater behind her.
+
+  And the last one is MGU (Moscow Government University) and a huge plot of **tulips** in front of it. That's it! Have a great week!
+
+-  Hi Vasily, Tremendous pictures from a tremendous guy!
+
+  That picture of you two with the a cappella singers--that looks TOTALLY photoshopped!
+
+  Just joking! I'm SUPER proud that you had the courage to talk to these guys. Did you enjoy much of their performance? MUSIC truly is one of the world's ways to bring us all together!
+
+- Hi coach! I'm sending 2 photos to you. Me with my friend. They were taken in Old Damascus. This street **is ancient** and beside the castle of **Damascus**. Spring in my country is very beautiful and we had a wonderful day!      
+
+  - Damascus: an ancient city (widely regarded as the world's oldest) and present capital and largest city of Syria
+
+Hi Azza, Thank you for the GREAT pictures. What is a good life if it cannot be shared with good friends? Worthless, right? Not only are you sharing it with your dear friend, you're sharing it with us. And that's a gift. For us all! Keep them coming.
+
+- Getting some **takeouts** at a local Thai restaurant.
+
+   We have a fairly large population of Amish families living in the area. So while I was getting Thai food--two ladies NOT in a **costume** BUT in their daily clothes, walked by.
+
+  To be honest...I REALLY love tradition. I don't know too much about the Amish people, but I do **respect the fact that they adhere to their traditions**.
+
+  **Without traditions...what would we be?**
+
+  I know many might disagree, but I'm an old guy!
+
+An old guy who's hungry for SPRING ROLLS! They were SO good (from the Thai restaurant) that we made some ourselves after we came home.
+
+Of course, I didn't forget my many cups of coffee at Starbucks. My wife strongly disapproves of me buying coffee at Starbucks. But there's a secret reason. Maybe ONE day I will tell you...
+
+Working around the house....like...spraying the house with **mosquito repellent** to keep the **skeeters** away from the family! Loading up the dishwasher so my wife can have a breather ( a break).  
+
+repellent: Insect repellent is a product containing chemicals that you spray into the air or on your body in order to keep insects away. 
+...mosquito repellent. 
+
+But every good deed...receives COOKIES!
+
+My wife made heavenly oatmeal raisin cookies. TBH (to be honest), I'm NOT a fan of raisins. I pick them out and give them to the birds. But the remainder...WOW
+
+Visiting our **local dairy farm.**  It was the first time for Mikey to see a cow **up close and personal**. 
+
+He started crying when the cow made eye contact!!  The first time doing something can be daunting!
+
+- daunting: discouraging through fear
+
+Don't let English be daunting. Join me. I'll guide you along the way!
+
+
+
+### 5/22/2019
+
+LME 95
+
+**TO LEARN: How to REMEMBER words when you’re speaking**
+
+Time for some Wednesday Wisdom.
+
+One of the BIGGEST problems for my students—and probably you, too—is…
+
+**NOT** being able to remember words when you want!
+
+You know the word, you memorized it, you know there’s an idiom, there’s a better phrasal verb…BUT you can’t remember~~~
+
+A well-known idiom comes to mind: **It’s on the TIP of my tongue!**
+
+You know that one, right?!
+
+LOL! Is your BRAIN on the tip of your tongue when you speak English?!! Okay, so don’t worry. I’m going to teach you TWO ways that you can overcome this problem. And they really work.
+
+1. Use ANKI. 
+
+If you haven’t heard of ANKI, you should learn about it. I have a video that I share with my students—it explains ANKI perfectly.
+
+Basically, it’s a flashcard APP for your phone or PC. It’s FREE! (Except for iPhones—they charge $20!! But just use the computer version OR online version or Android version for FREE)!
+
+This APP is better than flashcards, though. Why? Because it’s smart.
+
+**It will flash a clue at you**—if you choose the right answer, it remembers. It’ll give you the same clue tomorrow. If you’re right, it remembers. Then it won’t give you that clue for a week. Then it gives it to you 7 days later (or 6 or 8!). If you get it right, you won’t see that card for a long time. Maybe a month…more! But it will come back and you have to be fast to answer!
+
+It’s a SMART-FLASHCARD set. You can use text, images AND audio. It is perfect. And for DDM, we have a few guys (but these days it's YuanChao!) who create ANKI cards for every DDM VIP assignment. And they share it with all our members.
+
+This ANKI system is EXCELLENT for building your ability to RECALL/REMEMBER words and phrases. I 100% recommend it.
+
+ \2. Speak.
+
+In order to train yourself to remember words and phrases DURING a real conversation…you have to be IN a real conversation A LOT!
+
+So, not just “speak”, but “SPEAK A LOT”.
+
+But how?
+
+I don’t know anyone.
+Other people are not as good.
+Their interests are different than mine.
+Their English is no good.
+I’m shy~~
+Excuses.
+
+Anyone can easily make excuses. Don’t be anyone.
+
+Find a way.
+
+We live in the AGE of the INTERNET. Social interactions around the world are EASY!
+
+But, to be honest, the EASIEST way is with me and my coaches.
+
+I just counted...
+
+Starting in June we will have 204 LIVE CLASSES!
+
+You will stumble. You might fall. But in the end, you’ll rise above.
+
+- Stumble: to walk unsteadily or clumsily 
+
+
+
+### 5/23/2019
+
+**TO LEARN: How to master the SHORT A vowel**
+
+Hi ,
+
+**Thursday’s Say Somethings!**
+
+Practicing pronunciation can be fun…if you know how! AND, if you have a coach like me!
+
+As a coach, I divide pronunciation teaching into TWO areas:
+
+Consonants are the easiest to teach because they can usually be SEEN! So, with my students, I always start helping them with their consonants. A week ago, we practiced alliteration—that’s the best way to master consonants.
+
+**What about vowels?**
+
+Vowels are step two—they require a lot more time, practice and patience.
+
+There are five vowels in American English. Each vowel has two sounds (short sounds and long sounds). We’re taught that in elementary school.
+
+But, unfortunately, it’s a LOT MORE COMPLICATED than that.
+
+**The most difficult vowel sound for students tends to be… the SHORT A**
+
+**The trickiest vowel for students…**
+
+**the O**
+
+Today, let’s talk a bit about the SHORT A.
+
+The SHORT A is very common in American English. You can hear it in these words:
+
+**apple**
+
+**happy**
+
+**sad**
+
+I create a list of simple words that have the SHORT A. I have the student repeat after me. I teach them how to open their mouth, tongue placement, where the sound comes from and which direction the sound should go.
+
+After a few minutes and several different words, we can usually find a word that the student can say perfectly. THAT WORD becomes their **ANCHOR** word.
+
+Whenever they see a SHORT A word, they need to pull up their ANCHOR and use it.
+
+For example, let’s say your ANCHOR word for Short A is “sad”. Then you see the sentence: 
+
+**The candy my dad bought made me happy.**
+
+
+
+How many SHORT As in that sentence?
+
+Three, right? Yes!
+
+
+
+**The candy my dad bought made me happy.**
+
+ 
+
+So, the student will use the ANCHOR word and practice like this:
+
+ 
+
+**The SAD SAD candy my SAD SAD dad bought made me SAD SAD happy!**
+
+
+
+And the student has to practice a LOT to master the sound—but this method really works. Of course, in the end, they remove the ANCHOR word and try the sentence. I judge them on how well they did!
+
+Problem—you **DO** need a coach.
+
+Solution—we have a special for PIRF next week—be sure to join if you are not already a member! More information on Monday!
+
+Next week, maybe I’ll tell you about the O!!! Oh, it’s a terrible vowel!
+
+And don’t forget, starting in June we have DDM Russia, DDM China, and the relaunch of DDM Brasil…
+
+We have everything waiting for you.
+
+NO excuses.  
+
+A quick recap: **How to master the SHORT A vowel!**
+
+ 
+
+Phrasal Verb Friday coming tomorrow! See you😊
+
+
+
+
+
+
+
+### 5/24/2019
+
+LME 97 http://archive.aweber.com/ddm_membership/9ZhMd/h/Lesson_97_If_you_don_t.htm
+
+**TO LEARN: square up, square away, square off, square with (x2)**
+
+Hi ,
+
+Can you think of any phrasal verbs using the word SQUARE?! We had one come up in DDM 575—**to square up**! It means to “pay a debt”.
+
+I spent a couple of minutes thinking, and came up with a few more:
+
+- Get your room **squared away**.
+- I thought you and John were going to **square off**. I was scared~
+- Talking about global warming doesn’t **square with** living in a mansion.
+- Did you **square** the project **with** the boss?
+
+And like we studied in DDM:
+
+- I **squared up** my bill. 
+
+Remembering phrasal verbs can be easier IF you can visualize them.
+
+**To square away: to clean, to organize**
+
+A SQUARE is made up of 4 perfectly straight lines, 4 90 degree angles. It’s “very organized”.
+
+These square boxes will help square away your refrigerator.
+
+**To square off: to fight.**
+
+If you are going to fight someone, you make your shoulders larger and hold your arms up…similar to making your upper body look like a square! TOUGH.
+
+These two fighters are getting ready to square off.
+
+**To square with: to be compatible with, to agree with**
+
+All the sides and corners agree with each other—they’re all the same length, they’re all 90 degrees. 
+
+**To square with: to get approval, to be accepted**
+
+To be a square, all the sides and angles must be the same—if they’re not the same, it will NOT be accepted as a square
+
+**To square up: to pay off a debt**
+
+If you are in debt, you're NOT equal, NOT balanced…if you pay your debt, you are equal…just like a square, everything is equal, everything thing is balanced!
+
+The picture below—the words are great, but the picture—I would make the two squares the same size!!!
+
+
+
+I hope these little VISUALIZATIONS help you understand the SQUARE phrasal verbs! Remember, to REALLY master them, you need to see/hear them being used AND use them yourself!
+
+
+
+DDM 204
+
+- Took it upon himself to...: did “something”of his own volition, did something by himself, did something without asking permission, did something without anyone asking him to do it
+- Unauthorized: not having permission/authority to do something
+- You’re saying...: you’re telling me 
+- A gesture: an act
+- Revealed: showed
+- Chemo treatments: chemotherapy
+- Hair Team  For  Men:  a  parody  of the “Hair  Club  For  Men”which  is  a popular “hair  transplant  clinic” franchise  in  the  US.  It’s  members  pay  a membership on top of surgery costs to maintain a false head of hair!
+  - **A franchise** is an authority that is given by an organization to someone, allowing them to sell its goods or services or to take part in an activity which the organization controls. 
+    ...fast-food franchises.
+  - parody: a piece of writing, music, acting, etc. that deliberately copies the style of sb/sth in order to be amusing: a parody of a horror film ◆ His personality made him an easy subject for parody.
+- Put his mind at ease: help him relax, help him reduce his worries/stress
+- For practically nothing: at a super-low cost
+- One bit: one iota, at all
+  - iota:  If you say that there is not an iota or not one iota of something, you are emphasizing that there is not even a very small amount of it. 
+    He's never before shown an iota of interest in any kind of social work that I know of. 
+- Maintain the same disposition: keep the same attitude/relationship
+- Came through  for  me:  helped  me  out  when  I  really  needed  it,  fulfilled  your promise to me
+- Man:buddy, bud, dude
+- Take advantage: make use of the offering/situation
+- Getting rid of ~: removing ~, eliminating ~
+- Fillings:the stuff dentists put in your teeth after they drill out dirty, infected sections of your teeth!!
+- Mercury:a common (especially in the past) material used in (amalgam) fillings. Gold is common, too, but it’s expensive!
+  - amalgam:  [ə-**'**mal-gəm ]~ (of sth) (formal) a mixture or combination of things: The film script is an amalgam of all three books. ◆ an amalgam of several companies and organizations
+  - amalgamation: 
+- Toxic: poisonous
+- You’re loaded: you’re rich!
+- Miss   Cool-toes:   he   made   a   name   for   the   woman   who “never   talks   to anyone”...she’s too cool to warm up to anyone~Check this out, Jack: Watch this, mate! Watch me, dude!
+- 
+
+### 5/27/2019
+
+LME 98
+
+**TO LEARN: three-day weekend, signifies, barbecues, commemorate, RIP**
+
+Hi ,
+
+Memorial Day! Today is a special day in America. For many Americans, this **three-day weekend** *(we don’t work or go to school on Saturday and Sunday AND Monday!)* **signifies** *(represents)* the start of summer!
+
+LOTS of families and friends will be gathered to enjoy the outside weather and have **barbecues** *(grilling food outside!)*. Lots of fishing, golfing, drinking and eating! If you live someplace warm, swimming, too!
+
+But today is actually a special day for a very different reason. It’s the day we pay special attention to our military members. Past and present. Those we have lost, those who have survived.
+
+For me, personally, I have a LOT of family members who have served in the military—both in times of peace and war.
+
+In fact, my relatives fought in the Revolutionary War to make this country the United States of America! 
+
+My grandfather fought in France and Germany. My dad fought in Vietnam. My Uncle Joe served in the Army just like me—we both volunteered. We were lucky and saw no battle. My close friend, Brian Scott, however, wasn’t so lucky.
+
+Every country, I believe, has a special day to remember its military. Today is that day in the USA. When is that day in your country? How do people **commemorate** *(celebrate)* the day?
+
+To those who have given their lives for their countries all around the world—**RIP** *(rest in peace)*.
+
+A quick recap: **three-day weekend****,** **signifies****,** **barbecues****,** **commemorate****,** **RIP**
+
+
+
+### 5/28/2019
+
+Life happens.
+
+Ugh...this has been SUCH a busy week. And it's only Tuesday!!!
+
+When I have a busy day--there are several things that help me FIND my energy.
+
+First of all--Gorilla Smooth. That's the "brain fuel" supplement that I use and it really helps make my mind sharp. 
+
+Secondly, coffee. These days my coffee is black with a little salt, butter and MCT oil. Yeah!! It might sound bad, but it's actually very nice. I only wish I had bamboo salt!
+
+Third, short mini-breaks throughout the day. Fortunately, I have Mikey to keep me busy. We go for walks, play in his room or just relax on the floor in my office. 
+
+Fourth, good food. Thank god my wife is an excellent cook. She keeps me full with the best and healthiest foods.
+
+Finally, a nap after lunch. Between 20 and 30 minutes is perfect.
+
+What about you? What are some of the things you do to KEEP YOU GOING on a tough day?!
+
+- When these massive Brazilian avocados fall from the tree in my yard at night--we have to run in the morning to get them fast, otherwise the birds eat them!!!
+
+  Hello Coach Paul! 
+
+  Oh...I want! Avocados are so good and so good for you. And in the US they're SO small! And you have avocado smoothies????
+
+  WOW! You are SO lucky!!
+
+  And congratulations on the RE-LAUNCH of DDM Brasil! I will share the place where students can go to sign up tomorrow!
+
+- I play golf every Saturday and Sunday this season. I love to play by myself on this public course. Why alone?  Cuz I wake up early in the morning before the rooster crows and get there around 4:00am start playing! My golf partners were sick of this **tee-off** time and left. Lazy〜 ʅ（◞‿◟）ʃ
+  - Tee-off: In golf, when you tee off, you hit the ball from a tee at the start of a hole.
+  - If someone or something tees you off, they make you angry or annoyed. (mainly AM, INFORMAL) 
+    Something the boy said to him teed him off. 
+    That really teed off the old boy. 
+  - yardage
+  - undulation: a smooth curving shape or movement like a series of waves: The road followed the undulations of the landscape.
+  - fairway: The fairway on a golf course is the long strip of short grass between each tee 
+    and green.
+
+Even if the total yardage of this public course is not so long, every green is elevated and tiny. The undulation of fairway is terrible.  Every time you are required to make an uphill or a downhill shot. Tough!  
+
+ Snow, Mountain cherry blossoms, my bag & cart and my footprints. Aren’t they gorgeous?
+
+Hole No.3   Second shot. Chip shot or putter? I can’t make up my mind which one to choose（´-`）.。oO.   Chose a chip shot...**How do you like them apples ?(Ecubed 192)** Just for the record,  I didn’t cheat. (｀_´)ゞ
+
+Completely conquered 18 holes and got back to the club house at around 7am. The manager was waiting for me as usual. I paid 25 dollars (morning discount !) and another 9 holes challenge had started.ᕦ(ò_óˇ)ᕤ
+
+Country Hajime     
+
+Japan ( ^_^)/~~~
+
+Hi Country Hajime, 
+
+Yes, I would have chosen the chip shot, too! Did you use a 7 iron or a 5 iron? The course is ABSOLUTELY beautiful. Like I said, Hajime, I do want to visit Japan again one day. But now I'm confused...do I go in the winter? The summer? The spring? The fall?
+
+Keep the fantastic pictures rolling in!
+
+And can anyone compete with Hajime's pictures and stories? So far he's the best!
+
+Hi Nigina, 
+
+Look at that! Congratulations! I'm SUPER proud of you! You work so hard and these rewards are so well deserved. And I agree--the Harry Potter stories are really great. To be honest, I only read the first two--but I enjoyed them. I'll probably re-live them when Mikey reads them years later!!
+
+Keep up the excellent work!
+
+Hi Shane! I just want to share with you my wonderful finding. 
+
+I found Seinfeld streaming 24/7 all around the clock. Amazing. ^^ You have to pay for it, but this channel is among several thousand other channels. It costs $10 a month. Cool. 
+
+Hi Gene,
+
+HOW did you find that? $10 per month! That's a steal! BUT...do you have time to watch TV? You're so busy. 
+
+And if you have time...DO the EVC and LTA in DDM VIP!! You always do the dictation, but I want to see your writing skills improve AND your speaking skills improve!!!
+
+Thanks, Gene! See you next Friday!
+
+- Hello Shane (from the French Alps)!
+
+I really enjoyed your explanation, truly demonstrative! I'm sure, like here in France, that news reporters are  hired based on their looks and the whiteness of their teeth rather than their investigative skills!!!
+
+Hi Jean marie,
+
+Ahh...the wonderful life of a retired man! One day for me too...perhaps!
+
+Yes, our last DDM VIP assignment was really SHOCKING! The ability of the media/press to manipulate a story is nothing new, but if they do that with a simple story, wouldn't they do that with a big story? Very scary! 
+
+- Hi! In the spring we forage beans and peas for cooking in many ways!
+
+  Hi Azza,
+
+   WOW! I have never heard of wild beans and peas--but that sounds really great! 
+
+  This year in my garden I will plant beans for the first time. I'm not sure about peas, though. I love peas, but they're so much work!!
+
+  Thanks for sharing!
+
+- Worms. On rainy days they like to crawl into the garage. But they're stupid. They don't crawl back outside after the rain...and they die! So when I see them, I put them back outside. I'm such a nice guy. And I was able to show Mikey his first worm!! COOL!
