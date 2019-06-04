@@ -9414,3 +9414,146 @@ Yes, our last DDM VIP assignment was really SHOCKING! The ability of the media/p
   Thanks for sharing!
 
 - Worms. On rainy days they like to crawl into the garage. But they're stupid. They don't crawl back outside after the rain...and they die! So when I see them, I put them back outside. I'm such a nice guy. And I was able to show Mikey his first worm!! COOL!
+
+Meat. Half a steer. 400 pounds of beef. The cow that provided this lived his life on a beautiful farm about 4 miles from my house. We're grateful^^
+
+- steer: A young ox, especially one castrated before sexual maturity and raised for beef.
+
+Dinner! T-bone steaks. Oh...they were so delicious. 
+
+I coated them with a little olive oil, salt and pepper. Then I pan fried them in butter for just a few minutes. Then I covered them and let them rest for about 15 minutes.
+
+PERFECT!!!
+
+Getting ready for the garden! SO much work to be done outside. I can't wait for Mikey to get bigger so he can help. I'm getting old!!
+
+
+
+### 5/29/2019
+
+DDM 100
+
+TO LEARN: WHICH style of English should I focus on?
+
+Hi ,
+
+Wednesday Wisdom!
+
+Coach Shane, I understand you—but I don’t understand that NBA player…I don’t understand that reporter…I don’t understand that woman. HELP ME!
+
+Ah, yes. If only everyone spoke like me!!! One of the big problems that students really find in English happens when they are officially INTERMEDIATE level!
+
+They start to realize that not all Americans speak the same way. And the same thing for British people.
+
+People in the eastern part of London speak differently from people in Surrey who speak differently than people in Manchester who speak very differently from people in Glasgow…
+
+People in Brooklyn speak differently than people in Boston who speak differently than people in Georgia who speak differently than people in Texas who speak differently than people in southern Illinois who speak differently than people in northern Wisconsin!
+
+And then we have URBAN English and Ebonics (Black Vernacular English) and Bayou and Hillbilly.
+
+There are SO many flavors of English…Baskin Robbins is jealous!
+
+- Vernacular: the language spoken in a particular area or by a particular group, especially one that is not the official or written language
+
+So WHAT should you do? First of all—don’t panic!
+
+Focus on THE STANDARD pronunciation of the country you like. Where can you find that?
+
+The best place—the national news anchors. NOT the reporters, the anchors.
+
+So, if you like British English, the prime time BBC announcers have the “best” English.
+
+If you like American English, the prime time news anchors on ABC, CBS and NBC have the “best” English.
+
+**AND…ME**! As you already know!!
+
+After you start feeling comfortable with the standard pronunciation—then you can have fun with the **dialects**. But HAVE FUN…don’t try and master them!
+
+That’s the nice thing about DDM—I FOCUS on standard American pronunciation, but sometimes I bring in different styles of English—just for fun! And WOW! They cause nightmares!
+
+English is a lifelong journey—if you enjoy the journey, keep going!
+
+
+
+### 05/30/2019
+
+DDM 101
+
+**TO LEARN: How many syllables in FAMILY, DIFFERENT + 3 more common words?**
+
+ Thursday Say Somethings!
+
+If you really want to sound like a “native English speaker”, then I’m going to teach you a few tricks.
+
+ When Americans speak, most of them UNKNOWINGLY use reduction, blending, cancellation and linking.
+
+- **Reduction**: when they say **thinking** we hear **think’n**
+- **Blending**: when they say **did you** we hear **dijyoo**
+- **Cancellation**: when they say **want to** we hear **wanna**
+- **Linking**: when they say **instead of** we hear **insteh duv**
+
+Today, let’s focus on reduction. Reduction can happen NOT ONLY with pronunciation, BUT ALSO with syllables!
+
+Here’s a list of words, tell me how many syllables there are in each word, okay?
+
+**Family, different, interest, separate, comfortable, evening**
+
+The ANSWERS…
+
+Family (3), different (3), interest (3), separate (3), comfortable (4)
+
+I’ll bet you did a great job! Congratulations!!
+
+But…if you say those words with the correct number of syllables all of the time—Americans will probably notice that YOU ARE NOT a native English speaker!
+
+WHAT?!!
+
+So, let me teach you how to sound like me!
+
+Reduce the number of syllables in those five words. Let me show you:
+
+**Family** **-->** **FAM lee**
+
+**Different** --> **DIF fr’nt**
+
+**Interest** --> **IN tr’st**
+
+**Separate** **-->** **SEH pr’t**
+
+**Comfortable** **-->** **COMF ter-b’l** *(yes, the R & T switch!)*
+
+ 
+
+And if you can do that “naturally”, Americans might think you were born here!
+
+### 5/31/2019
+
+DDM 102
+
+**TO LEARN: look up, look forward to, look after, look up to, look out, look around**
+
+One of the most common verbs in daily English is LOOK. And when you combine LOOK with a preposition—you can create a phrasal verb. And there are AT LEAST 45 LOOK phrasal verbs! 45!!
+
+Let’s **LOOK** at a few of the most common ones.
+
+
+
+**Look up**
+
+With the internet, we look up EVERYTHING! We look up the price of something, we look up the meaning of something, we look up the history of something! When someone calls me and I don't recognize the phone number, I go to Google and I look up the phone number! To **look up** means to *search for an find*!
+
+**Look forward to**
+
+It’s Friday—are you looking forward to the weekend? Are you looking forward to the summer? Are you looking forward to the new Rambo movie? To **look forward to something** means to *be eagerly waiting for something*!
+
+**Look after**
+
+My wife and I look after our son pretty equally—but she gets the night duty! And I told my dad that I’d look after him since mom isn’t here anymore. But he told me that he can look after himself. To **look after someone** or **something** means to *take care of him/her/it*.
+
+Let’s do one more!
+
+**Look up to**
+
+Do you look up to anyone? When it comes to being a better person, I look up to Tony Robbins—he’s been my coach for over 30 years. And I look up to my grandpa—he was a real hero in World War II. Who do you look up to? To **look up to someone** means to *respectfully admire someone*.
+
+**Look out**! *(be careful)* If you **look around** *(keep your eyes open)*, you will find MANY more look phrasal verbs!
