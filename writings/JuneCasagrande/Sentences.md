@@ -186,6 +186,11 @@ McCarthy uses plenty of short sentences, as this excerpt from The Road illustrat
 
 
 
+Pay attention to your words. Try not to zone out or become
+hypnotized by the clichés that live in all our heads and that try to slip into everyone’s writing. When you reread your writing, try to do so with a scrutinizing eye that asks, is there a better way to nail down what I really mean?
+
+
+
 ## 6. Words gone wild: Choosing specific words over vague ones
 
 ## 7. A frequently overstated case: The truth about adverbs
