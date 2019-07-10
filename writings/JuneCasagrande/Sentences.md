@@ -193,6 +193,12 @@ hypnotized by the clichés that live in all our heads and that try to slip into 
 
 ## 6. Words gone wild: Choosing specific words over vague ones
 
+Words like structure and items and person usually have no business in
+your sentences. They’re just wispy shadows of the things they’re trying to represent. Ask yourself whether there’s a more concrete word that can create a more real experience for your Reader. Sometimes, the answer will be no. But often you’ll find that there are much better alternatives to these opaque words. Whatever you do, don’t let laziness or cowardice dictate your word
+choices.
+
+Not every sentence needs to be packed with details and descriptors. But learning to pinpoint and root out vague words will give you more choices and therefore more power to construct the best sentence for your piece and for your Reader.
+
 ## 7. A frequently overstated case: The truth about adverbs
 
 ## 8. Are your relatives essential: relative clauses
