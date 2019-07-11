@@ -201,6 +201,77 @@ Not every sentence needs to be packed with details and descriptors. But learning
 
 ## 7. A frequently overstated case: The truth about adverbs
 
+It is, perhaps, the most famous bit of sentence-writing advice of all
+time: avoid adverbs. Yet I’d guess that about nine out of ten people who spout this advice would flunk the following test. Find all the adverbs in this sentence: 
+
+- Knowing well that I can visit you there soon is not really very
+  helpful, as I am not well and therefore cannot prudently travel
+  tomorrow.
+
+That’s right, there are eight—count ’em, eight—adverbs in this
+sentence. They are well (the first but not the second one), there, soon,
+really, very, therefore, prudently, and tomorrow. Yep, this tomorrow is an adverb. Don’t believe me? Look it up in your dictionary. I’ll wait.
+
+When people say that adverbs hurt writing, they’re talking about a
+specific kind of adverb, called a manner adverb—even though they may not realize it. Manner adverbs are the ones that describe the manner in which an action occurred: walk quickly, eat slowly, dance enthusiastically. When people say to avoid them, there’s some wisdom in their advice, but only for those wise enough to understand it.
+
+Think of an adverbial as any unit doing an adverb’s job: answering
+when, where, or in what manner, or modifying a whole thought. Adverbs can modify verbs (Mark whistles happily), adjectives (Betty is
+extremely tall), other adverbs (Mark whistles extremely happily), or whole sentences (However, I don’t care).
+
+Full mastery of adverbs takes time and, frankly, isn’t necessary for our
+goal of writing good sentences. But there are three things you should
+remember about adverbs:
+
+1. Adverbs are a very broad group that includes those -ly words we
+all learned, but also many other types of words. To identify
+adverbs, think of them as words that answer the questions when,
+where, how, to what degree, and in what manner. When in
+doubt, check a dictionary. Better yet, check two or three.
+2. When someone tells a writer to avoid adverbs, the speaker
+really means avoid manner adverbs—the ones that answer the
+questions in what manner and to what degree.
+3. Adverbials can be single words or whole phrases that inject
+  when-, where-, or how-type information into your sentence (I’ll
+  exercise on Monday) or offer commentary on the whole
+  sentence: Tragically, Jonas was fired. In consequence, he found
+  a new job.
+
+Let’s look at another example:
+
+- People who aren’t happy in their jobs may be more likely to stay
+  with their current employers than look for new ones because they see so many Americans involuntarily losing their jobs.
+
+This sentence is from a piece by a professional columnist, which proves that even the best of us can encounter adverb problems. **Involuntarily losing their jobs, in this sentence at least, is not one iota different from just plain old losing their jobs**. The Reader gets the message and doesn’t need to be told that getting canned is involuntary.
+
+When we eliminate the adverb, we take out a redundancy. But we also
+streamline the sentence for some less-is-more value:
+
+- because they see so many Americans losing their jobs.
+
+**This is a sentence-level microcosm of that most iconic bit of writing advice: show, don’t tell. Job loss is a thing. The Reader can see it for what it is. He doesn’t need it gussied up with descriptions or value judgments.** 
+
+You can use an adverb to tell what an action was like: Kevin slammed the door forcefully. But you’re better off showing the results of that action: Kevin slammed the door, shattering the wood.
+
+Leave something to the imagination. Simplicity and austerity are powerful.
+
+You can see why I hang with the anti-adverbs people. But adverb defenders have a point, too. Often, manner adverbs achieve the desired effect:
+
+- Penny left quickly.
+- He stared at her longingly. 
+- Clean this mess up immediately.
+- Senator Snide laughed cruelly
+-  “I want you to leave,” Nora said simply.
+
+Like all words, manner adverbs should be carefully chosen. They should carry some benefit that overrides the less-is-more principle. They should not create redundancies, and they should be free of that weak “look at me” quality to which they’re so prone. They should not appear to be telling the stuff that your nouns and verbs should be showing.
+
+Only when you’ve asked yourself whether your sentence is better off without a manner adverb can you decide whether that adverb deserves to stay.
+
+
+
+
+
+
 ## 8. Are your relatives essential: relative clauses
 
 ## 9. Antique desk suitable for lady with thick legs and large drawers: Prepositional phrases 
