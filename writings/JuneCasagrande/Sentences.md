@@ -1,4 +1,4 @@
-# It was the best sentences, it was the worst sentences
+It was the best sentences, it was the worst sentences
 
 Table of Contents
 
@@ -232,10 +232,10 @@ doubt, check a dictionary. Better yet, check two or three.
 really means avoid manner adverbs—the ones that answer the
 questions in what manner and to what degree.
 3. Adverbials can be single words or whole phrases that inject
-  when-, where-, or how-type information into your sentence (I’ll
-  exercise on Monday) or offer commentary on the whole
-  sentence: Tragically, Jonas was fired. In consequence, he found
-  a new job.
+    when-, where-, or how-type information into your sentence (I’ll
+    exercise on Monday) or offer commentary on the whole
+    sentence: Tragically, Jonas was fired. In consequence, he found
+    a new job.
 
 Let’s look at another example:
 
@@ -271,12 +271,180 @@ Only when you’ve asked yourself whether your sentence is better off without a 
 
 
 
-
 ## 8. Are your relatives essential: relative clauses
+
+Whole phrases and clauses can also be modifiers. As you’ll see in this
+chapter and the two that follow, understanding phrases and clauses as modifiers is key to mastering the art of the sentence. 
+
+With each added relative clause, we get further and further away from our main point, further down the rabbit hole of **minutiae** and minutiae about minutiae.
+
+
+
+But Gaiman **pulled off the feat of** stacking his relative clauses. He used them to create a rhythm. That's skillful writing. Skill is bred of understanding, or at the very least of practice. So let’s take a minute to understand relative clauses and the words that make them: relative pronouns.
+
+The relative pronouns, according to The Oxford English Grammar, are
+which, that, and who or whom.
+
+Start seeing relative clauses as something **akin to** adjectives and start
+taking note of which word each relative clause points to, and you’ll have a lot more power over how you use them. And remember, relative clauses are great tools for squeezing extra information into a sentence, but only if that information fits.
+Compare these two sentences: 
+
+- The new schedule will help reduce crowds over the closing
+  weekend, which is traditionally the busiest.
+- The new schedule that will be implemented next year and that is
+  the brainchild of Mr. Lawson, who founded the show in 1988, will
+  help reduce the number of people who attend over the closing
+  weekend, which is usually the biggest problem because it is
+  traditionally the busiest weekend of the show that Lawson puts on.
+
+That first example is fine. That second one needs to be broken up
+because our relative clauses are cramming in too much information:
+
+- The new schedule is the brainchild of Mr. Lawson, who founded
+  the show in 1988. The schedule will help reduce the number of
+  people who attend over the closing weekend, which is traditionally
+  the busiest.
+
+This revision still has relative clauses. But with just one per sentence, it now reads well. 
+
+Now look at this sentence:
+ -- He left early, which was fine by me.
+Here, the relative clause that begins with which isn’t pointing to a noun. It’s pointing to a whole idea. These are sometimes called sentential relative clauses.
+
+There are a few more things you should know about relative clauses,
+which I’ll list here quickly before explaining each in full. First, relative
+clauses can be either restrictive or nonrestrictive. Second, this distinction is at the center of a controversy over how you can use the word which. Third, there exists something called the zero relative, which refers to the absence of a relative pronoun at the head of a relative clause. Fourth, sometimes it’s easy to mistake a subordinating conjunction for a relative pronoun.
+
+- Restrictive and nonrestrictive refer to the job a clause performs in a sentence.
+
+ A restrictive clause can’t be removed from a sentence without harming the point of the main clause:
+
+- Any house that I buy must be yellow
+
+The relative clause here is that I buy. To test whether it’s restrictive or
+nonrestrictive, take it out. You end up with:
+
+- Any house must be yellow
+
+Now compare that to
+
+- The house, which has termites, is yellow.
+
+You can lift the relative clause right out of this sentence without any
+loss of meaning to the main clause. The main clause says, The house is yellow. That’s perfectly logical all by itself. The fact that it has termites is extra information. Therefore, which has termites is, in this sentence, a nonrestrictive relative clause.
+
+And did you notice the commas? They’re a big clue. The commas tell
+you that the information they set off is nonessential, often called
+parenthetical information. So restrictive relative clauses do not take
+commas but nonrestrictive relative clauses do. Compare these two sentences:
+
+- The ceremony will honor the athletes, who won.
+- The ceremony will honor the athletes who won
+
+That little comma makes a world of difference. In the first sentence, all
+the athletes won. In the second sentence, we see that only some athletes won and they’re the ones who will be honored. The difference **hinges on** just one comma because that comma signals whether the clause that follows is restrictive or nonrestrictive.
+Most of us use relative clauses effectively every day without thinking
+about them. But full mastery of the art of sentence writing requires you to stop and take notice of the stunning power of restrictive and nonrestrictive clauses.
+
+Now that you know how to spot a relative clause, you can handle the news that relative pronouns are sometimes optional. When
+you leave them out, it’s called the zero relative.
+
+- George got the job that you wanted.
+- George got the job you wanted.
+
+Especially important is the distinction between the relative pronoun that and the subordinating conjunction that. Remember: relative clauses are modifiers (just like adjectives) but subordinate clauses can be used as subjects and objects (just like nouns). To spot the difference, just determine whether the whole that clause is modifying a noun: 
+
+- The family that stays together. If so, it’s a relative pronoun. 
+
+If that is followed by a whole clause it’s a subordinating conjunction:
+
+- That you love me is all I need to know. Harry learned that life is not fair.
+
+If you’re looking to **distill** all this stuff about relative clauses **into** a
+practical guideline to help your writing, consider this: Relative clauses
+seem to work best when they cast a little extra light on a thing or an idea. **But they can quickly become a problem when they’re used to insert history or backstory.** They’re at their worst when they contain an unstated “Oh, by the way” or “I never took the time to mention this before, so let me squeeze something in now.”
+
+Consider, too, that whenever you have more than one relative clause in a sentence, you might want to break the sentence up. Then again, like Gaiman, you might not. Just know that you have the choice. 
+
+
+
+
 
 ## 9. Antique desk suitable for lady with thick legs and large drawers: Prepositional phrases 
 
+
+
+Prepositional phrases, like relative clauses, are modifiers. But they’re
+more fun because they’re so devious. It’s easy to lose track of what you’re saying with a prepositional phrase. But if you understand them for what they are—modifiers—your sentences will benefit tremendously. Let’s start with the supposedly real classified ad mentioned in our chapter title:
+
+- Antique desk suitable for lady with thick legs and large drawers.
+
+The ad is funny because it sounds like with thick legs and large drawers is modifying lady. It’s not. It’s modifying desk. (At least, I hope it is.)
+
+**For lady** is a prepositional phrase. The preposition is for and its object is the noun lady. Prepositional phrases can describe or define nouns—just as adjectives do. Or they can do the work of an adverbial, answering the questions when, where, to what degree, or in what manner or modifying verbs, adjectives, other adverbs, or whole thoughts. In our advertisement, **for lady is modifying the adjective suitable just as a more straightforward adverb might: extremely suitable, undeniably suitable.**
+
+Suitable for lady modifies desk. There’s nothing else it could be
+referring to. That’s not true of our next prepositional phrase, **with thick legs and large drawers.**
+
+See, here’s the thing about modifiers: **people usually expect them to**
+**modify the closest possible word, not one that’s farther away in the sentence.** When you write, Derek had a pine armoire, a wooden bench, and a desk with thick legs and large drawers, nobody is going to wonder whether the armoire or the bench had thick legs and large drawers. They’re going to assume that this modifier is deliberately and correctly affixed to the noun closest to it. That’s the Reader’s expectation, and as writers we must be careful to accommodate it.
+
+
+
 ## 10. Dangler danger: Participles and Other Danglers 
+
+In this chapter, we’ll look at how participial units like walking
+down the beach and stuffed with chestnuts can also be modifiers. There’s just one problem: no one knows whether we should call these units phrases or clauses.
+
+A participle is a verb form that usually ends in ing, ed, or en. The -ing
+form is called the progressive participle. The -ed and -en forms are called past participles, though irregular verbs don’t follow the pattern: shown, brought, led, dealt, leapt, seen, and so on, are all past participles. Past participles work with forms of have and progressive participles work with forms of be to form different verb conjugations: We have walked, Joe is walking, and so on.
+
+But you can also use a participle to modify a noun—just like an
+adjective. 
+
+A participial phrase or clause, then, is simply any participle that serves
+as a modifier. And it can do so with or without accessories:
+
+- Exhausted, Harry fell into bed.
+
+  Exhausted from the long hike, Harry fell into bed.
+
+- Speeding, Nanette hit a pole.
+  Speeding in her Ferrari, Nanette hit a pole.
+
+Either way, a participial phrase or clause can be seen as a modifier. It
+modifies a noun or pronoun. So from our examples, who was exhausted? Harry. And who was speeding? Nanette. Harry and Nanette are the nouns being modified by those participial units.
+
+Now identify what’s wrong with this sentence:
+
+- Daydreaming about Nanette, Dan’s foot went right into a puddle.
+
+Either Dan has one smart foot, or we have on our hands the legendary beast known as the dangling participle.
+
+**A dangling participle is simply a participle that seems to point to the wrong noun.** As we saw in our chapter on prepositional phrases, Readers usually expect a modifier to refer to the closest noun. That’s why, in our last example, we’re suggesting that Dan’s foot was daydreaming and not Dan. To fix these, just make sure that you’ve chosen the right noun—for example, “Dan” instead of “foot”—and that the participial phrase or clause that’s modifying it is as close as possible.
+
+- Daydreaming about Nanette, Dan stepped in a puddle.
+
+You can also **make your participial phrase or clause into a subordinate clause so it’s no longer a modifier and therefore no longer has to be right next to whatever it’s modifying:**
+
+- While Dan was daydreaming about Nanette, his foot went right
+  into a puddle.
+
+Participles aren’t the only things that can dangle:
+
+- Visiting relatives can be fun.
+
+Does this mean that the act of visiting (visiting as a gerund) can be fun, or that relatives who are visiting you (visiting as a modifier) can be fun? We don’t know. Subtler examples crop up all the time in professional writing:
+
+- Here are the trends leading interior designers and industry experts across the country have predicted will be hot this season.
+
+After pausing, the Reader can see that leading is an adjective modifying interior designers and not an action being performed by trends. But it’s usually best not to force the Reader to do a doubletake:
+
+- Here are the trends that leading interior designers and industry
+  experts across the country have predicted will be hot this season. 
+
+The best way to avoid danglers is to stay vigilant. After a while it
+becomes a working part of the brain. Considering how much this can help your sentences, it’s worth the effort.
 
 ## 11. The writing was ignored by the reader: Passives 
 
