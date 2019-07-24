@@ -448,6 +448,46 @@ becomes a working part of the brain. Considering how much this can help your sen
 
 ## 11. The writing was ignored by the reader: Passives 
 
+There are two myths about passives that we need to debunk right away:
+1. Passive structure is bad.
+2. Passive structure is any action-impaired sentence that uses an
+-ing or -ed verb with a form of to be (like is or was).
+
+Caveats about passives have been overstated and distorted. Yes,
+passives can be awful. Yes, they’re a serious problem for some novice
+writers. Yes, you need to be on the lookout for them. But this doesn’t
+mean passives are always bad. They’re quite useful when used wisely—indispensable, even. So here’s how you should look at them. It will
+probably sound familiar: passive voice is a powerful tool in the hands of a skilled writer, but it’s **brain-numbing poison** in the hands of an unskilled writer. So you should understand the concept and use the passive only by choice. Learn to recognize passive sentences so you can consider whether they would be better in the active voice.
+
+Luckily, the concept is easy to master.
+Here’s the best way to understand passive voice: it occurs when the
+object of an action is made the grammatical subject of a sentence.
+(Technically, it’s more precise to say that the passive occurs when the
+object of a transitive verb is made the subject of a sentence. But if that
+makes your eyes glaze over, stick with the first definition.) Compare these two sentences:
+
+- Ned made the coffee.
+  The coffee was made by Ned.
+
+In the first example, we have someone performing an action, followed
+by the action itself, followed by the thing being acted upon: subject + verb object. In the second example, the thing being acted upon, the object, is made the subject of our sentence. That’s passive structure. 
+
+Anytime you want to downplay the doer of an action, use the passives. Passives come pretty naturally, even to people who have no idea what a participle is. So don’t worry about the mechanics. Just start recognizing passive sentences and considering whether they would be better in active form. The answer can be subjective. **But the passives that writing pros consider bad are the ones that squelch interesting action.**
+
+- Tim was shot by Barbara is anemic compared to 
+- Barbara shot Tim. 
+
+The latter has a sense of immediacy and power. Passive forms dilute that power. In our active form, the action is the verb. In passive form, the verb emphasizes being more than doing. That’s what people mean when they say that passives are bad. Yes, their point is overstated, but there’s a big lump of truth at its center. Passives often stink:
+
+- After he had been flown to Chicago and had been checked into his
+  hotel room, he was called on the phone by his boss.
+
+Sometimes, the best way to fix bad passives is to restructure the
+passage:
+
+- His company flew him to Chicago. After he arrived and checked
+  into his hotel room, his boss called.
+
 ## 12. You will have been conjugating: Others matters of Tense 
 
 ## 13. The being and the doing are the killing of your writing
