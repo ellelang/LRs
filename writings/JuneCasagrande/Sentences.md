@@ -490,6 +490,54 @@ passage:
 
 ## 12. You will have been conjugating: Others matters of Tense 
 
+
+
+Most straight news stories are written in the simple past tense. The
+reason: They tell of things that happened.
+
+Fiction, too, is often written in the past tense. Novelists and short story
+writers sometimes choose the present tense, usually for the reason that present tense carries an **in-the-moment urgency** not found in past tenses, so it’s a valid creative device.
+
+I can’t tell you which tense to choose for your writing. No one can. But
+there’s much to be learned by professional writers’ choices. Simple past tense is the standard form. It’s a safe choice. You can deviate from it, but unless you have a good reason to, maybe you shouldn’t.
+
+So far, we’ve been looking at straightforward tenses: simple past,
+present progressive, and simple present. But what about more complex tenses?
+
+- Tommy Q. Public was applying to law school. [past progressive]
+
+- Jane Doe had been making breakfast when she heard the crash.
+  [past perfect progressive]
+
+Obviously, these tenses can be indispensable and have a place in both
+fiction and nonfiction. In fiction, especially, if a writer can pull it off, she’s free to load up her stories with stuff like:
+
+- Pilly Bilgrim will have been becoming unstuck in time. [future
+  perfect progressive]
+
+But even writers who want to avoid these tenses should understand how they function.
+As explained in The Complete Idiot’s Guide to Grammar and Style, the
+past perfect is used for an “action completed before another.”
+
+ The past perfect progressive is used for a “continuing action interrupted by another.” 
+
+The future perfect progressive is for a “continuing future action
+done before another.”
+
+Notice how these all mention “another”? These complex verb tenses tell when one action took place relative to when another took place:
+
+- After having been rejected by NASA and Caltech, Lucky got a
+  job at McDonald’s.
+
+The verb tenses tell us that Lucky got the McDonald’s job after the
+other two places shot him down. But they tell us something more. **We**
+**know that Lucky got a job is the big event in this sentence. After having been rejected is something that happened relative to that big moment.** So verb tenses, like subordination, tell the Reader what information is most important. **Amy had been going to the same beauty parlor for twenty years** begs to be followed by **when, as in when her hair fell out**. 
+
+All the verb tenses and even the passive voice are tools you can use
+anytime that they work. But simple past tense and active voice are safe choices that can save you anytime you get into trouble
+
+
+
 ## 13. The being and the doing are the killing of your writing
 
 ##  14. The The : Not-so-definite definite articles 
