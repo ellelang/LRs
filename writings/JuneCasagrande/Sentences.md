@@ -540,6 +540,78 @@ anytime that they work. But simple past tense and active voice are safe choices 
 
 ## 13. The being and the doing are the killing of your writing
 
+Nominalization is a simple concept, and taking a few moments to
+master it could help your writing tremendously. Consider this sentence:
+
+- The walking of the dog was the difficulty from which Sherry’s
+  laziness had its emergence.
+
+In this sentence, walking, difficulty, laziness, and emergence all work as nouns. But walking and emergence are rooted in verbs: to walk and to emerge. Laziness and difficulty are rooted in adjectives: lazy and difficult. 
+
+These are often called nominalizations. **A nominalization is a form of a verb or an adjective that functions as a noun.** Some call them buried verbs. Still others say that the ones that end in ing—called gerunds—don’t qualify as nominalizations. But they can all hurt your writing in the same way, so we’ll look at them all together. Here are some examples of the dreaded beasts called nominalizations:
+
+
+
+- utilization (from the verb utilize)
+- happiness (from the adjective happy)
+- movement (from the verb move)
+
+- lying (from the verb lie) 
+- persecution (from the verb persecute)
+- dismissal (from the verb dismiss)
+- fabrication (from the verb fabricate)
+- atonement (from the verb atone)
+- creation (from the verb create)
+- intensity(from the adjective intense)
+- cultivation (from the verb cultivate)
+- refusal (from the verb refuse)
+- incarceration (from the verb incarcerate)
+
+Obviously, these are all legitimate words. They become a problem only
+when a writer uses them in place of more interesting actions or
+descriptions. Nine times out of ten, Barb was happy is better than Barb had happiness or Barb exhibited happiness.
+Nominalizations are worst when an unskilled writer puts them into the
+form the + gerund + of. As we just saw, a gerund is the form of a verb that ends in ing and is used as a noun. Outside of a sentence, gerunds are indistinguishable from participles.
+
+- Singing is hard [singing as a subject = gerund]
+- She was singing [singing as part of verb phrase = participle]
+
+Combined with a the and of, gerunds can be really bad news:
+
+- The singing of the song 
+- The considering of the job offer 
+- The walking of the dog 
+- The knowing of the facts 
+- The remembering of the appointment
+
+Gerunds aren’t the only nominalized forms that work with the and of
+this way. Nominalizations rooted in adjectives can, too.
+
+- The happiness of the bride 
+- The intensity of the staring
+-  The blatantness of the flirting
+
+While these are better than the gerund examples earlier, they’re still
+pretty bad. When you fix a nominalization, you turn the real action into the main verb and you get to bring in the person or thing doing the action.
+
+- The happiness of the bride was evident.
+  = The bride was happy. That was evident.
+
+- The refusal of the gift was shocking.
+  = Vanessa refused the gift. I was shocked.
+- Bob’s acquittal by the jury took place Monday.
+  = On Monday the jury acquitted Bob.
+- I appreciate Trevor’s support.
+  = Trevor supports me and I appreciate it.
+
+Notice how, **in that last example, the nominalized form might be preferable.** That goes to show you that a nominalization can be an
+excellent choice. But it can also be a terrible choice. So keep an eye out for nominalizations. Think of each as an opportunity—a chance to consider alternative, possibly better ways to structure your sentence. Sometimes you’ll find that **recasting them in simple subject-plus-verb form can make a better experience for the Reader.** Sometimes you’ll want to leave them as they are.
+
+**But don’t write off all nominalizations as bad.** Without them, this whole chapter couldn’t have existed, because nominalization is itself a
+nominalization
+
+
+
 ##  14. The The : Not-so-definite definite articles 
 
 ## 15. The writer and his father lamented his ineptitude 
