@@ -614,6 +614,27 @@ nominalization
 
 ##  14. The The : Not-so-definite definite articles 
 
+Ever stop to think about the word the? It’s a tiny word, yet it’s huge. It
+carries so much responsibility. It leans so heavily on your Reader. It says, “You’re expected to know what I’m talking about.” I guess that’s why it’s so annoying when a writer hasn’t **done her due diligence** before **dumping this expectation on you**.
+
+If you’ve been concocting a story involving a diary, that diary is very familiar to you. You know it intimately in a way that only a creator can. You know what condition the cover is in. You know whether it has a lock. You know what words are written inside and whether those
+words have the power to hurt or even to kill. To you, it’s no longer just a diary. It’s the diary—**the one you’ve pictured and pondered and imbued with life-changing importance**. When you finally start to put this thing you created into words, you have to **step outside your head** far enough to remember that the Reader hasn’t spent the last year or two **getting cozy with the diary.** It’s the writer’s job to put it in the Reader’s hands—to bridge the gap between a state of unknowing and a state of knowing. That’s what writing is.
+
+I realize this is a lot of rumination about one little word, but this stuff is
+worth thinking about. For one thing, the cuts straight to the heart of
+Reader-serving writing. A badly used the happens because the writer got too wrapped up in what she was trying to say and forgot to be sensitive to the person she was saying it to.
+
+So, now that I’ve thoroughly slammed using the to refer to stuff
+heretofore unknown to the Reader, how can we explain an all-too-common use of the like the one found in the very first sentence of the novel Travels in the Scriptorium, by Paul Auster?
+
+- The old man sits on the edge of the narrow bed, palms spread out
+  on his knees, head down, staring at the floor.
+
+This is the first sentence of the whole novel. The the suggests that we’ve already been introduced to the character and his surroundings, even though we have not. Yet it simply does not have the power to irk the Reader the way our diary did. What’s up with that?
+
+Simple. It’s the **flip side of the same coin.** If the suggests familiarity,
+then putting the in front of something so surely unfamiliar suggests that familiarity will come. It foreshadows. It teases. The Reader knows that the writer is going to explain who the old man is. The writer is asking for the Reader’s trust and promising something in return. It’s a great device that skillful writers use all the time. It demonstrates the power of the. And **it illustrates the importance of staying attuned to your Reader.**
+
 ## 15. The writer and his father lamented his ineptitude 
 
 ## 16. To know them is to hating them: Faulty and funky parallels 
