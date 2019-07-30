@@ -637,7 +637,97 @@ then putting the in front of something so surely unfamiliar suggests that famili
 
 ## 15. The writer and his father lamented his ineptitude 
 
+In the title of this chapter, “The Writer and His Father Lamented His
+Ineptitude,” it’s clear that someone is inept. The problem is we don’t know who. His could refer to the writer or to his father. In the context of this book, **it’s a safe bet** that we would be more focused on the writer. So we can guess that Sonny Boy is the one being slammed in this sentence. But the grammar doesn’t confirm this. So we can’t be sure. **The possibility remains** it could be Dad whose shortcomings are being lamented.
+
+This problem is called an unclear antecedent. At its worst, this problem can completely ruin a written work:
+
+- As the sheriff and the bandit fired their guns, a bullet pierced his heart. He fell to the ground. He was dead。
+
+From the first sentence, we can’t know whether it was the good guy or
+the bad guy who died. From the sentences that follow, it’s clear that it will take a while for us to find out. Maybe we never will. The **passage is confusing and annoying** and can be enough to make a Reader close a book or put down a manuscript forever.
+
+Happily, these problems are easy to avoid. First, remember the lessons of our chapter on the. The Reader isn‘t in your head. Second, remember to pay careful attention to your pronouns梕specially on the reread. This includes
+
+- subject pronouns: I, you, he, she, it, we, they
+- object pronouns: me, you, him, her, it, us, them
+- possessive pronouns: mine, yours, his, hers, its, ours, theirs
+- possessive determiners (think of these as adjective forms of
+- possessive pronouns): my, your, his, her, its, our, their 
+- relative pronouns: that, which, who, whom
+
+Make it a habit to **scrutinize** every him, her, and so on, to be sure they’re clear. When they’re not, they’re easy to fix:
+
+- As the sheriff and the bandit fired their guns, a bullet **pierced the bandit’s heart.** He fell to the ground. He was dead.
+
+Notice that we left he in the last two sentences. It’s clear that he is the
+bandit. The Reader gets that. Of course, we can imagine scenarios in which that he might not be so clear. If the bandit got shot just two sentences after the sheriff got shot, then it may not be clear at all to your Reader which one fell to the ground. But again, see how the Reader is your guiding light? It’s almost as though he is helping you. **Call it paradox, call it karma, call it a variation on AA members’ belief that helping others helps them stay sober.** Whatever. Just remember its power.
+
+
+
+Not all pronouns are as easy to work with as personal pronouns like he and him. Take it. Unlike pronouns that refer to specific people, the pronoun it can refer to vague things like ideas. Compare these two uses of it:
+
+- The car is parked. It is in a handicapped space.
+- Jenna knows math. It is why she landed this job.
+
+It is a pronoun like any other. It stands in for a noun. In the first
+example, the antecedent of it is clearly the car. But in our second example, what noun, exactly, does it represent? Jenna? Nope. Math? Nope. That leaves just knows, but that’s a conjugated verb—an action under way. How can a pronoun refer to a verb? Easy: if, in the writer’s head, it stands in for knowing, then that’s what it means. The antecedent is implied. It could be the gerund knowing, as in, Knowing math is why Jenna landed this job. It could be an implied noun like The fact that Jenna knows math is why she landed the job or Jenna’s knowledge of math is why she landed the job. 
+
+**That and which are two other pronouns that create problems**:
+
+- I went to the movies with my daughter, and though we were late, we caught most of the new Woody Allen movie. That’s what life is all about.
+
+What is what life is all about? Spending time with your daughter? Being late? Grabbing what you can out of a bad situation? Woody Allen? The slice of life created by combining all these elements? The writer should be clearer:
+
+- I went to the movies with my daughter, and though we were late, we caught most of the new Woody Allen movie. ~~--That’s--~~Afternoons like that are what life is all about.
+- I went to the movies with my daughter, and though we were late, we caught most of the new Woody Allen movie. ~~That’s~~ Grabbing what you can is what life is all about.
+
+This lesson extends beyond pronouns:
+
+- Health care and education are among the fields that have added jobs. The audiovisual industry is, too.
+
+This isn’t wrong per se, but it causes me to do a double take. The
+audiovisual industry is what? It takes a moment to realize that the writer omitted part of the second sentence. When I look at the example about health care and education, what's most interesting to me is how the writer set herself up for trouble. **Had she aimed for something less wordy than that whole are among the structure, the sentence would have been clear**：
+
+- The ~~H~~health care and education ~~are among the~~ fields ~~that~~ have added jobs. The audiovisual industry ~~is~~ has, too.
+
 ## 16. To know them is to hating them: Faulty and funky parallels 
+
+Parallel form relies on Reader expectations. When Readers see something in list form, they expect it to be a list:
+
+- Pablo has visited Maine, Idaho, Pennsylvania, Georgia, and New Jersey.
+
+When you include an element that doesn’t work like the others, you
+betray those expectations:
+
+- Pablo has visited Maine, Idaho, Pennsylvania, loves Georgia, and New Jersey.
+
+ Parallels can be lists of words, phrases, or whole clauses. Each element should be in the same form and should attach in the same way to any shared phrase or clause. Look at this example:
+
+- This car runs fast, lasts long, requires little maintenance, and holds its value.
+
+The shared element is this car. Each of the listed items is a verb phrase that, on its own, can make this car a complete sentence. They all attach to this car in the same way. That would not work if one of the items was not a verb phrase, like “well” in this example:
+
+- This car runs fast, well, lasts long, requires little maintenance, and holds its value.
+
+lasts long, runs requires little maintenance, and runs holds its value. But that’s not what we meant at all.
+There are several ways to fix faulty parallels. You can add bits to the parallel items until they’re equals:
+
+- This car runs fast, runs well, lasts long, requires little maintenance, and holds its value.
+
+Or you can break up the sentence in a way that signals that the list has ended:
+
+- This car runs fast, well, and long, and it requires little maintenance and holds its value. 
+
+Parallels don’t have to be faulty to be jarring:
+
+- I was entertained by the decor, as well as the live piano music.
+
+You could argue that *entertained by* applies to both the listed items. But it would be clearer if you repeated the **by**.
+
+- I was entertained **by** the decor, as well as **by** the live piano music.
+
+Every parallel poses its own unique dangers. There’s no simple formula for getting it right every time. All you can do is proceed with caution and remember the Reader.
 
 ## 17. Taking the punk out of punctuation: The problem with semicolons and parentheses 
 
