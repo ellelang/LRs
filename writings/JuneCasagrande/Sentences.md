@@ -731,6 +731,33 @@ Every parallel poses its own unique dangers. There’s no simple formula for get
 
 ## 17. Taking the punk out of punctuation: The problem with semicolons and parentheses 
 
+discussion of semicolons and parentheses, keep looking. You’ll find no balance here. I hate semicolons. I hate them so much that, even though I admit that they can be useful—lifesavers even—I’m comfortable saying that I hate them. I hate parentheses almost as much. They, too, have their place. In fact, I use them. As a Reader, I sometimes enjoy the effect they can create. Yet these reasonable observations don’t mean I’m reasonable on the subject. I’ve seen too many writers abuse these punctuation marks too many times. I can’t let go. I won’t.
+
+We’ll start with an open airing of my biases:
+1. Semicolons often serve no purpose other than to show off that the writer knows how to use semicolons.
+2. Parentheses often let a writer cram in information she was too lazy to explain in a more Reader-friendly manner.
+Aah. Feels good to get that off my chest. Now we can take a more academic approach.
+
+Other, more reasonable experts also dislike semicolons: “The semicolon is an ugly bastard, and thus I tend to avoid it,” writes Washington Post business copy desk chief Bill Walsh in the book Lapsing Into a Comma.
+That brings us to another important point: **Readability and aesthetics go hand in hand**. A sentence riddled with semicolons can be hard on the eyes—Readers’ eyes.
+
+“My advice to writers just starting out? Don’t use semicolons!” Kurt Vonnegut said in a 2007 speech. “They are transvestite hermaphrodites, representing exactly nothing. All they do is suggest you might have gone to college.”
+
+
+
+Parentheses, on the other hand, can be indispensable. But often they can make a sentence messy and overly busy.
+
+Sometimes, parentheses really are the best way to serve the information to the Reader. Usually, the smaller the parenthetical insertion, the better it works. The more stuff crammed between the parentheses and the more parentheses crammed into the sentence, the bigger the clue that the sentence needs an overhaul.
+
+**If you disagree, you’re in good company.** Some writers love parentheses and use them **to the delight of** their Readers. David Foster Wallace was king of the **envelope-pushing parentheses**.
+
+This goes to show you how stupid prejudices are. Wallace was a prizewinning and critically acclaimed writer. So clearly, my small-minded view of parentheses doesn’t apply. Still … how it burns in me.
+
+Wallace used parentheses to create a maze of ideas—a place where Readers can **meander** and explore. His parentheticals were devices used for the benefit of the Reader and not for the convenience of the writer.
+Many loved them. Me, I can appreciate what Wallace was doing, but I’m not a fan of these parentheticals and footnotes. I like my information served linear—one bite at a time. 
+
+
+
 ## 18. You don't say: Descriptive quotation attributions 
 
 ## 19. Trimming the fat: Expressions that weight down your sentences 
