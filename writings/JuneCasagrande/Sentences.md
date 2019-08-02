@@ -760,6 +760,19 @@ Many loved them. Me, I can appreciate what Wallace was doing, but I’m not a fa
 
 ## 18. You don't say: Descriptive quotation attributions 
 
+In journalism circles, *said* is a virtue—simple, precise, and unadorned—and alternatives to it are considered frilly and silly. You don’t have to agree, but be aware that lots of editors hold this view. Choose your
+alternatives to said with great care.
+
+Here’s another problem that crops up a lot in descriptive quotation attributions:
+
+- “Our redesigned casino will be better than ever,” general manager and CEO Michael Roberts said, suggesting visitors try out the new higher-paying slot machines and the redesigned poker room while visiting the property and adding that the restaurant is now open 24 hours as well.
+
+This goes back to our lesson on participles as modifiers. *Adding, suggesting, noting, implying, referring to*, and similar terms can all modify said, but some writers depend too much on this device. A quotation attribution is not an ideal place to squeeze in tons of extra information. When the result feels artificial, just make a new sentence or two.
+
+- “Our redesigned casino will be better than ever,” general manager and CEO Michael Roberts said,. ~~suggesting~~ He suggested visitors try out the new higher-paying slot machines and the redesigned poker room. ~~while visiting the property and adding~~ He added that the restaurant is now open 24 hours as well.
+
+If you like to get creative with quotation attributions, do. But do so because it works, not because you want to show off or be different. When in doubt, remember that said is an old friend you can always fall back on.
+
 ## 19. Trimming the fat: Expressions that weight down your sentences 
 
 ## 20. The major overhaul: Streamlining even the most problematic sentences 
