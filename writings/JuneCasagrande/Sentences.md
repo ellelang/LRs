@@ -953,5 +953,106 @@ Also, watch out for sentences too cowardly to come out and say something or whos
 
 ## 20. The major overhaul: Streamlining even the most problematic sentences 
 
+In previous chapters, we’ve seen some simple ways to pare down inefficient sentences. But some sentences have deeper structural problems that are harder to identify and harder to fix. Luckily, you now have enough grammar under your belt to tackle any problem that can **muck up** a sentence.
+Whenever you’re faced with a problem sentence, start by looking for its main clause—that is, its main subject and verb:
+
+- This intimate and discerning depiction of the impact of migration on families left behind by loved ones who travel north emerges as a nuanced portrait of “the other side” of the immigration story.
+
+
+
+This is a description of a movie in a film festival. Movie loglines are tough to write because they’re supposed to be kept to just one or two sentences. But this sentence appeared in a brochure—not in a pitch to a
+Hollywood executive. So the writer had the elbow room to improve it. The question, of course, is how?
+Start by isolating the main subject, depiction, and verb, emerges. So, at its heart, our sentence is
+
+- This depiction emerges.
+
+That’s a complete sentence. But is it a complete thought? Does it tell the Reader what to expect from this movie? Not even close. Clearly, we need some of that other stuff. For example, depiction, on its own, is painfully devoid of any solid information. Also, a depiction is always a depiction of something. That’s where the trouble began for the writer**. A prepositional phrase—an of phrase—was needed just to make sense of the subject**.
+
+Then there’s emerges. This is an intransitive verb, so it doesn’t need an object. But it sure needs something. Hence the *as* that follows. This *as* creates a vehicle to help tell the Reader what, exactly, depiction is doing in
+this sentence. The depiction is not just emerging—coming out of a hole or coming into the spotlight. It’s emerging as something. **We can presume that by emerging as, the writer means “reveals itself to be” or “comes to be” or “turns out to be” or “becomes.” In other words, emerges as is the writer’s substitute for is.** Yes, it’s more creative than is, but **that creativity comes at too high a price**. We already have a subject that needs a prepositional phrase to make sense. Now we’re using a verb that also
+needs a prepositional phrase to make sense. (Note: As is often a conjunction. But in our sentence it’s a preposition. We know this because subordinating conjunctions like as introduce whole clauses but prepositions take objects—nouns or pronouns, like portrait.) To mean anything at all, our main clause must be expanded to
+
+- This depiction of the impact of migration emerges as a nuanced portrait.
+
+*Impact* is the object of a preposition in a prepositional phrase. Then impact is followed by its own prepositional phrase, of migration, yet impact is still begging for yet another prepositional phrase. Impacts are usually **impacts on someone or something**. Hence on families in the writer’s original:
+
+- of the impact of migration on families
+
+What families? Well, we have a modifier to answer that. It’s the participial phrase left behind. But that modifier requires a prepositional phrase, by loved ones. And loved ones, the object of the preposition by,
+takes as a modifier the relative clause who travel north. Each of the modifying phrases and clauses is underlined here: 
+
+- This depiction of the impact of migration on families left behind by loved ones who travel north
+
+  
+
+All that comes before we even get to the verb.
+Then, after the verb emerges, which requires its own prepositional phrase, as a portrait, we still need two more prepositional phrases: of “the other side” and of the immigration story:
+
+- emerges as a portrait of “the other side” of the immigration story
+
+After all that, the writer squeezed in three adjectives: intimate and discerning before depiction and nuanced before portrait.
+Sift through all the clutter in this sentence and you find that the very heart—the very point of our main clause—is
+
+- This depiction is a portrait
+
+That’s a whole lotta nuthin’. It’s like saying this picture is an image, this
+person is a man, or this car is a vehicle. A total waste of words that, ironically, happened in a place where economy of words was paramount.
+
+The main clause contained no new information. The substantive stuff was all crammed into prepositional phrases and other sentence accessories.
+
+Despite all these problems, the writer did a pretty impressive job of getting the point across. We know what the film is about and we even get a sense of mood. But how could we do better?
+
+Well, our main clause contains both a troublesome noun and a troublesome verb. Let’s try replacing them. **Whenever you’re struggling with a vague or troublesome noun, first consider the simplest alternatives**. Ask yourself, what is this thing we’re talking about? **This depiction referred to a film. Emerges really referred to a state of being.** Simplify them and you get:
+
+- This film depicts.
+
+Now we have a more tangible (if more pedestrian) subject and a more action-oriented verb. If we drop this into the first part of our sentence, we end up with something like this:
+
+- This intimate and discerning film depicts the impact of migration on families left behind by loved ones who travel north.
+
+But we have this left over from the original:
+
+- a nuanced portrait of “the other side” of the immigration story
+
+What can we do with this leftover information? We could tack it on:
+
+- This intimate and discerning film depicts the impact of migration on families left behind by loved ones who travel north—a nuanced portrait of “the other side” of the immigration story.
+
+Not bad. But the crux of our sentence is now:
+
+- This film depicts the impact and is a portrait.
+
+So we’re still making the hollow statement this film is a portrait. We could break our sentence into two, thereby giving portrait a real job to do:
+
+- This intimate and discerning film depicts the impact of migration on families left behind by loved ones who travel north. It is a nuanced portrait of “the other side” of the immigration story.
+
+Or we could use the coordinator *and* and another verb like *forms* to keep everything in a single sentence:
+
+- This intimate and discerning film depicts the impact of migration on families left behind by loved ones who travel north and forms a nuanced portrait of “the other side” of the immigration story.
+
+Or better yet we could avoid the redundancy of this film forms a portrait by making portrait our main subject:
+
+- This intimate, discerning, and nuanced portrait of “the other side” of the immigration story depicts the impact on families left behind by loved ones who travel north.
+
+Now we can see that we sure did have a lot of adjectives offering commentary on this film. Maybe we can do without one. For example, discerning surely meant something important to the writer. But it doesn’t
+mean much to a Reader. If we’re voting one of them off the island, that would be my pick:
+
+- This intimate and nuanced portrait of “the other side” of the immigration story depicts the impact on families left behind by loved ones who travel north.
+
+We might even ditch another adjective:
+
+- This intimate portrait of “the other side” of the immigration story depicts the impact on families left behind by loved ones who travel north.
+
+I like this much better. It still has stacked modifiers—four prepositional phrases and a relative clause. It still has impact on. But these no longer seem like problems because the noise around them has been silenced.
+
+And this isn’t the only alternative. Your grammar skills open up a world of choices:
+
+- By looking at the families left behind when loved ones travel north, this intimate and discerning film shows the other side of the immigration story.
+- Film Name Unknown is an intimate portrait of the families whose loved ones move north to find work.
+- We’ve all heard the stories of Mexican nationals who travel north to find work. But what about the families they leave behind? The intimate and nuanced Film Name Unknown tells their stories.
+- When Jose left Guatemala to find work in the United States, he did it for his family. Little did he know the **ripple effect that his absence would create**.
+
+Some of these examples wouldn’t work. The last two especially don’t have the tone of film festival movie descriptions. But these examples help us see **the wide range of possibilities that open up** once we get to the heart of a sentence and consider what, exactly, we’re trying to say.
+
 ## 21. On breaking the rules: Knowing when to can the canons
 
