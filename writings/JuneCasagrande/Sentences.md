@@ -1054,5 +1054,58 @@ And this isn’t the only alternative. Your grammar skills open up a world of ch
 
 Some of these examples wouldn’t work. The last two especially don’t have the tone of film festival movie descriptions. But these examples help us see **the wide range of possibilities that open up** once we get to the heart of a sentence and consider what, exactly, we’re trying to say.
 
+Let’s look at another sentence:
+
+- The United States government’s plan to rid banks of lethal assets has precious metals investors speculating that the economy and lending groups may be reviving.
+
+Our subject is plan. Our verb is has. The object of our verb is investors followed by the modifier speculating. Remember from chapter 10 that participles can work as modifiers.
+Any sentence built on a foundation of **has + noun or pronoun + present participle** stuffs the action into a participial phrase or clause: **The plan has them speculating.** To make speculating a real action, you’d have to rejigger the whole sentence:
+
+- Since the government announced plans to rid banks of lethal assets, precious metals investors are speculating that the economy and lending groups may be reviving. 
+
+- The government plans to rid banks of lethal assets. So precious metals investors are speculating that the economy and lending groups may be reviving.
+- Precious metals investors are speculating that the economy and lending groups may be reviving. Why? Because the government plans to rid banks of lethal assets.
+
+
+
+In all of these, we made speculating an action instead of a modifier. In the last two examples, we changed the noun plans into the verb plans— extracting another action out of our original sentence.
+Here’s a longer passage. It’s modeled after a real excerpt from an article I edited:
+
+Sky diving. Rock climbing. River rafting. Guess which one is the odd man out in the emerging world of new vacation choices for an aging population that, increasingly, is more active and healthy and less willing to follow their parents’ footsteps when it comes to choosing how to live out their golden years. The answer: They all belong in the mix, according to gerontology experts.
+
+The fourth sentence is extremely problematic. It’s too busy, but that’s not the worst of it. The whole sentence teeters on the idea that the Reader is supposed to guess which one of the listed items is the odd man out. What’s the reward for the Reader who takes up the challenge? He learns that there is no odd man out. They all belong in the mix. It’s as if the Cookie Monster on Sesame Street had sung his “One of These Things Is Not Like the Other” song in front of identical plates of cookies. The very point of the fourth sentence had to go. Here’s how the passage looked after I edited it:
+
+- Skydiving. Rock climbing. River rafting. They’re not exactly hallmarks of senior recreation. But a new generation of seniors is changing that. **Healthier and more adventurous than the generations of retirees before them**, today’s seniors are making some surprising choices about how to spend their golden years
+
+Here’s another problem sentence. It uses a clause in place of a noun phrase and another clause as a modifier:
+
+- That you work so hard is the reason that you’re getting a raise.
+
+Fix it by looking for ways to get the action unstuck:
+
+- You work hard. So you’re getting a raise.
+
+Here’s good exercise. Find the problem in the following sentence:
+
+- Working in both the feature film and television worlds, Radoff Entertainment develops material for both the big and small screens.
+
+You’d be amazed how often I see sentences like this. In fact, this is a disguised version of a real sentence I copyedited. The clauses are redundant. Notice how much better the sentence is chopped in half:
+
+- Radoff Entertainment develops feature films and television programs.
+
+Here’s a sentence that you should now know how to improve:
+
+- Another activity at the Family Fun Center is the opportunity for kids to create a journal.
+
+This has that **a blank is a blank** structure as its main clause, stating little more than an activity is an opportunity. You’d do better to make the main verb a real action:
+
+- Kids at the Family Fun Center can also create a journal.
+
+
+
+Flabby prose, repetitiveness, and statements beleaguering the obvious separate the amateurs from the pros. Make it a habit to seek out such lard in your own writing and start to look for ways in which chopping up or chopping out problem sentences can improve a whole work.
+
+
+
 ## 21. On breaking the rules: Knowing when to can the canons
 
